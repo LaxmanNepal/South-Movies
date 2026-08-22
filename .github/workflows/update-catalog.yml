@@ -1,0 +1,28 @@
+name: Update South Movies Catalog
+on:
+  schedule:
+    - cron: '17 */6 * * *'
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  catalog:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: {python-version: '3.12'}
+      - run: pip install -r scripts/requirements.txt
+      - name: Discover YouTube catalog
+        env:
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+        run: python scripts/discover.py
+      - name: Generate static pages and SEO
+        run: python scripts/generate.py
+      - name: Commit catalog
+        run: |
+          git config user.name 'south-movies-bot'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add data movies creators telugu tamil kannada malayalam languages genres search my-list sitemap.xml robots.txt
+          git diff --cached --quiet || git commit -m "chore: update South Movies catalog"
+          git push
