@@ -15,6 +15,7 @@ LANGS={
 BAD=re.compile(r'\b(trailer|teaser|song|songs|music video|lyrics|lyric|clip|scene|interview|reaction|review|short|shorts|making|behind the scenes|promo|preview|episode|part\s*(?:1|2|one|two)|tv serial|news|fan edit|fanmade|mashup|status video)\b',re.I)
 DUB=re.compile(r'(hindi\s*dub(?:bed|bing)?|dubbed\s*in\s*hindi|hindi\s*version|हिंदी\s*(डब|डब्ड|में\s*डब)|हिंदी\s*वर्जन)',re.I)
 GOOD=re.compile(r'\b(full movie|full film|complete movie|complete film|official movie|official full|full length)\b',re.I)
+
 def api(path,params):
  r=requests.get(f'{BASE}/{path}',params={**params,'key':KEY},timeout=30);r.raise_for_status();return r.json()
 def parse_iso(s):
@@ -34,7 +35,7 @@ def main():
  candidates=[]
  for lang,qs in LANGS.items():
   for q in qs:
-   d=api('search',{'part':'snippet','q':q,'type':'video','videoEmbeddable':'true','maxResults':50,'order':'relevance','safeSearch':'none'})
+   d=api('search',{'part':'snippet','q':q,'type':'video','videoEmbeddable':'true','videoDuration':'long','maxResults':50,'order':'relevance','safeSearch':'none','regionCode':'IN'})
    candidates += [(x['id']['videoId'],lang) for x in d.get('items',[]) if x.get('id',{}).get('videoId')]
  match={}
  for vid,lang in candidates:match.setdefault(vid,[]).append(lang)
@@ -70,7 +71,7 @@ def main():
  (DATA/'genres.json').write_text(json.dumps({},indent=2),encoding='utf-8')
  stats={'totalMovies':len(out),'byLanguage':{l:sum(m['language']==l for m in out) for l in LANGS},'byYear':{},'byGenre':{},'verifiedSources':sum(m['verification']['status']=='verified' for m in out),'probableSources':sum(m['verification']['status']=='probable' for m in out),'unknownSources':sum(m['verification']['status']=='unknown' for m in out),'brokenSources':0,'latestUpdate':datetime.now(timezone.utc).isoformat(),'catalogGrowth':len(out),'languageScope':'South Indian cinema','audioScope':'Hindi dubbed only'}
  for m in out:
-  y=m['metadata'].get('year');
+  y=m['metadata'].get('year')
   if y:stats['byYear'][str(y)]=stats['byYear'].get(str(y),0)+1
  (DATA/'stats.json').write_text(json.dumps(stats,ensure_ascii=False,indent=2),encoding='utf-8');print(f'Catalog: {len(out)} Hindi-dubbed South movies')
 if __name__=='__main__':main()
