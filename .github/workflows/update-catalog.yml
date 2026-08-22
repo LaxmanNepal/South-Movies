@@ -3,6 +3,11 @@ on:
   schedule:
     - cron: '17 */6 * * *'
   workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - 'scripts/**'
+      - '.github/workflows/update-catalog.yml'
 permissions:
   contents: write
 jobs:
