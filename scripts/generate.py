@@ -1,4 +1,4 @@
-import json,re
+import json,re,shutil
 from pathlib import Path
 ROOT=Path(__file__).resolve().parents[1];DATA=ROOT/'data';OUT=ROOT
 LANGS=['Telugu','Tamil','Kannada','Malayalam'];GENRES=['Action','Comedy','Drama','Romance','Thriller','Crime','Horror','Mystery','Family','Adventure','Historical','Biography','Fantasy','Sci-Fi','Musical','Sports','Social','Classic']
@@ -6,16 +6,17 @@ LANGS=['Telugu','Tamil','Kannada','Malayalam'];GENRES=['Action','Comedy','Drama'
 def read(n,d):
  try:return json.loads((DATA/n).read_text(encoding='utf-8'))
  except:return d
-
 def safe(s):return re.sub(r'[^a-z0-9]+','-',str(s).lower()).strip('-') or 'item'
-
 def shell(title,desc,canonical,depth,script='',ld=''):
  prefix='../'*depth
  return f'''<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover"><meta name="theme-color" content="#090a0f"><meta name="description" content="{str(desc)[:160].replace(chr(34),'&quot;')}"><link rel="canonical" href="{canonical}"><meta property="og:title" content="{str(title).replace(chr(34),'&quot;')}"><meta property="og:description" content="{str(desc)[:160].replace(chr(34),'&quot;')}"><meta property="og:type" content="website"><meta name="twitter:card" content="summary_large_image"><link rel="manifest" href="{prefix}manifest.json"><link rel="icon" href="{prefix}assets/icon.svg" type="image/svg+xml"><link rel="stylesheet" href="{prefix}assets/styles.css"><title>{str(title).replace(chr(34),'&quot;')} — SOUTH MOVIES</title>{ld}</head><body><div id="app"></div><script>{script}</script><script src="{prefix}assets/app.js" defer></script></body></html>'''
-
+def reset_generated():
+ for d in ['movies','creators','languages','genres','search','my-list','telugu','tamil','kannada','malayalam']:
+  p=OUT/d
+  if p.exists():shutil.rmtree(p)
+  p.mkdir(parents=True,exist_ok=True)
 def build():
- movies=read('movies.json',[])
- for d in ['movies','creators','languages','genres','search','my-list','telugu','tamil','kannada','malayalam']: (OUT/d).mkdir(parents=True,exist_ok=True)
+ movies=read('movies.json',[]);reset_generated()
  for m in movies:
   m['slug']=m.get('slug') or safe(m.get('title'));p=OUT/'movies'/m['slug'];p.mkdir(parents=True,exist_ok=True)
   ld={'@context':'https://schema.org','@type':'VideoObject','name':m.get('title'),'description':m.get('description') or '','thumbnailUrl':m.get('thumbnail'),'uploadDate':m.get('publishedAt'),'embedUrl':f"https://www.youtube.com/embed/{m.get('youtubeVideoId')}"}
