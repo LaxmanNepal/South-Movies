@@ -1,3 +1,20 @@
 {
-  "Action": [], "Comedy": [], "Drama": [], "Romance": [], "Thriller": [], "Crime": [], "Horror": [], "Mystery": [], "Family": [], "Adventure": [], "Historical": [], "Biography": [], "Fantasy": [], "Sci-Fi": [], "Musical": [], "Sports": [], "Social": [], "Classic": []
+  "Action": 167,
+  "Comedy": 185,
+  "Drama": 133,
+  "Romance": 109,
+  "Thriller": 94,
+  "Crime": 31,
+  "Horror": 24,
+  "Mystery": 14,
+  "Family": 80,
+  "Adventure": 4,
+  "Historical": 3,
+  "Biography": 0,
+  "Fantasy": 4,
+  "Sci-Fi": 3,
+  "Musical": 10,
+  "Sports": 6,
+  "Social": 25,
+  "Classic": 40
 }
