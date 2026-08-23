@@ -1,5 +1,10 @@
 [
   {
+    "name": "Tv Hifistar",
+    "channelId": "UCDfpZDt08qxdOWuj7YCUVyA",
+    "channelUrl": "https://www.youtube.com/channel/UCDfpZDt08qxdOWuj7YCUVyA"
+  },
+  {
     "name": "SMusicTv",
     "channelId": "UCRx-z4OueFyZlxxbK26cBrQ",
     "channelUrl": "https://www.youtube.com/channel/UCRx-z4OueFyZlxxbK26cBrQ"
@@ -8,6 +13,21 @@
     "name": "MOVIES TOMBI",
     "channelId": "UCZiLMBB6LlgHdqFzGUn3FLg",
     "channelUrl": "https://www.youtube.com/channel/UCZiLMBB6LlgHdqFzGUn3FLg"
+  },
+  {
+    "name": "Bright Screen India",
+    "channelId": "UCBVEjOQDq7b4VbYbQlBhCbg",
+    "channelUrl": "https://www.youtube.com/channel/UCBVEjOQDq7b4VbYbQlBhCbg"
+  },
+  {
+    "name": "Entertainment House",
+    "channelId": "UCbqBMKgUxKYBKvihjX2ARPw",
+    "channelUrl": "https://www.youtube.com/channel/UCbqBMKgUxKYBKvihjX2ARPw"
+  },
+  {
+    "name": "Movie Zilla - Hindi Movies",
+    "channelId": "UCtTbuH63tj7TPxNutAxJD0w",
+    "channelUrl": "https://www.youtube.com/channel/UCtTbuH63tj7TPxNutAxJD0w"
   },
   {
     "name": "Bolly Kick",
@@ -40,14 +60,19 @@
     "channelUrl": "https://www.youtube.com/channel/UCH_rCdCIOO2U3DwEYpQG8kA"
   },
   {
-    "name": "Movie Zilla - Hindi Movies",
-    "channelId": "UCtTbuH63tj7TPxNutAxJD0w",
-    "channelUrl": "https://www.youtube.com/channel/UCtTbuH63tj7TPxNutAxJD0w"
+    "name": "Movie Rockers ",
+    "channelId": "UCUm-kpfZPnP_0NzrknEXiWw",
+    "channelUrl": "https://www.youtube.com/channel/UCUm-kpfZPnP_0NzrknEXiWw"
   },
   {
     "name": "DRJ Records GenY",
     "channelId": "UCiV_LQDF7MGWWVNNNW3gFBQ",
     "channelUrl": "https://www.youtube.com/channel/UCiV_LQDF7MGWWVNNNW3gFBQ"
+  },
+  {
+    "name": "Bolly Cinema Talk",
+    "channelId": "UCkspjriwdGvHuXsjQ1Sxgdw",
+    "channelUrl": "https://www.youtube.com/channel/UCkspjriwdGvHuXsjQ1Sxgdw"
   },
   {
     "name": "ADMD South Flix",
@@ -60,14 +85,14 @@
     "channelUrl": "https://www.youtube.com/channel/UCB2WHed0Z9n1RvGo9UIVnxA"
   },
   {
-    "name": "Bolly Cinema Talk",
-    "channelId": "UCkspjriwdGvHuXsjQ1Sxgdw",
-    "channelUrl": "https://www.youtube.com/channel/UCkspjriwdGvHuXsjQ1Sxgdw"
-  },
-  {
     "name": "Filmy 4 Crazy",
     "channelId": "UC2P0jVJnV63O1HFDz_KxQyQ",
     "channelUrl": "https://www.youtube.com/channel/UC2P0jVJnV63O1HFDz_KxQyQ"
+  },
+  {
+    "name": "DOTHU PICTURES",
+    "channelId": "UClO2MieytCq9m1qiAAwhWsw",
+    "channelUrl": "https://www.youtube.com/channel/UClO2MieytCq9m1qiAAwhWsw"
   },
   {
     "name": "Action Movies Digiplex",
@@ -95,11 +120,6 @@
     "channelUrl": "https://www.youtube.com/channel/UCYR1IFNt-7vwnfvHm-G3kzA"
   },
   {
-    "name": "Cookie Entertainment",
-    "channelId": "UCbbxnXkDL8OQCZETjzO4EJg",
-    "channelUrl": "https://www.youtube.com/channel/UCbbxnXkDL8OQCZETjzO4EJg"
-  },
-  {
     "name": "South Action Cinema",
     "channelId": "UCPn6RTsKpfbmsOeA75RQULQ",
     "channelUrl": "https://www.youtube.com/channel/UCPn6RTsKpfbmsOeA75RQULQ"
@@ -115,19 +135,24 @@
     "channelUrl": "https://www.youtube.com/channel/UCZTsZnvnbK6kUBSzNiiepfg"
   },
   {
+    "name": "Movie Ki Factory",
+    "channelId": "UCwVVFvlOGALMupbC4oqZwdg",
+    "channelUrl": "https://www.youtube.com/channel/UCwVVFvlOGALMupbC4oqZwdg"
+  },
+  {
     "name": "Movie Talk Vision",
     "channelId": "UCk63eglUXc21ughn9kgRJFw",
     "channelUrl": "https://www.youtube.com/channel/UCk63eglUXc21ughn9kgRJFw"
   },
   {
-    "name": "Navsaar Movies",
-    "channelId": "UCDXg7kpthXnmEN_n9wRqW-Q",
-    "channelUrl": "https://www.youtube.com/channel/UCDXg7kpthXnmEN_n9wRqW-Q"
-  },
-  {
     "name": "ScreenTime Hits",
     "channelId": "UCDP-97OhbuuIDBrrD6NcFYQ",
     "channelUrl": "https://www.youtube.com/channel/UCDP-97OhbuuIDBrrD6NcFYQ"
+  },
+  {
+    "name": "Orbit Motion Pictures",
+    "channelId": "UCmsdYxrGz9abhl0ZaDr7efA",
+    "channelUrl": "https://www.youtube.com/channel/UCmsdYxrGz9abhl0ZaDr7efA"
   },
   {
     "name": "Movie Art Studios",
@@ -140,9 +165,9 @@
     "channelUrl": "https://www.youtube.com/channel/UCeTTe4GqvEYhFYnVqCZKprg"
   },
   {
-    "name": "Prime Hindi Movies",
-    "channelId": "UCLy-BMTM8w0SQ_bLM5JS7Sw",
-    "channelUrl": "https://www.youtube.com/channel/UCLy-BMTM8w0SQ_bLM5JS7Sw"
+    "name": "21 Pictures ",
+    "channelId": "UCV6aLfyqUqHYqOW3lNgWyRg",
+    "channelUrl": "https://www.youtube.com/channel/UCV6aLfyqUqHYqOW3lNgWyRg"
   },
   {
     "name": "Wamindia Movies",
@@ -155,9 +180,29 @@
     "channelUrl": "https://www.youtube.com/channel/UCwpfgvX9IqMHIunv4ozAA_g"
   },
   {
+    "name": "Hindi Dubbed Movie Talkies",
+    "channelId": "UCfgzAPZC57-91t8PsI6TFvw",
+    "channelUrl": "https://www.youtube.com/channel/UCfgzAPZC57-91t8PsI6TFvw"
+  },
+  {
+    "name": "Hindiwood Timeless",
+    "channelId": "UC2KS19SfSTO3uwezWyMKANg",
+    "channelUrl": "https://www.youtube.com/channel/UC2KS19SfSTO3uwezWyMKANg"
+  },
+  {
     "name": "Darling Cinema",
     "channelId": "UCsiuMJ6P_AOaaZan06W5RWQ",
     "channelUrl": "https://www.youtube.com/channel/UCsiuMJ6P_AOaaZan06W5RWQ"
+  },
+  {
+    "name": "DRJ Records Now",
+    "channelId": "UCogmcYcqWY5PxzqPdt89_kA",
+    "channelUrl": "https://www.youtube.com/channel/UCogmcYcqWY5PxzqPdt89_kA"
+  },
+  {
+    "name": "Sri Balaji Hindi Movies",
+    "channelId": "UCrOfzpH1sWPu1IqHnVhojKA",
+    "channelUrl": "https://www.youtube.com/channel/UCrOfzpH1sWPu1IqHnVhojKA"
   },
   {
     "name": "Sur Movies Exclusive",
@@ -175,6 +220,11 @@
     "channelUrl": "https://www.youtube.com/channel/UCUbmHSbynryzB1zBsTVcxbQ"
   },
   {
+    "name": "South Screen Studio",
+    "channelId": "UCNmTA6rTFSVvRy3yWmQHeBw",
+    "channelUrl": "https://www.youtube.com/channel/UCNmTA6rTFSVvRy3yWmQHeBw"
+  },
+  {
     "name": "Adwise Movieplex",
     "channelId": "UCJZmCyKNhSRPfRbn55N0ivw",
     "channelUrl": "https://www.youtube.com/channel/UCJZmCyKNhSRPfRbn55N0ivw"
@@ -185,9 +235,14 @@
     "channelUrl": "https://www.youtube.com/channel/UCT5W6yN2o4Od2ez7GYJGV3Q"
   },
   {
-    "name": "Superhit Movies",
-    "channelId": "UC2uj7oMv3u64EbcR24rpPUQ",
-    "channelUrl": "https://www.youtube.com/channel/UC2uj7oMv3u64EbcR24rpPUQ"
+    "name": "Monk Movies",
+    "channelId": "UCGcHOaBbePk-8n5w8lhm5NA",
+    "channelUrl": "https://www.youtube.com/channel/UCGcHOaBbePk-8n5w8lhm5NA"
+  },
+  {
+    "name": "Pital Picture",
+    "channelId": "UCp1DK_H1s2p52sNV2j9NSEw",
+    "channelUrl": "https://www.youtube.com/channel/UCp1DK_H1s2p52sNV2j9NSEw"
   },
   {
     "name": "AI Cinema",
@@ -220,14 +275,14 @@
     "channelUrl": "https://www.youtube.com/channel/UC5m1sPvPc9CnAhXV8wL_H6Q"
   },
   {
+    "name": "Indian Video Guru",
+    "channelId": "UCBnIEg5WTFKcMMV1GAagQCQ",
+    "channelUrl": "https://www.youtube.com/channel/UCBnIEg5WTFKcMMV1GAagQCQ"
+  },
+  {
     "name": "Duroflex Action",
     "channelId": "UC-Bgv_hjALZ-6pbog2n_qcg",
     "channelUrl": "https://www.youtube.com/channel/UC-Bgv_hjALZ-6pbog2n_qcg"
-  },
-  {
-    "name": "Mango Indian Films",
-    "channelId": "UC5TCLWjRRuk8fqDi_yg1qrg",
-    "channelUrl": "https://www.youtube.com/channel/UC5TCLWjRRuk8fqDi_yg1qrg"
   },
   {
     "name": "Krishna Art Studios",
@@ -235,14 +290,14 @@
     "channelUrl": "https://www.youtube.com/channel/UC3eg1kuDt2hK3EBJUCFhIuw"
   },
   {
-    "name": "4X Cinema - Hindi Dubbed",
-    "channelId": "UCVdx9lBUfy7q_axFSQZ1HSg",
-    "channelUrl": "https://www.youtube.com/channel/UCVdx9lBUfy7q_axFSQZ1HSg"
-  },
-  {
     "name": "Goldmines",
     "channelId": "UCyoXW-Dse7fURq30EWl_CUA",
     "channelUrl": "https://www.youtube.com/channel/UCyoXW-Dse7fURq30EWl_CUA"
+  },
+  {
+    "name": "4X Cinema - Hindi Dubbed",
+    "channelId": "UCVdx9lBUfy7q_axFSQZ1HSg",
+    "channelUrl": "https://www.youtube.com/channel/UCVdx9lBUfy7q_axFSQZ1HSg"
   },
   {
     "name": "Cinema Villa Hindi",
@@ -265,9 +320,9 @@
     "channelUrl": "https://www.youtube.com/channel/UCAB29sl-DN4Gq3GL1Cj_OlQ"
   },
   {
-    "name": "Indian Video Guru",
-    "channelId": "UCBnIEg5WTFKcMMV1GAagQCQ",
-    "channelUrl": "https://www.youtube.com/channel/UCBnIEg5WTFKcMMV1GAagQCQ"
+    "name": "Mango Indian Films",
+    "channelId": "UC5TCLWjRRuk8fqDi_yg1qrg",
+    "channelUrl": "https://www.youtube.com/channel/UC5TCLWjRRuk8fqDi_yg1qrg"
   },
   {
     "name": "Goldmines Premiere",
@@ -283,6 +338,11 @@
     "name": "Goldmines Movies",
     "channelId": "UCs570zdFq_NNA5OcV8chnHw",
     "channelUrl": "https://www.youtube.com/channel/UCs570zdFq_NNA5OcV8chnHw"
+  },
+  {
+    "name": "South Ke Khiladi",
+    "channelId": "UCNen1ALOwScHhT6AAO9Dk2g",
+    "channelUrl": "https://www.youtube.com/channel/UCNen1ALOwScHhT6AAO9Dk2g"
   },
   {
     "name": "Cinekorn Movies",
@@ -320,24 +380,9 @@
     "channelUrl": "https://www.youtube.com/channel/UCikyKVgBxAR-z_-Yg4Wz5Qw"
   },
   {
-    "name": "LGF Studios",
-    "channelId": "UCF3YP2US-aneLZyBUawaPow",
-    "channelUrl": "https://www.youtube.com/channel/UCF3YP2US-aneLZyBUawaPow"
-  },
-  {
     "name": "Primetime Action Movies",
     "channelId": "UC89DAs8whwMCeik3qqqvhGQ",
     "channelUrl": "https://www.youtube.com/channel/UC89DAs8whwMCeik3qqqvhGQ"
-  },
-  {
-    "name": "South Ke Khiladi",
-    "channelId": "UCNen1ALOwScHhT6AAO9Dk2g",
-    "channelUrl": "https://www.youtube.com/channel/UCNen1ALOwScHhT6AAO9Dk2g"
-  },
-  {
-    "name": "Bollywood Movie Talkies",
-    "channelId": "UCMHV6ZjsxO83k79T8-SQFgg",
-    "channelUrl": "https://www.youtube.com/channel/UCMHV6ZjsxO83k79T8-SQFgg"
   },
   {
     "name": "D FOR U MOVIE ",
@@ -355,9 +400,9 @@
     "channelUrl": "https://www.youtube.com/channel/UC6FvHUSDY5e_VVNVAYaNsAw"
   },
   {
-    "name": "MOVIE STATION",
-    "channelId": "UCp5_5-EEEVhqz09GUu6J2MQ",
-    "channelUrl": "https://www.youtube.com/channel/UCp5_5-EEEVhqz09GUu6J2MQ"
+    "name": "SDE Movieplex",
+    "channelId": "UCb5_PoKVkJy3DxhuuRpCyHQ",
+    "channelUrl": "https://www.youtube.com/channel/UCb5_PoKVkJy3DxhuuRpCyHQ"
   },
   {
     "name": "Video Park Kannada",
@@ -368,11 +413,6 @@
     "name": "South Ka Baap",
     "channelId": "UC2hEYzzLdS-FgJd2TzdBj1g",
     "channelUrl": "https://www.youtube.com/channel/UC2hEYzzLdS-FgJd2TzdBj1g"
-  },
-  {
-    "name": "Tech world",
-    "channelId": "UCm49dgFhrY9fKlyt2opIX9Q",
-    "channelUrl": "https://www.youtube.com/channel/UCm49dgFhrY9fKlyt2opIX9Q"
   },
   {
     "name": "CineVerse Entertainment",
