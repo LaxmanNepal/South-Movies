@@ -21,8 +21,8 @@
       "durationSeconds": 8664
     },
     "statistics": {
-      "views": 2760531,
-      "likes": 35007
+      "views": 2967965,
+      "likes": 37461
     },
     "publishedAt": "2026-08-21T12:56:09Z",
     "verification": {
@@ -30,8 +30,8 @@
       "method": "youtube-metadata"
     },
     "algorithm": {
-      "trendingScore": 62.69,
-      "recommendationScore": 60.63
+      "trendingScore": 62.68,
+      "recommendationScore": 60.74
     }
   },
   {
@@ -56,8 +56,8 @@
       "durationSeconds": 9308
     },
     "statistics": {
-      "views": 8135955,
-      "likes": 102302
+      "views": 8407389,
+      "likes": 105465
     },
     "publishedAt": "2026-08-13T13:00:30Z",
     "verification": {
@@ -65,8 +65,43 @@
       "method": "youtube-metadata"
     },
     "algorithm": {
-      "trendingScore": 61.72,
-      "recommendationScore": 61.9
+      "trendingScore": 61.68,
+      "recommendationScore": 61.93
+    }
+  },
+  {
+    "id": "50QJ_UGzyL0",
+    "title": "Rebound - Hindi Dubbed Full Movie | Based on True Story - Sports Movie |  IOF-Hindi",
+    "slug": "rebound-hindi-dubbed-full-movie-based-on-true-story-sports-movie-iof-hindi",
+    "youtubeVideoId": "50QJ_UGzyL0",
+    "youtubeUrl": "https://www.youtube.com/watch?v=50QJ_UGzyL0",
+    "thumbnail": "https://i.ytimg.com/vi/50QJ_UGzyL0/maxresdefault.jpg",
+    "language": "Telugu",
+    "audioLanguage": "Hindi",
+    "dubbed": true,
+    "creator": {
+      "name": "IOF - Hindi",
+      "channelId": "UCQ-DyEmlafaU5VVuRVnfsFw",
+      "channelUrl": "https://www.youtube.com/channel/UCQ-DyEmlafaU5VVuRVnfsFw"
+    },
+    "description": "Click here to Subscribe - https://bit.ly/SubscribeIndoOverseasFilmsHindi\n\n\n___________________________________ \nEnjoy & stay connected with us!\nSubscribe to Indo Overseas Movies 👉 https://Subscribe.openinapp.co/IndoOverseasFilms\nSubscribe to IOF Hindi 👉 https://Subscribe.openinapp.co/IOFHindi\nSubscribe to IOF Telugu 👉 https://Subscribe.openinapp.co/IOFTelugu\nSubscribe to IOF Tamil 👉 https://Subscribe.openinapp.co/IOFTamil\n\nFollow Us On\nFacebook : https://www.facebook.com/indooverseasfilm\nTwitter : https://twitter.com/IOF_India\nInstagram : https://www.instagram.com/iof_india_/\nLinkedln : https://www.linkedin.com/in/indo-overseas-films-india-1a98b8208/\nWebsite : https://www.indooverseasfilms.com\n\nIn association with Divo - Our YouTube  Partner\n\n#Iof #Indooverseasfilmshindi #Hindidubbedmovies",
+    "metadata": {
+      "year": null,
+      "genre": [],
+      "durationSeconds": 7341
+    },
+    "statistics": {
+      "views": 5512,
+      "likes": 187
+    },
+    "publishedAt": "2026-08-26T09:43:36Z",
+    "verification": {
+      "status": "unknown",
+      "method": "youtube-metadata"
+    },
+    "algorithm": {
+      "trendingScore": 61.57,
+      "recommendationScore": 52.02
     }
   },
   {
@@ -91,8 +126,8 @@
       "durationSeconds": 8380
     },
     "statistics": {
-      "views": 590621,
-      "likes": 5616
+      "views": 621090,
+      "likes": 5767
     },
     "publishedAt": "2026-08-21T13:34:58Z",
     "verification": {
@@ -100,8 +135,8 @@
       "method": "youtube-metadata"
     },
     "algorithm": {
-      "trendingScore": 59.83,
-      "recommendationScore": 56.23
+      "trendingScore": 59.75,
+      "recommendationScore": 56.25
     }
   },
   {
@@ -126,8 +161,8 @@
       "durationSeconds": 8113
     },
     "statistics": {
-      "views": 799025,
-      "likes": 5280
+      "views": 834334,
+      "likes": 5487
     },
     "publishedAt": "2026-08-22T13:00:40Z",
     "verification": {
@@ -135,8 +170,8 @@
       "method": "youtube-metadata"
     },
     "algorithm": {
-      "trendingScore": 59.74,
-      "recommendationScore": 56.37
+      "trendingScore": 59.7,
+      "recommendationScore": 56.42
     }
   },
   {
@@ -161,8 +196,8 @@
       "durationSeconds": 7423
     },
     "statistics": {
-      "views": 2093282,
-      "likes": 10424
+      "views": 2183601,
+      "likes": 10800
     },
     "publishedAt": "2026-08-19T13:36:18Z",
     "verification": {
@@ -170,8 +205,8 @@
       "method": "youtube-metadata"
     },
     "algorithm": {
-      "trendingScore": 59.66,
-      "recommendationScore": 57.75
+      "trendingScore": 59.62,
+      "recommendationScore": 57.79
     }
   },
   {
@@ -196,8 +231,8 @@
       "durationSeconds": 7221
     },
     "statistics": {
-      "views": 14516455,
-      "likes": 184043
+      "views": 14624569,
+      "likes": 185071
     },
     "publishedAt": "2026-08-01T06:30:07Z",
     "verification": {
@@ -205,8 +240,8 @@
       "method": "youtube-metadata"
     },
     "algorithm": {
-      "trendingScore": 59.19,
-      "recommendationScore": 61.54
+      "trendingScore": 59.12,
+      "recommendationScore": 61.52
     }
   },
   {
@@ -231,8 +266,8 @@
       "durationSeconds": 7422
     },
     "statistics": {
-      "views": 3338574,
-      "likes": 15613
+      "views": 3445688,
+      "likes": 15940
     },
     "publishedAt": "2026-08-14T13:58:13Z",
     "verification": {
@@ -240,78 +275,8 @@
       "method": "youtube-metadata"
     },
     "algorithm": {
-      "trendingScore": 58.73,
-      "recommendationScore": 58.0
-    }
-  },
-  {
-    "id": "9Xo1KtBEGGQ",
-    "title": "RAAKA (Hindi Dubbed) Full Movie 2026 | Allu Arjun | Deepika Padukone | New South Indian Hindi Movies",
-    "slug": "raaka-hindi-dubbed-full-movie-2026-allu-arjun-deepika-padukone-new-south-indian-hindi-movies",
-    "youtubeVideoId": "9Xo1KtBEGGQ",
-    "youtubeUrl": "https://www.youtube.com/watch?v=9Xo1KtBEGGQ",
-    "thumbnail": "https://i.ytimg.com/vi/9Xo1KtBEGGQ/maxresdefault.jpg",
-    "language": "Tamil",
-    "audioLanguage": "Hindi",
-    "dubbed": true,
-    "creator": {
-      "name": "PicturesKart",
-      "channelId": "UCRL-qI3RI7SujpXttHuRq0g",
-      "channelUrl": "https://www.youtube.com/channel/UCRL-qI3RI7SujpXttHuRq0g"
-    },
-    "description": "RAAKA (Hindi Dubbed) Full Movie 2026 | Allu Arjun | Deepika Padukone | New South Indian Hindi Movies",
-    "metadata": {
-      "year": 2026,
-      "genre": [],
-      "durationSeconds": 8138
-    },
-    "statistics": {
-      "views": 1697904,
-      "likes": 5547
-    },
-    "publishedAt": "2026-08-16T12:46:35Z",
-    "verification": {
-      "status": "unknown",
-      "method": "youtube-metadata"
-    },
-    "algorithm": {
-      "trendingScore": 58.03,
-      "recommendationScore": 56.36
-    }
-  },
-  {
-    "id": "OXjACzckkxs",
-    "title": "Taqdeer Full Movie In Hindi Dubbed | Akhil Akkineni | Kalyani Priyadarshan | Details And Reviews",
-    "slug": "taqdeer-full-movie-in-hindi-dubbed-akhil-akkineni-kalyani-priyadarshan-details-and-reviews",
-    "youtubeVideoId": "OXjACzckkxs",
-    "youtubeUrl": "https://www.youtube.com/watch?v=OXjACzckkxs",
-    "thumbnail": "https://i.ytimg.com/vi/OXjACzckkxs/maxresdefault.jpg",
-    "language": "Telugu",
-    "audioLanguage": "Hindi",
-    "dubbed": true,
-    "creator": {
-      "name": "Movie Ki Factory",
-      "channelId": "UCwVVFvlOGALMupbC4oqZwdg",
-      "channelUrl": "https://www.youtube.com/channel/UCwVVFvlOGALMupbC4oqZwdg"
-    },
-    "description": "Taqdeer Full Movie\nTaqdeer Movie Hindi Dubbed Full Movie\nTaqdeer movie\nTaqdeer Full Movie Hindi\nTaqdeer Movie Hindi\nTaqdeer Hindi Movie\nTaqdeer Full Movie In Hindi Dubbed\nTaqdeer Movie Full hd Hindi\nTaqdeer Movie Hindi Dubbed\nTaqdeer Movie South Hindi\nTaqdeer Movie 2017\nTaqdeer Full Movie Hindi Dubbed Akhil  2018 Love Story\nTaqdeer Full Movie South Hindi Dubbed\nHello Movie Hindi\nHello Full Movie\nHello Movie\nHello Movie Hindi Mein\nHello Movie South\nHello Movie Hindi Dubbed\nTaqdeer Full Movie Reviews\nTaqdeer Full Movie Details\nTaqdeer Full Movie Fact And Reviews\nTaqdeer Hindi dubbed, Taqdeer full movie Hindi, Akhil Akkineni movie, Kalyani Priyadarshan movie, Akhil Akkineni Hindi dubbed movie, Kalyani Priyadarshan Hindi dubbed, Hello movie, Hello 2017 movie, Hello movie Hindi dubbed, South Indian Hindi dubbed movie, South movie Hindi dubbed, romantic action movie, South Indian movie, Taqdeer movie review, Taqdeer movie facts, Akhil Akkineni new movie, Hindi dubbed South movie, Telugu movie Hindi dubbed\n\n\n#TaqdeerFullMovie\n#TaqdeerMovie\n#TaqdeerFullMovieHindi\n#TaqdeerMovieHindi\n#TaqdeerMovieHindiDubbed\n#TaqdeerMovie2017\n#HelloMovie\n#HelloFullMovie\n#HelloFullMovieHindi\n#HelloMovieHindi\n#Taqdeer #AkhilAkkineni #KalyaniPriyadarshan #HelloMovie #HindiDubbed #SouthIndianMovie #SouthMovie #MovieReview #MovieFacts #TeluguMovie #HindiDubbedMovie\n\n\nDescription\nTaqdeer Full Movie In Hindi Dubbed | Akhil Akkineni | Kalyani Priyadarshan | Details And Reviews\n\nTaqdeer, also known as Hello, is a romantic action-drama featuring Akhil Akkineni and Kalyani Priyadarshan. In this video, we discuss the movie's story, characters, interesting facts, performances, and overall review.\n\nMovie: Taqdeer (Hello) Lead Cast: Akhil Akkineni, Kalyani Priyadarshan Genre: Romantic Action Drama Original Language: Telugu Hindi Title: Taqdeer\n\nThis video is created for movie-related commentary, review, facts, and informational purposes.\n\nCOPYRIGHT NOTICE: All rights to the original movie, footage, music, characters, and promotional materials belong to their respective copyright owners. We do not claim ownership of copyrighted material.\n\nPlease support the official creators, producers, distributors, and rights holders by watching the movie through authorized platforms.\n\n#Taqdeer #AkhilAkkineni #KalyaniPriyadarshan #HelloMovie #SouthIndianMovies #HindiDubbedMovie #MovieReview\n\n\nDISCLAIMER:\nThis video is intended for review, commentary, criticism, and informational purposes only. All copyrights, trademarks, movie footage, music, images, and other related materials belong to their respective copyright owners.\n\nWe do not claim ownership of any copyrighted material used in this video. This content is presented with the intention of providing viewers with movie-related information, facts, analysis, and review.\n\nIf you are the copyright owner and believe that any material has been used improperly, please contact us for appropriate resolution.\n\nThis disclaimer does not guarantee protection from copyright claims, strikes, or Content ID actions. Copyrighted material should only be uploaded when you have the necessary rights or permission.",
-    "metadata": {
-      "year": 2017,
-      "genre": [],
-      "durationSeconds": 7229
-    },
-    "statistics": {
-      "views": 152800,
-      "likes": 982
-    },
-    "publishedAt": "2026-08-23T15:00:27Z",
-    "verification": {
-      "status": "unknown",
-      "method": "youtube-metadata"
-    },
-    "algorithm": {
-      "trendingScore": 57.87,
-      "recommendationScore": 52.62
+      "trendingScore": 58.67,
+      "recommendationScore": 58.02
     }
   },
   {
@@ -336,8 +301,8 @@
       "durationSeconds": 9170
     },
     "statistics": {
-      "views": 140781,
-      "likes": 1089
+      "views": 156310,
+      "likes": 1180
     },
     "publishedAt": "2026-08-22T13:42:37Z",
     "verification": {
@@ -346,7 +311,42 @@
     },
     "algorithm": {
       "trendingScore": 57.79,
-      "recommendationScore": 52.58
+      "recommendationScore": 52.74
+    }
+  },
+  {
+    "id": "DjGHpJrdRI8",
+    "title": "Pyaar Prema Kalyanam Full Movie in Hindi Dubbed 2026 | Elan | Saanve Megghana | Commentary & Explain",
+    "slug": "pyaar-prema-kalyanam-full-movie-in-hindi-dubbed-2026-elan-saanve-megghana-commentary-explain",
+    "youtubeVideoId": "DjGHpJrdRI8",
+    "youtubeUrl": "https://www.youtube.com/watch?v=DjGHpJrdRI8",
+    "thumbnail": "https://i.ytimg.com/vi/DjGHpJrdRI8/maxresdefault.jpg",
+    "language": "Tamil",
+    "audioLanguage": "Hindi",
+    "dubbed": true,
+    "creator": {
+      "name": "MOVIES TOMBI",
+      "channelId": "UCZiLMBB6LlgHdqFzGUn3FLg",
+      "channelUrl": "https://www.youtube.com/channel/UCZiLMBB6LlgHdqFzGUn3FLg"
+    },
+    "description": "Pyaar Prema Kalyanam Full Movie in Hindi Dubbed 2026 | Elan | Saanve Megghana | Commentary & Explain\n\n\nPyaar Prema Kalyanam (2026) – Movie Details\n\nMovie Name: Pyaar Prema Kalyanam\nRelease Year: 2026\nLanguage: Tamil\nIndustry: Tamil Cinema\nGenre: Romantic Comedy, Drama, Family\nRelease Date: 21 August 2026\nRuntime: 2 Hours 5 Minutes\nCertificate: U/A 13+\n\nDirector: Elan\n\nWriter: Elan, Nivedita Pohankar\n\nMain Cast:\nElan\nSaanve Megghana\nRadikaa Sarathkumar\n\nSupporting Cast:\nM. S. Bhaskar\nYogi Babu\nSenthil\nElango Kumaravel\nGeetha Kailasam\nMaaran\nDeepz\n\nMusic: Yuvan Shankar Raja\nCinematography: Dinesh K Babu\nEditor: Pradeep E. Ragav\n\nProducers:\nSreenidhi Sagar\nP. Rupak\nPranav Tej\n\nProduction Banner:\nRise East Entertainment\n\nOTT Platform: Netflix\nOTT Release Date: 21 August 2026\n\nStory:\nPyaar Prema Kalyanam is a Tamil romantic family entertainer that\nexplores love, marriage, family expectations and modern relationships.\nThe story follows Pavi, a young influencer who refuses to leave her\nfamily home after marriage. Instead, her husband Elan moves into her\nfamily's house, creating an unusual situation filled with cultural\nclashes, family chaos, humour, emotional moments and changing\nexpectations.\n\nThe film presents a different perspective on marriage by questioning\nthe traditional expectation that the bride must always leave her\nfamily after getting married.\n\nDISCLAIMER:\n\nThis video is a review and commentary on the film “Pyaar Prema Kalyanam”.\nThe video discusses the movie’s story, performances, direction, music,\nand other aspects of the film. The purpose of this video is solely to\nprovide review, criticism, commentary, analysis, and informational\ncontent for viewers.\n\nAll movie clips, images, music, and other copyrighted materials used in\nthis video belong to their respective copyright owners. No ownership or\nclaim is made over the original copyrighted material. The use of such\nmaterial is intended for transformative purposes, including review,\ncriticism, commentary, and analysis.\n\n\n#PyaarPremaKalyanam #Elan #SaanveMegghana #RadikaaSarathkumar #MSBhaskar #Netflix",
+    "metadata": {
+      "year": 2026,
+      "genre": [],
+      "durationSeconds": 8470
+    },
+    "statistics": {
+      "views": 103328,
+      "likes": 817
+    },
+    "publishedAt": "2026-08-23T14:42:48Z",
+    "verification": {
+      "status": "unknown",
+      "method": "youtube-metadata"
+    },
+    "algorithm": {
+      "trendingScore": 57.67,
+      "recommendationScore": 52.02
     }
   },
   {
@@ -371,8 +371,8 @@
       "durationSeconds": 8184
     },
     "statistics": {
-      "views": 416064,
-      "likes": 2902
+      "views": 416832,
+      "likes": 2907
     },
     "publishedAt": "2026-08-17T12:39:54Z",
     "verification": {
@@ -380,8 +380,8 @@
       "method": "youtube-metadata"
     },
     "algorithm": {
-      "trendingScore": 57.49,
-      "recommendationScore": 54.14
+      "trendingScore": 57.41,
+      "recommendationScore": 54.1
     }
   },
   {
@@ -406,8 +406,8 @@
       "durationSeconds": 5250
     },
     "statistics": {
-      "views": 4649412,
-      "likes": 24017
+      "views": 4671229,
+      "likes": 24085
     },
     "publishedAt": "2026-08-06T13:53:42Z",
     "verification": {
@@ -415,8 +415,8 @@
       "method": "youtube-metadata"
     },
     "algorithm": {
-      "trendingScore": 57.07,
-      "recommendationScore": 57.73
+      "trendingScore": 57.0,
+      "recommendationScore": 57.7
     }
   }
 ]

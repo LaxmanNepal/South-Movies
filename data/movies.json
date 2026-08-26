@@ -21,8 +21,8 @@
       "durationSeconds": 8664
     },
     "statistics": {
-      "views": 2760531,
-      "likes": 35007
+      "views": 2967965,
+      "likes": 37461
     },
     "publishedAt": "2026-08-21T12:56:09Z",
     "verification": {
@@ -30,8 +30,8 @@
       "method": "youtube-metadata"
     },
     "algorithm": {
-      "trendingScore": 62.69,
-      "recommendationScore": 60.63
+      "trendingScore": 62.68,
+      "recommendationScore": 60.74
     }
   },
   {
@@ -56,8 +56,8 @@
       "durationSeconds": 9308
     },
     "statistics": {
-      "views": 8135955,
-      "likes": 102302
+      "views": 8407389,
+      "likes": 105465
     },
     "publishedAt": "2026-08-13T13:00:30Z",
     "verification": {
@@ -65,8 +65,43 @@
       "method": "youtube-metadata"
     },
     "algorithm": {
-      "trendingScore": 61.72,
-      "recommendationScore": 61.9
+      "trendingScore": 61.68,
+      "recommendationScore": 61.93
+    }
+  },
+  {
+    "id": "50QJ_UGzyL0",
+    "title": "Rebound - Hindi Dubbed Full Movie | Based on True Story - Sports Movie |  IOF-Hindi",
+    "slug": "rebound-hindi-dubbed-full-movie-based-on-true-story-sports-movie-iof-hindi",
+    "youtubeVideoId": "50QJ_UGzyL0",
+    "youtubeUrl": "https://www.youtube.com/watch?v=50QJ_UGzyL0",
+    "thumbnail": "https://i.ytimg.com/vi/50QJ_UGzyL0/maxresdefault.jpg",
+    "language": "Telugu",
+    "audioLanguage": "Hindi",
+    "dubbed": true,
+    "creator": {
+      "name": "IOF - Hindi",
+      "channelId": "UCQ-DyEmlafaU5VVuRVnfsFw",
+      "channelUrl": "https://www.youtube.com/channel/UCQ-DyEmlafaU5VVuRVnfsFw"
+    },
+    "description": "Click here to Subscribe - https://bit.ly/SubscribeIndoOverseasFilmsHindi\n\n\n___________________________________ \nEnjoy & stay connected with us!\nSubscribe to Indo Overseas Movies 👉 https://Subscribe.openinapp.co/IndoOverseasFilms\nSubscribe to IOF Hindi 👉 https://Subscribe.openinapp.co/IOFHindi\nSubscribe to IOF Telugu 👉 https://Subscribe.openinapp.co/IOFTelugu\nSubscribe to IOF Tamil 👉 https://Subscribe.openinapp.co/IOFTamil\n\nFollow Us On\nFacebook : https://www.facebook.com/indooverseasfilm\nTwitter : https://twitter.com/IOF_India\nInstagram : https://www.instagram.com/iof_india_/\nLinkedln : https://www.linkedin.com/in/indo-overseas-films-india-1a98b8208/\nWebsite : https://www.indooverseasfilms.com\n\nIn association with Divo - Our YouTube  Partner\n\n#Iof #Indooverseasfilmshindi #Hindidubbedmovies",
+    "metadata": {
+      "year": null,
+      "genre": [],
+      "durationSeconds": 7341
+    },
+    "statistics": {
+      "views": 5512,
+      "likes": 187
+    },
+    "publishedAt": "2026-08-26T09:43:36Z",
+    "verification": {
+      "status": "unknown",
+      "method": "youtube-metadata"
+    },
+    "algorithm": {
+      "trendingScore": 61.57,
+      "recommendationScore": 52.02
     }
   },
   {
@@ -91,8 +126,8 @@
       "durationSeconds": 8380
     },
     "statistics": {
-      "views": 590621,
-      "likes": 5616
+      "views": 621090,
+      "likes": 5767
     },
     "publishedAt": "2026-08-21T13:34:58Z",
     "verification": {
@@ -100,8 +135,8 @@
       "method": "youtube-metadata"
     },
     "algorithm": {
-      "trendingScore": 59.83,
-      "recommendationScore": 56.23
+      "trendingScore": 59.75,
+      "recommendationScore": 56.25
     }
   },
   {
@@ -126,8 +161,8 @@
       "durationSeconds": 8113
     },
     "statistics": {
-      "views": 799025,
-      "likes": 5280
+      "views": 834334,
+      "likes": 5487
     },
     "publishedAt": "2026-08-22T13:00:40Z",
     "verification": {
@@ -135,8 +170,8 @@
       "method": "youtube-metadata"
     },
     "algorithm": {
-      "trendingScore": 59.74,
-      "recommendationScore": 56.37
+      "trendingScore": 59.7,
+      "recommendationScore": 56.42
     }
   },
   {
@@ -161,8 +196,8 @@
       "durationSeconds": 7423
     },
     "statistics": {
-      "views": 2093282,
-      "likes": 10424
+      "views": 2183601,
+      "likes": 10800
     },
     "publishedAt": "2026-08-19T13:36:18Z",
     "verification": {
@@ -170,8 +205,8 @@
       "method": "youtube-metadata"
     },
     "algorithm": {
-      "trendingScore": 59.66,
-      "recommendationScore": 57.75
+      "trendingScore": 59.62,
+      "recommendationScore": 57.79
     }
   },
   {
@@ -196,8 +231,8 @@
       "durationSeconds": 7221
     },
     "statistics": {
-      "views": 14516455,
-      "likes": 184043
+      "views": 14624569,
+      "likes": 185071
     },
     "publishedAt": "2026-08-01T06:30:07Z",
     "verification": {
@@ -205,8 +240,8 @@
       "method": "youtube-metadata"
     },
     "algorithm": {
-      "trendingScore": 59.19,
-      "recommendationScore": 61.54
+      "trendingScore": 59.12,
+      "recommendationScore": 61.52
     }
   },
   {
@@ -231,8 +266,8 @@
       "durationSeconds": 7422
     },
     "statistics": {
-      "views": 3338574,
-      "likes": 15613
+      "views": 3445688,
+      "likes": 15940
     },
     "publishedAt": "2026-08-14T13:58:13Z",
     "verification": {
@@ -240,78 +275,8 @@
       "method": "youtube-metadata"
     },
     "algorithm": {
-      "trendingScore": 58.73,
-      "recommendationScore": 58.0
-    }
-  },
-  {
-    "id": "9Xo1KtBEGGQ",
-    "title": "RAAKA (Hindi Dubbed) Full Movie 2026 | Allu Arjun | Deepika Padukone | New South Indian Hindi Movies",
-    "slug": "raaka-hindi-dubbed-full-movie-2026-allu-arjun-deepika-padukone-new-south-indian-hindi-movies",
-    "youtubeVideoId": "9Xo1KtBEGGQ",
-    "youtubeUrl": "https://www.youtube.com/watch?v=9Xo1KtBEGGQ",
-    "thumbnail": "https://i.ytimg.com/vi/9Xo1KtBEGGQ/maxresdefault.jpg",
-    "language": "Tamil",
-    "audioLanguage": "Hindi",
-    "dubbed": true,
-    "creator": {
-      "name": "PicturesKart",
-      "channelId": "UCRL-qI3RI7SujpXttHuRq0g",
-      "channelUrl": "https://www.youtube.com/channel/UCRL-qI3RI7SujpXttHuRq0g"
-    },
-    "description": "RAAKA (Hindi Dubbed) Full Movie 2026 | Allu Arjun | Deepika Padukone | New South Indian Hindi Movies",
-    "metadata": {
-      "year": 2026,
-      "genre": [],
-      "durationSeconds": 8138
-    },
-    "statistics": {
-      "views": 1697904,
-      "likes": 5547
-    },
-    "publishedAt": "2026-08-16T12:46:35Z",
-    "verification": {
-      "status": "unknown",
-      "method": "youtube-metadata"
-    },
-    "algorithm": {
-      "trendingScore": 58.03,
-      "recommendationScore": 56.36
-    }
-  },
-  {
-    "id": "OXjACzckkxs",
-    "title": "Taqdeer Full Movie In Hindi Dubbed | Akhil Akkineni | Kalyani Priyadarshan | Details And Reviews",
-    "slug": "taqdeer-full-movie-in-hindi-dubbed-akhil-akkineni-kalyani-priyadarshan-details-and-reviews",
-    "youtubeVideoId": "OXjACzckkxs",
-    "youtubeUrl": "https://www.youtube.com/watch?v=OXjACzckkxs",
-    "thumbnail": "https://i.ytimg.com/vi/OXjACzckkxs/maxresdefault.jpg",
-    "language": "Telugu",
-    "audioLanguage": "Hindi",
-    "dubbed": true,
-    "creator": {
-      "name": "Movie Ki Factory",
-      "channelId": "UCwVVFvlOGALMupbC4oqZwdg",
-      "channelUrl": "https://www.youtube.com/channel/UCwVVFvlOGALMupbC4oqZwdg"
-    },
-    "description": "Taqdeer Full Movie\nTaqdeer Movie Hindi Dubbed Full Movie\nTaqdeer movie\nTaqdeer Full Movie Hindi\nTaqdeer Movie Hindi\nTaqdeer Hindi Movie\nTaqdeer Full Movie In Hindi Dubbed\nTaqdeer Movie Full hd Hindi\nTaqdeer Movie Hindi Dubbed\nTaqdeer Movie South Hindi\nTaqdeer Movie 2017\nTaqdeer Full Movie Hindi Dubbed Akhil  2018 Love Story\nTaqdeer Full Movie South Hindi Dubbed\nHello Movie Hindi\nHello Full Movie\nHello Movie\nHello Movie Hindi Mein\nHello Movie South\nHello Movie Hindi Dubbed\nTaqdeer Full Movie Reviews\nTaqdeer Full Movie Details\nTaqdeer Full Movie Fact And Reviews\nTaqdeer Hindi dubbed, Taqdeer full movie Hindi, Akhil Akkineni movie, Kalyani Priyadarshan movie, Akhil Akkineni Hindi dubbed movie, Kalyani Priyadarshan Hindi dubbed, Hello movie, Hello 2017 movie, Hello movie Hindi dubbed, South Indian Hindi dubbed movie, South movie Hindi dubbed, romantic action movie, South Indian movie, Taqdeer movie review, Taqdeer movie facts, Akhil Akkineni new movie, Hindi dubbed South movie, Telugu movie Hindi dubbed\n\n\n#TaqdeerFullMovie\n#TaqdeerMovie\n#TaqdeerFullMovieHindi\n#TaqdeerMovieHindi\n#TaqdeerMovieHindiDubbed\n#TaqdeerMovie2017\n#HelloMovie\n#HelloFullMovie\n#HelloFullMovieHindi\n#HelloMovieHindi\n#Taqdeer #AkhilAkkineni #KalyaniPriyadarshan #HelloMovie #HindiDubbed #SouthIndianMovie #SouthMovie #MovieReview #MovieFacts #TeluguMovie #HindiDubbedMovie\n\n\nDescription\nTaqdeer Full Movie In Hindi Dubbed | Akhil Akkineni | Kalyani Priyadarshan | Details And Reviews\n\nTaqdeer, also known as Hello, is a romantic action-drama featuring Akhil Akkineni and Kalyani Priyadarshan. In this video, we discuss the movie's story, characters, interesting facts, performances, and overall review.\n\nMovie: Taqdeer (Hello) Lead Cast: Akhil Akkineni, Kalyani Priyadarshan Genre: Romantic Action Drama Original Language: Telugu Hindi Title: Taqdeer\n\nThis video is created for movie-related commentary, review, facts, and informational purposes.\n\nCOPYRIGHT NOTICE: All rights to the original movie, footage, music, characters, and promotional materials belong to their respective copyright owners. We do not claim ownership of copyrighted material.\n\nPlease support the official creators, producers, distributors, and rights holders by watching the movie through authorized platforms.\n\n#Taqdeer #AkhilAkkineni #KalyaniPriyadarshan #HelloMovie #SouthIndianMovies #HindiDubbedMovie #MovieReview\n\n\nDISCLAIMER:\nThis video is intended for review, commentary, criticism, and informational purposes only. All copyrights, trademarks, movie footage, music, images, and other related materials belong to their respective copyright owners.\n\nWe do not claim ownership of any copyrighted material used in this video. This content is presented with the intention of providing viewers with movie-related information, facts, analysis, and review.\n\nIf you are the copyright owner and believe that any material has been used improperly, please contact us for appropriate resolution.\n\nThis disclaimer does not guarantee protection from copyright claims, strikes, or Content ID actions. Copyrighted material should only be uploaded when you have the necessary rights or permission.",
-    "metadata": {
-      "year": 2017,
-      "genre": [],
-      "durationSeconds": 7229
-    },
-    "statistics": {
-      "views": 152800,
-      "likes": 982
-    },
-    "publishedAt": "2026-08-23T15:00:27Z",
-    "verification": {
-      "status": "unknown",
-      "method": "youtube-metadata"
-    },
-    "algorithm": {
-      "trendingScore": 57.87,
-      "recommendationScore": 52.62
+      "trendingScore": 58.67,
+      "recommendationScore": 58.02
     }
   },
   {
@@ -336,8 +301,8 @@
       "durationSeconds": 9170
     },
     "statistics": {
-      "views": 140781,
-      "likes": 1089
+      "views": 156310,
+      "likes": 1180
     },
     "publishedAt": "2026-08-22T13:42:37Z",
     "verification": {
@@ -346,7 +311,42 @@
     },
     "algorithm": {
       "trendingScore": 57.79,
-      "recommendationScore": 52.58
+      "recommendationScore": 52.74
+    }
+  },
+  {
+    "id": "DjGHpJrdRI8",
+    "title": "Pyaar Prema Kalyanam Full Movie in Hindi Dubbed 2026 | Elan | Saanve Megghana | Commentary & Explain",
+    "slug": "pyaar-prema-kalyanam-full-movie-in-hindi-dubbed-2026-elan-saanve-megghana-commentary-explain",
+    "youtubeVideoId": "DjGHpJrdRI8",
+    "youtubeUrl": "https://www.youtube.com/watch?v=DjGHpJrdRI8",
+    "thumbnail": "https://i.ytimg.com/vi/DjGHpJrdRI8/maxresdefault.jpg",
+    "language": "Tamil",
+    "audioLanguage": "Hindi",
+    "dubbed": true,
+    "creator": {
+      "name": "MOVIES TOMBI",
+      "channelId": "UCZiLMBB6LlgHdqFzGUn3FLg",
+      "channelUrl": "https://www.youtube.com/channel/UCZiLMBB6LlgHdqFzGUn3FLg"
+    },
+    "description": "Pyaar Prema Kalyanam Full Movie in Hindi Dubbed 2026 | Elan | Saanve Megghana | Commentary & Explain\n\n\nPyaar Prema Kalyanam (2026) – Movie Details\n\nMovie Name: Pyaar Prema Kalyanam\nRelease Year: 2026\nLanguage: Tamil\nIndustry: Tamil Cinema\nGenre: Romantic Comedy, Drama, Family\nRelease Date: 21 August 2026\nRuntime: 2 Hours 5 Minutes\nCertificate: U/A 13+\n\nDirector: Elan\n\nWriter: Elan, Nivedita Pohankar\n\nMain Cast:\nElan\nSaanve Megghana\nRadikaa Sarathkumar\n\nSupporting Cast:\nM. S. Bhaskar\nYogi Babu\nSenthil\nElango Kumaravel\nGeetha Kailasam\nMaaran\nDeepz\n\nMusic: Yuvan Shankar Raja\nCinematography: Dinesh K Babu\nEditor: Pradeep E. Ragav\n\nProducers:\nSreenidhi Sagar\nP. Rupak\nPranav Tej\n\nProduction Banner:\nRise East Entertainment\n\nOTT Platform: Netflix\nOTT Release Date: 21 August 2026\n\nStory:\nPyaar Prema Kalyanam is a Tamil romantic family entertainer that\nexplores love, marriage, family expectations and modern relationships.\nThe story follows Pavi, a young influencer who refuses to leave her\nfamily home after marriage. Instead, her husband Elan moves into her\nfamily's house, creating an unusual situation filled with cultural\nclashes, family chaos, humour, emotional moments and changing\nexpectations.\n\nThe film presents a different perspective on marriage by questioning\nthe traditional expectation that the bride must always leave her\nfamily after getting married.\n\nDISCLAIMER:\n\nThis video is a review and commentary on the film “Pyaar Prema Kalyanam”.\nThe video discusses the movie’s story, performances, direction, music,\nand other aspects of the film. The purpose of this video is solely to\nprovide review, criticism, commentary, analysis, and informational\ncontent for viewers.\n\nAll movie clips, images, music, and other copyrighted materials used in\nthis video belong to their respective copyright owners. No ownership or\nclaim is made over the original copyrighted material. The use of such\nmaterial is intended for transformative purposes, including review,\ncriticism, commentary, and analysis.\n\n\n#PyaarPremaKalyanam #Elan #SaanveMegghana #RadikaaSarathkumar #MSBhaskar #Netflix",
+    "metadata": {
+      "year": 2026,
+      "genre": [],
+      "durationSeconds": 8470
+    },
+    "statistics": {
+      "views": 103328,
+      "likes": 817
+    },
+    "publishedAt": "2026-08-23T14:42:48Z",
+    "verification": {
+      "status": "unknown",
+      "method": "youtube-metadata"
+    },
+    "algorithm": {
+      "trendingScore": 57.67,
+      "recommendationScore": 52.02
     }
   },
   {
@@ -371,8 +371,8 @@
       "durationSeconds": 8184
     },
     "statistics": {
-      "views": 416064,
-      "likes": 2902
+      "views": 416832,
+      "likes": 2907
     },
     "publishedAt": "2026-08-17T12:39:54Z",
     "verification": {
@@ -380,8 +380,8 @@
       "method": "youtube-metadata"
     },
     "algorithm": {
-      "trendingScore": 57.49,
-      "recommendationScore": 54.14
+      "trendingScore": 57.41,
+      "recommendationScore": 54.1
     }
   },
   {
@@ -406,8 +406,8 @@
       "durationSeconds": 5250
     },
     "statistics": {
-      "views": 4649412,
-      "likes": 24017
+      "views": 4671229,
+      "likes": 24085
     },
     "publishedAt": "2026-08-06T13:53:42Z",
     "verification": {
@@ -415,8 +415,8 @@
       "method": "youtube-metadata"
     },
     "algorithm": {
-      "trendingScore": 57.07,
-      "recommendationScore": 57.73
+      "trendingScore": 57.0,
+      "recommendationScore": 57.7
     }
   },
   {
@@ -426,7 +426,7 @@
     "youtubeVideoId": "Mu0hYkwVoPs",
     "youtubeUrl": "https://www.youtube.com/watch?v=Mu0hYkwVoPs",
     "thumbnail": "https://i.ytimg.com/vi/Mu0hYkwVoPs/maxresdefault.jpg",
-    "language": "Tamil",
+    "language": "Kannada",
     "audioLanguage": "Hindi",
     "dubbed": true,
     "creator": {
@@ -441,8 +441,8 @@
       "durationSeconds": 6319
     },
     "statistics": {
-      "views": 290924,
-      "likes": 901
+      "views": 303396,
+      "likes": 925
     },
     "publishedAt": "2026-08-20T09:19:32Z",
     "verification": {
@@ -450,8 +450,43 @@
       "method": "youtube-metadata"
     },
     "algorithm": {
-      "trendingScore": 56.83,
-      "recommendationScore": 52.78
+      "trendingScore": 56.78,
+      "recommendationScore": 52.82
+    }
+  },
+  {
+    "id": "dMRZBHEFEWY",
+    "title": "Great Leader Bharat Full Movie | Mahesh Babu, Kiara Advani |New South Action Political Movie 2026 HD",
+    "slug": "great-leader-bharat-full-movie-mahesh-babu-kiara-advani-new-south-action-political-movie-2026-hd",
+    "youtubeVideoId": "dMRZBHEFEWY",
+    "youtubeUrl": "https://www.youtube.com/watch?v=dMRZBHEFEWY",
+    "thumbnail": "https://i.ytimg.com/vi/dMRZBHEFEWY/maxresdefault.jpg",
+    "language": "Kannada",
+    "audioLanguage": "Hindi",
+    "dubbed": true,
+    "creator": {
+      "name": "South Action Universe",
+      "channelId": "UCH_rCdCIOO2U3DwEYpQG8kA",
+      "channelUrl": "https://www.youtube.com/channel/UCH_rCdCIOO2U3DwEYpQG8kA"
+    },
+    "description": "Great Leader Bharat Full Movie | Mahesh Babu, Kiara Advani |New South Action Political Movie 2026 HD\n\nA fearless leader. A powerful mission. Watch Dashing CM Bharat—the ultimate action-packed political entertainer! 🔥🎬\n\nMovie (Hindi Dubbed): Great Leader Bharat \nOriginal Movie Name: Bharat Ane Nenu in Telugu \nStarcast: Mahesh Babu, Kiara Advani, Rao Ramesh, Prakash Raj\nMusic: Devi Sri Prasad\nProducer: D. V. V. Danayya\nDirector: Koratala Siva \n\nBharat, a graduate from Oxford, is forced to take up his father's position as the chief minister after his sudden death. He tries to reform the corrupt society but faces obstacles from his enemies.",
+    "metadata": {
+      "year": 2026,
+      "genre": [],
+      "durationSeconds": 8711
+    },
+    "statistics": {
+      "views": 2451085,
+      "likes": 18798
+    },
+    "publishedAt": "2026-08-06T09:14:51Z",
+    "verification": {
+      "status": "unknown",
+      "method": "youtube-metadata"
+    },
+    "algorithm": {
+      "trendingScore": 56.78,
+      "recommendationScore": 56.79
     }
   },
   {
@@ -476,8 +511,8 @@
       "durationSeconds": 8301
     },
     "statistics": {
-      "views": 5352968,
-      "likes": 21792
+      "views": 5478198,
+      "likes": 22213
     },
     "publishedAt": "2026-08-05T12:52:12Z",
     "verification": {
@@ -485,76 +520,9 @@
       "method": "youtube-metadata"
     },
     "algorithm": {
-      "trendingScore": 56.68,
-      "recommendationScore": 57.64
+      "trendingScore": 56.63,
+      "recommendationScore": 57.65
     }
-  },
-  {
-    "id": "M5Fc2R5KVVQ",
-    "title": "Gatta Kusthi (2026) Full Movie In Hindi Dubbed | Vishnu Vishal, Aishwarya Lekshmi | New South Movies",
-    "slug": "gatta-kusthi-2026-full-movie-in-hindi-dubbed-vishnu-vishal-aishwarya-lekshmi-new-south-movies",
-    "youtubeVideoId": "M5Fc2R5KVVQ",
-    "youtubeUrl": "https://www.youtube.com/watch?v=M5Fc2R5KVVQ",
-    "thumbnail": "https://i.ytimg.com/vi/M5Fc2R5KVVQ/maxresdefault.jpg",
-    "language": "Tamil",
-    "audioLanguage": "Hindi",
-    "dubbed": true,
-    "creator": {
-      "name": "ScreenTime Hits",
-      "channelId": "UCDP-97OhbuuIDBrrD6NcFYQ",
-      "channelUrl": "https://www.youtube.com/channel/UCDP-97OhbuuIDBrrD6NcFYQ"
-    },
-    "description": "Gatta Kusthi (2026) Full Movie In Hindi Dubbed | Vishnu Vishal, Aishwarya Lekshmi | New South Movies\n\nProducer - Vishnu Vishal, Ravi Teja, Aryan Ramesh\nDirector - Chella Ayyavu\nMusic Director - Justin Prabhakaran\nStarcast - Vishnu Vishal, Aishwarya Lekshmi, Lizzie Antony, Chella Ayyavu, Sreeja Ravi, Ajay, Hareesh Peradi, Prema Priya, Kaali Venkat, Redin Kingsley, Mathew Varghese, Munishkanth, Nikhila Sankar, Karunas, Shatru\n\n\n\n\n#GattaKushti #aishwaryalekshmi #VishnuVishal #HindiDubbed #SouthMovie #Comedy #Kushti #FullMovie \n\n\n\nScreenTime Hits Handles :-\n\nYoutube :- https://www.youtube.com/@ScreenTimeHits\nInstagram:-https://www.instagram.com/screentimehits/",
-    "metadata": {
-      "year": 2026,
-      "genre": [],
-      "durationSeconds": 6947
-    },
-    "statistics": {
-      "views": 4766457,
-      "likes": 38139
-    },
-    "publishedAt": "2026-08-02T01:32:06Z",
-    "verification": {
-      "status": "unknown",
-      "method": "youtube-metadata"
-    },
-    "algorithm": {
-      "trendingScore": 56.68,
-      "recommendationScore": 57.87
-    },
-    "sources": [
-      {
-        "youtubeVideoId": "M5Fc2R5KVVQ",
-        "youtubeUrl": "https://www.youtube.com/watch?v=M5Fc2R5KVVQ",
-        "creator": {
-          "name": "ScreenTime Hits",
-          "channelId": "UCDP-97OhbuuIDBrrD6NcFYQ",
-          "channelUrl": "https://www.youtube.com/channel/UCDP-97OhbuuIDBrrD6NcFYQ"
-        },
-        "embeddable": true,
-        "views": 4766457,
-        "verification": {
-          "status": "unknown",
-          "method": "youtube-metadata"
-        }
-      },
-      {
-        "youtubeVideoId": "lzC5V-vzN5g",
-        "youtubeUrl": "https://www.youtube.com/watch?v=lzC5V-vzN5g",
-        "creator": {
-          "name": "Prime Global Studios",
-          "channelId": "UCrwV4TdTRmSdg_N_ICchrHQ",
-          "channelUrl": "https://www.youtube.com/channel/UCrwV4TdTRmSdg_N_ICchrHQ"
-        },
-        "embeddable": true,
-        "views": 569984,
-        "verification": {
-          "status": "unknown",
-          "method": "youtube-metadata"
-        }
-      }
-    ]
   },
   {
     "id": "gnbtnWcf9wg",
@@ -578,8 +546,8 @@
       "durationSeconds": 8484
     },
     "statistics": {
-      "views": 18596,
-      "likes": 162
+      "views": 32866,
+      "likes": 231
     },
     "publishedAt": "2026-08-25T15:05:38Z",
     "verification": {
@@ -587,43 +555,43 @@
       "method": "youtube-metadata"
     },
     "algorithm": {
-      "trendingScore": 56.35,
-      "recommendationScore": 48.57
+      "trendingScore": 56.57,
+      "recommendationScore": 49.45
     }
   },
   {
-    "id": "uO7FPhkL3UE",
-    "title": "FAUJI BETI - Hindi Dubbed Full Movie | Sreeleela, Nandamuri Balakrishna, Kajal | South Action Movie",
-    "slug": "fauji-beti-hindi-dubbed-full-movie-sreeleela-nandamuri-balakrishna-kajal-south-action-movie",
-    "youtubeVideoId": "uO7FPhkL3UE",
-    "youtubeUrl": "https://www.youtube.com/watch?v=uO7FPhkL3UE",
-    "thumbnail": "https://i.ytimg.com/vi/uO7FPhkL3UE/maxresdefault.jpg",
+    "id": "wxACZGfbK9w",
+    "title": "Kajal Aggarwal Action Thriller Full Movie | Satyabhama | Naveen Chandra, Prakash Raj, Neha Pathan",
+    "slug": "kajal-aggarwal-action-thriller-full-movie-satyabhama-naveen-chandra-prakash-raj-neha-pathan",
+    "youtubeVideoId": "wxACZGfbK9w",
+    "youtubeUrl": "https://www.youtube.com/watch?v=wxACZGfbK9w",
+    "thumbnail": "https://i.ytimg.com/vi/wxACZGfbK9w/maxresdefault.jpg",
     "language": "Telugu",
     "audioLanguage": "Hindi",
     "dubbed": true,
     "creator": {
-      "name": "ADMD South Flix",
-      "channelId": "UC9f3VYbK3JJ4QLzDyzCj4Ww",
-      "channelUrl": "https://www.youtube.com/channel/UC9f3VYbK3JJ4QLzDyzCj4Ww"
+      "name": "RKD Studios",
+      "channelId": "UCjBwQ6M9QyCgO5Pp-TQRFUA",
+      "channelUrl": "https://www.youtube.com/channel/UCjBwQ6M9QyCgO5Pp-TQRFUA"
     },
-    "description": "Presenting Hindi Dubbed Full Movie HD \"FAUJI BETI\" Starring Nandamuri Balakrishna, Sreeleela, Arjun Rampal, Kajal Aggarwal & Others. Exclusively On @ADMDSouthFlix                                                           \n\nSubscribe सब्सक्राइब to @ADMDSouthFlix For More South Indian Blockbusters in Hindi for FREE\n\nList Of Our Superhit South Indian Movies Dubbed In Hindi:\n⦿ Dharti Ka Sher - https://youtu.be/yN4LHB39M8k\n⦿ Highway Love Story - https://youtu.be/dRy1KGY50V8\n⦿ Mahakal Shiva - https://youtu.be/bebv9v0dPBI\n⦿ Whistle Podu - https://youtu.be/bd10sz6KlmA\n\nMovie Credits:\nDirected by Anil Ravipudi\nWritten by Anil Ravipudi\nProduced by Sahu Garapati & Harish Peddi\nStarring Nandamuri Balakrishna, Sreeleela, Arjun Rampal, Kajal Aggarwal, Priyanka Jawalkar, Rathika Rose, Palak Lalwani, Rahul Ravi, Jayachitra, Priyamani, R. Sarathkumar, Raghu Babu, VTV Ganesh, Subbaraju Santosh, P. Ravishankar, Brahmaji, Subhalekha Sudhakar, John Vijay, Aadukalam Naren, Srikanth Iyengar, Sanjay Swaroop, Bharath Reddy, Muralidhar Goud, Sravan Raghavendra, Raj Tirandasu, Dubbing Janaki, Vadlamani Srinivas, Racha Ravi, Jeevan Kumar, Sunaina Badam, Sriram Reddy, Anand Ramaraju, Balagam Sanjay Krishna, Raghav Rudra Mulpuru & Chakravarthii\nCinematography by C. Ramprasad\nEdited by Tammiraju\nMusic by Thaman S. \n\nSynopsis:\nNelakonda Bhagavanth Kesari is adamant about getting even with a powerful businessman who cost him money. He is prepared to square off against the formidable foe and resolve their issues amicably.\n\nFor more such movies\n► Subscribe our channel: http://bit.ly/ADMDMovies\n► Visit our website: https://www.admdmovies.com\n► Follow us on Twitter: www.twitter.com/AdwiseMediaD\n► Like us on Facebook: www.facebook.com/adwisemediadigital\n\n#FaujiBeti #NandamuriBalakrishna #Sreeleela #ArjunRampal #KajalAggarwal #SouthIndianMovie #HindiDubbedMovies",
+    "description": "🚨 Kajal Aggarwal Action Thriller Full Movie | SATYABHAMA 🔥\nA fearless cop. A gripping investigation. A mission that changes everything! 💥\n🎬 Starring Kajal Aggarwal, Naveen Chandra, Prakash Raj & Neha Pathan.\n\nMovie (Hindi Dubbed): Satyabhama\nOriginal Movie Name: Satyabhama in Telugu \nStarcast: Kajal Aggarwal, Naveen Chandra, Prakash Raj, Neha Pathan, Ravi Varma\nMusic: Sricharan Pakala\nProducer: Sashi Kiran Tikka, Bobby Tikka, Srinivas Rao Takkalapelly\nDirector:- Suman Chikkala\n\nACP Satyabhama investigates a missing person case, uncovering dark secrets across shadowy towns. Her past haunts her as she races to find the truth and redemption amidst the high-stakes investigation.\n\nDisclaimer:- We are only the right holders of this content. Any opinions expressed in this Film may purely be of the director or the original producers but are not our personal opinions and we do not assume any responsibility or liability for the same.\n\nKindly subscribe to the channel and Press the BELL ICON to get Instant Notifications from @rkddigital \n\nSubscribe To Our Channel:- https://www.youtube.com/channel/UCjBwQ6M9QyCgO5Pp-TQRFUA?sub_confirmation=1\n\nFollow Us On:\nFacebook: https://www.facebook.com/RKDStudiosOfficial/\nInstagram: https://www.instagram.com/rkdstudios",
     "metadata": {
       "year": null,
       "genre": [],
-      "durationSeconds": 8342
+      "durationSeconds": 6920
     },
     "statistics": {
-      "views": 1684250,
-      "likes": 10728
+      "views": 4378971,
+      "likes": 31533
     },
-    "publishedAt": "2026-08-06T13:06:35Z",
+    "publishedAt": "2026-08-02T13:30:32Z",
     "verification": {
       "status": "unknown",
       "method": "youtube-metadata"
     },
     "algorithm": {
-      "trendingScore": 56.06,
-      "recommendationScore": 55.64
+      "trendingScore": 56.41,
+      "recommendationScore": 57.5
     }
   },
   {
@@ -648,8 +616,8 @@
       "durationSeconds": 9234
     },
     "statistics": {
-      "views": 3028474,
-      "likes": 10888
+      "views": 3057332,
+      "likes": 10947
     },
     "publishedAt": "2026-08-05T12:10:19Z",
     "verification": {
@@ -657,8 +625,8 @@
       "method": "youtube-metadata"
     },
     "algorithm": {
-      "trendingScore": 55.8,
-      "recommendationScore": 56.18
+      "trendingScore": 55.74,
+      "recommendationScore": 56.16
     }
   },
   {
@@ -683,8 +651,8 @@
       "durationSeconds": 9629
     },
     "statistics": {
-      "views": 173520,
-      "likes": 605
+      "views": 179608,
+      "likes": 622
     },
     "publishedAt": "2026-08-17T12:35:12Z",
     "verification": {
@@ -692,8 +660,8 @@
       "method": "youtube-metadata"
     },
     "algorithm": {
-      "trendingScore": 55.41,
-      "recommendationScore": 51.21
+      "trendingScore": 55.36,
+      "recommendationScore": 51.25
     }
   },
   {
@@ -718,8 +686,8 @@
       "durationSeconds": 7252
     },
     "statistics": {
-      "views": 1761517,
-      "likes": 9505
+      "views": 1765234,
+      "likes": 9507
     },
     "publishedAt": "2026-08-04T14:30:38Z",
     "verification": {
@@ -727,8 +695,8 @@
       "method": "youtube-metadata"
     },
     "algorithm": {
-      "trendingScore": 55.34,
-      "recommendationScore": 55.23
+      "trendingScore": 55.27,
+      "recommendationScore": 55.2
     }
   },
   {
@@ -753,8 +721,8 @@
       "durationSeconds": 8905
     },
     "statistics": {
-      "views": 10289,
-      "likes": 57
+      "views": 14137,
+      "likes": 78
     },
     "publishedAt": "2026-08-25T06:37:07Z",
     "verification": {
@@ -762,8 +730,43 @@
       "method": "youtube-metadata"
     },
     "algorithm": {
-      "trendingScore": 54.63,
-      "recommendationScore": 46.34
+      "trendingScore": 54.95,
+      "recommendationScore": 47.03
+    }
+  },
+  {
+    "id": "NejAIxSDcNM",
+    "title": "Aishwarya Lekshmi, Vishnu South New Full Movie | 2026 South Latest Hindi Dubbed Movie",
+    "slug": "aishwarya-lekshmi-vishnu-south-new-full-movie-2026-south-latest-hindi-dubbed-movie",
+    "youtubeVideoId": "NejAIxSDcNM",
+    "youtubeUrl": "https://www.youtube.com/watch?v=NejAIxSDcNM",
+    "thumbnail": "https://i.ytimg.com/vi/NejAIxSDcNM/maxresdefault.jpg",
+    "language": "Malayalam",
+    "audioLanguage": "Hindi",
+    "dubbed": true,
+    "creator": {
+      "name": "Damdar Clip",
+      "channelId": "UCTDbjjOBUI6J4nrZ7qLZ_0Q",
+      "channelUrl": "https://www.youtube.com/channel/UCTDbjjOBUI6J4nrZ7qLZ_0Q"
+    },
+    "description": "starring Aishwarya Lekshmi, Indrans, Ramesh Pisharadi\nWritten & Directed by Akhil Anilkumar, \nProduced by  : Surinder Yadav\nCreative Head : Mahendra Yadav\nDirector of Photography: Joyal Joji \nScreenplay: Akhil Anilkumar, Ajay Vijayan, Vivek Chandran\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGatta Kusthi 2 2026\n\n\n\n\n\n\n#ashwaryalakshmi #archananotout #GattaKushti actress #aishwaryalekshmi #VishnuVishal #HindiDubbed #SouthMovie #Comedy #Kushti #FullMovie",
+    "metadata": {
+      "year": 2026,
+      "genre": [],
+      "durationSeconds": 5450
+    },
+    "statistics": {
+      "views": 2034182,
+      "likes": 11820
+    },
+    "publishedAt": "2026-08-01T13:31:03Z",
+    "verification": {
+      "status": "unknown",
+      "method": "youtube-metadata"
+    },
+    "algorithm": {
+      "trendingScore": 54.78,
+      "recommendationScore": 55.22
     }
   },
   {
@@ -788,8 +791,8 @@
       "durationSeconds": 8384
     },
     "statistics": {
-      "views": 1299564,
-      "likes": 6770
+      "views": 1302004,
+      "likes": 6776
     },
     "publishedAt": "2026-08-01T15:16:22Z",
     "verification": {
@@ -797,43 +800,43 @@
       "method": "youtube-metadata"
     },
     "algorithm": {
-      "trendingScore": 54.12,
-      "recommendationScore": 54.07
+      "trendingScore": 54.05,
+      "recommendationScore": 54.03
     }
   },
   {
-    "id": "ls7acCjLzKM",
-    "title": "Chakravarthy (Full Movie) Darshan, Deepa Sannidhi | Kannada Film Hindi Dubbed South Action Movie",
-    "slug": "chakravarthy-full-movie-darshan-deepa-sannidhi-kannada-film-hindi-dubbed-south-action-movie",
-    "youtubeVideoId": "ls7acCjLzKM",
-    "youtubeUrl": "https://www.youtube.com/watch?v=ls7acCjLzKM",
-    "thumbnail": "https://i.ytimg.com/vi/ls7acCjLzKM/maxresdefault.jpg",
-    "language": "Kannada",
+    "id": "-QKkjEAFQfc",
+    "title": "Archana | South Hindi Dubbed School Love Story Romantic Full Movie | Aishwarya, Indrans | New Movie",
+    "slug": "archana-south-hindi-dubbed-school-love-story-romantic-full-movie-aishwarya-indrans-new-movie",
+    "youtubeVideoId": "-QKkjEAFQfc",
+    "youtubeUrl": "https://www.youtube.com/watch?v=-QKkjEAFQfc",
+    "thumbnail": "https://i.ytimg.com/vi/-QKkjEAFQfc/maxresdefault.jpg",
+    "language": "Malayalam",
     "audioLanguage": "Hindi",
     "dubbed": true,
     "creator": {
-      "name": "Navsaar Movies",
-      "channelId": "UCDXg7kpthXnmEN_n9wRqW-Q",
-      "channelUrl": "https://www.youtube.com/channel/UCDXg7kpthXnmEN_n9wRqW-Q"
+      "name": "South Hungama Movies",
+      "channelId": "UCgOjKoOas2aWqnKjOupZxnA",
+      "channelUrl": "https://www.youtube.com/channel/UCgOjKoOas2aWqnKjOupZxnA"
     },
-    "description": "Chakravarthy (Full Movie) Darshan, Deepa Sannidhi | Kannada Film Hindi Dubbed South Action Movie\n\nChakravarthy (English : Emperor) is a 2017 Indian Kannada-language film directed by Chintan A V, a former screenwriter, making his debut and produced by Kalapi Nagada and Anaji Nagraj is the executive producer. The film features Darshan and Deepa Sannidhi in lead roles besides Kumar Bangarappa, Aditya and Srujan Lokesh playing key supporting roles. The film's score and soundtrack is composed by Arjun Janya whilst the cinematography is by Chandrashekar K S and editing by K. M. Prakash.\n\nShankar (Darshan) is care free guy having a habit of hunting Tigers in Kodagu. After his father who is a retired army officer sends him to Bengaluru in a search of a job, he decides to wipe out Bengaluru underworld rowdies with the help of Shetty (Kumar Bangarappa) and ACP Suryakanth (Aditya).\n\nGangster life, from the 1980s to today, is represented in this movie.\n\n\nDarshan as Shankar aka Chakravarthy\nDeepa Sannidhi as Shanti\nAditya as ACP Suryakanth (Hunter)\nKumar Bangarappa as Shetty\nYashas Surya as Doctor\nSrujan Lokesh as Kittappa\nSharath Lohitashwa\nShawar Ali as Bombay Diwan\nCharulatha as Bhavana, Kumar's wife\nSiddhanth as InterCop\nShivadhwaj as Don Kumar\n\n\n\n #Chakravarthy #SouthMovie #Darshan  #HindiDubbed #SouthAction #ActionMovie #FullMovie\n.\n.\n.\n.\n.\n.\n\n00:00 Intro 🔥\n01:21 The Beginning\n08:56 First Mission\n14:22 Enemy Territory\n20:48 Unexpected Attack\n27:35 Tactical Move\n34:17 Behind Enemy Lines\n41:52 The Ambush\n49:08 Turning Point\n56:39 Final Strategy\n01:03:44 The Counterattack\n01:11:28 Heavy Losses\n01:18:57 Last Stand\n01:26:31 The Final Battle\n01:35:00 Victory & Ending 🏆\n\nThanks For Watching \nKeep Connect For More Updates:\n @NavsaarMovies \n\nChakravarthy (Full Movie) Darshan, Deepa Sannidhi | Kannada Film Hindi Dubbed South Action Movie",
+    "description": "Movie : Archana 31 Not Out \nstarring Aishwarya Lekshmi, Indrans, Ramesh Pisharadi\nWritten & Directed by Akhil Anilkumar, \nProduced by  : Surinder Yadav\nCreative Head : Mahendra Yadav\nDirector of Photography: Joyal Joji \nScreenplay: Akhil Anilkumar, Ajay Vijayan, Vivek Chandran",
     "metadata": {
-      "year": 2017,
+      "year": null,
       "genre": [],
-      "durationSeconds": 7961
+      "durationSeconds": 5451
     },
     "statistics": {
-      "views": 162021,
-      "likes": 689
+      "views": 423132,
+      "likes": 2655
     },
-    "publishedAt": "2026-08-05T14:30:23Z",
+    "publishedAt": "2026-08-02T07:30:33Z",
     "verification": {
       "status": "unknown",
       "method": "youtube-metadata"
     },
     "algorithm": {
-      "trendingScore": 52.19,
-      "recommendationScore": 49.49
+      "trendingScore": 53.05,
+      "recommendationScore": 51.76
     }
   },
   {
@@ -858,8 +861,8 @@
       "durationSeconds": 7930
     },
     "statistics": {
-      "views": 84710,
-      "likes": 397
+      "views": 85457,
+      "likes": 401
     },
     "publishedAt": "2026-08-06T11:48:08Z",
     "verification": {
@@ -867,8 +870,8 @@
       "method": "youtube-metadata"
     },
     "algorithm": {
-      "trendingScore": 51.7,
-      "recommendationScore": 48.2
+      "trendingScore": 51.64,
+      "recommendationScore": 48.19
     }
   },
   {
@@ -893,7 +896,7 @@
       "durationSeconds": 7007
     },
     "statistics": {
-      "views": 5038,
+      "views": 5119,
       "likes": 14
     },
     "publishedAt": "2026-08-19T12:30:17Z",
@@ -902,78 +905,8 @@
       "method": "youtube-metadata"
     },
     "algorithm": {
-      "trendingScore": 51.19,
-      "recommendationScore": 43.05
-    }
-  },
-  {
-    "id": "yrqHOmUaL3E",
-    "title": "CBI | Ramcharan New South Indian Full Movie 2026 Hindi Dubbed | Latest Full Action Movie",
-    "slug": "cbi-ramcharan-new-south-indian-full-movie-2026-hindi-dubbed-latest-full-action-movie",
-    "youtubeVideoId": "yrqHOmUaL3E",
-    "youtubeUrl": "https://www.youtube.com/watch?v=yrqHOmUaL3E",
-    "thumbnail": "https://i.ytimg.com/vi/yrqHOmUaL3E/maxresdefault.jpg",
-    "language": "Tamil",
-    "audioLanguage": "Hindi",
-    "dubbed": true,
-    "creator": {
-      "name": "Orbit Motion Pictures",
-      "channelId": "UCmsdYxrGz9abhl0ZaDr7efA",
-      "channelUrl": "https://www.youtube.com/channel/UCmsdYxrGz9abhl0ZaDr7efA"
-    },
-    "description": "CBI | Ramcharan New South Indian Full Movie 2026 Hindi Dubbed | Latest Full Action Movie",
-    "metadata": {
-      "year": 2026,
-      "genre": [],
-      "durationSeconds": 7907
-    },
-    "statistics": {
-      "views": 1271434,
-      "likes": 3797
-    },
-    "publishedAt": "2026-07-19T09:15:24Z",
-    "verification": {
-      "status": "unknown",
-      "method": "youtube-metadata"
-    },
-    "algorithm": {
-      "trendingScore": 50.27,
-      "recommendationScore": 51.76
-    }
-  },
-  {
-    "id": "zs7OuLloi7Q",
-    "title": "GOVINDAM (Hindi Dubbed) Full Movie 2026 | Nithin | Rashmika Mandanna | New South Indian Movies 2026",
-    "slug": "govindam-hindi-dubbed-full-movie-2026-nithin-rashmika-mandanna-new-south-indian-movies-2026",
-    "youtubeVideoId": "zs7OuLloi7Q",
-    "youtubeUrl": "https://www.youtube.com/watch?v=zs7OuLloi7Q",
-    "thumbnail": "https://i.ytimg.com/vi/zs7OuLloi7Q/maxresdefault.jpg",
-    "language": "Tamil",
-    "audioLanguage": "Hindi",
-    "dubbed": true,
-    "creator": {
-      "name": "21 Pictures ",
-      "channelId": "UCV6aLfyqUqHYqOW3lNgWyRg",
-      "channelUrl": "https://www.youtube.com/channel/UCV6aLfyqUqHYqOW3lNgWyRg"
-    },
-    "description": "GOVINDAM (Hindi Dubbed) Full Movie 2026 | Nithin | Rashmika Mandanna | New South Indian Movies 2026",
-    "metadata": {
-      "year": 2026,
-      "genre": [],
-      "durationSeconds": 6980
-    },
-    "statistics": {
-      "views": 1273730,
-      "likes": 5073
-    },
-    "publishedAt": "2026-07-16T13:59:50Z",
-    "verification": {
-      "status": "unknown",
-      "method": "youtube-metadata"
-    },
-    "algorithm": {
-      "trendingScore": 49.9,
-      "recommendationScore": 51.68
+      "trendingScore": 51.12,
+      "recommendationScore": 43.03
     }
   },
   {
@@ -998,8 +931,8 @@
       "durationSeconds": 8603
     },
     "statistics": {
-      "views": 5979817,
-      "likes": 28542
+      "views": 5998764,
+      "likes": 28628
     },
     "publishedAt": "2026-07-02T12:49:49Z",
     "verification": {
@@ -1007,8 +940,8 @@
       "method": "youtube-metadata"
     },
     "algorithm": {
-      "trendingScore": 49.14,
-      "recommendationScore": 53.93
+      "trendingScore": 49.09,
+      "recommendationScore": 53.91
     }
   },
   {
@@ -1033,8 +966,8 @@
       "durationSeconds": 8477
     },
     "statistics": {
-      "views": 1260916,
-      "likes": 5228
+      "views": 1262892,
+      "likes": 5231
     },
     "publishedAt": "2026-07-09T14:19:49Z",
     "verification": {
@@ -1042,8 +975,8 @@
       "method": "youtube-metadata"
     },
     "algorithm": {
-      "trendingScore": 48.4,
-      "recommendationScore": 50.89
+      "trendingScore": 48.34,
+      "recommendationScore": 50.86
     }
   },
   {
@@ -1068,8 +1001,8 @@
       "durationSeconds": 8083
     },
     "statistics": {
-      "views": 12794203,
-      "likes": 146111
+      "views": 12801742,
+      "likes": 146155
     },
     "publishedAt": "2026-06-12T13:30:38Z",
     "verification": {
@@ -1077,8 +1010,8 @@
       "method": "youtube-metadata"
     },
     "algorithm": {
-      "trendingScore": 48.25,
-      "recommendationScore": 55.44
+      "trendingScore": 48.2,
+      "recommendationScore": 55.41
     },
     "sources": [
       {
@@ -1090,7 +1023,7 @@
           "channelUrl": "https://www.youtube.com/channel/UCRx-z4OueFyZlxxbK26cBrQ"
         },
         "embeddable": true,
-        "views": 12794203,
+        "views": 12801742,
         "verification": {
           "status": "unknown",
           "method": "youtube-metadata"
@@ -1105,7 +1038,7 @@
           "channelUrl": "https://www.youtube.com/channel/UCRx-z4OueFyZlxxbK26cBrQ"
         },
         "embeddable": true,
-        "views": 8271237,
+        "views": 8280388,
         "verification": {
           "status": "unknown",
           "method": "youtube-metadata"
@@ -1135,8 +1068,8 @@
       "durationSeconds": 6944
     },
     "statistics": {
-      "views": 8411,
-      "likes": 65
+      "views": 8806,
+      "likes": 70
     },
     "publishedAt": "2026-07-31T11:55:55Z",
     "verification": {
@@ -1144,8 +1077,8 @@
       "method": "youtube-metadata"
     },
     "algorithm": {
-      "trendingScore": 47.94,
-      "recommendationScore": 42.72
+      "trendingScore": 47.99,
+      "recommendationScore": 42.85
     }
   },
   {
@@ -1155,7 +1088,7 @@
     "youtubeVideoId": "CC-o3e3Qfio",
     "youtubeUrl": "https://www.youtube.com/watch?v=CC-o3e3Qfio",
     "thumbnail": "https://i.ytimg.com/vi/CC-o3e3Qfio/maxresdefault.jpg",
-    "language": "Tamil",
+    "language": "Telugu",
     "audioLanguage": "Hindi",
     "dubbed": true,
     "creator": {
@@ -1170,8 +1103,8 @@
       "durationSeconds": 6740
     },
     "statistics": {
-      "views": 14882478,
-      "likes": 117623
+      "views": 14889948,
+      "likes": 117653
     },
     "publishedAt": "2026-06-05T14:30:39Z",
     "verification": {
@@ -1179,8 +1112,8 @@
       "method": "youtube-metadata"
     },
     "algorithm": {
-      "trendingScore": 46.35,
-      "recommendationScore": 54.31
+      "trendingScore": 46.3,
+      "recommendationScore": 54.29
     }
   },
   {
@@ -1205,8 +1138,8 @@
       "durationSeconds": 6982
     },
     "statistics": {
-      "views": 183932,
-      "likes": 1432
+      "views": 183995,
+      "likes": 1433
     },
     "publishedAt": "2026-06-26T13:30:10Z",
     "verification": {
@@ -1214,8 +1147,8 @@
       "method": "youtube-metadata"
     },
     "algorithm": {
-      "trendingScore": 44.25,
-      "recommendationScore": 45.91
+      "trendingScore": 44.2,
+      "recommendationScore": 45.88
     }
   },
   {
@@ -1240,8 +1173,8 @@
       "durationSeconds": 7247
     },
     "statistics": {
-      "views": 209743,
-      "likes": 1020
+      "views": 209917,
+      "likes": 1021
     },
     "publishedAt": "2026-06-28T13:30:11Z",
     "verification": {
@@ -1249,8 +1182,8 @@
       "method": "youtube-metadata"
     },
     "algorithm": {
-      "trendingScore": 44.02,
-      "recommendationScore": 45.69
+      "trendingScore": 43.97,
+      "recommendationScore": 45.66
     }
   },
   {
@@ -1275,8 +1208,8 @@
       "durationSeconds": 7361
     },
     "statistics": {
-      "views": 4057061,
-      "likes": 16129
+      "views": 4074258,
+      "likes": 16157
     },
     "publishedAt": "2026-06-05T09:51:26Z",
     "verification": {
@@ -1284,8 +1217,8 @@
       "method": "youtube-metadata"
     },
     "algorithm": {
-      "trendingScore": 43.56,
-      "recommendationScore": 50.26
+      "trendingScore": 43.52,
+      "recommendationScore": 50.25
     }
   },
   {
@@ -1310,7 +1243,7 @@
       "durationSeconds": 6927
     },
     "statistics": {
-      "views": 48505,
+      "views": 48518,
       "likes": 245
     },
     "publishedAt": "2026-07-03T13:30:30Z",
@@ -1319,8 +1252,8 @@
       "method": "youtube-metadata"
     },
     "algorithm": {
-      "trendingScore": 43.15,
-      "recommendationScore": 42.82
+      "trendingScore": 43.1,
+      "recommendationScore": 42.79
     }
   },
   {
@@ -1345,7 +1278,7 @@
       "durationSeconds": 7249
     },
     "statistics": {
-      "views": 354759,
+      "views": 354863,
       "likes": 931
     },
     "publishedAt": "2026-06-23T11:30:17Z",
@@ -1354,8 +1287,8 @@
       "method": "youtube-metadata"
     },
     "algorithm": {
-      "trendingScore": 43.14,
-      "recommendationScore": 45.85
+      "trendingScore": 43.09,
+      "recommendationScore": 45.82
     }
   },
   {
@@ -1380,8 +1313,8 @@
       "durationSeconds": 8720
     },
     "statistics": {
-      "views": 9333499,
-      "likes": 42441
+      "views": 9358938,
+      "likes": 42521
     },
     "publishedAt": "2026-05-17T13:19:52Z",
     "verification": {
@@ -1389,43 +1322,8 @@
       "method": "youtube-metadata"
     },
     "algorithm": {
-      "trendingScore": 42.02,
-      "recommendationScore": 50.9
-    }
-  },
-  {
-    "id": "U2B3eo-1rIs",
-    "title": "New Released Hindi Dubbed Action Full Movie 2026 | Suriya, Trisha Krishnan | New South Indian Movie",
-    "slug": "new-released-hindi-dubbed-action-full-movie-2026-suriya-trisha-krishnan-new-south-indian-movie",
-    "youtubeVideoId": "U2B3eo-1rIs",
-    "youtubeUrl": "https://www.youtube.com/watch?v=U2B3eo-1rIs",
-    "thumbnail": "https://i.ytimg.com/vi/U2B3eo-1rIs/maxresdefault.jpg",
-    "language": "Tamil",
-    "audioLanguage": "Hindi",
-    "dubbed": true,
-    "creator": {
-      "name": "DRJ Records Now",
-      "channelId": "UCogmcYcqWY5PxzqPdt89_kA",
-      "channelUrl": "https://www.youtube.com/channel/UCogmcYcqWY5PxzqPdt89_kA"
-    },
-    "description": "Subscribe: http://bit.ly/DRJRecordsNow\n \n\nFilm - Raangi  \nStarcast - Trisha Krishnan, Anaswara Rajan, Bekzod Abdumalikov, John Mahendran\nDirector - M. Saravanan\nLabel: DRJ Records  \n\nFilm - Chennai Vs China (Dubbed from 7 AUM ARIVU - Tamil Movie)\nStarcast - Suriya, Shruti Hassan, Johnny Tri Nguyen, Abhinaya, Dhanya Balakrishna\nDirector - A.R.Murugadoss\nLabel : DRJ Records\n \n#drjrecordsnow \n\nSUBSCRIBE for the Latest Videos, Movies, Songs and scenes, all in ONE channel: \nhttps://www.youtube.com/channel/UCogmcYcqWY5PxzqPdt89_kA?sub_confirmation=1\n\nWelcome to DRJ Records Now Youtube Channel, the #1 destination for premium entertainment videos. Enjoy the blockbuster all languages Full movies, scenes, songs, & more.\n\nDRJ Records Now is an Entertainment channel, where you can find golden collection of the Movies\n\nWe are Digital Content Distributor & Creator for all platforms Worldwide. We believe in transparency and honesty and we expect same.\n\nSUBSCRIBE for the Latest Videos, Movies, Songs and scenes, all in ONE channel: \nhttps://www.youtube.com/channel/UCogmcYcqWY5PxzqPdt89_kA?sub_confirmation=1  \n\n© DRJ Records Industries Private Limited    \n \nLike, Comment and Share with your friends and family.\n\nSubscribe to DRJ Records Now : http://bit.ly/DRJRecordsNow\nFacebook : http://www.facebook.com/drjrecords\nTwitter : http://www.twitter.com/drjrecords\nInstagram : http://www.instagram.com/drjrecords \nPinterest: https://in.pinterest.com/drjrecords",
-    "metadata": {
-      "year": 2026,
-      "genre": [],
-      "durationSeconds": 10709
-    },
-    "statistics": {
-      "views": 10229604,
-      "likes": 46007
-    },
-    "publishedAt": "2026-05-11T13:30:36Z",
-    "verification": {
-      "status": "unknown",
-      "method": "youtube-metadata"
-    },
-    "algorithm": {
-      "trendingScore": 41.32,
-      "recommendationScore": 50.68
+      "trendingScore": 41.98,
+      "recommendationScore": 50.88
     }
   },
   {
@@ -1450,8 +1348,8 @@
       "durationSeconds": 7409
     },
     "statistics": {
-      "views": 6988204,
-      "likes": 24905
+      "views": 7010930,
+      "likes": 24974
     },
     "publishedAt": "2026-05-07T11:33:51Z",
     "verification": {
@@ -1459,8 +1357,8 @@
       "method": "youtube-metadata"
     },
     "algorithm": {
-      "trendingScore": 40.05,
-      "recommendationScore": 49.28
+      "trendingScore": 40.02,
+      "recommendationScore": 49.27
     }
   },
   {
@@ -1485,8 +1383,8 @@
       "durationSeconds": 7483
     },
     "statistics": {
-      "views": 9016509,
-      "likes": 65906
+      "views": 9025734,
+      "likes": 65967
     },
     "publishedAt": "2026-04-22T13:00:07Z",
     "verification": {
@@ -1494,8 +1392,8 @@
       "method": "youtube-metadata"
     },
     "algorithm": {
-      "trendingScore": 39.64,
-      "recommendationScore": 49.88
+      "trendingScore": 39.61,
+      "recommendationScore": 49.87
     }
   },
   {
@@ -1520,8 +1418,8 @@
       "durationSeconds": 7465
     },
     "statistics": {
-      "views": 44530908,
-      "likes": 683095
+      "views": 44561480,
+      "likes": 683325
     },
     "publishedAt": "2026-03-06T12:29:52Z",
     "verification": {
@@ -1529,8 +1427,8 @@
       "method": "youtube-metadata"
     },
     "algorithm": {
-      "trendingScore": 39.57,
-      "recommendationScore": 53.37
+      "trendingScore": 39.55,
+      "recommendationScore": 53.36
     }
   },
   {
@@ -1555,8 +1453,8 @@
       "durationSeconds": 8546
     },
     "statistics": {
-      "views": 995113,
-      "likes": 5196
+      "views": 996145,
+      "likes": 5201
     },
     "publishedAt": "2026-05-15T14:23:21Z",
     "verification": {
@@ -1564,43 +1462,8 @@
       "method": "youtube-metadata"
     },
     "algorithm": {
-      "trendingScore": 39.02,
-      "recommendationScore": 45.67
-    }
-  },
-  {
-    "id": "wET3lKWG21g",
-    "title": "Genz CM - Full Movie Hindi Dubbed | Thalapathy Vijay | Trisha Krishnan | New South Movie 2026 #cm",
-    "slug": "genz-cm-full-movie-hindi-dubbed-thalapathy-vijay-trisha-krishnan-new-south-movie-2026-cm",
-    "youtubeVideoId": "wET3lKWG21g",
-    "youtubeUrl": "https://www.youtube.com/watch?v=wET3lKWG21g",
-    "thumbnail": "https://i.ytimg.com/vi/wET3lKWG21g/maxresdefault.jpg",
-    "language": "Tamil",
-    "audioLanguage": "Hindi",
-    "dubbed": true,
-    "creator": {
-      "name": "Orbit Motion Pictures",
-      "channelId": "UCmsdYxrGz9abhl0ZaDr7efA",
-      "channelUrl": "https://www.youtube.com/channel/UCmsdYxrGz9abhl0ZaDr7efA"
-    },
-    "description": "Genz CM - Full Movie Hindi Dubbed | Thalapathy Vijay | Trisha Krishnan | New South Movie 2026 #cm",
-    "metadata": {
-      "year": 2026,
-      "genre": [],
-      "durationSeconds": 8209
-    },
-    "statistics": {
-      "views": 1526371,
-      "likes": 6887
-    },
-    "publishedAt": "2026-05-11T11:25:52Z",
-    "verification": {
-      "status": "unknown",
-      "method": "youtube-metadata"
-    },
-    "algorithm": {
-      "trendingScore": 38.84,
-      "recommendationScore": 46.21
+      "trendingScore": 38.98,
+      "recommendationScore": 45.66
     }
   },
   {
@@ -1625,8 +1488,8 @@
       "durationSeconds": 9327
     },
     "statistics": {
-      "views": 424354,
-      "likes": 1643
+      "views": 424929,
+      "likes": 1645
     },
     "publishedAt": "2026-05-23T05:00:05Z",
     "verification": {
@@ -1634,8 +1497,8 @@
       "method": "youtube-metadata"
     },
     "algorithm": {
-      "trendingScore": 38.6,
-      "recommendationScore": 43.89
+      "trendingScore": 38.56,
+      "recommendationScore": 43.88
     }
   },
   {
@@ -1660,8 +1523,8 @@
       "durationSeconds": 6906
     },
     "statistics": {
-      "views": 8283094,
-      "likes": 22674
+      "views": 8285696,
+      "likes": 22679
     },
     "publishedAt": "2026-04-20T13:01:24Z",
     "verification": {
@@ -1669,43 +1532,8 @@
       "method": "youtube-metadata"
     },
     "algorithm": {
-      "trendingScore": 38.07,
-      "recommendationScore": 48.43
-    }
-  },
-  {
-    "id": "p6SoD5LIEpM",
-    "title": "यह केस दिमाग हिला देगा🤯- एक केस, कई चेहरे😵| IDENTITY - THE SKETCH ARTIST Full Movie {Hindi Dub}",
-    "slug": "identity-the-sketch-artist-full-movie-hindi-dub",
-    "youtubeVideoId": "p6SoD5LIEpM",
-    "youtubeUrl": "https://www.youtube.com/watch?v=p6SoD5LIEpM",
-    "thumbnail": "https://i.ytimg.com/vi/p6SoD5LIEpM/maxresdefault.jpg",
-    "language": "Malayalam",
-    "audioLanguage": "Hindi",
-    "dubbed": true,
-    "creator": {
-      "name": "Action SuperHit",
-      "channelId": "UCwpfgvX9IqMHIunv4ozAA_g",
-      "channelUrl": "https://www.youtube.com/channel/UCwpfgvX9IqMHIunv4ozAA_g"
-    },
-    "description": "यह केस दिमाग हिला देगा🤯- एक केस, कई चेहरे😵| IDENTITY - THE SKETCH ARTIST Full Movie {Hindi Dub}\n\n🧾 Movie Plot / Storyline\nThe story follows a gifted sketch artist who works with law enforcement to help identify suspects based on eyewitness accounts. When a mysterious and high-profile incident takes place, he is brought in to assist the investigation.\n\nAs he starts sketching suspects, each drawing leads to new clues—but also deeper confusion. The case unfolds into a layered mystery involving multiple identities, hidden motives, and psychological manipulation.\n\nWith danger closing in, the artist must rely on his instincts and skills to uncover the truth. The narrative builds toward a gripping climax where memory, identity, and reality collide.\n\n🎭 Cast & Characters \nTovino Thomas – Haran Sankar\nTrisha Krishnan – Alisha\nVinay Rai – CI Allen Jacob\nMandira Bedi – Supriya Gopal\n\n🎬 Crew\nDirector: Akhil Paul & Anas Khan\nWriter: Akhil Paul & Anas Khan\nProducer: Raju Malliath\nMusic Composer: Jakes Bejoy\nCinematography: Akhil George\nEditor: Chaman Chakko\nProduction Company: Ragam Movies\n\n📊 Film Details\nOriginal Movie Title: Identity\nAlso Known As: The Sketch Artist\nOriginal Language: Malayalam\nGenre: Thriller • Mystery\nRelease Year: 2025\n\n🎥 Themes\nIdentity and perception\nMemory vs reality\nPsychological tension\nTruth and deception\n\n🔖 Hashtags\n#Identity2025 #TheSketchArtist #TovinoThomas #TrishaKrishnan #VinayRai #MandiraBedi #MalayalamThriller #Mystery #indiancinema \n\n🚨 Subscribe to ACTION SUPERHIT for more South Blockbusters & Exclusive Action Premieres!\nhttps://youtube.com/@ActionSuperHit?si=aYNSnTmrFUdJs-9M",
-    "metadata": {
-      "year": 2025,
-      "genre": [],
-      "durationSeconds": 9671
-    },
-    "statistics": {
-      "views": 3784399,
-      "likes": 31099
-    },
-    "publishedAt": "2026-04-15T13:31:03Z",
-    "verification": {
-      "status": "unknown",
-      "method": "youtube-metadata"
-    },
-    "algorithm": {
-      "trendingScore": 38.0,
-      "recommendationScore": 47.68
+      "trendingScore": 38.04,
+      "recommendationScore": 48.41
     }
   },
   {
@@ -1730,8 +1558,8 @@
       "durationSeconds": 9274
     },
     "statistics": {
-      "views": 2738715,
-      "likes": 13997
+      "views": 2755320,
+      "likes": 14138
     },
     "publishedAt": "2026-04-25T15:00:03Z",
     "verification": {
@@ -1739,8 +1567,43 @@
       "method": "youtube-metadata"
     },
     "algorithm": {
-      "trendingScore": 37.84,
+      "trendingScore": 37.82,
       "recommendationScore": 46.72
+    }
+  },
+  {
+    "id": "b43drY3Wb30",
+    "title": "Notorious Figher - Hindi Dubbed Full Movie | Darshan, Aradhana, Jagapathi Babu | Action Movie",
+    "slug": "notorious-figher-hindi-dubbed-full-movie-darshan-aradhana-jagapathi-babu-action-movie",
+    "youtubeVideoId": "b43drY3Wb30",
+    "youtubeUrl": "https://www.youtube.com/watch?v=b43drY3Wb30",
+    "thumbnail": "https://i.ytimg.com/vi/b43drY3Wb30/maxresdefault.jpg",
+    "language": "Kannada",
+    "audioLanguage": "Hindi",
+    "dubbed": true,
+    "creator": {
+      "name": "Box Movies",
+      "channelId": "UC3rAWi1hK9Plaag4yQ6K8KA",
+      "channelUrl": "https://www.youtube.com/channel/UC3rAWi1hK9Plaag4yQ6K8KA"
+    },
+    "description": "Presenting Hindi Dubbed Full Action Thriller Movie HD (साउथ मूवी, हिंदी मूवी) \"Notorious Figher\". Starring Darshan Thoogudeepa, Aradhana Ram, Jagapathi Babu, Shwetha Prasad & Others. Exclusively on@BoxMoviesIndia \n\nMovie Credits:\nDirected by Tharun Sudhir\nScreenplay by Tharun Sudhir & Jadesh Kumar Hampi\nDialogues by Maasthi Upparahalli\nStory by Tharun Sudhir & Jadesh Kumar Hampi\nProduced by Rockline Venkatesh\nStarring Darshan Thoogudeepa, Aradhana Ram, Jagapathi Babu, Shwetha Prasad, Master Rohit, Vinod Kumar Alva, Kumar Govind, Achyuth Kumar, Avinash, Shruti, Doddanna, Vaijanath Biradar, Srinivasa Murthy, Dingri Nagaraj, Padma Vasanthi, Ravi Chethan & Danish Akhtar\nCinematography by Sudhakar S. Raj\nEdited by K. M. Prakash\nMusic by V. Harikrishna\n\nSynopsis:\nVaradappa, a sawmill owner and rural don sends his trustworthy friend Vasudev to close a deal worth a lot of money with Loki, an associate of his in Bangalore. Vasudev's son Channakeshava finds out that his father has been missing since the deal. However, the bag that he carried has been making rounds in the city and Channakeshava decides to find his father with clues from the bag and help from Chintak, a local pickpocket.",
+    "metadata": {
+      "year": null,
+      "genre": [],
+      "durationSeconds": 9274
+    },
+    "statistics": {
+      "views": 1451553,
+      "likes": 6769
+    },
+    "publishedAt": "2026-05-01T15:01:06Z",
+    "verification": {
+      "status": "unknown",
+      "method": "youtube-metadata"
+    },
+    "algorithm": {
+      "trendingScore": 37.55,
+      "recommendationScore": 45.47
     }
   },
   {
@@ -1765,8 +1628,8 @@
       "durationSeconds": 6627
     },
     "statistics": {
-      "views": 11754914,
-      "likes": 36010
+      "views": 11766465,
+      "likes": 36029
     },
     "publishedAt": "2026-04-07T13:48:25Z",
     "verification": {
@@ -1774,8 +1637,8 @@
       "method": "youtube-metadata"
     },
     "algorithm": {
-      "trendingScore": 37.28,
-      "recommendationScore": 48.62
+      "trendingScore": 37.25,
+      "recommendationScore": 48.61
     }
   },
   {
@@ -1800,7 +1663,7 @@
       "durationSeconds": 8057
     },
     "statistics": {
-      "views": 35307,
+      "views": 35332,
       "likes": 222
     },
     "publishedAt": "2026-05-31T05:30:05Z",
@@ -1809,8 +1672,8 @@
       "method": "youtube-metadata"
     },
     "algorithm": {
-      "trendingScore": 37.2,
-      "recommendationScore": 39.29
+      "trendingScore": 37.15,
+      "recommendationScore": 39.27
     }
   },
   {
@@ -1835,8 +1698,8 @@
       "durationSeconds": 9600
     },
     "statistics": {
-      "views": 8612093,
-      "likes": 55880
+      "views": 8723364,
+      "likes": 56664
     },
     "publishedAt": "2026-03-29T13:41:46Z",
     "verification": {
@@ -1844,43 +1707,8 @@
       "method": "youtube-metadata"
     },
     "algorithm": {
-      "trendingScore": 36.95,
-      "recommendationScore": 48.3
-    }
-  },
-  {
-    "id": "xEEnenwutTA",
-    "title": "Mumbai Tyson Full Movie (Hindi Dubbed) 4K🔥| Dhruva Sarja | Radhika Pandit | South Action Romantic",
-    "slug": "mumbai-tyson-full-movie-hindi-dubbed-4k-dhruva-sarja-radhika-pandit-south-action-romantic",
-    "youtubeVideoId": "xEEnenwutTA",
-    "youtubeUrl": "https://www.youtube.com/watch?v=xEEnenwutTA",
-    "thumbnail": "https://i.ytimg.com/vi/xEEnenwutTA/maxresdefault.jpg",
-    "language": "Kannada",
-    "audioLanguage": "Hindi",
-    "dubbed": true,
-    "creator": {
-      "name": "Superhit Movies",
-      "channelId": "UC2uj7oMv3u64EbcR24rpPUQ",
-      "channelUrl": "https://www.youtube.com/channel/UC2uj7oMv3u64EbcR24rpPUQ"
-    },
-    "description": "Mumbai Tyson Full Movie (Hindi Dubbed) 4K🔥| Dhruva Sarja | Radhika Pandit | South Action Romantic\n\n#MumbaiTyson #HindiDubbedMovie #SouthMovie #FullMovie #DhruvaSarja #RomanceMovie #ActionMovie #HDMovie \n\nWatch Mumbai Tyson Full Movie Hindi Dubbed (2014) | South Movie Hindi Dubbed Full HD. This action romantic film is the Hindi dubbed version of Bahaddur, starring Dhruva Sarja, Radhika Pandit, and P. Ravi Shankar.\n\nA rich young man hides his identity and falls in love with a simple girl, but their love faces strong opposition from her family. Will love win, or will family traditions break their relationship? Watch this emotional South Indian blockbuster packed with action, romance, and drama.\n\n👍 Like | Share | Subscribe for more Hindi dubbed South movies\n\n👀 Don’t Forget to LIKE, SHARE & SUBSCRIBE for more Bollywood blockbusters! 👍🔔\n\n📺 Watch More Superhit Hindi Movies:\n✅ Superhit Movies: https://www.youtube.com/@romantichindimovies/videos\n\nSubscribe To Hindi Movies: https://bitly.ws/3azPc\n\n#superhitmovies #hindimovies #fullhd #bollywood \n\nTo join our Whatsapp community: click here - https://rebrand.ly/WhatsAppCommunity\n\n\nFollow us on Whatsapp for more updates: Shemaroo Bollywood\nhttps://whatsapp.com/channel/0029VaCohMZCxoAo5NofbT1e\n\nDownload the ShemarooMe App: \nClick here https://shemaroome.onelink.me/ilnR/yt\n \nBollywood ENT Channels Follow us on: \nFacebook - https://www.facebook.com/ShemarooEnt/ \nTwitter - https://twitter.com/ShemarooEnt \nInstagram - https://www.instagram.com/shemarooent/?hl=en",
-    "metadata": {
-      "year": 2014,
-      "genre": [],
-      "durationSeconds": 7636
-    },
-    "statistics": {
-      "views": 1081473,
-      "likes": 8432
-    },
-    "publishedAt": "2026-04-21T11:30:51Z",
-    "verification": {
-      "status": "unknown",
-      "method": "youtube-metadata"
-    },
-    "algorithm": {
-      "trendingScore": 36.89,
-      "recommendationScore": 44.97
+      "trendingScore": 36.94,
+      "recommendationScore": 48.32
     }
   },
   {
@@ -1905,8 +1733,8 @@
       "durationSeconds": 7503
     },
     "statistics": {
-      "views": 834266,
-      "likes": 4994
+      "views": 835170,
+      "likes": 4997
     },
     "publishedAt": "2026-04-20T13:49:17Z",
     "verification": {
@@ -1914,8 +1742,8 @@
       "method": "youtube-metadata"
     },
     "algorithm": {
-      "trendingScore": 35.96,
-      "recommendationScore": 43.86
+      "trendingScore": 35.93,
+      "recommendationScore": 43.84
     }
   },
   {
@@ -1940,8 +1768,8 @@
       "durationSeconds": 8438
     },
     "statistics": {
-      "views": 539166,
-      "likes": 5925
+      "views": 539917,
+      "likes": 5929
     },
     "publishedAt": "2026-04-12T05:17:08Z",
     "verification": {
@@ -1949,8 +1777,8 @@
       "method": "youtube-metadata"
     },
     "algorithm": {
-      "trendingScore": 35.86,
-      "recommendationScore": 43.62
+      "trendingScore": 35.83,
+      "recommendationScore": 43.61
     }
   },
   {
@@ -1975,8 +1803,8 @@
       "durationSeconds": 8358
     },
     "statistics": {
-      "views": 319298,
-      "likes": 7054
+      "views": 320283,
+      "likes": 7072
     },
     "publishedAt": "2026-03-14T15:57:40Z",
     "verification": {
@@ -1984,8 +1812,78 @@
       "method": "youtube-metadata"
     },
     "algorithm": {
-      "trendingScore": 35.59,
-      "recommendationScore": 43.81
+      "trendingScore": 35.57,
+      "recommendationScore": 43.8
+    }
+  },
+  {
+    "id": "kMK3fKniXIc",
+    "title": "Akhanda 2 Full Movie 2026 | Balakrishna | Samyuktha | New South Action Hindi Dubbed Movie 2026",
+    "slug": "akhanda-2-full-movie-2026-balakrishna-samyuktha-new-south-action-hindi-dubbed-movie-2026",
+    "youtubeVideoId": "kMK3fKniXIc",
+    "youtubeUrl": "https://www.youtube.com/watch?v=kMK3fKniXIc",
+    "thumbnail": "https://i.ytimg.com/vi/kMK3fKniXIc/maxresdefault.jpg",
+    "language": "Telugu",
+    "audioLanguage": "Hindi",
+    "dubbed": true,
+    "creator": {
+      "name": "Movie Zilla - Hindi Movies",
+      "channelId": "UCtTbuH63tj7TPxNutAxJD0w",
+      "channelUrl": "https://www.youtube.com/channel/UCtTbuH63tj7TPxNutAxJD0w"
+    },
+    "description": "Akhanda 2 Full Movie 2026 | Balakrishna | Samyuktha | New South Action Hindi Dubbed Movie 2026",
+    "metadata": {
+      "year": 2026,
+      "genre": [],
+      "durationSeconds": 8490
+    },
+    "statistics": {
+      "views": 3971107,
+      "likes": 19791
+    },
+    "publishedAt": "2026-03-25T12:43:41Z",
+    "verification": {
+      "status": "unknown",
+      "method": "youtube-metadata"
+    },
+    "algorithm": {
+      "trendingScore": 35.15,
+      "recommendationScore": 45.91
+    }
+  },
+  {
+    "id": "9Iu05hoppXQ",
+    "title": "Maragatha Naanayam Full Movie (Hindi Dubbed) | Aadhi Pinisetty | Haunted Treasure Adventure",
+    "slug": "maragatha-naanayam-full-movie-hindi-dubbed-aadhi-pinisetty-haunted-treasure-adventure",
+    "youtubeVideoId": "9Iu05hoppXQ",
+    "youtubeUrl": "https://www.youtube.com/watch?v=9Iu05hoppXQ",
+    "thumbnail": "https://i.ytimg.com/vi/9Iu05hoppXQ/maxresdefault.jpg",
+    "language": "Tamil",
+    "audioLanguage": "Hindi",
+    "dubbed": true,
+    "creator": {
+      "name": "RelianceEntertainment",
+      "channelId": "UCqZR7KVVsZRSfezZKJllxVQ",
+      "channelUrl": "https://www.youtube.com/channel/UCqZR7KVVsZRSfezZKJllxVQ"
+    },
+    "description": "Watch the superhit fantasy adventure movie “Maragatha Naanayam” Hindi Dubbed Full Movie starring Aadhi Pinisetty, Nikki Galrani, and Brahmanandam.\n\nThe story follows Senguttuvan and Elango, two men hired by a dangerous jewel smuggler to locate a legendary treasure known as the Maragatha Naanayam, believed to be cursed and responsible for the deaths of many treasure hunters.\n\nWith the help of a priest, they perform a ritual and summon three spirits to guide them to the hidden treasure. But as they move closer to the mysterious coin, strange supernatural events begin to unfold.\n\nFilled with fantasy, adventure, comedy, and supernatural thrills, Maragatha Naanayam delivers a unique and entertaining cinematic experience.\n\nMaragatha Naanayam Full Movie (Hindi Dubbed) | Aadhi Pinisetty | Haunted Treasure Adventure\n\n👉 Watch the full Hindi dubbed movie and don’t forget to LIKE, SHARE & SUBSCRIBE for more South Indian blockbuster movies.\n\nHindi Description\nदेखिए शानदार फैंटेसी एडवेंचर फिल्म “मरगथा नाणयम” हिंदी डब्ड में।\n\nकहानी सेंगुट्टुवन और एलंगो की है जिन्हें एक तस्कर एक रहस्यमयी खजाने मरगथा नाणयम को खोजने के लिए भेजता है। कहा जाता है कि यह खजाना शापित है और इसे खोजने की कोशिश करने वाले कई लोग अपनी जान गंवा चुके हैं।\n\nएक पुजारी की मदद से वे तीन आत्माओं को बुलाते हैं जो उन्हें खजाने तक पहुंचने में मदद करती हैं।\n\nलेकिन जैसे-जैसे वे खजाने के करीब पहुंचते हैं, अजीब और डरावनी घटनाएं होने लगती हैं।\n\nफैंटेसी, एडवेंचर, कॉमेडी और रहस्य से भरी यह फिल्म आपको अंत तक बांधे रखेगी।\n\n👍 अगर वीडियो पसंद आए तो LIKE, SHARE और SUBSCRIBE जरूर करें।\n===========================================\n🎭 Cast: Aadhi Pinisetty, Nikki Galrani, Brahmanandam, Anandaraj, Muneeshkanth, Arunraja Kamaraj\n\n🎬 Crew\nDirector : ARK Saravan\nProducer : Theni Tamil\nStory & Screenplay : ARK Saravan\nMusic : Dhibu Ninan Thomas\nCinematography : P. V. Shankar\nEditor : Prasanna GK\nLanguage : Tamil (Hindi Dubbed)\nGenre : Fantasy, Adventure, Comedy\n===========================================\nMaragatha Naanayam, Full Movie, Hindi Dubbed, Aadhi Pinisetty, Haunted Treasure Adventure, Maragatha Naanayam full movie Hindi dubbed, Maragatha Naanayam Hindi dubbed movie, Aadhi Pinisetty Hindi dubbed movie, Nikki Galrani Hindi dubbed movie, South movie Hindi dubbed full movie, Maragatha Naanayam Tamil movie Hindi dubbed, fantasy adventure movie Hindi dubbed, ghost treasure movie Hindi dubbed, haunted treasure movie Hindi dubbed, South Indian full movie Hindi dubbed HD, Maragatha Naanayam comedy fantasy Hindi dubbed, Brahmanandam Hindi dubbed movie\n\n#MaragathaNaanayam #AadhiPinisetty #NikkiGalrani #HindiDubbedMovie #SouthMovieHindiDubbed #FantasyMovie #AdventureMovie #GhostMovie #SouthFullMovie #TamilMovieHindiDubbed #BlockbusterMovie #IndianCinema #FullMovieHD #SouthEntertainment #HindiDubbedSouthMovie #relianceentertainment #movies #films #entertainment #bollywood #officialtrailer #theatical #songs #fullfim #fullmovies #superhit \n===========================================\nFor more amazing movies and update ⬇️  \n► Subscribe to our channel - https://bit.ly/41TGg79\n===========================================\nWatch our Specially Curated Playlists ⬇️\n► Bollywood Hindi Full Movies - https://bit.ly/4n4KAsv\n► New South Hindi Dubbed Movies - https://bit.ly/4n3lpGK\n► Regional Original Movies - https://bit.ly/4gqcgWc\n► Trending Short Films - https://bit.ly/3ImuxHp\n===========================================\nFor more exclusive updates follow us on ⬇️\n► YouTube: https://www.youtube.com/@RelianceEnt\n► Facebook: https://www.facebook.com/RelianceEnt/\n► Instagram: https://www.instagram.com/reliance.entertainment/\n===========================================",
+    "metadata": {
+      "year": null,
+      "genre": [],
+      "durationSeconds": 7050
+    },
+    "statistics": {
+      "views": 3822413,
+      "likes": 23632
+    },
+    "publishedAt": "2026-03-18T05:30:04Z",
+    "verification": {
+      "status": "unknown",
+      "method": "youtube-metadata"
+    },
+    "algorithm": {
+      "trendingScore": 34.8,
+      "recommendationScore": 45.79
     }
   },
   {
@@ -2010,8 +1908,8 @@
       "durationSeconds": 7515
     },
     "statistics": {
-      "views": 11058,
-      "likes": 57
+      "views": 11319,
+      "likes": 59
     },
     "publishedAt": "2026-04-25T09:04:08Z",
     "verification": {
@@ -2019,8 +1917,8 @@
       "method": "youtube-metadata"
     },
     "algorithm": {
-      "trendingScore": 34.14,
-      "recommendationScore": 37.29
+      "trendingScore": 34.15,
+      "recommendationScore": 37.34
     }
   },
   {
@@ -2045,8 +1943,8 @@
       "durationSeconds": 8721
     },
     "statistics": {
-      "views": 116648928,
-      "likes": 892874
+      "views": 116691325,
+      "likes": 893047
     },
     "publishedAt": "2025-11-28T13:30:07Z",
     "verification": {
@@ -2054,8 +1952,8 @@
       "method": "youtube-metadata"
     },
     "algorithm": {
-      "trendingScore": 33.74,
-      "recommendationScore": 51.07
+      "trendingScore": 33.73,
+      "recommendationScore": 51.06
     }
   },
   {
@@ -2080,8 +1978,8 @@
       "durationSeconds": 6134
     },
     "statistics": {
-      "views": 2491068,
-      "likes": 12812
+      "views": 2498577,
+      "likes": 12848
     },
     "publishedAt": "2026-03-13T06:30:04Z",
     "verification": {
@@ -2089,8 +1987,8 @@
       "method": "youtube-metadata"
     },
     "algorithm": {
-      "trendingScore": 33.58,
-      "recommendationScore": 44.33
+      "trendingScore": 33.56,
+      "recommendationScore": 44.32
     }
   },
   {
@@ -2115,8 +2013,8 @@
       "durationSeconds": 7627
     },
     "statistics": {
-      "views": 354142,
-      "likes": 2346
+      "views": 354683,
+      "likes": 2349
     },
     "publishedAt": "2026-04-03T06:30:00Z",
     "verification": {
@@ -2124,8 +2022,8 @@
       "method": "youtube-metadata"
     },
     "algorithm": {
-      "trendingScore": 33.26,
-      "recommendationScore": 41.08
+      "trendingScore": 33.23,
+      "recommendationScore": 41.07
     }
   },
   {
@@ -2150,8 +2048,8 @@
       "durationSeconds": 8045
     },
     "statistics": {
-      "views": 1603588,
-      "likes": 23944
+      "views": 1606162,
+      "likes": 23975
     },
     "publishedAt": "2026-02-02T05:13:41Z",
     "verification": {
@@ -2159,7 +2057,7 @@
       "method": "youtube-metadata"
     },
     "algorithm": {
-      "trendingScore": 33.01,
+      "trendingScore": 33.0,
       "recommendationScore": 44.35
     }
   },
@@ -2185,8 +2083,8 @@
       "durationSeconds": 8344
     },
     "statistics": {
-      "views": 1946482,
-      "likes": 15049
+      "views": 1950538,
+      "likes": 15095
     },
     "publishedAt": "2026-02-25T14:30:28Z",
     "verification": {
@@ -2194,8 +2092,8 @@
       "method": "youtube-metadata"
     },
     "algorithm": {
-      "trendingScore": 32.8,
-      "recommendationScore": 43.79
+      "trendingScore": 32.78,
+      "recommendationScore": 43.78
     }
   },
   {
@@ -2220,8 +2118,8 @@
       "durationSeconds": 6346
     },
     "statistics": {
-      "views": 75813261,
-      "likes": 964255
+      "views": 75842468,
+      "likes": 964443
     },
     "publishedAt": "2025-09-12T13:30:07Z",
     "verification": {
@@ -2255,8 +2153,8 @@
       "durationSeconds": 7429
     },
     "statistics": {
-      "views": 787340,
-      "likes": 2564
+      "views": 787668,
+      "likes": 2562
     },
     "publishedAt": "2026-03-22T12:30:27Z",
     "verification": {
@@ -2264,8 +2162,8 @@
       "method": "youtube-metadata"
     },
     "algorithm": {
-      "trendingScore": 32.34,
-      "recommendationScore": 41.56
+      "trendingScore": 32.31,
+      "recommendationScore": 41.54
     }
   },
   {
@@ -2290,8 +2188,8 @@
       "durationSeconds": 9164
     },
     "statistics": {
-      "views": 2828154,
-      "likes": 34501
+      "views": 2829116,
+      "likes": 34514
     },
     "publishedAt": "2026-01-14T04:30:07Z",
     "verification": {
@@ -2299,8 +2197,8 @@
       "method": "youtube-metadata"
     },
     "algorithm": {
-      "trendingScore": 32.01,
-      "recommendationScore": 44.47
+      "trendingScore": 31.99,
+      "recommendationScore": 44.46
     },
     "sources": [
       {
@@ -2312,7 +2210,7 @@
           "channelUrl": "https://www.youtube.com/channel/UC5TCLWjRRuk8fqDi_yg1qrg"
         },
         "embeddable": true,
-        "views": 2828154,
+        "views": 2829116,
         "verification": {
           "status": "unknown",
           "method": "youtube-metadata"
@@ -2327,7 +2225,7 @@
           "channelUrl": "https://www.youtube.com/channel/UCBnIEg5WTFKcMMV1GAagQCQ"
         },
         "embeddable": true,
-        "views": 509549,
+        "views": 509935,
         "verification": {
           "status": "unknown",
           "method": "youtube-metadata"
@@ -2357,8 +2255,8 @@
       "durationSeconds": 8727
     },
     "statistics": {
-      "views": 4176271,
-      "likes": 17451
+      "views": 4187857,
+      "likes": 17475
     },
     "publishedAt": "2026-02-10T11:45:24Z",
     "verification": {
@@ -2366,8 +2264,43 @@
       "method": "youtube-metadata"
     },
     "algorithm": {
-      "trendingScore": 31.85,
-      "recommendationScore": 44.17
+      "trendingScore": 31.83,
+      "recommendationScore": 44.16
+    }
+  },
+  {
+    "id": "_BXz2OKEDvw",
+    "title": "Akhanda 2 Full Movie Hindi Dubbed 2025 | Balakrishna | Samyuktha | New South Action Hindi Movie 2025",
+    "slug": "akhanda-2-full-movie-hindi-dubbed-2025-balakrishna-samyuktha-new-south-action-hindi-movie-2025",
+    "youtubeVideoId": "_BXz2OKEDvw",
+    "youtubeUrl": "https://www.youtube.com/watch?v=_BXz2OKEDvw",
+    "thumbnail": "https://i.ytimg.com/vi/_BXz2OKEDvw/maxresdefault.jpg",
+    "language": "Telugu",
+    "audioLanguage": "Hindi",
+    "dubbed": true,
+    "creator": {
+      "name": "Super High Pictures",
+      "channelId": "UCrf0ykXh2EFC-lSmxof57Ig",
+      "channelUrl": "https://www.youtube.com/channel/UCrf0ykXh2EFC-lSmxof57Ig"
+    },
+    "description": "Akhanda 2 Full Movie Hindi Dubbed 2025 | Balakrishna | Samyuktha | New South Action Hindi Movie 2025",
+    "metadata": {
+      "year": 2025,
+      "genre": [],
+      "durationSeconds": 8490
+    },
+    "statistics": {
+      "views": 9893461,
+      "likes": 41866
+    },
+    "publishedAt": "2026-01-20T09:11:10Z",
+    "verification": {
+      "status": "unknown",
+      "method": "youtube-metadata"
+    },
+    "algorithm": {
+      "trendingScore": 31.78,
+      "recommendationScore": 45.57
     }
   },
   {
@@ -2392,8 +2325,8 @@
       "durationSeconds": 8854
     },
     "statistics": {
-      "views": 60178136,
-      "likes": 1032125
+      "views": 60192614,
+      "likes": 1032351
     },
     "publishedAt": "2022-04-20T12:26:37Z",
     "verification": {
@@ -2403,6 +2336,41 @@
     "algorithm": {
       "trendingScore": 31.47,
       "recommendationScore": 49.8
+    }
+  },
+  {
+    "id": "krCpn6RrNX8",
+    "title": "Madam Geeta Rani (Raatchasi) 2020 New Released Hindi Dubbed Full Movie | Jyothika, Hareesh Peradi",
+    "slug": "madam-geeta-rani-raatchasi-2020-new-released-hindi-dubbed-full-movie-jyothika-hareesh-peradi",
+    "youtubeVideoId": "krCpn6RrNX8",
+    "youtubeUrl": "https://www.youtube.com/watch?v=krCpn6RrNX8",
+    "thumbnail": "https://i.ytimg.com/vi/krCpn6RrNX8/maxresdefault.jpg",
+    "language": "Telugu",
+    "audioLanguage": "Hindi",
+    "dubbed": true,
+    "creator": {
+      "name": "Goldmines",
+      "channelId": "UCyoXW-Dse7fURq30EWl_CUA",
+      "channelUrl": "https://www.youtube.com/channel/UCyoXW-Dse7fURq30EWl_CUA"
+    },
+    "description": "The film is about a headmaster converting a poorly run school into one of the best in the state.\n\nMovie:- Madam Geeta Rani (Raatchasi)\nStarcast:- Jyothika, Hareesh Peradi, Poornima Bhagyaraj, Sathyan, Nagineedu, Aruldoss\nDirected by:- Sy Gowthamraj\nProduced by:- Manish Shah\nMusic by:- Sean Roldan\n\n#MadamGeetaRani #Raatchasi #RaatchasiHindi #Jyothika\n\n--------------------------------------\nFor More Movies\nSubscribe:@https://www.youtube.com/GoldminesTelefilms\n\nFollow Us On\nFacebook:@https://www.facebook.com/OfficialGoldminesTelefilms\n\nInstagram:\nhttps://www.instagram.com/officialgoldminestelefilms\n\nTwitter:\nhttps://twitter.com/GTelefilms",
+    "metadata": {
+      "year": 2020,
+      "genre": [],
+      "durationSeconds": 6926
+    },
+    "statistics": {
+      "views": 442189730,
+      "likes": 4102737
+    },
+    "publishedAt": "2020-09-05T17:30:10Z",
+    "verification": {
+      "status": "unknown",
+      "method": "youtube-metadata"
+    },
+    "algorithm": {
+      "trendingScore": 31.01,
+      "recommendationScore": 50.82
     }
   },
   {
@@ -2427,8 +2395,8 @@
       "durationSeconds": 6496
     },
     "statistics": {
-      "views": 134613404,
-      "likes": 1535796
+      "views": 134625859,
+      "likes": 1535878
     },
     "publishedAt": "2022-12-23T13:30:10Z",
     "verification": {
@@ -2462,8 +2430,8 @@
       "durationSeconds": 7248
     },
     "statistics": {
-      "views": 320998604,
-      "likes": 2753583
+      "views": 321017993,
+      "likes": 2753678
     },
     "publishedAt": "2019-09-21T17:35:51Z",
     "verification": {
@@ -2497,8 +2465,8 @@
       "durationSeconds": 6784
     },
     "statistics": {
-      "views": 182348462,
-      "likes": 1597028
+      "views": 182359948,
+      "likes": 1597100
     },
     "publishedAt": "2018-08-19T11:30:00Z",
     "verification": {
@@ -2532,8 +2500,8 @@
       "durationSeconds": 8303
     },
     "statistics": {
-      "views": 167058530,
-      "likes": 1505200
+      "views": 167067379,
+      "likes": 1505255
     },
     "publishedAt": "2019-08-24T17:30:00Z",
     "verification": {
@@ -2567,8 +2535,8 @@
       "durationSeconds": 6878
     },
     "statistics": {
-      "views": 9105920,
-      "likes": 31213
+      "views": 9110778,
+      "likes": 31222
     },
     "publishedAt": "2025-12-31T13:18:35Z",
     "verification": {
@@ -2576,8 +2544,8 @@
       "method": "youtube-metadata"
     },
     "algorithm": {
-      "trendingScore": 30.53,
-      "recommendationScore": 44.69
+      "trendingScore": 30.52,
+      "recommendationScore": 44.68
     }
   },
   {
@@ -2602,8 +2570,8 @@
       "durationSeconds": 7348
     },
     "statistics": {
-      "views": 404889475,
-      "likes": 2937118
+      "views": 404929509,
+      "likes": 2937309
     },
     "publishedAt": "2018-10-02T17:30:01Z",
     "verification": {
@@ -2637,8 +2605,8 @@
       "durationSeconds": 7492
     },
     "statistics": {
-      "views": 139013860,
-      "likes": 1252218
+      "views": 139019456,
+      "likes": 1252253
     },
     "publishedAt": "2019-09-02T17:59:25Z",
     "verification": {
@@ -2651,48 +2619,13 @@
     }
   },
   {
-    "id": "eSrDta7umZA",
-    "title": "MLA Ka Power (MLA) Hindi Dubbed Full Movie | Nandamuri Kalyanram, Kajal Aggarwal | Aditya Movies",
-    "slug": "mla-ka-power-mla-hindi-dubbed-full-movie-nandamuri-kalyanram-kajal-aggarwal-aditya-movies",
-    "youtubeVideoId": "eSrDta7umZA",
-    "youtubeUrl": "https://www.youtube.com/watch?v=eSrDta7umZA",
-    "thumbnail": "https://i.ytimg.com/vi/eSrDta7umZA/maxresdefault.jpg",
-    "language": "Telugu",
-    "audioLanguage": "Hindi",
-    "dubbed": true,
-    "creator": {
-      "name": "Aditya Movies",
-      "channelId": "UCX_uPA_dGf7wXjuMEaSKLJA",
-      "channelUrl": "https://www.youtube.com/channel/UCX_uPA_dGf7wXjuMEaSKLJA"
-    },
-    "description": "#MLAKaPowerMovie #NandamuriKalyanram #KajalAggarwal #HindiMovies #SouthMovie #KalyanramMovies  #KajalAggarwalLatestmovies #HindifullMovies #LatestHindiDubbedMovies\n\nPresenting South Indian Movies Dubbed In Hindi Full Movie 2018 New (Hindi Movies, South Movie 2018, 2018 New Hindi Dubbed Movie) \"MLA Ka Power (MLA - Manchi Lakshanalunna Abbai)\" starring Nandamuri Kalyanram & Kajal Aggarwal Exclusively on Aditya Movies - Telugu & Hindi.\n\nSubscribe to Aditya Movies for all Latest, Popular, Blockbuster & Superhit Hindi Dubbed Videos.\n\nCredits:\nFilm Name  MLA Ka Power (MLA)\nCast: Nandamuri Kalyanram, Kajal Aggarwal\nProducer : Aditya Music India Pvt. Ltd \nWritten & Director : Upendra Madhav\nMusic Director: Mani Sharma\nCinematography: Prasad Murella\nEdited by Bikkina Thammiraju\n\nSynopsis:\nKalyan (Kalyan Ram) is an easy-going young man who is referred to as MLA (Manchi Lakshanalunna Abbayi) for his good qualities. He falls in love with Indu (Kajal Aggarwal), who turns out to be the managing director of his company. When land belonging to the company is seized by a local goon (Ajay), Kalyan promises to get it back on the condition that Indu accepts his love if he is successful. The latter accepts his condition but after Kalyan retrieves the land, comes a twist in the tale. The action then shifts from an urban backdrop to the village of Veerabhadrapuram where Gadappa (Ravi Kishen), a ruthless politician, has been consistently winning the elections for decades against his arch rival Nagappa (Jayaprakash Reddy) and his family. Why did Kalyan go to Veerabhadrapuram? Is Indu really what she professes to be? What impact will the tussle between the families of Gadappa and Nagappa have on the residents of Veerabhadrapuram?\n\nFor More  Hindi Dubbed Movies :-\nMLA Ka Power (MLA) Full Hindi Dubbed Movie : https://youtu.be/eSrDta7umZA\nMaut Ki Zanjeer Full Hindi Dubbed Movie :https://youtu.be/aFcI5yAqfhc\nZulmon Ka Taandav Full Hindi Dubbed Movie : https://youtu.be/fJUStq9kHXw\niSmart Shankar Full Hindi Dubbed Full Movie : https://youtu.be/Gtx1pPeKJsA\nMajili Full Hindi Dubbed Movie : https://youtu.be/lIIvFgwREsI\n\n-----------------------------------------------------------------------------------------\nFor More Full Movies Subscribe to: ►https://www.youtube.com/adityamovies \n►Like us on Facebook: http://www.facebook.com/adityamovies \n►Follow us on Instagram: https://www.instagram.com/adityamovies \n\nFor More Telugu Full Movies Subscribe to: \n► https://www.youtube.com/@adityacinemalu \n► Like us on Facebook: https://www.facebook.com/AdityaCinemalu \n► Follow us on Instagram: https://www.instagram.com/adityacinemalu/ \n\nFor Bhojpuri Full Movies , Subscribe to: \n►https://bit.ly/3FkFd27 For Hit & Latest Music: ►https://www.youtube.com/user/adityamusic \n►Follow us on Twitter: http://www.twitter.com/adityamusic \n►Follow us on LinkedIn: http://bit.ly/2Pp6ze3 \n\nFor Devotional Music: ►https://www.youtube.com/user/adityadevotional \n\n© 2023 Aditya Movies India Pvt. Ltd.",
-    "metadata": {
-      "year": 2018,
-      "genre": [],
-      "durationSeconds": 7566
-    },
-    "statistics": {
-      "views": 212377116,
-      "likes": 1395980
-    },
-    "publishedAt": "2018-09-12T13:00:52Z",
-    "verification": {
-      "status": "unknown",
-      "method": "youtube-metadata"
-    },
-    "algorithm": {
-      "trendingScore": 30.26,
-      "recommendationScore": 50.11
-    }
-  },
-  {
     "id": "R7aCOI4DuA0",
     "title": "A Aa Hindi Dubbed Full Movie New | Nithiin, Samantha, Anupama Parameshwaran | Trivikram",
     "slug": "a-aa-hindi-dubbed-full-movie-new-nithiin-samantha-anupama-parameshwaran-trivikram",
     "youtubeVideoId": "R7aCOI4DuA0",
     "youtubeUrl": "https://www.youtube.com/watch?v=R7aCOI4DuA0",
     "thumbnail": "https://i.ytimg.com/vi/R7aCOI4DuA0/maxresdefault.jpg",
-    "language": "Tamil",
+    "language": "Telugu",
     "audioLanguage": "Hindi",
     "dubbed": true,
     "creator": {
@@ -2707,8 +2640,8 @@
       "durationSeconds": 9100
     },
     "statistics": {
-      "views": 651302120,
-      "likes": 4168052
+      "views": 651327022,
+      "likes": 4168165
     },
     "publishedAt": "2018-08-26T07:17:25Z",
     "verification": {
@@ -2742,8 +2675,8 @@
       "durationSeconds": 7577
     },
     "statistics": {
-      "views": 109291526,
-      "likes": 1008429
+      "views": 109296406,
+      "likes": 1008460
     },
     "publishedAt": "2020-09-17T08:30:00Z",
     "verification": {
@@ -2777,8 +2710,8 @@
       "durationSeconds": 7055
     },
     "statistics": {
-      "views": 702499828,
-      "likes": 4142280
+      "views": 702535744,
+      "likes": 4142491
     },
     "publishedAt": "2018-11-28T08:00:06Z",
     "verification": {
@@ -2812,7 +2745,7 @@
       "durationSeconds": 7044
     },
     "statistics": {
-      "views": 148471,
+      "views": 148604,
       "likes": 1064
     },
     "publishedAt": "2026-03-07T14:00:06Z",
@@ -2821,43 +2754,8 @@
       "method": "youtube-metadata"
     },
     "algorithm": {
-      "trendingScore": 30.02,
-      "recommendationScore": 37.99
-    }
-  },
-  {
-    "id": "tUv5sYKs2Cc",
-    "title": "DANDUPALYA(2025)| Sonia | New South Indian Movie Dubbed In Hindi |Action Drama Thriller | Full Movie",
-    "slug": "dandupalya-2025-sonia-new-south-indian-movie-dubbed-in-hindi-action-drama-thriller-full-movie",
-    "youtubeVideoId": "tUv5sYKs2Cc",
-    "youtubeUrl": "https://www.youtube.com/watch?v=tUv5sYKs2Cc",
-    "thumbnail": "https://i.ytimg.com/vi/tUv5sYKs2Cc/maxresdefault.jpg",
-    "language": "Kannada",
-    "audioLanguage": "Hindi",
-    "dubbed": true,
-    "creator": {
-      "name": "RDC Movie HD",
-      "channelId": "UC7MCGF6hk-x5IG0FG3R9jPA",
-      "channelUrl": "https://www.youtube.com/channel/UC7MCGF6hk-x5IG0FG3R9jPA"
-    },
-    "description": "Subscribe Now :- https://www.youtube.com/channel/UC7MCGF6hk-x5IG0FG3R9jPA\n\n⦿Movie :- Dandupalyam 4 (Hindi Dubbed)\n⦿Starring :- Sonia Agarwal, Pooja Gandhi, Makarand Deshpande, Ravi Kale, Vanitha Vijaykumar, Mumait Khan\n⦿Cinematography : Ilangovan\n⦿Music Director : Jithin K Roshan\n⦿Label: RDC Media Pvt.Ltd.\n⦿Director : Tiger Venkat & KT Nayak\n★PRODUCER : DURGARAM CHOUDHARY★",
-    "metadata": {
-      "year": 2025,
-      "genre": [],
-      "durationSeconds": 7192
-    },
-    "statistics": {
-      "views": 1916138,
-      "likes": 5056
-    },
-    "publishedAt": "2026-02-01T13:31:04Z",
-    "verification": {
-      "status": "unknown",
-      "method": "youtube-metadata"
-    },
-    "algorithm": {
-      "trendingScore": 29.89,
-      "recommendationScore": 41.68
+      "trendingScore": 29.99,
+      "recommendationScore": 37.98
     }
   },
   {
@@ -2882,8 +2780,8 @@
       "durationSeconds": 8764
     },
     "statistics": {
-      "views": 298099946,
-      "likes": 1454565
+      "views": 298118361,
+      "likes": 1454674
     },
     "publishedAt": "2018-08-06T08:45:01Z",
     "verification": {
@@ -2917,8 +2815,8 @@
       "durationSeconds": 7939
     },
     "statistics": {
-      "views": 93001886,
-      "likes": 818649
+      "views": 93007643,
+      "likes": 818679
     },
     "publishedAt": "2023-07-14T13:30:13Z",
     "verification": {
@@ -2952,8 +2850,8 @@
       "durationSeconds": 6476
     },
     "statistics": {
-      "views": 39278636,
-      "likes": 471660
+      "views": 39281362,
+      "likes": 471668
     },
     "publishedAt": "2022-10-10T14:00:11Z",
     "verification": {
@@ -2987,8 +2885,8 @@
       "durationSeconds": 8440
     },
     "statistics": {
-      "views": 64699790,
-      "likes": 607398
+      "views": 64704185,
+      "likes": 607431
     },
     "publishedAt": "2018-12-31T07:30:02Z",
     "verification": {
@@ -3022,8 +2920,8 @@
       "durationSeconds": 6989
     },
     "statistics": {
-      "views": 109170656,
-      "likes": 733169
+      "views": 109173152,
+      "likes": 733191
     },
     "publishedAt": "2018-07-31T08:00:01Z",
     "verification": {
@@ -3057,8 +2955,8 @@
       "durationSeconds": 7390
     },
     "statistics": {
-      "views": 26624125,
-      "likes": 350949
+      "views": 26625385,
+      "likes": 350956
     },
     "publishedAt": "2020-03-13T13:01:08Z",
     "verification": {
@@ -3092,8 +2990,8 @@
       "durationSeconds": 7158
     },
     "statistics": {
-      "views": 136706496,
-      "likes": 669273
+      "views": 136713955,
+      "likes": 669305
     },
     "publishedAt": "2018-09-03T09:30:00Z",
     "verification": {
@@ -3127,8 +3025,8 @@
       "durationSeconds": 7058
     },
     "statistics": {
-      "views": 22985609,
-      "likes": 304550
+      "views": 22987312,
+      "likes": 304559
     },
     "publishedAt": "2022-05-22T13:30:15Z",
     "verification": {
@@ -3141,38 +3039,38 @@
     }
   },
   {
-    "id": "orbcf2WYbS8",
-    "title": "Virgin Island(Kannitheevu) | Full Movie | Kannada Dubbed | Varalaxmi Sarathkumar |Video Park Kannada",
-    "slug": "virgin-island-kannitheevu-full-movie-kannada-dubbed-varalaxmi-sarathkumar-video-park-kannada",
-    "youtubeVideoId": "orbcf2WYbS8",
-    "youtubeUrl": "https://www.youtube.com/watch?v=orbcf2WYbS8",
-    "thumbnail": "https://i.ytimg.com/vi/orbcf2WYbS8/maxresdefault.jpg",
-    "language": "Kannada",
+    "id": "_RmhgMHCKpM",
+    "title": "Theri - Blockbuster Action Hindi Dubbed Full Movie l Vijay, Samantha,Amy Jackson,Baby Nainika l थेरी",
+    "slug": "theri-blockbuster-action-hindi-dubbed-full-movie-l-vijay-samantha-amy-jackson-baby-nainika-l",
+    "youtubeVideoId": "_RmhgMHCKpM",
+    "youtubeUrl": "https://www.youtube.com/watch?v=_RmhgMHCKpM",
+    "thumbnail": "https://i.ytimg.com/vi/_RmhgMHCKpM/maxresdefault.jpg",
+    "language": "Tamil",
     "audioLanguage": "Hindi",
     "dubbed": true,
     "creator": {
-      "name": "Video Park Kannada",
-      "channelId": "UCxnlXIbfA0b_Z7Fr6VPwkDw",
-      "channelUrl": "https://www.youtube.com/channel/UCxnlXIbfA0b_Z7Fr6VPwkDw"
+      "name": "Action Ka Baap",
+      "channelId": "UCkUjBNYnUG-ULrs04Ex6ZyA",
+      "channelUrl": "https://www.youtube.com/channel/UCkUjBNYnUG-ULrs04Ex6ZyA"
     },
-    "description": "Get ready for the latest Kannada dubbed movie Virgin Island. The original Tamil movie Kannitheevu is now dubbed in Kannada. The film stars Varalaxmi Sarathkumar, Subiksha Krishnan, Aishwarya Dutta, and Ashna Zaveri in lead roles. This action-thriller is directed by Sundar Balu. If you are a fan of South Indian dubbed movies, this is a must-watch for you.\n\nMovie Plot: \n-------------------\nFour fearless women from a North Chennai locality stand up against social injustice in their area. Their small protest slowly turns into a powerful movement that inspires many people. But their fight attracts the attention of corrupt politicians and powerful enemies. Soon, the women and their families become targets of threats and violence. Their friendship is tested as fear and danger surround them from all sides. The story becomes a survival battle of ordinary women against a powerful system.\n\nMovie Highlights:\n---------------------------\nMovie Name: Virgin Island(Kannitheevu)\nCast: aralaxmi Sarathkumar, Subiksha Krishnan, Aishwarya Dutta, and Ashna Zaveri \nDirector: Sundar Balu\nMusic: R. S. Raj Prathap\nOriginal Language: Tamil\nRelease Date: 8 March 2023\n\n#kannadadubbed #latestmovies #virginisland #fullmovie \n\nAlso watch:\n-------------------\nKantha Full Movie: https://youtu.be/uOYn1SlrOrI\nRoja Kannada Dubbed Full Movie: https://youtu.be/a6ctDzoCtfM\nSide Hogu (Oram Po): https://youtu.be/WDjkyX7ZHs8\nGift - Crime Thriller Full Movie: https://youtu.be/E_0aj1MxGbE\n\nSubscribe @VideoParkKannadaOfficial for more Kannada dubbed movie scenes, sci-fi thriller clips, and action movie highlights.\n\nIf you would like to explore more full movies, movie clips, comedy Scenes, action scenes visit our Other Channels. \n\n👉 For More Tamil Dubbed full movies & Scenes Subscribe to Video Park Tamil : https://bit.ly/Susbrribetovideoparktamil\n\n👉 For More Kannada Dubbed full movies & Scenes Subscribe to Video Park Kannada : https://bit.ly/49ybzsq\n\n👉 For More Tamil Comedy Scenes Subscribe to Video Park Comedy: https://bit.ly/Subscribetovideoparkcomedy\n\n👉For More Telugu Dubbed full movies & Scenes Subscribe to Video Park Telugu : https://bit.ly/subscribetovideoparktelugu\n\n👉 For More Malayalam Dubbed full movies & Scenes Subscribe to Video Park Malayalam : https://bit.ly/Susbscribetovideoparkmalayalam\n\n👉For More Hindi Dubbed full movies & & Scenes Subscribe to Video Park Hindi : https://bit.ly/SubscribetoVideoParkHindi\n\nWe hold the legal rights to stream the Kannada dubbed version of this film. Versions in other languages available on YouTube are licensed separately by their respective rights holders.\n\nOur channel is committed to providing authorized content, enhanced with original contextual additions for a better viewing experience.",
+    "description": "DCP Vijaya Kumar goes into hiding to bring up his daughter in a safe environment. However, after her life is threatened by deadly gangsters, he must face his past to protect his future.\n\nMovie:- Theri\nStarcast:- Vijay, Samantha Ruth Prabhu, Amy Jackson, Baby Nainika, J. Mahendran, Rajendran\nDirected by:- Atlee Kumar\nMusic by:- G. V. Prakash Kumar",
     "metadata": {
-      "year": 2023,
+      "year": null,
       "genre": [],
-      "durationSeconds": 6807
+      "durationSeconds": 6460
     },
     "statistics": {
-      "views": 306532,
-      "likes": 1691
+      "views": 61060205,
+      "likes": 481827
     },
-    "publishedAt": "2026-02-13T13:31:02Z",
+    "publishedAt": "2024-03-27T04:30:13Z",
     "verification": {
       "status": "unknown",
       "method": "youtube-metadata"
     },
     "algorithm": {
-      "trendingScore": 28.99,
-      "recommendationScore": 38.48
+      "trendingScore": 29.01,
+      "recommendationScore": 47.53
     }
   },
   {
@@ -3197,8 +3095,8 @@
       "durationSeconds": 8411
     },
     "statistics": {
-      "views": 54768475,
-      "likes": 445979
+      "views": 54768928,
+      "likes": 445980
     },
     "publishedAt": "2023-12-08T14:00:07Z",
     "verification": {
@@ -3232,8 +3130,8 @@
       "durationSeconds": 5699
     },
     "statistics": {
-      "views": 131144332,
-      "likes": 465247
+      "views": 131148232,
+      "likes": 465274
     },
     "publishedAt": "2019-05-01T16:30:00Z",
     "verification": {
@@ -3267,8 +3165,8 @@
       "durationSeconds": 7629
     },
     "statistics": {
-      "views": 37152395,
-      "likes": 335012
+      "views": 37154231,
+      "likes": 335022
     },
     "publishedAt": "2019-09-07T14:30:00Z",
     "verification": {
@@ -3302,8 +3200,8 @@
       "durationSeconds": 7126
     },
     "statistics": {
-      "views": 19280265,
-      "likes": 232391
+      "views": 19282035,
+      "likes": 232410
     },
     "publishedAt": "2023-07-18T14:00:08Z",
     "verification": {
@@ -3337,8 +3235,8 @@
       "durationSeconds": 7519
     },
     "statistics": {
-      "views": 19217139,
-      "likes": 229201
+      "views": 19217637,
+      "likes": 229209
     },
     "publishedAt": "2019-03-23T05:00:01Z",
     "verification": {
@@ -3372,8 +3270,8 @@
       "durationSeconds": 7294
     },
     "statistics": {
-      "views": 26318818,
-      "likes": 207178
+      "views": 26328656,
+      "likes": 207246
     },
     "publishedAt": "2025-04-25T04:30:20Z",
     "verification": {
@@ -3381,7 +3279,7 @@
       "method": "youtube-metadata"
     },
     "algorithm": {
-      "trendingScore": 28.54,
+      "trendingScore": 28.53,
       "recommendationScore": 45.88
     }
   },
@@ -3407,8 +3305,8 @@
       "durationSeconds": 9308
     },
     "statistics": {
-      "views": 78770040,
-      "likes": 379159
+      "views": 78787542,
+      "likes": 379242
     },
     "publishedAt": "2020-01-26T05:30:00Z",
     "verification": {
@@ -3442,8 +3340,8 @@
       "durationSeconds": 6965
     },
     "statistics": {
-      "views": 40645605,
-      "likes": 322860
+      "views": 40649309,
+      "likes": 322886
     },
     "publishedAt": "2020-12-25T05:30:08Z",
     "verification": {
@@ -3477,8 +3375,8 @@
       "durationSeconds": 9015
     },
     "statistics": {
-      "views": 55644250,
-      "likes": 326221
+      "views": 55645679,
+      "likes": 326226
     },
     "publishedAt": "2018-02-01T15:30:00Z",
     "verification": {
@@ -3488,41 +3386,6 @@
     "algorithm": {
       "trendingScore": 28.32,
       "recommendationScore": 46.79
-    }
-  },
-  {
-    "id": "IRbHGlR4pPI",
-    "title": "Naga Chaitanya, Kriti Sanon SOUTH BLOCKBUSTER HINDI DUBBED Full Movie 4K VIDROH LETS FIGHT BACK",
-    "slug": "naga-chaitanya-kriti-sanon-south-blockbuster-hindi-dubbed-full-movie-4k-vidroh-lets-fight-back",
-    "youtubeVideoId": "IRbHGlR4pPI",
-    "youtubeUrl": "https://www.youtube.com/watch?v=IRbHGlR4pPI",
-    "thumbnail": "https://i.ytimg.com/vi/IRbHGlR4pPI/maxresdefault.jpg",
-    "language": "Tamil",
-    "audioLanguage": "Hindi",
-    "dubbed": true,
-    "creator": {
-      "name": "Ultra 4K Movies",
-      "channelId": "UCh7chdVHhcQmzQgZopUrbxQ",
-      "channelUrl": "https://www.youtube.com/channel/UCh7chdVHhcQmzQgZopUrbxQ"
-    },
-    "description": "Naga Chaitanya, Kriti Sanon SOUTH BLOCKBUSTER HINDI DUBBED Full Movie 4K VIDROH LETS FIGHT BACK.  💥 LIKE!!! 💥  SHARE!!! 💥 SUBSCRIBE To Ultra 4K Movies :- https://bit.ly/49ze4XY\n\n🎥 Movie Details :- \nMovie : Vidroh Let's Fight Back (Dohchay) 2015 \nCast : Naga Chaitanya नागा चैतन्य as Chandu,\n           Kriti Sanon कृति सेनन as Meera (Voice dubbed by Chinmayi) , \n           Brahmanandam ब्रह्मानंदम as Bullet Babu, \n           Ravi Babu रवि बाबू, Posani Krishna Murali पोसानी कृष्ण, \n           Pooja Ramachandran पूजा रामचंद्रन , Bharath Raju, Raghu Raju, Tanya Sachdeva, Rao Ramesh, Chalapathi Rao, Saptagiri, Praveen, Satya, Priya, Sana, Viva Harsha, Prabhas Sreenu, Sudharshan, Nyra Banerjee in an item number\n\n😮‍💨Synopsis :-\nVidroh - Let's fight back is a 2015 Hindi dubbed action drama film starring Naga Chaitanya and Kriti Sanon. Chandu, a small-time conman, has only two ambitions in his life. He wants to free his ailing father from jail and fund his sister's medical education. Chandu chances upon a large sum of money that was robbed by two men from a bank. Chandu decides to fulfil his dreams with the money but is chased by the robbers' gang members.\n\n👀 Click on Below Links for More Entertainment :-\nBollywood 4K Movie :- https://bit.ly/3y9DQF7\nClassic Movies 60's 70's 80's :- https://bit.ly/4doQcJE\nBest Of Ultra 4K Movies :- https://bit.ly/44nbhQE\n\n✅Hastag :-\n#vidroh #dohchay #nagachaitanya #kritisanon #brahmanandam #ravibabu #pookaramachandran #southindianmovie #south #dubbedmovie #hindidubbed #fullmovie #action #4k #4kmovies #hindimovie #ultra4kmovies #newmovie #2015 #2000s",
-    "metadata": {
-      "year": 2015,
-      "genre": [],
-      "durationSeconds": 6944
-    },
-    "statistics": {
-      "views": 50153737,
-      "likes": 282515
-    },
-    "publishedAt": "2024-11-30T13:30:14Z",
-    "verification": {
-      "status": "unknown",
-      "method": "youtube-metadata"
-    },
-    "algorithm": {
-      "trendingScore": 28.31,
-      "recommendationScore": 46.59
     }
   },
   {
@@ -3547,8 +3410,8 @@
       "durationSeconds": 8672
     },
     "statistics": {
-      "views": 1825721,
-      "likes": 19854
+      "views": 1826939,
+      "likes": 19858
     },
     "publishedAt": "2025-10-28T14:01:19Z",
     "verification": {
@@ -3556,8 +3419,8 @@
       "method": "youtube-metadata"
     },
     "algorithm": {
-      "trendingScore": 28.29,
-      "recommendationScore": 41.65
+      "trendingScore": 28.28,
+      "recommendationScore": 41.64
     }
   },
   {
@@ -3582,8 +3445,8 @@
       "durationSeconds": 10303
     },
     "statistics": {
-      "views": 17027759,
-      "likes": 191291
+      "views": 17027896,
+      "likes": 191292
     },
     "publishedAt": "2021-09-26T09:00:11Z",
     "verification": {
@@ -3617,8 +3480,8 @@
       "durationSeconds": 8337
     },
     "statistics": {
-      "views": 33583137,
-      "likes": 260858
+      "views": 33588653,
+      "likes": 260894
     },
     "publishedAt": "2023-12-19T13:30:08Z",
     "verification": {
@@ -3652,8 +3515,8 @@
       "durationSeconds": 7592
     },
     "statistics": {
-      "views": 26258524,
-      "likes": 222600
+      "views": 26262181,
+      "likes": 222622
     },
     "publishedAt": "2024-04-29T14:00:07Z",
     "verification": {
@@ -3687,8 +3550,8 @@
       "durationSeconds": 7821
     },
     "statistics": {
-      "views": 63499639,
-      "likes": 274464
+      "views": 63503274,
+      "likes": 274480
     },
     "publishedAt": "2018-08-10T08:00:07Z",
     "verification": {
@@ -3698,41 +3561,6 @@
     "algorithm": {
       "trendingScore": 28.08,
       "recommendationScore": 46.72
-    }
-  },
-  {
-    "id": "tAQXJE-LoDQ",
-    "title": "The Return Of Rebel (4K) Prabhas Action Telugu Hindi Dubbed Full Movie | Tamannaah Bhatia",
-    "slug": "the-return-of-rebel-4k-prabhas-action-telugu-hindi-dubbed-full-movie-tamannaah-bhatia",
-    "youtubeVideoId": "tAQXJE-LoDQ",
-    "youtubeUrl": "https://www.youtube.com/watch?v=tAQXJE-LoDQ",
-    "thumbnail": "https://i.ytimg.com/vi/tAQXJE-LoDQ/maxresdefault.jpg",
-    "language": "Telugu",
-    "audioLanguage": "Hindi",
-    "dubbed": true,
-    "creator": {
-      "name": "Goldmines Dishoom",
-      "channelId": "UCu7Hg0f3rxqZ6qs-188ZbjQ",
-      "channelUrl": "https://www.youtube.com/channel/UCu7Hg0f3rxqZ6qs-188ZbjQ"
-    },
-    "description": "Rishi comes to Hyderabad in search of Mafia's deadly duo Stephen and Robert. Nobody knows how they look like. Rishi's mission is to identify them and eliminate them. He starts from the bottom of the mafia pyramid to get to the top. In the process he uses a beautiful girl Tamanna who dislikes her father's criminal activity and settles as a dance teacher in Bangkok. The rest of the story is about what prompted Rishi to search for Stephen and Robert and how he eliminates them.\n\nMovie:- The Return of Rebel (Rebel) \nStarcast:- Prabhas, Tamannaah Bhatia, Deeksha Seth, Krishnam Raju, Brahmanandam, Mukesh Rishi, Ali \nDirected by:- Raghava Lawrence \nCreative Producer:- Manish Shah \nMusic by:- S. Chinna",
-    "metadata": {
-      "year": null,
-      "genre": [],
-      "durationSeconds": 8095
-    },
-    "statistics": {
-      "views": 36697925,
-      "likes": 249784
-    },
-    "publishedAt": "2022-03-17T05:30:13Z",
-    "verification": {
-      "status": "unknown",
-      "method": "youtube-metadata"
-    },
-    "algorithm": {
-      "trendingScore": 28.03,
-      "recommendationScore": 46.05
     }
   },
   {
@@ -3757,8 +3585,8 @@
       "durationSeconds": 8658
     },
     "statistics": {
-      "views": 51223197,
-      "likes": 258923
+      "views": 51224212,
+      "likes": 258931
     },
     "publishedAt": "2018-04-21T18:03:25Z",
     "verification": {
@@ -3792,8 +3620,8 @@
       "durationSeconds": 9143
     },
     "statistics": {
-      "views": 20796749,
-      "likes": 184473
+      "views": 20798868,
+      "likes": 184493
     },
     "publishedAt": "2020-02-11T08:06:06Z",
     "verification": {
@@ -3827,8 +3655,8 @@
       "durationSeconds": 7262
     },
     "statistics": {
-      "views": 26990809,
-      "likes": 185112
+      "views": 26991646,
+      "likes": 185116
     },
     "publishedAt": "2019-02-08T16:30:02Z",
     "verification": {
@@ -3862,8 +3690,8 @@
       "durationSeconds": 8354
     },
     "statistics": {
-      "views": 24506026,
-      "likes": 178958
+      "views": 24509837,
+      "likes": 178969
     },
     "publishedAt": "2023-01-12T08:30:15Z",
     "verification": {
@@ -3873,6 +3701,41 @@
     "algorithm": {
       "trendingScore": 27.64,
       "recommendationScore": 45.23
+    }
+  },
+  {
+    "id": "KDsjKkPrNoY",
+    "title": "Challenging Star Darshan's Action Blockbuster - KRANTIYODHHA Full Movie In Hindi Dubbed | Jagapathi",
+    "slug": "challenging-star-darshan-s-action-blockbuster-krantiyodhha-full-movie-in-hindi-dubbed-jagapathi",
+    "youtubeVideoId": "KDsjKkPrNoY",
+    "youtubeUrl": "https://www.youtube.com/watch?v=KDsjKkPrNoY",
+    "thumbnail": "https://i.ytimg.com/vi/KDsjKkPrNoY/maxresdefault.jpg",
+    "language": "Kannada",
+    "audioLanguage": "Hindi",
+    "dubbed": true,
+    "creator": {
+      "name": "Box Movies",
+      "channelId": "UC3rAWi1hK9Plaag4yQ6K8KA",
+      "channelUrl": "https://www.youtube.com/channel/UC3rAWi1hK9Plaag4yQ6K8KA"
+    },
+    "description": "Presenting the power-packed action and emotional drama of KRANTIYODHHA Full Hindi Dubbed Movie – a gripping story of justice, love, and vengeance! Starring Challenging Star Darshan, stunning Aradhana Ram, and the intense Jagapathi Babu in a never-seen-before avatar. Directed by the talented Tharun Sudhir, this 2025 blockbuster brings back mass action entertainment to the big screen!\n\n#darshan is back and better than ever in a fierce mass leader role - ready to rule the screen and your hearts! \n\nKRANTIYODHHA (Darshan) is a blacksmith in Bheemanahalli living with his sister Kumari, brother-in-law Mahadevanna and family. Kaatera has to tackle multiple challenges to implement Land Reforms Act in order for the farmers to escape from the feudal landlords Devaraya and Kaalegowda as they are torturing the farmers to gain tax\n\nHighlights:\n*Power-packed action sequences KRANTIYODHHA (2025) Full Hindi Dubbed Movie\n*Gripping rural drama with emotional depth\n*A must-watch for fans of action and powerful storytelling!\n\n\nComment your favorite scene and show your love for #kaatera \n\n#KRANTIYODHHAFullMovie #DarshanNewMovie #KRANTIYODHHAHindiDubbed #SouthMovieHindiDubbed #AradhanaRam #JagapathiBabu #Blockbuster2025 #ActionDrama #HindiDubbed2025 #NewSouthMovie",
+    "metadata": {
+      "year": 2025,
+      "genre": [],
+      "durationSeconds": 9280
+    },
+    "statistics": {
+      "views": 1577065,
+      "likes": 6929
+    },
+    "publishedAt": "2025-12-05T13:30:21Z",
+    "verification": {
+      "status": "unknown",
+      "method": "youtube-metadata"
+    },
+    "algorithm": {
+      "trendingScore": 27.48,
+      "recommendationScore": 40.28
     }
   },
   {
@@ -3897,7 +3760,7 @@
       "durationSeconds": 6653
     },
     "statistics": {
-      "views": 2417015,
+      "views": 2420054,
       "likes": 0
     },
     "publishedAt": "2025-12-19T15:30:06Z",
@@ -3906,7 +3769,7 @@
       "method": "youtube-metadata"
     },
     "algorithm": {
-      "trendingScore": 27.39,
+      "trendingScore": 27.38,
       "recommendationScore": 40.46
     }
   },
@@ -3932,8 +3795,8 @@
       "durationSeconds": 7115
     },
     "statistics": {
-      "views": 2183971,
-      "likes": 30216
+      "views": 2185092,
+      "likes": 30220
     },
     "publishedAt": "2025-06-25T07:30:24Z",
     "verification": {
@@ -3967,8 +3830,8 @@
       "durationSeconds": 7074
     },
     "statistics": {
-      "views": 8614340,
-      "likes": 39598
+      "views": 8616499,
+      "likes": 39608
     },
     "publishedAt": "2025-08-19T15:00:23Z",
     "verification": {
@@ -3978,41 +3841,6 @@
     "algorithm": {
       "trendingScore": 27.26,
       "recommendationScore": 43.0
-    }
-  },
-  {
-    "id": "6HMnj3AdWyQ",
-    "title": "Parinayam Full Movie | Vivah Best Romantic Movie|Shahid Kapoor & Amrita Rao |Valentine's Day Special",
-    "slug": "parinayam-full-movie-vivah-best-romantic-movie-shahid-kapoor-amrita-rao-valentine-s-day-special",
-    "youtubeVideoId": "6HMnj3AdWyQ",
-    "youtubeUrl": "https://www.youtube.com/watch?v=6HMnj3AdWyQ",
-    "thumbnail": "https://i.ytimg.com/vi/6HMnj3AdWyQ/maxresdefault.jpg",
-    "language": "Telugu",
-    "audioLanguage": "Hindi",
-    "dubbed": true,
-    "creator": {
-      "name": "Rajshri Telugu",
-      "channelId": "UCtnKfLVKJQ3JAB1Uf0juUtA",
-      "channelUrl": "https://www.youtube.com/channel/UCtnKfLVKJQ3JAB1Uf0juUtA"
-    },
-    "description": "Watch this superhit Telugu blockbuster romantic family drama film #Parinayam - A Journey From Engagement To Marriage' (2006), starring Shahid Kapoor, Amrita Rao, Anupam Kher, Alok Nath, Seema Biswas, Samir Soni, Lata Sabharwal, Amrita Prakash, Manoj Joshi, Mohnish Behl. \n\n#Vivah HappyValentine'sDay #RajshriTelugu #Parinayam\n\nDirected by Sooraj R. Barjatya. \nMusic & Lyrics by Ravindra Jain. \nSingers: Udit Narayan, Shreya Ghoshal, Babul Supriyo, Suresh Wadkar, Kumar Sanu, Ravindra Jain, Pamela Jain, Sudesh Bhonsle, Aparnaa Bhaagwa, Ravindra Sen.\n\nSynopsis: Poornima (Amrita Rao) is an orphaned middle-class girl who lives with her Chinnanna (Alok Nath) and Pinni (Seema Biswas). Poornima's Pinni has been unable to accept Poornima as her own child as she is more beautiful than Pinni's daughter, Bujji (Amrita Prakash). Poornima's simple and affectionate demeanor touches the heart of Bhagatji (Manoj Joshi) who takes her marriage proposal for Prem (Shahid Kapoor), son of renowned businessman Mr. Harishchandra Prasad(Anupam Kher). In spite of being brought up in the fast city life of New Delhi, Prem is rooted to the ground and has retained his family's traditional values and upbringing. Respecting his father's wishes, Prem agrees to meet Poornima to get to know her better. What follows is a 'meeting' arranged by the two families. Prem and Poornima are suddenly in the midst of a situation they have never been in before. They discover their soul mates in each other and are engaged - to be married in six months. Prem and Poornima go through the most magical and romantic period of their lives. Six months fly by and just when everything is set for Prem and Poornima to get married... a crisis puts the love of Prem and Poornima through a trial by fire. 'Parinayam's a heart-warming tale of their unconditional love. Subscribe now for more updates \n\nWatch Full Length Telugu Movies : https://www.youtube.com/playlist?list=PL682558A6A4048CF0\n\nMore Hindi Dubbed Movies & Scenes : https://www.youtube.com/playlist?list=PLlBLXawQDnQORibw6NI9BDMo0pWpyM5aX\n\nEnjoy More Best Movie Parts : https://www.youtube.com/playlist?list=PLlBLXawQDnQNG4wm9NoOoKFNUckmI5hKS\n\nKindly Watch More Best Telugu Scenes : https://www.youtube.com/playlist?list=PLlBLXawQDnQOk4vQ2aA-tUshS5aHxSwnx\n\nSubscribe To Channel For More Updates: http://bit.ly/SubscribeToRajshri-Telugu\n\nWhatsApp Channel: https://whatsapp.com/channel/0029Vb6C7Km47XeBRnQMTG1J\n\nJoin & Like our Facebook Rajshritelugu Fan Page\nhttp://www.facebook.com/rajshritelugu",
-    "metadata": {
-      "year": 2006,
-      "genre": [],
-      "durationSeconds": 9550
-    },
-    "statistics": {
-      "views": 34658018,
-      "likes": 136161
-    },
-    "publishedAt": "2019-02-12T06:30:00Z",
-    "verification": {
-      "status": "unknown",
-      "method": "youtube-metadata"
-    },
-    "algorithm": {
-      "trendingScore": 27.18,
-      "recommendationScore": 45.2
     }
   },
   {
@@ -4037,8 +3865,8 @@
       "durationSeconds": 7859
     },
     "statistics": {
-      "views": 7134226,
-      "likes": 79307
+      "views": 7135605,
+      "likes": 79318
     },
     "publishedAt": "2022-12-15T13:30:07Z",
     "verification": {
@@ -4072,8 +3900,8 @@
       "durationSeconds": 7505
     },
     "statistics": {
-      "views": 28531190,
-      "likes": 123555
+      "views": 28533823,
+      "likes": 123569
     },
     "publishedAt": "2018-08-31T11:30:04Z",
     "verification": {
@@ -4107,8 +3935,8 @@
       "durationSeconds": 9445
     },
     "statistics": {
-      "views": 14008869,
-      "likes": 105674
+      "views": 14015036,
+      "likes": 105741
     },
     "publishedAt": "2023-03-08T14:30:07Z",
     "verification": {
@@ -4142,8 +3970,8 @@
       "durationSeconds": 8688
     },
     "statistics": {
-      "views": 1542658,
-      "likes": 11207
+      "views": 1543784,
+      "likes": 11213
     },
     "publishedAt": "2025-10-23T14:30:22Z",
     "verification": {
@@ -4151,7 +3979,7 @@
       "method": "youtube-metadata"
     },
     "algorithm": {
-      "trendingScore": 26.97,
+      "trendingScore": 26.96,
       "recommendationScore": 40.28
     }
   },
@@ -4177,8 +4005,8 @@
       "durationSeconds": 7709
     },
     "statistics": {
-      "views": 15483132,
-      "likes": 101352
+      "views": 15487969,
+      "likes": 101375
     },
     "publishedAt": "2022-02-25T15:35:22Z",
     "verification": {
@@ -4212,8 +4040,8 @@
       "durationSeconds": 6130
     },
     "statistics": {
-      "views": 1781990,
-      "likes": 8769
+      "views": 1784788,
+      "likes": 8782
     },
     "publishedAt": "2025-10-31T14:00:04Z",
     "verification": {
@@ -4221,7 +4049,7 @@
       "method": "youtube-metadata"
     },
     "algorithm": {
-      "trendingScore": 26.73,
+      "trendingScore": 26.72,
       "recommendationScore": 40.14
     }
   },
@@ -4247,8 +4075,8 @@
       "durationSeconds": 7737
     },
     "statistics": {
-      "views": 8870211,
-      "likes": 56322
+      "views": 8872156,
+      "likes": 56330
     },
     "publishedAt": "2025-04-23T12:30:08Z",
     "verification": {
@@ -4282,8 +4110,8 @@
       "durationSeconds": 7813
     },
     "statistics": {
-      "views": 12871699,
-      "likes": 83955
+      "views": 12873916,
+      "likes": 83972
     },
     "publishedAt": "2018-11-13T08:20:04Z",
     "verification": {
@@ -4293,6 +4121,41 @@
     "algorithm": {
       "trendingScore": 26.59,
       "recommendationScore": 43.52
+    }
+  },
+  {
+    "id": "_Z0QVm0VQeI",
+    "title": "Mahesh Babu Popular Action Thriller Hindi Dubbed Full Movie | Tapori Wanted | Ileana, Prakash Raj",
+    "slug": "mahesh-babu-popular-action-thriller-hindi-dubbed-full-movie-tapori-wanted-ileana-prakash-raj",
+    "youtubeVideoId": "_Z0QVm0VQeI",
+    "youtubeUrl": "https://www.youtube.com/watch?v=_Z0QVm0VQeI",
+    "thumbnail": "https://i.ytimg.com/vi/_Z0QVm0VQeI/sddefault.jpg",
+    "language": "Telugu",
+    "audioLanguage": "Hindi",
+    "dubbed": true,
+    "creator": {
+      "name": "Ultra Movie World",
+      "channelId": "UC6FvHUSDY5e_VVNVAYaNsAw",
+      "channelUrl": "https://www.youtube.com/channel/UC6FvHUSDY5e_VVNVAYaNsAw"
+    },
+    "description": "Tapori Wanted (Pokiri) is a 2006 Indian Telugu-language action thriller film written and directed by Puri Jagannadh. The film was produced by Jagannadh and Manjula Ghattamaneni by their respective production companies Vaishno Academy and Indira Productions. The film stars Mahesh Babu, Ileana, Prakash Raj, Nassar, Ashish Vidyarthi and Sayaji Shinde. In the film, a local goon whose killer instincts earns him not only his girlfriend's disapproval and a corrupt cop's enmity, but also the attention of a wanted crime boss.\n\nStoryplot : Krishna, a police officer, disguises himself as a thug and joins the mafia in order to wipe out the underworld. Meanwhile, he falls in love with Shruti, an aerobics teacher.\n\nStarring : Mahesh Babu, Ileana D'Cruz, Prakash Raj\nWritten & Directed by : Puri Jagannadh\nCinematography : Shyam K. Naidu\nEdited by : Marthand K. Venkatesh\nMusic by : Mani Sharma\n\n#ultramovieworld  #taporiwanted  #pokiri  #hindidubbedmovies",
+    "metadata": {
+      "year": 2006,
+      "genre": [],
+      "durationSeconds": 7748
+    },
+    "statistics": {
+      "views": 17517996,
+      "likes": 67020
+    },
+    "publishedAt": "2025-01-18T13:30:16Z",
+    "verification": {
+      "status": "unknown",
+      "method": "youtube-metadata"
+    },
+    "algorithm": {
+      "trendingScore": 26.55,
+      "recommendationScore": 43.72
     }
   },
   {
@@ -4317,8 +4180,8 @@
       "durationSeconds": 7952
     },
     "statistics": {
-      "views": 1094318,
-      "likes": 15290
+      "views": 1095291,
+      "likes": 15300
     },
     "publishedAt": "2025-06-18T10:43:13Z",
     "verification": {
@@ -4337,7 +4200,7 @@
     "youtubeVideoId": "68gQDoM1kqg",
     "youtubeUrl": "https://www.youtube.com/watch?v=68gQDoM1kqg",
     "thumbnail": "https://i.ytimg.com/vi/68gQDoM1kqg/maxresdefault.jpg",
-    "language": "Tamil",
+    "language": "Malayalam",
     "audioLanguage": "Hindi",
     "dubbed": true,
     "creator": {
@@ -4352,7 +4215,7 @@
       "durationSeconds": 5512
     },
     "statistics": {
-      "views": 6803397,
+      "views": 6804391,
       "likes": 0
     },
     "publishedAt": "2025-09-22T14:42:15Z",
@@ -4387,8 +4250,8 @@
       "durationSeconds": 7281
     },
     "statistics": {
-      "views": 16308760,
-      "likes": 60451
+      "views": 16311102,
+      "likes": 60458
     },
     "publishedAt": "2019-07-08T16:30:00Z",
     "verification": {
@@ -4422,8 +4285,8 @@
       "durationSeconds": 6170
     },
     "statistics": {
-      "views": 7191666,
-      "likes": 54191
+      "views": 7193973,
+      "likes": 54201
     },
     "publishedAt": "2023-10-28T06:30:16Z",
     "verification": {
@@ -4433,41 +4296,6 @@
     "algorithm": {
       "trendingScore": 26.11,
       "recommendationScore": 42.41
-    }
-  },
-  {
-    "id": "S8H4yLfbrgo",
-    "title": "DASHING JIGARWALA 2 - Hindi Dubbed Full Movie | Mammootty Unni Mukundan, Sneha | Action Movie",
-    "slug": "dashing-jigarwala-2-hindi-dubbed-full-movie-mammootty-unni-mukundan-sneha-action-movie",
-    "youtubeVideoId": "S8H4yLfbrgo",
-    "youtubeUrl": "https://www.youtube.com/watch?v=S8H4yLfbrgo",
-    "thumbnail": "https://i.ytimg.com/vi/S8H4yLfbrgo/maxresdefault.jpg",
-    "language": "Malayalam",
-    "audioLanguage": "Hindi",
-    "dubbed": true,
-    "creator": {
-      "name": "MOVIE STATION",
-      "channelId": "UCp5_5-EEEVhqz09GUu6J2MQ",
-      "channelUrl": "https://www.youtube.com/channel/UCp5_5-EEEVhqz09GUu6J2MQ"
-    },
-    "description": "Presenting Hindi Dubbed Full Movie \" Dashing Jigarwala 2\" Starring Mammootty, Unni Mukundan, Mukesh, Varalaxmi Sarathkumar, Poonam Bajwa, Gokul Suresh, Maqbool Salmaan. Exclusively on @moviestation3420\n \n\nSubscribe to @moviestation3420 For More South Indian Blockbusters in Hindi for FREE - http://bit.ly/Movie-Station-Subscribe\n\nPopular Movies:\n⦿ Singha - https://youtu.be/nv2q7ZzAONc\n⦿ Kismat Ki Hera Pheri - https://youtu.be/SgZTaq8SCmg\n⦿ Furious Jigarwala - https://youtu.be/0836I3GAEDA\n⦿ Alibaba - https://youtu.be/21fVXb5vWh8\n⦿ Lethal Jigarwala - https://youtu.be/jK6Nnm3ND20\n⦿ Do Balwaan - https://youtu.be/ej-tyOGSukA\n⦿ Miss Bhanumathi - https://youtu.be/jRqWn6NGWcA\n⦿ Kariya 2 - https://youtu.be/uyv4X5bLOLw\n⦿ Dashing Khiladi 1 - https://youtu.be/3Hw0EUeBu-M\n⦿ Shravan : The Real Hero - https://youtu.be/MPeM0yqAU2Q\n⦿ Gangs Of Khilads - https://youtu.be/OwC3sfFR0TM\n\nCredits:\nDirected by Ajai Vasudev\nProduced by C. H. Muhammed\nWritten by Uday Krishna\nStarring: Mammootty, Unni Mukundan, Mukesh, Varalaxmi Sarathkumar, Poonam Bajwa, Gokul Suresh, Maqbool Salmaan\nMusic by Deepak Dev\nCinematography: Vinod Illampally\nEdited by Johnkutty\n\nSynopsis :\nWhen the students of the Travancore Maharaja College start to form gangs and engage in crime and brutal fights, Edward Livingston, an English professor decides to restore order in the campus.\n\nSubscribe to @moviestation3420 For More South Indian Blockbusters in Hindi for FREE - http://bit.ly/Movie-Station-Subscribe\n \n#DashingJigarwala2 #HindiDubbedMovies",
-    "metadata": {
-      "year": null,
-      "genre": [],
-      "durationSeconds": 7956
-    },
-    "statistics": {
-      "views": 6801231,
-      "likes": 46601
-    },
-    "publishedAt": "2024-05-02T14:30:08Z",
-    "verification": {
-      "status": "unknown",
-      "method": "youtube-metadata"
-    },
-    "algorithm": {
-      "trendingScore": 25.88,
-      "recommendationScore": 42.13
     }
   },
   {
@@ -4492,8 +4320,8 @@
       "durationSeconds": 7732
     },
     "statistics": {
-      "views": 3578162,
-      "likes": 11709
+      "views": 3579445,
+      "likes": 11711
     },
     "publishedAt": "2025-08-18T15:01:12Z",
     "verification": {
@@ -4527,8 +4355,8 @@
       "durationSeconds": 8809
     },
     "statistics": {
-      "views": 2644100,
-      "likes": 26380
+      "views": 2644270,
+      "likes": 26381
     },
     "publishedAt": "2023-05-28T14:00:10Z",
     "verification": {
@@ -4562,8 +4390,8 @@
       "durationSeconds": 8839
     },
     "statistics": {
-      "views": 4370464,
-      "likes": 32294
+      "views": 4373532,
+      "likes": 32317
     },
     "publishedAt": "2023-05-12T05:30:03Z",
     "verification": {
@@ -4573,6 +4401,41 @@
     "algorithm": {
       "trendingScore": 25.42,
       "recommendationScore": 41.21
+    }
+  },
+  {
+    "id": "Pf4FN72M-wI",
+    "title": "(इरुल) IRUL - Ek Bhayanak Raat | Hindi Dubbed Full Movie | Fahad Faasil, Darshana Rajendran",
+    "slug": "irul-ek-bhayanak-raat-hindi-dubbed-full-movie-fahad-faasil-darshana-rajendran",
+    "youtubeVideoId": "Pf4FN72M-wI",
+    "youtubeUrl": "https://www.youtube.com/watch?v=Pf4FN72M-wI",
+    "thumbnail": "https://i.ytimg.com/vi/Pf4FN72M-wI/maxresdefault.jpg",
+    "language": "Malayalam",
+    "audioLanguage": "Hindi",
+    "dubbed": true,
+    "creator": {
+      "name": "Ultra Movie World",
+      "channelId": "UC6FvHUSDY5e_VVNVAYaNsAw",
+      "channelUrl": "https://www.youtube.com/channel/UC6FvHUSDY5e_VVNVAYaNsAw"
+    },
+    "description": "Click on the link to subscribe your favourite channel @UltraMovieWorld   \nGet notified about our Latest Video and update by Clicking the Bell Icon.\n\nIrul (transl. Darkness) is a 2021 Indian Malayalam-language mystery thriller film directed by Naseef Yusuf Izuddin in his directorial debut. The film is jointly produced by Anto Joseph Film Company and Plan J Studios, which stars Fahadh Faasil, Soubin Shahir and Darshana Rajendran. The film was released on streaming platform Netflix on 2 April 2021\n\nStarring : Fahadh Faasil, Soubin Shahir, Darshana Rajendran, Jipa John, Mashar Hamsa.\nDirected by : Naseef Yusuf Izuddin\nWritten by : Sunil Yadav\nProduced by : Anto Joseph, Jomon T. John, Shameer Muhammed\nCinematography : Jomon T. John\nEdited by : Shameer Muhammed\nMusic by : Sreerag Saji\nLanguage: Malayalam\n\n#irul  #ultramovieworld  #hindidubbedmovies  #hindidubbedmalayalammovies  #southdubbedhindimovie",
+    "metadata": {
+      "year": 2021,
+      "genre": [],
+      "durationSeconds": 5349
+    },
+    "statistics": {
+      "views": 2934185,
+      "likes": 26486
+    },
+    "publishedAt": "2023-07-25T06:30:05Z",
+    "verification": {
+      "status": "unknown",
+      "method": "youtube-metadata"
+    },
+    "algorithm": {
+      "trendingScore": 25.34,
+      "recommendationScore": 40.68
     }
   },
   {
@@ -4597,8 +4460,8 @@
       "durationSeconds": 7204
     },
     "statistics": {
-      "views": 2758781,
-      "likes": 25212
+      "views": 2758894,
+      "likes": 25213
     },
     "publishedAt": "2022-08-22T06:10:39Z",
     "verification": {
@@ -4632,8 +4495,8 @@
       "durationSeconds": 10024
     },
     "statistics": {
-      "views": 2191983,
-      "likes": 15563
+      "views": 2193580,
+      "likes": 15568
     },
     "publishedAt": "2025-05-02T13:30:42Z",
     "verification": {
@@ -4667,7 +4530,7 @@
       "durationSeconds": 7181
     },
     "statistics": {
-      "views": 2844560,
+      "views": 2844754,
       "likes": 12391
     },
     "publishedAt": "2025-06-07T13:45:04Z",
@@ -4702,7 +4565,7 @@
       "durationSeconds": 10069
     },
     "statistics": {
-      "views": 5620520,
+      "views": 5626993,
       "likes": 0
     },
     "publishedAt": "2025-07-07T03:32:41Z",
@@ -4737,7 +4600,7 @@
       "durationSeconds": 8676
     },
     "statistics": {
-      "views": 7755502,
+      "views": 7773531,
       "likes": 0
     },
     "publishedAt": "2025-05-08T15:30:06Z",
@@ -4772,8 +4635,8 @@
       "durationSeconds": 7391
     },
     "statistics": {
-      "views": 3129442,
-      "likes": 20824
+      "views": 3130732,
+      "likes": 20833
     },
     "publishedAt": "2024-06-04T14:30:13Z",
     "verification": {
@@ -4807,8 +4670,8 @@
       "durationSeconds": 9340
     },
     "statistics": {
-      "views": 1902456,
-      "likes": 16176
+      "views": 1906133,
+      "likes": 16197
     },
     "publishedAt": "2023-11-18T03:57:54Z",
     "verification": {
@@ -4842,8 +4705,8 @@
       "durationSeconds": 7273
     },
     "statistics": {
-      "views": 3510736,
-      "likes": 17830
+      "views": 3511707,
+      "likes": 17833
     },
     "publishedAt": "2019-09-29T10:30:11Z",
     "verification": {
@@ -4852,42 +4715,42 @@
     },
     "algorithm": {
       "trendingScore": 24.51,
-      "recommendationScore": 40.11
+      "recommendationScore": 40.12
     }
   },
   {
-    "id": "NYLg-nRoWbA",
-    "title": "Mumbai Tyson - Hindi Dubbed Full Movie - Dhruva Sarja, Radhika Pandit, Sundar C, Yash",
-    "slug": "mumbai-tyson-hindi-dubbed-full-movie-dhruva-sarja-radhika-pandit-sundar-c-yash",
-    "youtubeVideoId": "NYLg-nRoWbA",
-    "youtubeUrl": "https://www.youtube.com/watch?v=NYLg-nRoWbA",
-    "thumbnail": "https://i.ytimg.com/vi/NYLg-nRoWbA/sddefault.jpg",
-    "language": "Kannada",
+    "id": "6Mm0CXh1UeI",
+    "title": "TAPORI WANTED (POKIRI) MAHESH BABU ACTION | Hindi Dubbed Full Movie 4K | Prakash Raj, Ileana D'Cruz",
+    "slug": "tapori-wanted-pokiri-mahesh-babu-action-hindi-dubbed-full-movie-4k-prakash-raj-ileana-d-cruz",
+    "youtubeVideoId": "6Mm0CXh1UeI",
+    "youtubeUrl": "https://www.youtube.com/watch?v=6Mm0CXh1UeI",
+    "thumbnail": "https://i.ytimg.com/vi/6Mm0CXh1UeI/maxresdefault.jpg",
+    "language": "Telugu",
     "audioLanguage": "Hindi",
     "dubbed": true,
     "creator": {
-      "name": "Zee Movies Hindi",
-      "channelId": "UCcWi9YwnWUsR53jV0T4ObKA",
-      "channelUrl": "https://www.youtube.com/channel/UCcWi9YwnWUsR53jV0T4ObKA"
+      "name": "Ultra 4K Movies",
+      "channelId": "UCh7chdVHhcQmzQgZopUrbxQ",
+      "channelUrl": "https://www.youtube.com/channel/UCh7chdVHhcQmzQgZopUrbxQ"
     },
-    "description": "𝑪𝙡𝒊𝙘𝒌 𝒉𝙚𝒓𝙚 𝙩𝒐 𝑺𝙪𝒃𝙨𝒄𝙧𝒊𝙗𝒆 𝒕𝙝𝒆 𝒄𝙝𝒂𝙣𝒏𝙚𝒍: https://bit.ly/3Q8uP6p\n\nMumbai Tyson is a 2014 Hindi dubbed romantic drama film starring Dhruva Sarja, Radhika Pandit and P. Ravi Shankar. The story revolves around Ashok, who falls in love with Anjali but trouble begins when Anjali’s father fixes her marriage to another boy. Can Ashok win over Anjali and her family?",
+    "description": "TAPORI WANTED (POKIRI) MAHESH BABU ACTION | Hindi Dubbed Full Movie 4K | Prakash Raj, Ileana D'Cruz. 💥 LIKE!!! 💥  SHARE!!! 💥 SUBSCRIBE To Ultra 4K Movies :- https://bit.ly/49ze4XY \n\n🎥 Movie Details :- \nMovie : Tapori Wanted (Pokiri)\nStarring : Mahesh Babu, Ileana D'Cruz,  Prakash Raj, Nassar, Ashish Vidyarthi, Sayaji Shinde, Brahmanandam, Ali, Venu Madhav, Satya Prakash, G. V. Sudhakar Naidu, Subbaraju, Bandla Ganesh\nDirector : Puri Jagannadh\nWritten by : Puri Jagannadh\nProduced by : Puri Jagannadh, Manjula Ghattamaneni\nCinematography : Shyam K. Naidu\nMusic : Mani Sharma \n\n✅Hastag :-\n#MaheshBabu #TaporiWanted #Pokiri #HindiDubbedMovie #SouthMovieHindiDubbed #IleanaDCruz #PrakashRaj #ActionMovie #FullMovieHindi #TeluguMovieHindiDubbed #4KMovie\n\n👀 Click on Below Links for More Entertainment :-\nBollywood 4K Movie :- https://bit.ly/3y9DQF7\nClassic Movies 60's 70's 80's :- https://bit.ly/4doQcJE\nBest Of Ultra 4K Movies :- https://bit.ly/44nbhQE",
     "metadata": {
-      "year": 2014,
+      "year": null,
       "genre": [],
-      "durationSeconds": 7829
+      "durationSeconds": 7776
     },
     "statistics": {
-      "views": 4810252,
-      "likes": 0
+      "views": 1828581,
+      "likes": 12934
     },
-    "publishedAt": "2025-01-10T16:30:06Z",
+    "publishedAt": "2024-12-27T13:30:06Z",
     "verification": {
       "status": "unknown",
       "method": "youtube-metadata"
     },
     "algorithm": {
-      "trendingScore": 23.82,
-      "recommendationScore": 39.73
+      "trendingScore": 24.44,
+      "recommendationScore": 39.21
     }
   },
   {
@@ -4912,8 +4775,8 @@
       "durationSeconds": 8669
     },
     "statistics": {
-      "views": 670735,
-      "likes": 4888
+      "views": 670827,
+      "likes": 4889
     },
     "publishedAt": "2023-07-14T13:00:09Z",
     "verification": {
@@ -4947,8 +4810,8 @@
       "durationSeconds": 6285
     },
     "statistics": {
-      "views": 279899,
-      "likes": 2322
+      "views": 280343,
+      "likes": 2326
     },
     "publishedAt": "2024-09-25T03:08:19Z",
     "verification": {
@@ -4958,41 +4821,6 @@
     "algorithm": {
       "trendingScore": 22.19,
       "recommendationScore": 35.05
-    }
-  },
-  {
-    "id": "HghrO8MxRRs",
-    "title": "Wolf Full Movie | Hindi dubbed | Arjun Ashokan | Samyuktha | Shine Tom Chacko",
-    "slug": "wolf-full-movie-hindi-dubbed-arjun-ashokan-samyuktha-shine-tom-chacko",
-    "youtubeVideoId": "HghrO8MxRRs",
-    "youtubeUrl": "https://www.youtube.com/watch?v=HghrO8MxRRs",
-    "thumbnail": "https://i.ytimg.com/vi/HghrO8MxRRs/maxresdefault.jpg",
-    "language": "Malayalam",
-    "audioLanguage": "Hindi",
-    "dubbed": true,
-    "creator": {
-      "name": "Millennium Hindi Movies",
-      "channelId": "UCgws73NkoZ3CM86mTkvWZXg",
-      "channelUrl": "https://www.youtube.com/channel/UCgws73NkoZ3CM86mTkvWZXg"
-    },
-    "description": "Wolf Full Movie | Hindi dubbed | Arjun Ashokan | Samyuktha | Shine Tom Chacko | Irshad Ali \n#wolf #hindidubbed #arjunashokan #malayalammovie #shinetomchacko #movie #entertainment #thriller \n\nWolf is a 2021 Indian Malayalam-language mystery thriller film directed by Shaji Azeez based on the short story Chennaya by G.R. Indugopan.  It is Story When the police try to unravel the truth behind a series of mysterious crimes in a locality, they face an unexpected situation.\n\nDirector : Shaji Azeez\nWriter    : G.R. Indugopan \nStars     : Arjun Ashokan, Samyuktha Menon, Irshad Ali , Shine Tom Chacko\nProducer : Santhosh Damodaran\n\n☟REACH US ON\n\nSongs: https://www.youtube.com/@mtamilsongs\n\nWeb : https://www.millenniumaudios.com\n\nFacebook : https://www.facebook.com/MillenniumAu...\n\nTwitter :https://twitter.com/millenniumaudio\n\nBlog : http://www.millenniumaudios.in/",
-    "metadata": {
-      "year": 2021,
-      "genre": [],
-      "durationSeconds": 6797
-    },
-    "statistics": {
-      "views": 24100,
-      "likes": 173
-    },
-    "publishedAt": "2025-11-02T04:30:26Z",
-    "verification": {
-      "status": "unknown",
-      "method": "youtube-metadata"
-    },
-    "algorithm": {
-      "trendingScore": 21.77,
-      "recommendationScore": 30.64
     }
   },
   {
@@ -5017,7 +4845,7 @@
       "durationSeconds": 9318
     },
     "statistics": {
-      "views": 137457,
+      "views": 137538,
       "likes": 1248
     },
     "publishedAt": "2023-03-22T14:00:08Z",
@@ -5052,7 +4880,7 @@
       "durationSeconds": 8998
     },
     "statistics": {
-      "views": 287572,
+      "views": 287727,
       "likes": 880
     },
     "publishedAt": "2025-03-28T09:30:25Z",
@@ -5087,7 +4915,7 @@
       "durationSeconds": 5563
     },
     "statistics": {
-      "views": 60099,
+      "views": 60139,
       "likes": 387
     },
     "publishedAt": "2022-04-30T16:50:07Z",
