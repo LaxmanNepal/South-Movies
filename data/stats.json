@@ -1,33 +1,32 @@
 {
-  "totalMovies": 133,
+  "totalMovies": 127,
   "byLanguage": {
-    "Telugu": 44,
-    "Tamil": 31,
-    "Kannada": 25,
-    "Malayalam": 33
+    "Telugu": 40,
+    "Tamil": 33,
+    "Kannada": 23,
+    "Malayalam": 31
   },
   "byYear": {
-    "2026": 38,
+    "2026": 33,
     "2022": 4,
-    "1976": 1,
-    "2023": 9,
-    "2025": 11,
-    "2024": 6,
+    "2023": 11,
+    "2025": 12,
+    "2024": 5,
     "2020": 1,
-    "2019": 5,
+    "2019": 6,
     "2018": 6,
-    "2017": 1,
+    "1990": 1,
     "2015": 1,
-    "2021": 2,
-    "2006": 1
+    "2006": 1,
+    "2021": 1
   },
   "byGenre": {},
   "verifiedSources": 0,
   "probableSources": 1,
-  "unknownSources": 132,
+  "unknownSources": 126,
   "brokenSources": 0,
-  "latestUpdate": "2026-08-28T11:20:03.537991+00:00",
-  "catalogGrowth": 133,
+  "latestUpdate": "2026-08-28T22:16:19.320078+00:00",
+  "catalogGrowth": 127,
   "languageScope": "South Indian cinema",
   "audioScope": "Hindi dubbed only"
 }
