@@ -8,6 +8,7 @@ on:
     paths:
       - 'scripts/**'
       - '.github/workflows/update-catalog.yml'
+      - 'data/official-channels.json'
 permissions:
   contents: write
 jobs:
@@ -22,6 +23,8 @@ jobs:
         env:
           YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
         run: python scripts/discover.py
+      - name: Enforce official channel whitelist
+        run: python scripts/validate_catalog.py
       - name: Generate static pages and SEO
         run: python scripts/generate.py
       - name: Commit catalog
