@@ -1,180 +1,27 @@
 [
-  {
-    "id": "goldmines",
-    "name": "Goldmines",
-    "handle": "@GoldminesTelefilms",
-    "channelId": "UCyoXW-Dse7fURq30EWl_CUA",
-    "channelUrl": "https://www.youtube.com/@GoldminesTelefilms",
-    "company": "Goldmines Telefilms",
-    "country": "India",
-    "languages": ["Hindi", "Telugu", "Tamil", "Kannada"],
-    "contentTypes": ["South Indian Hindi dubbed full movies", "movie scenes", "trailers"],
-    "officiality": "high",
-    "rightsEvidence": "Goldmines' official website states that the company acquires Hindi dubbing rights for South Indian films and identifies GoldminesTelefilms as its YouTube channel.",
-    "sourceUrls": [
-      "https://goldmines.co.in/",
-      "https://goldmines.co.in/channels.html",
-      "https://www.youtube.com/@GoldminesTelefilms"
-    ],
-    "verifiedOn": "2026-08-29"
-  },
-  {
-    "id": "goldmines-cineplex",
-    "name": "Goldmines Cineplex",
-    "handle": "@GoldminesCineplex",
-    "channelId": "UCCrw5RBWF9i8VPt4IxL8IsQ",
-    "channelUrl": "https://www.youtube.com/@GoldminesCineplex",
-    "company": "Goldmines Telefilms",
-    "country": "India",
-    "languages": ["Hindi", "Telugu", "Tamil", "Kannada"],
-    "contentTypes": ["South Indian Hindi dubbed full movies", "movie scenes"],
-    "officiality": "high",
-    "rightsEvidence": "The channel presents itself as a destination for Tollywood and South Indian movies dubbed in Hindi and is part of the Goldmines content network.",
-    "sourceUrls": [
-      "https://goldmines.co.in/channels.html",
-      "https://www.youtube.com/@GoldminesCineplex"
-    ],
-    "verifiedOn": "2026-08-29"
-  },
-  {
-    "id": "goldmines-premiere",
-    "name": "Goldmines Premiere",
-    "handle": "@GoldminesPremiere",
-    "channelId": "UCvUctuMp58UD_kQtcWcNCjw",
-    "channelUrl": "https://www.youtube.com/@GoldminesPremiere",
-    "company": "Goldmines Telefilms",
-    "country": "India",
-    "languages": ["Hindi", "Telugu", "Tamil", "Kannada"],
-    "contentTypes": ["premium Hindi dubbed full movies", "South Indian movies"],
-    "officiality": "high",
-    "rightsEvidence": "The verified YouTube channel describes itself as the destination for full-length premium Hindi dubbed movies and is branded as Goldmines Premiere.",
-    "sourceUrls": [
-      "https://www.youtube.com/@GoldminesPremiere",
-      "https://goldmines.co.in/channels.html"
-    ],
-    "verifiedOn": "2026-08-29"
-  },
-  {
-    "id": "goldmines-action",
-    "name": "Goldmines Action",
-    "handle": "@GoldminesActionMovies",
-    "channelId": null,
-    "channelUrl": "https://www.youtube.com/@GoldminesActionMovies",
-    "company": "Goldmines Telefilms",
-    "country": "India",
-    "languages": ["Hindi", "Telugu", "Tamil", "Kannada"],
-    "contentTypes": ["Hindi dubbed action movies", "South Indian action movies", "movie scenes"],
-    "officiality": "high",
-    "rightsEvidence": "Goldmines officially lists Goldmines Action as one of its Hindi movie channels, while the YouTube channel is branded GoldminesAction.",
-    "sourceUrls": [
-      "https://goldmines.co.in/channels.html",
-      "https://www.youtube.com/@GoldminesActionMovies"
-    ],
-    "verifiedOn": "2026-08-29"
-  },
-  {
-    "id": "rg-entertainment",
-    "name": "RG Entertainment",
-    "handle": "@RGEntertainmentIndia",
-    "channelId": "UCgfO009hB_847kwL6NQnn-w",
-    "channelUrl": "https://www.youtube.com/@RGEntertainmentIndia",
-    "company": "Royal Gold Entertainment",
-    "country": "India",
-    "languages": ["Hindi", "Tamil", "Telugu", "Malayalam", "Kannada"],
-    "contentTypes": ["South Indian Hindi dubbed full movies", "Indian full movies"],
-    "officiality": "high",
-    "rightsEvidence": "The verified channel identifies Royal Gold Entertainment as a production, distribution and acquisition company and publishes South Indian Hindi dubbed full movies.",
-    "sourceUrls": [
-      "https://www.youtube.com/@RGEntertainmentIndia"
-    ],
-    "verifiedOn": "2026-08-29"
-  },
-  {
-    "id": "aditya-movies",
-    "name": "Aditya Movies",
-    "handle": "@adityamovies",
-    "channelId": "UCX_uPA_dGf7wXjuMEaSKLJA",
-    "channelUrl": "https://www.youtube.com/@adityamovies",
-    "company": "Aditya Music",
-    "country": "India",
-    "languages": ["Hindi", "Telugu"],
-    "contentTypes": ["Hindi dubbed movies", "Telugu full movies", "movie clips", "trailers"],
-    "officiality": "high",
-    "rightsEvidence": "Aditya Movies is the movie arm of Aditya Music and its official website maintains a Hindi Dubbed Movies collection. The YouTube channel is the established Aditya Movies channel.",
-    "sourceUrls": [
-      "https://adityamovies.com/",
-      "https://adityamovies.com/dubbed-movies",
-      "https://www.youtube.com/@adityamovies"
-    ],
-    "verifiedOn": "2026-08-29"
-  },
-  {
-    "id": "rkd-studios",
-    "name": "RKD Studios",
-    "handle": "@RKDStudios",
-    "channelId": "UCjBwQ6M9QyCgO5Pp-TQRFUA",
-    "channelUrl": "https://www.youtube.com/@RKDStudios",
-    "company": "RKD Studios",
-    "country": "India",
-    "languages": ["Hindi", "Tamil", "Kannada", "Malayalam"],
-    "contentTypes": ["South Indian Hindi dubbed full movies", "Indian movies", "movie scenes"],
-    "officiality": "high",
-    "rightsEvidence": "The RKD Studios channel is a large established movie publisher and current listings show South Hindi dubbed full movies such as Gatta Kusthi and Bhairathi Ranagal.",
-    "sourceUrls": [
-      "https://www.youtube.com/@RKDStudios"
-    ],
-    "verifiedOn": "2026-08-29"
-  },
-  {
-    "id": "ultra-movie-parlour",
-    "name": "Ultra Movie Parlour",
-    "handle": "@ultramovieparlour",
-    "channelId": "UCYauDsl-rswjQGpA0_-Z9Pw",
-    "channelUrl": "https://www.youtube.com/@ultramovieparlour",
-    "company": "Ultra Media and Entertainment",
-    "country": "India",
-    "languages": ["Hindi", "Tamil", "Telugu", "Kannada", "Malayalam"],
-    "contentTypes": ["South Indian movies", "Hindi dubbed movies", "full movies"],
-    "officiality": "high",
-    "rightsEvidence": "Ultra Movie Parlour is an established Ultra-branded movie channel with a large catalog of full-length films; it is used for official Ultra movie distribution on YouTube.",
-    "sourceUrls": [
-      "https://www.youtube.com/@ultramovieparlour"
-    ],
-    "verifiedOn": "2026-08-29"
-  },
-  {
-    "id": "pen-movies",
-    "name": "Pen Movies",
-    "handle": "@PenMovies",
-    "channelId": "UC3ar28GS6o1p0m_wabfk2zw",
-    "channelUrl": "https://www.youtube.com/@PenMovies",
-    "company": "PEN India / PEN Studios",
-    "country": "India",
-    "languages": ["Hindi", "Tamil", "Telugu", "Malayalam", "Kannada"],
-    "contentTypes": ["South Indian Hindi dubbed full movies", "Hindi movies", "trailers"],
-    "officiality": "high",
-    "rightsEvidence": "The verified Pen Movies channel identifies PEN India Private Limited and publishes South Hindi dubbed full movies including Acharya, Akhanda, Krack and Odiyan.",
-    "sourceUrls": [
-      "https://www.youtube.com/@PenMovies"
-    ],
-    "verifiedOn": "2026-08-29"
-  },
-  {
-    "id": "iof-hindi",
-    "name": "IOF - Hindi",
-    "handle": "@IOFHindi",
-    "channelId": "UCQ-DyEmlafaU5VVuRVnfsFw",
-    "channelUrl": "https://www.youtube.com/channel/UCQ-DyEmlafaU5VVuRVnfsFw",
-    "company": "Indo Overseas Films",
-    "country": "India",
-    "languages": ["Hindi", "Telugu", "Tamil", "Malayalam"],
-    "contentTypes": ["Hindi dubbed full movies", "South Indian dubbed movies"],
-    "officiality": "high",
-    "rightsEvidence": "IOF movie descriptions link directly to the official IOF Hindi channel and the Indo Overseas Films website; current catalog entries in this repo also identify IOF - Hindi as a source.",
-    "sourceUrls": [
-      "https://www.indooverseasfilms.com/",
-      "https://www.youtube.com/channel/UCQ-DyEmlafaU5VVuRVnfsFw"
-    ],
-    "verifiedOn": "2026-08-29"
-  }
+  {"id":"goldmines","rank":1,"name":"Goldmines","handle":"@GoldminesTelefilms","channelId":"UCyoXW-Dse7fURq30EWl_CUA","channelUrl":"https://www.youtube.com/@GoldminesTelefilms","company":"Goldmines Telefilms","officiality":"high","scope":"South Indian Hindi-dubbed movies"},
+  {"id":"aditya-movies","rank":2,"name":"Aditya Movies","handle":"@adityamovies","channelId":"UCX_uPA_dGf7wXjuMEaSKLJA","channelUrl":"https://www.youtube.com/@adityamovies","company":"Aditya Music","officiality":"high","scope":"South Indian Hindi-dubbed movies"},
+  {"id":"pen-movies","rank":3,"name":"Pen Movies","handle":"@PenMovies","channelId":"UC3ar28GS6o1p0m_wabfk2zw","channelUrl":"https://www.youtube.com/@PenMovies","company":"PEN India / PEN Studios","officiality":"high","scope":"South Indian Hindi-dubbed movies"},
+  {"id":"rkd-studios","rank":4,"name":"RKD Studios","handle":"@RKDStudios","channelId":"UCjBwQ6M9QyCgO5Pp-TQRFUA","channelUrl":"https://www.youtube.com/@RKDStudios","company":"RKD Studios","officiality":"high","scope":"South Indian Hindi-dubbed movies"},
+  {"id":"wamindia-movies","rank":5,"name":"Wamindia Movies","handle":"@WAMIndiaMovies","channelId":null,"channelUrl":"https://www.youtube.com/@WAMIndiaMovies","company":"Wide Angle Media","officiality":"high","scope":"South Indian Hindi-dubbed movies"},
+  {"id":"adwise-action-movieplex","rank":6,"name":"AD-WISE MEDIA ACTION MOVIEPLEX","handle":"@ADMDMOVIES","channelId":"UCSx_w4q5PkAOg9i45uMFHmA","channelUrl":"https://www.youtube.com/@ADMDMOVIES","company":"Ad-wise Media","officiality":"high","scope":"South Indian Hindi-dubbed action movies"},
+  {"id":"official-southplex-movies","rank":7,"name":"Official Southplex Movies","handle":"@officialsouthplexmovies","channelId":"UCdbNMpCun6odxt-mcL0otdw","channelUrl":"https://www.youtube.com/@officialsouthplexmovies","company":"WAM India network","officiality":"high","scope":"South Indian Hindi-dubbed movies"},
+  {"id":"rg-entertainment","rank":8,"name":"RG Entertainment","handle":"@RGEntertainmentIndia","channelId":"UCgfO009hB_847kwL6NQnn-w","channelUrl":"https://www.youtube.com/@RGEntertainmentIndia","company":"Royal Gold Entertainment","officiality":"high","scope":"South Indian Hindi-dubbed movies"},
+  {"id":"iof-hindi","rank":9,"name":"IOF - Hindi","handle":"@IOFHindi","channelId":"UCQ-DyEmlafaU5VVuRVnfsFw","channelUrl":"https://www.youtube.com/@IOFHindi","company":"Indo Overseas Films","officiality":"high","scope":"South Indian Hindi-dubbed movies"},
+  {"id":"ultra-movie-parlour","rank":10,"name":"Ultra Movie Parlour","handle":"@ultramovieparlour","channelId":"UCYauDsl-rswjQGpA0_-Z9Pw","channelUrl":"https://www.youtube.com/@ultramovieparlour","company":"Ultra Media and Entertainment","officiality":"high","scope":"South Indian Hindi-dubbed movies"},
+  {"id":"goldmines-cineplex","rank":11,"name":"Goldmines Cineplex","handle":"@GoldminesCineplex","channelId":"UCCrw5RBWF9i8VPt4IxL8IsQ","channelUrl":"https://www.youtube.com/@GoldminesCineplex","company":"Goldmines Telefilms","officiality":"high","scope":"South Indian Hindi-dubbed movies"},
+  {"id":"goldmines-premiere","rank":12,"name":"Goldmines Premiere","handle":"@GoldminesPremiere","channelId":"UCvUctuMp58UD_kQtcWcNCjw","channelUrl":"https://www.youtube.com/@GoldminesPremiere","company":"Goldmines Telefilms","officiality":"high","scope":"South Indian Hindi-dubbed movies"},
+  {"id":"goldmines-action","rank":13,"name":"Goldmines Action","handle":"@GoldminesActionMovies","channelId":null,"channelUrl":"https://www.youtube.com/@GoldminesActionMovies","company":"Goldmines Telefilms","officiality":"high","scope":"South Indian Hindi-dubbed action movies"},
+  {"id":"goldmines-movies","rank":14,"name":"Goldmines Movies","handle":"@GoldminesMovies","channelId":"UCs570zdFq_NNA5OcV8chnHw","channelUrl":"https://www.youtube.com/@GoldminesMovies","company":"Goldmines Telefilms","officiality":"high","scope":"Hindi and South Hindi-dubbed movies"},
+  {"id":"goldmines-housefull","rank":15,"name":"Goldmines Housefull","handle":"@GoldminesHousefull","channelId":null,"channelUrl":"https://www.youtube.com/@GoldminesHousefull","company":"Goldmines Telefilms","officiality":"high","scope":"South Indian Hindi-dubbed movies"},
+  {"id":"wamindia-select","rank":16,"name":"WamIndia Select Movies","handle":"@WAMIndiaSelectMoviesHindi","channelId":"UC_sXBvPWlKbvKfrzHiqxYhg","channelUrl":"https://www.youtube.com/@WAMIndiaSelectMoviesHindi","company":"Wide Angle Media","officiality":"high","scope":"South Indian Hindi-dubbed movies"},
+  {"id":"cine-digiplex","rank":17,"name":"Cine Digiplex","handle":"@CineDigiplex","channelId":"UCItR4xPFQYOZSCRgqQz7vLw","channelUrl":"https://www.youtube.com/@CineDigiplex","company":"Cine Digiplex","officiality":"high","scope":"South Indian Hindi-dubbed movies"},
+  {"id":"netplex-movies","rank":18,"name":"Netplex Movies","handle":"@NetplexMovies","channelId":"UCuqpqRaJJL51ydh801feZJA","channelUrl":"https://www.youtube.com/@NetplexMovies","company":"Netplex Movies","officiality":"high","scope":"Hindi and South Hindi-dubbed movies"},
+  {"id":"hindi-films","rank":19,"name":"Hindi Films","handle":"@HindiFilms","channelId":"UCCIVlopjloYxSq25mOJvkqg","channelUrl":"https://www.youtube.com/@HindiFilms","company":"SEPL Movies","officiality":"high","scope":"South Indian Hindi-dubbed movies"},
+  {"id":"mishri-hindi-movies","rank":20,"name":"Mishri Hindi Movies","handle":"@MishriHindiMovies","channelId":"UCbwxIsEOO9-KQnZ3Ni1YchQ","channelUrl":"https://www.youtube.com/@MishriHindiMovies","company":"Sri Mishri Production","officiality":"high","scope":"South Indian Hindi-dubbed movies"},
+  {"id":"super-south-movies","rank":21,"name":"Super South Movies","handle":"@SuperSouthMovies","channelId":null,"channelUrl":"https://www.youtube.com/@SuperSouthMovies","company":"Super South Movies","officiality":"medium-high","scope":"South Indian Hindi-dubbed movies"},
+  {"id":"rkd-movies","rank":22,"name":"RKD Movies","handle":"@RKDMovies","channelId":null,"channelUrl":"https://www.youtube.com/@RKDMovies","company":"RKD Studios","officiality":"high","scope":"South Indian Hindi-dubbed movies"},
+  {"id":"rkd-action","rank":23,"name":"RKD Action","handle":"@RKDAction","channelId":null,"channelUrl":"https://www.youtube.com/@RKDAction","company":"RKD Studios","officiality":"high","scope":"South Indian Hindi-dubbed action movies"},
+  {"id":"rkd-multiplex","rank":24,"name":"RKD Multiplex","handle":"@RKDMultiplex","channelId":null,"channelUrl":"https://www.youtube.com/@RKDMultiplex","company":"RKD Studios","officiality":"high","scope":"South Indian Hindi-dubbed movies"},
+  {"id":"sepl-video","rank":25,"name":"SEPL VIDEO","handle":"@SEPLVIDEO","channelId":null,"channelUrl":"https://www.youtube.com/@SEPLVIDEO","company":"SEPL Group","officiality":"medium-high","scope":"South Indian Hindi-dubbed movies"}
 ]
