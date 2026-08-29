@@ -26,13 +26,29 @@ def slug(s):return re.sub(r'[^a-z0-9]+','-',norm(s)).strip('-') or 'movie'
 def year_from(text):
  m=re.search(r'\b(19\d{2}|20\d{2})\b',text or '');return int(m.group(1)) if m else None
 def verification(channel,description,channel_id,verified):
- if channel_id in verified:return {'status':'verified','method':'manual'}
+ if channel_id in verified:return {'status':'verified','method':'official-channel-whitelist'}
  text=(channel+' '+description).lower()
  if 'official' in channel.lower() and any(k in text for k in ['movie','film','production','distributor','entertainment']):return {'status':'probable','method':'youtube-metadata'}
  return {'status':'unknown','method':'youtube-metadata'}
+def resolve_official_channels(channels):
+ resolved=[]
+ for c in channels:
+  cid=c.get('channelId')
+  if not cid and c.get('handle'):
+   try:
+    d=api('channels',{'part':'id,snippet','forHandle':c['handle'].lstrip('@')})
+    if d.get('items'): cid=d['items'][0]['id'];c['channelId']=cid
+   except requests.RequestException as e: print(f'Channel resolve failed: {c.get("name")}: {e}')
+  if cid: resolved.append(c)
+ return resolved
 def main():
- verified=set(json.loads((DATA/'verified-channels.json').read_text()) if (DATA/'verified-channels.json').exists() else [])
+ official_path=DATA/'official-channels.json'
+ if not official_path.exists(): raise SystemExit('data/official-channels.json is required')
+ official=resolve_official_channels(json.loads(official_path.read_text(encoding='utf-8')))
+ verified={c['channelId'] for c in official if c.get('channelId')}
+ if len(official)<25: print(f'Warning: only {len(official)}/25 official channels resolved')
  candidates=[]
+ # Search globally only to discover videos, but accept videos exclusively from the official whitelist.
  for lang,qs in LANGS.items():
   for q in qs:
    d=api('search',{'part':'snippet','q':q,'type':'video','videoEmbeddable':'true','videoDuration':'long','maxResults':50,'order':'relevance','safeSearch':'none','regionCode':'IN'})
@@ -44,12 +60,14 @@ def main():
   for x in api('videos',{'part':'snippet,contentDetails,status,statistics','id':','.join(ids[i:i+50])}).get('items',[]):
    sn=x.get('snippet',{});title=sn.get('title','');desc=sn.get('description','');text=title+' '+desc;dur=parse_iso(x.get('contentDetails',{}).get('duration',''))
    if x.get('status',{}).get('privacyStatus')!='public' or not x.get('status',{}).get('embeddable'):continue
+   cid=sn.get('channelId')
+   if cid not in verified:continue
    if BAD.search(title) or dur<2700 or not GOOD.search(title) or not DUB.search(text):continue
    lang=match.get(x['id'],['Unknown'])[0]
    if lang not in LANGS:continue
    thumbs=sn.get('thumbnails',{});thumb=(thumbs.get('maxres') or thumbs.get('standard') or thumbs.get('high') or thumbs.get('medium') or thumbs.get('default') or {}).get('url')
-   st=x.get('statistics',{});views=int(st.get('viewCount',0));likes=int(st.get('likeCount',0));channel=sn.get('channelTitle') or 'Unknown';cid=sn.get('channelId')
-   items.append({'id':x['id'],'title':title,'slug':slug(title),'youtubeVideoId':x['id'],'youtubeUrl':f'https://www.youtube.com/watch?v={x["id"]}','thumbnail':thumb,'language':lang,'audioLanguage':'Hindi','dubbed':True,'creator':{'name':channel,'channelId':cid,'channelUrl':f'https://www.youtube.com/channel/{cid}' if cid else None},'description':desc,'metadata':{'year':year_from(text),'genre':[],'durationSeconds':dur},'statistics':{'views':views,'likes':likes},'publishedAt':sn.get('publishedAt'),'verification':verification(channel,desc,cid,verified),'algorithm':{'trendingScore':0,'recommendationScore':0}})
+   st=x.get('statistics',{});views=int(st.get('viewCount',0));likes=int(st.get('likeCount',0));channel=sn.get('channelTitle') or 'Unknown'
+   items.append({'id':x['id'],'title':title,'slug':slug(title),'youtubeVideoId':x['id'],'youtubeUrl':f'https://www.youtube.com/watch?v={x["id"]}','thumbnail':thumb,'language':lang,'audioLanguage':'Hindi','dubbed':True,'creator':{'name':channel,'channelId':cid,'channelUrl':f'https://www.youtube.com/channel/{cid}'},'description':desc,'metadata':{'year':year_from(text),'genre':[],'durationSeconds':dur},'statistics':{'views':views,'likes':likes},'publishedAt':sn.get('publishedAt'),'verification':verification(channel,desc,cid,verified),'algorithm':{'trendingScore':0,'recommendationScore':0}})
  clusters=[]
  for m in items:
   found=None
@@ -59,19 +77,19 @@ def main():
   (found.append(m) if found else clusters.append([m]))
  out=[]
  for c in clusters:
-  c.sort(key=lambda m:(m['verification']['status']=='verified',m['verification']['status']=='probable',m['statistics']['views']),reverse=True);m=c[0]
+  c.sort(key=lambda m:(m['verification']['status']=='verified',m['statistics']['views']),reverse=True);m=c[0]
   if len(c)>1:m['sources']=[{'youtubeVideoId':z['youtubeVideoId'],'youtubeUrl':z['youtubeUrl'],'creator':z['creator'],'embeddable':True,'views':z['statistics']['views'],'verification':z['verification']} for z in c]
   views=m['statistics']['views'];likes=m['statistics']['likes'];pub=m.get('publishedAt');age=max((datetime.now(timezone.utc)-datetime.fromisoformat(pub.replace('Z','+00:00'))).total_seconds()/86400,1) if pub else 3650
-  freshness=100*math.exp(-age/120);eng=min(100,likes/max(views,1)*1000);pop=min(100,math.log10(max(views,1))*12);quality={'verified':100,'probable':70,'unknown':35}.get(m['verification']['status'],35)
+  freshness=100*math.exp(-age/120);eng=min(100,likes/max(views,1)*1000);pop=min(100,math.log10(max(views,1))*12);quality=100
   m['algorithm']['trendingScore']=round(.38*freshness+.27*eng+.25*pop+.10*quality,2);m['algorithm']['recommendationScore']=round(.45*pop+.25*eng+.20*freshness+.10*quality,2);out.append(m)
  out.sort(key=lambda m:m['algorithm']['trendingScore'],reverse=True)
- for name,obj in [('movies.json',out),('trending.json',out[:30]),('featured.json',out[:12])]: (DATA/name).write_text(json.dumps(obj,ensure_ascii=False,indent=2),encoding='utf-8')
+ for name,obj in [('movies.json',out),('trending.json',out[:30]),('featured.json',out[:12]) : (DATA/name).write_text(json.dumps(obj,ensure_ascii=False,indent=2),encoding='utf-8')
  channels={m['creator'].get('channelId'):m['creator'] for m in out};(DATA/'channels.json').write_text(json.dumps(list(channels.values()),ensure_ascii=False,indent=2),encoding='utf-8')
  (DATA/'languages.json').write_text(json.dumps({l:sum(m['language']==l for m in out) for l in LANGS},ensure_ascii=False,indent=2),encoding='utf-8')
  (DATA/'genres.json').write_text(json.dumps({},indent=2),encoding='utf-8')
- stats={'totalMovies':len(out),'byLanguage':{l:sum(m['language']==l for m in out) for l in LANGS},'byYear':{},'byGenre':{},'verifiedSources':sum(m['verification']['status']=='verified' for m in out),'probableSources':sum(m['verification']['status']=='probable' for m in out),'unknownSources':sum(m['verification']['status']=='unknown' for m in out),'brokenSources':0,'latestUpdate':datetime.now(timezone.utc).isoformat(),'catalogGrowth':len(out),'languageScope':'South Indian cinema','audioScope':'Hindi dubbed only'}
+ stats={'totalMovies':len(out),'officialChannels':len(official),'byLanguage':{l:sum(m['language']==l for m in out) for l in LANGS},'byYear':{},'byGenre':{},'verifiedSources':len(out),'probableSources':0,'unknownSources':0,'brokenSources':0,'latestUpdate':datetime.now(timezone.utc).isoformat(),'catalogGrowth':len(out),'languageScope':'South Indian cinema','audioScope':'Hindi dubbed only','sourcePolicy':'Top 25 official channel whitelist only'}
  for m in out:
   y=m['metadata'].get('year')
   if y:stats['byYear'][str(y)]=stats['byYear'].get(str(y),0)+1
- (DATA/'stats.json').write_text(json.dumps(stats,ensure_ascii=False,indent=2),encoding='utf-8');print(f'Catalog: {len(out)} Hindi-dubbed South movies')
+ (DATA/'stats.json').write_text(json.dumps(stats,ensure_ascii=False,indent=2),encoding='utf-8');official_path.write_text(json.dumps(official,ensure_ascii=False,indent=2),encoding='utf-8');print(f'Catalog: {len(out)} Hindi-dubbed South movies from {len(official)} official channels')
 if __name__=='__main__':main()
