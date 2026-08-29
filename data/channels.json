@@ -1,5 +1,10 @@
 [
   {
+    "name": "AD-WISE MEDIA ACTION MOVIEPLEX",
+    "channelId": "UCSx_w4q5PkAOg9i45uMFHmA",
+    "channelUrl": "https://www.youtube.com/channel/UCSx_w4q5PkAOg9i45uMFHmA"
+  },
+  {
     "name": "Goldmines",
     "channelId": "UCyoXW-Dse7fURq30EWl_CUA",
     "channelUrl": "https://www.youtube.com/channel/UCyoXW-Dse7fURq30EWl_CUA"
@@ -15,14 +20,14 @@
     "channelUrl": "https://www.youtube.com/channel/UCgfO009hB_847kwL6NQnn-w"
   },
   {
-    "name": "Wamindia Movies",
-    "channelId": "UCt7_pnSRPKU3bu2GqmgH8gQ",
-    "channelUrl": "https://www.youtube.com/channel/UCt7_pnSRPKU3bu2GqmgH8gQ"
-  },
-  {
     "name": "RKD Studios",
     "channelId": "UCjBwQ6M9QyCgO5Pp-TQRFUA",
     "channelUrl": "https://www.youtube.com/channel/UCjBwQ6M9QyCgO5Pp-TQRFUA"
+  },
+  {
+    "name": "Wamindia Movies",
+    "channelId": "UCt7_pnSRPKU3bu2GqmgH8gQ",
+    "channelUrl": "https://www.youtube.com/channel/UCt7_pnSRPKU3bu2GqmgH8gQ"
   },
   {
     "name": "Goldmines Movies",
@@ -35,6 +40,11 @@
     "channelUrl": "https://www.youtube.com/channel/UCL0f2RzwTMJc02Lg9DdcgNw"
   },
   {
+    "name": "Ultra Movie Parlour",
+    "channelId": "UCYauDsl-rswjQGpA0_-Z9Pw",
+    "channelUrl": "https://www.youtube.com/channel/UCYauDsl-rswjQGpA0_-Z9Pw"
+  },
+  {
     "name": "Goldmines Cineplex",
     "channelId": "UCCrw5RBWF9i8VPt4IxL8IsQ",
     "channelUrl": "https://www.youtube.com/channel/UCCrw5RBWF9i8VPt4IxL8IsQ"
@@ -43,11 +53,6 @@
     "name": "WamIndia Select Movies",
     "channelId": "UC_sXBvPWlKbvKfrzHiqxYhg",
     "channelUrl": "https://www.youtube.com/channel/UC_sXBvPWlKbvKfrzHiqxYhg"
-  },
-  {
-    "name": "Ultra Movie Parlour",
-    "channelId": "UCYauDsl-rswjQGpA0_-Z9Pw",
-    "channelUrl": "https://www.youtube.com/channel/UCYauDsl-rswjQGpA0_-Z9Pw"
   },
   {
     "name": "Netplex Movies 2026",
@@ -78,11 +83,6 @@
     "name": "Hindi Films",
     "channelId": "UCCIVlopjloYxSq25mOJvkqg",
     "channelUrl": "https://www.youtube.com/channel/UCCIVlopjloYxSq25mOJvkqg"
-  },
-  {
-    "name": "AD-WISE MEDIA ACTION MOVIEPLEX",
-    "channelId": "UCSx_w4q5PkAOg9i45uMFHmA",
-    "channelUrl": "https://www.youtube.com/channel/UCSx_w4q5PkAOg9i45uMFHmA"
   },
   {
     "name": "Pen Movies",
