@@ -1,5 +1,5 @@
 {
-  "totalMovies": 2297,
+  "totalMovies": 2296,
   "officialChannels": 22,
   "registryChannels": 22,
   "unresolvedChannels": 0,
@@ -9,7 +9,7 @@
     "bad_content": 2547,
     "too_short": 2433,
     "not_hindi_dubbed": 632,
-    "not_movie": 383,
+    "not_movie": 384,
     "unknown": 0
   },
   "byLanguage": {
@@ -17,7 +17,7 @@
     "Tamil": 219,
     "Kannada": 132,
     "Malayalam": 43,
-    "South Indian": 1292
+    "South Indian": 1291
   },
   "byYear": {
     "2026": 282,
@@ -62,12 +62,12 @@
     "1985": 1
   },
   "byGenre": {},
-  "verifiedSources": 2297,
+  "verifiedSources": 2296,
   "probableSources": 0,
   "unknownSources": 0,
   "brokenSources": 0,
-  "latestUpdate": "2026-08-30T11:56:52.297350+00:00",
-  "catalogGrowth": 2297,
+  "latestUpdate": "2026-08-30T16:44:49.513747+00:00",
+  "catalogGrowth": 2296,
   "languageScope": "South Indian cinema",
   "audioScope": "Hindi dubbed only",
   "sourcePolicy": "Verified channel ID whitelist + channel uploads only"
