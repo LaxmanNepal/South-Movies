@@ -21,8 +21,8 @@
       "durationSeconds": 8051
     },
     "statistics": {
-      "views": 2700036,
-      "likes": 28137
+      "views": 2739116,
+      "likes": 28735
     },
     "publishedAt": "2026-08-29T14:00:17Z",
     "verification": {
@@ -30,8 +30,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 69.36,
-      "recommendationScore": 66.94
+      "trendingScore": 69.32,
+      "recommendationScore": 66.95
     }
   },
   {
@@ -56,8 +56,8 @@
       "durationSeconds": 6967
     },
     "statistics": {
-      "views": 2326575,
-      "likes": 17924
+      "views": 2355874,
+      "likes": 18123
     },
     "publishedAt": "2026-08-28T06:30:06Z",
     "verification": {
@@ -65,8 +65,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 68.03,
-      "recommendationScore": 65.7
+      "trendingScore": 67.97,
+      "recommendationScore": 65.69
     }
   },
   {
@@ -91,8 +91,8 @@
       "durationSeconds": 7341
     },
     "statistics": {
-      "views": 757620,
-      "likes": 7240
+      "views": 761300,
+      "likes": 7291
     },
     "publishedAt": "2026-08-26T09:43:36Z",
     "verification": {
@@ -100,8 +100,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 66.5,
-      "recommendationScore": 63.23
+      "trendingScore": 66.43,
+      "recommendationScore": 63.21
     }
   },
   {
@@ -126,8 +126,8 @@
       "durationSeconds": 7430
     },
     "statistics": {
-      "views": 1010865,
-      "likes": 4904
+      "views": 1041063,
+      "likes": 5111
     },
     "publishedAt": "2026-08-28T11:30:26Z",
     "verification": {
@@ -135,43 +135,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 66.24,
-      "recommendationScore": 63.07
-    }
-  },
-  {
-    "id": "UEkigRoMO-0",
-    "title": "Lenin (2026) New Released Hindi Dubbed Full Movie | Starring Akhil Akkineni & Bhagyashri Borse",
-    "slug": "lenin-2026-new-released-hindi-dubbed-full-movie-starring-akhil-akkineni-bhagyashri-borse",
-    "youtubeVideoId": "UEkigRoMO-0",
-    "youtubeUrl": "https://www.youtube.com/watch?v=UEkigRoMO-0",
-    "thumbnail": "https://i.ytimg.com/vi/UEkigRoMO-0/maxresdefault.jpg",
-    "language": "South Indian",
-    "audioLanguage": "Hindi",
-    "dubbed": true,
-    "creator": {
-      "name": "RG Entertainment",
-      "channelId": "UCgfO009hB_847kwL6NQnn-w",
-      "channelUrl": "https://www.youtube.com/channel/UCgfO009hB_847kwL6NQnn-w"
-    },
-    "description": "Presenting New South Indian Movies Dubbed In Hindi 2026 Full, Lenin.\n\nWritten & Directed: Murali Kishor Abburu\n\nStarring: Akhil Akkineni\nBhagyashri\nPramod Panju\nShivaji\nSunil \n\nDirector of Photography: Leon Britto\n\nMusic Director : Thaman S\n\nEditor: Navin Nooli\n-----------------------------------------------------------------------------------------------------------\nStay Connected with Us!\n\nFollow us on Twitter :\nhttps://twitter.com/Royalgoldfilms\n\nFollow us on Instagram :\nhttps://www.instagram.com/royalgoldfilms",
-    "metadata": {
-      "year": 2026,
-      "genre": [],
-      "durationSeconds": 7317
-    },
-    "statistics": {
-      "views": 1607133,
-      "likes": 11262
-    },
-    "publishedAt": "2026-08-22T10:30:02Z",
-    "verification": {
-      "status": "verified",
-      "method": "official-channel-whitelist"
-    },
-    "algorithm": {
-      "trendingScore": 65.61,
-      "recommendationScore": 63.74
+      "trendingScore": 66.21,
+      "recommendationScore": 63.11
     }
   },
   {
@@ -196,8 +161,8 @@
       "durationSeconds": 6849
     },
     "statistics": {
-      "views": 336385,
-      "likes": 1595
+      "views": 368503,
+      "likes": 1904
     },
     "publishedAt": "2026-08-31T12:26:14Z",
     "verification": {
@@ -205,8 +170,43 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 65.55,
-      "recommendationScore": 60.86
+      "trendingScore": 65.78,
+      "recommendationScore": 61.18
+    }
+  },
+  {
+    "id": "UEkigRoMO-0",
+    "title": "Lenin (2026) New Released Hindi Dubbed Full Movie | Starring Akhil Akkineni & Bhagyashri Borse",
+    "slug": "lenin-2026-new-released-hindi-dubbed-full-movie-starring-akhil-akkineni-bhagyashri-borse",
+    "youtubeVideoId": "UEkigRoMO-0",
+    "youtubeUrl": "https://www.youtube.com/watch?v=UEkigRoMO-0",
+    "thumbnail": "https://i.ytimg.com/vi/UEkigRoMO-0/maxresdefault.jpg",
+    "language": "South Indian",
+    "audioLanguage": "Hindi",
+    "dubbed": true,
+    "creator": {
+      "name": "RG Entertainment",
+      "channelId": "UCgfO009hB_847kwL6NQnn-w",
+      "channelUrl": "https://www.youtube.com/channel/UCgfO009hB_847kwL6NQnn-w"
+    },
+    "description": "Presenting New South Indian Movies Dubbed In Hindi 2026 Full, Lenin.\n\nWritten & Directed: Murali Kishor Abburu\n\nStarring: Akhil Akkineni\nBhagyashri\nPramod Panju\nShivaji\nSunil \n\nDirector of Photography: Leon Britto\n\nMusic Director : Thaman S\n\nEditor: Navin Nooli\n-----------------------------------------------------------------------------------------------------------\nStay Connected with Us!\n\nFollow us on Twitter :\nhttps://twitter.com/Royalgoldfilms\n\nFollow us on Instagram :\nhttps://www.instagram.com/royalgoldfilms",
+    "metadata": {
+      "year": 2026,
+      "genre": [],
+      "durationSeconds": 7317
+    },
+    "statistics": {
+      "views": 1628620,
+      "likes": 11319
+    },
+    "publishedAt": "2026-08-22T10:30:02Z",
+    "verification": {
+      "status": "verified",
+      "method": "official-channel-whitelist"
+    },
+    "algorithm": {
+      "trendingScore": 65.54,
+      "recommendationScore": 63.72
     }
   },
   {
@@ -231,8 +231,8 @@
       "durationSeconds": 8826
     },
     "statistics": {
-      "views": 504564,
-      "likes": 2145
+      "views": 507207,
+      "likes": 2158
     },
     "publishedAt": "2026-08-29T11:30:32Z",
     "verification": {
@@ -240,8 +240,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 65.48,
-      "recommendationScore": 61.45
+      "trendingScore": 65.41,
+      "recommendationScore": 61.42
     }
   },
   {
@@ -266,8 +266,8 @@
       "durationSeconds": 8112
     },
     "statistics": {
-      "views": 2158732,
-      "likes": 9195
+      "views": 2163888,
+      "likes": 9214
     },
     "publishedAt": "2026-08-21T14:30:08Z",
     "verification": {
@@ -275,8 +275,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 65.01,
-      "recommendationScore": 63.62
+      "trendingScore": 64.94,
+      "recommendationScore": 63.58
     }
   },
   {
@@ -301,8 +301,8 @@
       "durationSeconds": 8172
     },
     "statistics": {
-      "views": 205184,
-      "likes": 719
+      "views": 212945,
+      "likes": 767
     },
     "publishedAt": "2026-08-31T11:30:26Z",
     "verification": {
@@ -310,43 +310,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 64.57,
-      "recommendationScore": 59.4
-    }
-  },
-  {
-    "id": "VULCfIy_eNE",
-    "title": "Tamannaah Bhatia Superhit Hindi Dubbed Horror Comedy Movie Petromax | Yogi Babu Comedy Movies",
-    "slug": "tamannaah-bhatia-superhit-hindi-dubbed-horror-comedy-movie-petromax-yogi-babu-comedy-movies",
-    "youtubeVideoId": "VULCfIy_eNE",
-    "youtubeUrl": "https://www.youtube.com/watch?v=VULCfIy_eNE",
-    "thumbnail": "https://i.ytimg.com/vi/VULCfIy_eNE/maxresdefault.jpg",
-    "language": "Tamil",
-    "audioLanguage": "Hindi",
-    "dubbed": true,
-    "creator": {
-      "name": "RKD Studios",
-      "channelId": "UCjBwQ6M9QyCgO5Pp-TQRFUA",
-      "channelUrl": "https://www.youtube.com/channel/UCjBwQ6M9QyCgO5Pp-TQRFUA"
-    },
-    "description": "👻😂 Get ready for spooky laughs with Petromax!\nWhen horror meets hilarious comedy, the result is pure entertainment! Watch Tamannaah Bhatia shine in this superhit Hindi-dubbed horror comedy alongside the comedy king Yogi Babu.\n\nMovie - Petromax\nMovie (Original) - Petromax In Tamil\nStarcast - Tamannaah Bhatia, Prem Kumar, Yogi Babu, Munishkanth, Kaali Venkat, Sathyan Sivakumar, Trichy Saravana Kumar, K. S. G. Venkatesh, Sreeja Ravi, Mime Gopi, Philip Livingston Jones, Mahanadi Shankar, Baby Monika, Pei Krishnan, Kavin Jay Babu, Myna Nandhini\nProducer - A. Kumar\nMusic Director - Ghibran\nDirector - Rohin Venkatesan \n\nMovie Synopsis - A man struggles to sell his house that is haunted so he arranges four people to live in the house for a few days to prove that there are no ghosts.\n\nDisclaimer:- We are only the right holders of this content. Any opinions expressed in this Film may purely be of the director or the original producers but are not our personal opinions and we do not assume any responsibility or liability for the same.\n\nKindly subscribe to the channel and Press the BELL ICON to get Instant Notifications from @rkddigital \n\nSubscribe To Our Channel:- https://www.youtube.com/channel/UCjBwQ6M9QyCgO5Pp-TQRFUA?sub_confirmation=1\n\nFollow Us On:\nFacebook: https://www.facebook.com/RKDStudiosOfficial/\nInstagram: https://www.instagram.com/rkdstudios",
-    "metadata": {
-      "year": null,
-      "genre": [],
-      "durationSeconds": 6941
-    },
-    "statistics": {
-      "views": 633721,
-      "likes": 1817
-    },
-    "publishedAt": "2026-08-26T11:30:15Z",
-    "verification": {
-      "status": "verified",
-      "method": "official-channel-whitelist"
-    },
-    "algorithm": {
-      "trendingScore": 64.49,
-      "recommendationScore": 61.16
+      "trendingScore": 64.64,
+      "recommendationScore": 59.51
     }
   },
   {
@@ -371,8 +336,8 @@
       "durationSeconds": 6658
     },
     "statistics": {
-      "views": 888261,
-      "likes": 5022
+      "views": 900253,
+      "likes": 5125
     },
     "publishedAt": "2026-08-22T11:30:05Z",
     "verification": {
@@ -380,8 +345,43 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 64.49,
+      "trendingScore": 64.44,
       "recommendationScore": 62.02
+    }
+  },
+  {
+    "id": "VULCfIy_eNE",
+    "title": "Tamannaah Bhatia Superhit Hindi Dubbed Horror Comedy Movie Petromax | Yogi Babu Comedy Movies",
+    "slug": "tamannaah-bhatia-superhit-hindi-dubbed-horror-comedy-movie-petromax-yogi-babu-comedy-movies",
+    "youtubeVideoId": "VULCfIy_eNE",
+    "youtubeUrl": "https://www.youtube.com/watch?v=VULCfIy_eNE",
+    "thumbnail": "https://i.ytimg.com/vi/VULCfIy_eNE/maxresdefault.jpg",
+    "language": "Tamil",
+    "audioLanguage": "Hindi",
+    "dubbed": true,
+    "creator": {
+      "name": "RKD Studios",
+      "channelId": "UCjBwQ6M9QyCgO5Pp-TQRFUA",
+      "channelUrl": "https://www.youtube.com/channel/UCjBwQ6M9QyCgO5Pp-TQRFUA"
+    },
+    "description": "👻😂 Get ready for spooky laughs with Petromax!\nWhen horror meets hilarious comedy, the result is pure entertainment! Watch Tamannaah Bhatia shine in this superhit Hindi-dubbed horror comedy alongside the comedy king Yogi Babu.\n\nMovie - Petromax\nMovie (Original) - Petromax In Tamil\nStarcast - Tamannaah Bhatia, Prem Kumar, Yogi Babu, Munishkanth, Kaali Venkat, Sathyan Sivakumar, Trichy Saravana Kumar, K. S. G. Venkatesh, Sreeja Ravi, Mime Gopi, Philip Livingston Jones, Mahanadi Shankar, Baby Monika, Pei Krishnan, Kavin Jay Babu, Myna Nandhini\nProducer - A. Kumar\nMusic Director - Ghibran\nDirector - Rohin Venkatesan \n\nMovie Synopsis - A man struggles to sell his house that is haunted so he arranges four people to live in the house for a few days to prove that there are no ghosts.\n\nDisclaimer:- We are only the right holders of this content. Any opinions expressed in this Film may purely be of the director or the original producers but are not our personal opinions and we do not assume any responsibility or liability for the same.\n\nKindly subscribe to the channel and Press the BELL ICON to get Instant Notifications from @rkddigital \n\nSubscribe To Our Channel:- https://www.youtube.com/channel/UCjBwQ6M9QyCgO5Pp-TQRFUA?sub_confirmation=1\n\nFollow Us On:\nFacebook: https://www.facebook.com/RKDStudiosOfficial/\nInstagram: https://www.instagram.com/rkdstudios",
+    "metadata": {
+      "year": null,
+      "genre": [],
+      "durationSeconds": 6941
+    },
+    "statistics": {
+      "views": 636470,
+      "likes": 1829
+    },
+    "publishedAt": "2026-08-26T11:30:15Z",
+    "verification": {
+      "status": "verified",
+      "method": "official-channel-whitelist"
+    },
+    "algorithm": {
+      "trendingScore": 64.41,
+      "recommendationScore": 61.13
     }
   },
   {
@@ -406,8 +406,8 @@
       "durationSeconds": 7221
     },
     "statistics": {
-      "views": 16053903,
-      "likes": 194784
+      "views": 16076066,
+      "likes": 195022
     },
     "publishedAt": "2026-08-01T06:30:07Z",
     "verification": {
@@ -415,8 +415,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 64.32,
-      "recommendationScore": 67.43
+      "trendingScore": 64.26,
+      "recommendationScore": 67.4
     }
   },
   {
@@ -441,8 +441,8 @@
       "durationSeconds": 7588
     },
     "statistics": {
-      "views": 371648,
-      "likes": 2493
+      "views": 373479,
+      "likes": 2513
     },
     "publishedAt": "2026-08-24T10:38:29Z",
     "verification": {
@@ -450,8 +450,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 64.22,
-      "recommendationScore": 60.54
+      "trendingScore": 64.15,
+      "recommendationScore": 60.52
     }
   },
   {
@@ -476,8 +476,8 @@
       "durationSeconds": 4893
     },
     "statistics": {
-      "views": 493345,
-      "likes": 786
+      "views": 495921,
+      "likes": 790
     },
     "publishedAt": "2026-08-27T14:30:00Z",
     "verification": {
@@ -485,8 +485,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 64.16,
-      "recommendationScore": 60.43
+      "trendingScore": 64.08,
+      "recommendationScore": 60.4
     }
   },
   {
@@ -511,8 +511,8 @@
       "durationSeconds": 6668
     },
     "statistics": {
-      "views": 79887,
-      "likes": 455
+      "views": 83590,
+      "likes": 482
     },
     "publishedAt": "2026-08-31T05:30:37Z",
     "verification": {
@@ -520,8 +520,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 63.93,
-      "recommendationScore": 57.73
+      "trendingScore": 64.01,
+      "recommendationScore": 57.86
     }
   },
   {
@@ -546,8 +546,8 @@
       "durationSeconds": 5187
     },
     "statistics": {
-      "views": 189213,
-      "likes": 1030
+      "views": 191155,
+      "likes": 1048
     },
     "publishedAt": "2026-08-27T11:30:01Z",
     "verification": {
@@ -555,7 +555,7 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 63.91,
+      "trendingScore": 63.85,
       "recommendationScore": 59.12
     }
   },
@@ -581,8 +581,8 @@
       "durationSeconds": 7552
     },
     "statistics": {
-      "views": 13233863,
-      "likes": 139599
+      "views": 13241791,
+      "likes": 139661
     },
     "publishedAt": "2026-08-02T05:30:07Z",
     "verification": {
@@ -590,8 +590,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 63.88,
-      "recommendationScore": 66.71
+      "trendingScore": 63.81,
+      "recommendationScore": 66.67
     }
   },
   {
@@ -616,8 +616,8 @@
       "durationSeconds": 7140
     },
     "statistics": {
-      "views": 1352802,
-      "likes": 5209
+      "views": 1358115,
+      "likes": 5221
     },
     "publishedAt": "2026-08-19T09:30:04Z",
     "verification": {
@@ -625,8 +625,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 63.66,
-      "recommendationScore": 62.08
+      "trendingScore": 63.59,
+      "recommendationScore": 62.05
     }
   },
   {
@@ -651,8 +651,8 @@
       "durationSeconds": 7233
     },
     "statistics": {
-      "views": 228743,
-      "likes": 829
+      "views": 231015,
+      "likes": 845
     },
     "publishedAt": "2026-08-27T06:00:33Z",
     "verification": {
@@ -660,8 +660,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 63.6,
-      "recommendationScore": 59.08
+      "trendingScore": 63.54,
+      "recommendationScore": 59.07
     }
   },
   {
@@ -686,8 +686,8 @@
       "durationSeconds": 7928
     },
     "statistics": {
-      "views": 481118,
-      "likes": 4940
+      "views": 482483,
+      "likes": 4953
     },
     "publishedAt": "2026-08-17T11:30:06Z",
     "verification": {
@@ -695,8 +695,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 63.5,
-      "recommendationScore": 60.98
+      "trendingScore": 63.43,
+      "recommendationScore": 60.95
     }
   },
   {
@@ -721,8 +721,8 @@
       "durationSeconds": 8814
     },
     "statistics": {
-      "views": 244644,
-      "likes": 4973
+      "views": 247259,
+      "likes": 4993
     },
     "publishedAt": "2026-08-10T10:30:18Z",
     "verification": {
@@ -730,8 +730,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 63.42,
-      "recommendationScore": 60.9
+      "trendingScore": 63.33,
+      "recommendationScore": 60.85
     }
   },
   {
@@ -756,8 +756,8 @@
       "durationSeconds": 9436
     },
     "statistics": {
-      "views": 109861,
-      "likes": 439
+      "views": 111397,
+      "likes": 446
     },
     "publishedAt": "2026-08-28T14:30:29Z",
     "verification": {
@@ -765,8 +765,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 63.16,
-      "recommendationScore": 57.67
+      "trendingScore": 63.1,
+      "recommendationScore": 57.66
     }
   },
   {
@@ -791,8 +791,8 @@
       "durationSeconds": 6590
     },
     "statistics": {
-      "views": 99916,
-      "likes": 227
+      "views": 101045,
+      "likes": 228
     },
     "publishedAt": "2026-08-29T14:30:29Z",
     "verification": {
@@ -800,8 +800,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 62.88,
-      "recommendationScore": 57.18
+      "trendingScore": 62.81,
+      "recommendationScore": 57.16
     }
   },
   {
@@ -826,8 +826,8 @@
       "durationSeconds": 8214
     },
     "statistics": {
-      "views": 56318,
-      "likes": 267
+      "views": 56809,
+      "likes": 269
     },
     "publishedAt": "2026-08-29T11:30:18Z",
     "verification": {
@@ -835,8 +835,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 62.76,
-      "recommendationScore": 56.43
+      "trendingScore": 62.69,
+      "recommendationScore": 56.41
     }
   },
   {
@@ -861,8 +861,8 @@
       "durationSeconds": 7213
     },
     "statistics": {
-      "views": 102865,
-      "likes": 1282
+      "views": 103638,
+      "likes": 1286
     },
     "publishedAt": "2026-08-19T10:30:29Z",
     "verification": {
@@ -870,8 +870,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 62.64,
-      "recommendationScore": 58.2
+      "trendingScore": 62.56,
+      "recommendationScore": 58.17
     }
   },
   {
@@ -896,8 +896,8 @@
       "durationSeconds": 7718
     },
     "statistics": {
-      "views": 178859,
-      "likes": 911
+      "views": 179782,
+      "likes": 916
     },
     "publishedAt": "2026-08-23T05:30:18Z",
     "verification": {
@@ -905,43 +905,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 62.47,
-      "recommendationScore": 58.23
-    }
-  },
-  {
-    "id": "xSd8vaqwASg",
-    "title": "Krishnarjuna | Nagarjuna Action Movie | South Indian Hindi Dubbed Action Movie | Thriller Movie",
-    "slug": "krishnarjuna-nagarjuna-action-movie-south-indian-hindi-dubbed-action-movie-thriller-movie",
-    "youtubeVideoId": "xSd8vaqwASg",
-    "youtubeUrl": "https://www.youtube.com/watch?v=xSd8vaqwASg",
-    "thumbnail": "https://i.ytimg.com/vi/xSd8vaqwASg/maxresdefault.jpg",
-    "language": "Telugu",
-    "audioLanguage": "Hindi",
-    "dubbed": true,
-    "creator": {
-      "name": "Wamindia Movies",
-      "channelId": "UCt7_pnSRPKU3bu2GqmgH8gQ",
-      "channelUrl": "https://www.youtube.com/channel/UCt7_pnSRPKU3bu2GqmgH8gQ"
-    },
-    "description": "Movie :- Krishnarjuna (Hindi Dubbed)\nOriginal Movie :- Krishnarjuna (Telugu)\nStarring :- Nagarjuna, Vishnu Manchu, Mamta Mohandas & Others\nLanguage :- Hindi Dubbed\nGenre :- Fantasy • Action • Drama • Comedy\nDirector :- P. Vasu\n\n📖 Synopsis:\n\nPedababu is determined to secure a wealthy marriage for his sister, but an astrologer's prediction creates a dangerous plan. According to the advice, she must first marry Arjun, a simple orphan, so that he can be eliminated afterward and she can eventually marry a rich man.\n\nArjun enters the family unaware of the sinister plan against his life. However, when danger closes in, divine intervention changes everything. Lord Krishna comes to Arjun's rescue and protects him from the evil intentions of those plotting against him.\n\nAs the truth behind the conspiracy begins to unfold, Arjun finds himself caught between powerful enemies, family secrets, and divine forces. With Lord Krishna's guidance, he must overcome every obstacle and fight for justice.\n\nPacked with fantasy, action, comedy, emotional drama, divine miracles, and unexpected twists, Krishnarjuna is an entertaining South Indian movie that beautifully blends mythology with family drama.\n\n#Krishnarjuna #Nagarjuna #VishnuManchu #MamtaMohandas #PVasu #HindiDubbed #SouthMovie2026 #FantasyMovie #ActionMovie #MythologicalMovie #DivineDrama #SouthMovie #NewSouthMovie #SouthHindiDubbed #BlockbusterMovie #NewMovie2026 #PremiumDigiplexMoviesDubbed\n\nWatch other Blockbuster Hits for FREE on our YT Channel 🔥🔥🔥\nOur Blockbuster Movies -\nSkanda - https://youtu.be/GqBsBTQ-Fh0\nHaathi Friends Forever - https://youtu.be/p1sS6rdM08s\nSuper Taxi - https://youtu.be/xbXC_QAkzqU\nBusinessman 2 - https://youtu.be/1qnNsMfIoXQ\nGeethanjali - https://youtu.be/6dDxaRQXgKY\nShoorveer - https://youtu.be/luXy9HTVwZw\nTime Story - https://youtu.be/mf5965Bj5Kk\n\nWelcome to WAMIndia Movies – your ultimate destination for the best South Indian Movies Dubbed in Hindi. Enjoy blockbuster action, comedy, romance, and drama from the South, now in Hindi for you to watch anytime! Subscribe now for non-stop entertainment.\n\n#WAMIndiaMovies #SouthIndianMovies #HindiDubbedMovies #SouthHindiDubbed #NewSouthMovie2025 #SouthMovieHindi #HindiDubbedFilm #SouthBlockbuster #SouthActionMovie #SouthComedyMovie #SouthRomanticMovie #NewHindiMovie2025 #SouthCinema #HindiDubbedAction #IndianCinema\n\nSubscribe सब्सक्राइब to our channel now for more South Indian Hindi Dubbed Movies\nYouTube: https://www.youtube.com/WAMIndiaMovies\nFacebook: https://www.facebook.com/wamindiamovies",
-    "metadata": {
-      "year": null,
-      "genre": [],
-      "durationSeconds": 6459
-    },
-    "statistics": {
-      "views": 84463,
-      "likes": 120
-    },
-    "publishedAt": "2026-08-29T14:30:23Z",
-    "verification": {
-      "status": "verified",
-      "method": "official-channel-whitelist"
-    },
-    "algorithm": {
-      "trendingScore": 62.43,
-      "recommendationScore": 56.57
+      "trendingScore": 62.4,
+      "recommendationScore": 58.21
     }
   },
   {
@@ -966,8 +931,8 @@
       "durationSeconds": 7100
     },
     "statistics": {
-      "views": 20546,
-      "likes": 137
+      "views": 20855,
+      "likes": 138
     },
     "publishedAt": "2026-08-31T02:30:26Z",
     "verification": {
@@ -975,8 +940,43 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 62.42,
+      "trendingScore": 62.39,
       "recommendationScore": 54.79
+    }
+  },
+  {
+    "id": "xSd8vaqwASg",
+    "title": "Krishnarjuna | Nagarjuna Action Movie | South Indian Hindi Dubbed Action Movie | Thriller Movie",
+    "slug": "krishnarjuna-nagarjuna-action-movie-south-indian-hindi-dubbed-action-movie-thriller-movie",
+    "youtubeVideoId": "xSd8vaqwASg",
+    "youtubeUrl": "https://www.youtube.com/watch?v=xSd8vaqwASg",
+    "thumbnail": "https://i.ytimg.com/vi/xSd8vaqwASg/maxresdefault.jpg",
+    "language": "Telugu",
+    "audioLanguage": "Hindi",
+    "dubbed": true,
+    "creator": {
+      "name": "Wamindia Movies",
+      "channelId": "UCt7_pnSRPKU3bu2GqmgH8gQ",
+      "channelUrl": "https://www.youtube.com/channel/UCt7_pnSRPKU3bu2GqmgH8gQ"
+    },
+    "description": "Movie :- Krishnarjuna (Hindi Dubbed)\nOriginal Movie :- Krishnarjuna (Telugu)\nStarring :- Nagarjuna, Vishnu Manchu, Mamta Mohandas & Others\nLanguage :- Hindi Dubbed\nGenre :- Fantasy • Action • Drama • Comedy\nDirector :- P. Vasu\n\n📖 Synopsis:\n\nPedababu is determined to secure a wealthy marriage for his sister, but an astrologer's prediction creates a dangerous plan. According to the advice, she must first marry Arjun, a simple orphan, so that he can be eliminated afterward and she can eventually marry a rich man.\n\nArjun enters the family unaware of the sinister plan against his life. However, when danger closes in, divine intervention changes everything. Lord Krishna comes to Arjun's rescue and protects him from the evil intentions of those plotting against him.\n\nAs the truth behind the conspiracy begins to unfold, Arjun finds himself caught between powerful enemies, family secrets, and divine forces. With Lord Krishna's guidance, he must overcome every obstacle and fight for justice.\n\nPacked with fantasy, action, comedy, emotional drama, divine miracles, and unexpected twists, Krishnarjuna is an entertaining South Indian movie that beautifully blends mythology with family drama.\n\n#Krishnarjuna #Nagarjuna #VishnuManchu #MamtaMohandas #PVasu #HindiDubbed #SouthMovie2026 #FantasyMovie #ActionMovie #MythologicalMovie #DivineDrama #SouthMovie #NewSouthMovie #SouthHindiDubbed #BlockbusterMovie #NewMovie2026 #PremiumDigiplexMoviesDubbed\n\nWatch other Blockbuster Hits for FREE on our YT Channel 🔥🔥🔥\nOur Blockbuster Movies -\nSkanda - https://youtu.be/GqBsBTQ-Fh0\nHaathi Friends Forever - https://youtu.be/p1sS6rdM08s\nSuper Taxi - https://youtu.be/xbXC_QAkzqU\nBusinessman 2 - https://youtu.be/1qnNsMfIoXQ\nGeethanjali - https://youtu.be/6dDxaRQXgKY\nShoorveer - https://youtu.be/luXy9HTVwZw\nTime Story - https://youtu.be/mf5965Bj5Kk\n\nWelcome to WAMIndia Movies – your ultimate destination for the best South Indian Movies Dubbed in Hindi. Enjoy blockbuster action, comedy, romance, and drama from the South, now in Hindi for you to watch anytime! Subscribe now for non-stop entertainment.\n\n#WAMIndiaMovies #SouthIndianMovies #HindiDubbedMovies #SouthHindiDubbed #NewSouthMovie2025 #SouthMovieHindi #HindiDubbedFilm #SouthBlockbuster #SouthActionMovie #SouthComedyMovie #SouthRomanticMovie #NewHindiMovie2025 #SouthCinema #HindiDubbedAction #IndianCinema\n\nSubscribe सब्सक्राइब to our channel now for more South Indian Hindi Dubbed Movies\nYouTube: https://www.youtube.com/WAMIndiaMovies\nFacebook: https://www.facebook.com/wamindiamovies",
+    "metadata": {
+      "year": null,
+      "genre": [],
+      "durationSeconds": 6459
+    },
+    "statistics": {
+      "views": 85446,
+      "likes": 121
+    },
+    "publishedAt": "2026-08-29T14:30:23Z",
+    "verification": {
+      "status": "verified",
+      "method": "official-channel-whitelist"
+    },
+    "algorithm": {
+      "trendingScore": 62.36,
+      "recommendationScore": 56.55
     }
   },
   {
@@ -1001,8 +1001,8 @@
       "durationSeconds": 8019
     },
     "statistics": {
-      "views": 100048,
-      "likes": 1037
+      "views": 100373,
+      "likes": 1041
     },
     "publishedAt": "2026-08-20T11:30:08Z",
     "verification": {
@@ -1010,8 +1010,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 62.33,
-      "recommendationScore": 57.77
+      "trendingScore": 62.26,
+      "recommendationScore": 57.74
     }
   },
   {
@@ -1036,8 +1036,8 @@
       "durationSeconds": 6630
     },
     "statistics": {
-      "views": 244322,
-      "likes": 955
+      "views": 245213,
+      "likes": 967
     },
     "publishedAt": "2026-08-22T05:30:29Z",
     "verification": {
@@ -1045,8 +1045,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 62.26,
-      "recommendationScore": 58.52
+      "trendingScore": 62.2,
+      "recommendationScore": 58.49
     }
   }
 ]
