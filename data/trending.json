@@ -21,8 +21,8 @@
       "durationSeconds": 8051
     },
     "statistics": {
-      "views": 3824349,
-      "likes": 35741
+      "views": 3907289,
+      "likes": 36105
     },
     "publishedAt": "2026-08-29T14:00:17Z",
     "verification": {
@@ -30,8 +30,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 68.93,
-      "recommendationScore": 67.18
+      "trendingScore": 68.84,
+      "recommendationScore": 67.15
     }
   },
   {
@@ -56,8 +56,8 @@
       "durationSeconds": 6967
     },
     "statistics": {
-      "views": 3056701,
-      "likes": 21164
+      "views": 3099766,
+      "likes": 21301
     },
     "publishedAt": "2026-08-28T06:30:06Z",
     "verification": {
@@ -65,8 +65,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 67.59,
-      "recommendationScore": 65.84
+      "trendingScore": 67.5,
+      "recommendationScore": 65.81
     }
   },
   {
@@ -91,8 +91,8 @@
       "durationSeconds": 6849
     },
     "statistics": {
-      "views": 1351276,
-      "likes": 6066
+      "views": 1396837,
+      "likes": 6172
     },
     "publishedAt": "2026-08-31T12:26:14Z",
     "verification": {
@@ -100,8 +100,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 66.86,
-      "recommendationScore": 63.84
+      "trendingScore": 66.79,
+      "recommendationScore": 63.85
     }
   },
   {
@@ -126,8 +126,8 @@
       "durationSeconds": 7430
     },
     "statistics": {
-      "views": 1726526,
-      "likes": 8140
+      "views": 1762400,
+      "likes": 8236
     },
     "publishedAt": "2026-08-28T11:30:26Z",
     "verification": {
@@ -135,8 +135,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 66.31,
-      "recommendationScore": 63.98
+      "trendingScore": 66.24,
+      "recommendationScore": 63.97
     }
   },
   {
@@ -161,8 +161,8 @@
       "durationSeconds": 7341
     },
     "statistics": {
-      "views": 875196,
-      "likes": 8352
+      "views": 882675,
+      "likes": 8392
     },
     "publishedAt": "2026-08-26T09:43:36Z",
     "verification": {
@@ -170,43 +170,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 66.11,
-      "recommendationScore": 63.27
-    }
-  },
-  {
-    "id": "UEkigRoMO-0",
-    "title": "Lenin (2026) New Released Hindi Dubbed Full Movie | Starring Akhil Akkineni & Bhagyashri Borse",
-    "slug": "lenin-2026-new-released-hindi-dubbed-full-movie-starring-akhil-akkineni-bhagyashri-borse",
-    "youtubeVideoId": "UEkigRoMO-0",
-    "youtubeUrl": "https://www.youtube.com/watch?v=UEkigRoMO-0",
-    "thumbnail": "https://i.ytimg.com/vi/UEkigRoMO-0/maxresdefault.jpg",
-    "language": "South Indian",
-    "audioLanguage": "Hindi",
-    "dubbed": true,
-    "creator": {
-      "name": "RG Entertainment",
-      "channelId": "UCgfO009hB_847kwL6NQnn-w",
-      "channelUrl": "https://www.youtube.com/channel/UCgfO009hB_847kwL6NQnn-w"
-    },
-    "description": "Presenting New South Indian Movies Dubbed In Hindi 2026 Full, Lenin.\n\nWritten & Directed: Murali Kishor Abburu\n\nStarring: Akhil Akkineni\nBhagyashri\nPramod Panju\nShivaji\nSunil \n\nDirector of Photography: Leon Britto\n\nMusic Director : Thaman S\n\nEditor: Navin Nooli\n-----------------------------------------------------------------------------------------------------------\nStay Connected with Us!\n\nFollow us on Twitter :\nhttps://twitter.com/Royalgoldfilms\n\nFollow us on Instagram :\nhttps://www.instagram.com/royalgoldfilms",
-    "metadata": {
-      "year": 2026,
-      "genre": [],
-      "durationSeconds": 7317
-    },
-    "statistics": {
-      "views": 1968148,
-      "likes": 12437
-    },
-    "publishedAt": "2026-08-22T10:30:02Z",
-    "verification": {
-      "status": "verified",
-      "method": "official-channel-whitelist"
-    },
-    "algorithm": {
-      "trendingScore": 65.13,
-      "recommendationScore": 63.75
+      "trendingScore": 66.02,
+      "recommendationScore": 63.23
     }
   },
   {
@@ -231,8 +196,8 @@
       "durationSeconds": 6754
     },
     "statistics": {
-      "views": 233130,
-      "likes": 1055
+      "views": 330301,
+      "likes": 1214
     },
     "publishedAt": "2026-09-02T14:30:35Z",
     "verification": {
@@ -240,8 +205,43 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 65.01,
-      "recommendationScore": 59.95
+      "trendingScore": 65.23,
+      "recommendationScore": 60.55
+    }
+  },
+  {
+    "id": "UEkigRoMO-0",
+    "title": "Lenin (2026) New Released Hindi Dubbed Full Movie | Starring Akhil Akkineni & Bhagyashri Borse",
+    "slug": "lenin-2026-new-released-hindi-dubbed-full-movie-starring-akhil-akkineni-bhagyashri-borse",
+    "youtubeVideoId": "UEkigRoMO-0",
+    "youtubeUrl": "https://www.youtube.com/watch?v=UEkigRoMO-0",
+    "thumbnail": "https://i.ytimg.com/vi/UEkigRoMO-0/maxresdefault.jpg",
+    "language": "South Indian",
+    "audioLanguage": "Hindi",
+    "dubbed": true,
+    "creator": {
+      "name": "RG Entertainment",
+      "channelId": "UCgfO009hB_847kwL6NQnn-w",
+      "channelUrl": "https://www.youtube.com/channel/UCgfO009hB_847kwL6NQnn-w"
+    },
+    "description": "Presenting New South Indian Movies Dubbed In Hindi 2026 Full, Lenin.\n\nWritten & Directed: Murali Kishor Abburu\n\nStarring: Akhil Akkineni\nBhagyashri\nPramod Panju\nShivaji\nSunil \n\nDirector of Photography: Leon Britto\n\nMusic Director : Thaman S\n\nEditor: Navin Nooli\n-----------------------------------------------------------------------------------------------------------\nStay Connected with Us!\n\nFollow us on Twitter :\nhttps://twitter.com/Royalgoldfilms\n\nFollow us on Instagram :\nhttps://www.instagram.com/royalgoldfilms",
+    "metadata": {
+      "year": 2026,
+      "genre": [],
+      "durationSeconds": 7317
+    },
+    "statistics": {
+      "views": 2000145,
+      "likes": 12498
+    },
+    "publishedAt": "2026-08-22T10:30:02Z",
+    "verification": {
+      "status": "verified",
+      "method": "official-channel-whitelist"
+    },
+    "algorithm": {
+      "trendingScore": 65.05,
+      "recommendationScore": 63.72
     }
   },
   {
@@ -266,8 +266,8 @@
       "durationSeconds": 8826
     },
     "statistics": {
-      "views": 562548,
-      "likes": 2314
+      "views": 565651,
+      "likes": 2319
     },
     "publishedAt": "2026-08-29T11:30:32Z",
     "verification": {
@@ -275,8 +275,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 64.99,
-      "recommendationScore": 61.36
+      "trendingScore": 64.9,
+      "recommendationScore": 61.32
     }
   },
   {
@@ -301,8 +301,8 @@
       "durationSeconds": 8172
     },
     "statistics": {
-      "views": 283836,
-      "likes": 995
+      "views": 286168,
+      "likes": 997
     },
     "publishedAt": "2026-08-31T11:30:26Z",
     "verification": {
@@ -310,8 +310,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 64.55,
-      "recommendationScore": 59.93
+      "trendingScore": 64.46,
+      "recommendationScore": 59.89
     }
   },
   {
@@ -336,8 +336,8 @@
       "durationSeconds": 8112
     },
     "statistics": {
-      "views": 2260888,
-      "likes": 9446
+      "views": 2266816,
+      "likes": 9453
     },
     "publishedAt": "2026-08-21T14:30:08Z",
     "verification": {
@@ -345,8 +345,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 64.5,
-      "recommendationScore": 63.41
+      "trendingScore": 64.41,
+      "recommendationScore": 63.37
     }
   },
   {
@@ -371,8 +371,8 @@
       "durationSeconds": 6668
     },
     "statistics": {
-      "views": 167086,
-      "likes": 895
+      "views": 170163,
+      "likes": 906
     },
     "publishedAt": "2026-08-31T05:30:37Z",
     "verification": {
@@ -380,8 +380,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 64.29,
-      "recommendationScore": 59.11
+      "trendingScore": 64.21,
+      "recommendationScore": 59.09
     }
   },
   {
@@ -406,8 +406,8 @@
       "durationSeconds": 6658
     },
     "statistics": {
-      "views": 1113881,
-      "likes": 6087
+      "views": 1119632,
+      "likes": 6103
     },
     "publishedAt": "2026-08-22T11:30:05Z",
     "verification": {
@@ -415,8 +415,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 64.17,
-      "recommendationScore": 62.21
+      "trendingScore": 64.09,
+      "recommendationScore": 62.17
     }
   },
   {
@@ -441,8 +441,8 @@
       "durationSeconds": 6941
     },
     "statistics": {
-      "views": 780672,
-      "likes": 2160
+      "views": 786432,
+      "likes": 2168
     },
     "publishedAt": "2026-08-26T11:30:15Z",
     "verification": {
@@ -450,8 +450,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 64.15,
-      "recommendationScore": 61.31
+      "trendingScore": 64.07,
+      "recommendationScore": 61.28
     }
   },
   {
@@ -476,8 +476,8 @@
       "durationSeconds": 7025
     },
     "statistics": {
-      "views": 40015,
-      "likes": 360
+      "views": 57844,
+      "likes": 404
     },
     "publishedAt": "2026-09-02T11:19:04Z",
     "verification": {
@@ -485,8 +485,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 63.92,
-      "recommendationScore": 56.94
+      "trendingScore": 63.86,
+      "recommendationScore": 57.3
     }
   },
   {
@@ -511,8 +511,8 @@
       "durationSeconds": 7221
     },
     "statistics": {
-      "views": 16663422,
-      "likes": 199540
+      "views": 16701749,
+      "likes": 199757
     },
     "publishedAt": "2026-08-01T06:30:07Z",
     "verification": {
@@ -520,8 +520,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 63.86,
-      "recommendationScore": 67.23
+      "trendingScore": 63.78,
+      "recommendationScore": 67.2
     }
   },
   {
@@ -546,8 +546,8 @@
       "durationSeconds": 7588
     },
     "statistics": {
-      "views": 443691,
-      "likes": 2860
+      "views": 446715,
+      "likes": 2868
     },
     "publishedAt": "2026-08-24T10:38:29Z",
     "verification": {
@@ -555,8 +555,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 63.81,
-      "recommendationScore": 60.59
+      "trendingScore": 63.72,
+      "recommendationScore": 60.56
     }
   },
   {
@@ -581,8 +581,8 @@
       "durationSeconds": 5187
     },
     "statistics": {
-      "views": 260577,
-      "likes": 1386
+      "views": 267236,
+      "likes": 1397
     },
     "publishedAt": "2026-08-27T11:30:01Z",
     "verification": {
@@ -590,8 +590,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 63.71,
-      "recommendationScore": 59.54
+      "trendingScore": 63.63,
+      "recommendationScore": 59.53
     }
   },
   {
@@ -616,8 +616,8 @@
       "durationSeconds": 4893
     },
     "statistics": {
-      "views": 535761,
-      "likes": 829
+      "views": 538331,
+      "likes": 832
     },
     "publishedAt": "2026-08-27T14:30:00Z",
     "verification": {
@@ -625,8 +625,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 63.67,
-      "recommendationScore": 60.3
+      "trendingScore": 63.58,
+      "recommendationScore": 60.27
     }
   },
   {
@@ -651,8 +651,8 @@
       "durationSeconds": 7233
     },
     "statistics": {
-      "views": 303539,
-      "likes": 1129
+      "views": 307713,
+      "likes": 1150
     },
     "publishedAt": "2026-08-27T06:00:33Z",
     "verification": {
@@ -660,8 +660,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 63.41,
-      "recommendationScore": 59.46
+      "trendingScore": 63.34,
+      "recommendationScore": 59.45
     }
   },
   {
@@ -686,8 +686,8 @@
       "durationSeconds": 7552
     },
     "statistics": {
-      "views": 13454917,
-      "likes": 140586
+      "views": 13466657,
+      "likes": 140627
     },
     "publishedAt": "2026-08-02T05:30:07Z",
     "verification": {
@@ -695,8 +695,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 63.4,
-      "recommendationScore": 66.47
+      "trendingScore": 63.32,
+      "recommendationScore": 66.43
     }
   },
   {
@@ -721,8 +721,8 @@
       "durationSeconds": 7687
     },
     "statistics": {
-      "views": 40012,
-      "likes": 248
+      "views": 49838,
+      "likes": 273
     },
     "publishedAt": "2026-09-02T11:30:19Z",
     "verification": {
@@ -730,8 +730,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 63.16,
-      "recommendationScore": 56.24
+      "trendingScore": 63.26,
+      "recommendationScore": 56.57
     }
   },
   {
@@ -756,8 +756,8 @@
       "durationSeconds": 7140
     },
     "statistics": {
-      "views": 1436122,
-      "likes": 5382
+      "views": 1440903,
+      "likes": 5389
     },
     "publishedAt": "2026-08-19T09:30:04Z",
     "verification": {
@@ -765,8 +765,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 63.16,
-      "recommendationScore": 61.91
+      "trendingScore": 63.08,
+      "recommendationScore": 61.87
     }
   },
   {
@@ -791,8 +791,8 @@
       "durationSeconds": 7928
     },
     "statistics": {
-      "views": 523355,
-      "likes": 5231
+      "views": 525752,
+      "likes": 5245
     },
     "publishedAt": "2026-08-17T11:30:06Z",
     "verification": {
@@ -800,8 +800,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 63.0,
-      "recommendationScore": 60.83
+      "trendingScore": 62.92,
+      "recommendationScore": 60.79
     }
   },
   {
@@ -826,8 +826,8 @@
       "durationSeconds": 9436
     },
     "statistics": {
-      "views": 148082,
-      "likes": 556
+      "views": 150104,
+      "likes": 560
     },
     "publishedAt": "2026-08-28T14:30:29Z",
     "verification": {
@@ -835,8 +835,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 62.89,
-      "recommendationScore": 58.0
+      "trendingScore": 62.81,
+      "recommendationScore": 57.98
     }
   },
   {
@@ -861,8 +861,8 @@
       "durationSeconds": 6459
     },
     "statistics": {
-      "views": 147436,
-      "likes": 171
+      "views": 150626,
+      "likes": 174
     },
     "publishedAt": "2026-08-29T14:30:23Z",
     "verification": {
@@ -870,7 +870,7 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 62.49,
+      "trendingScore": 62.42,
       "recommendationScore": 57.5
     }
   },
@@ -896,8 +896,8 @@
       "durationSeconds": 7200
     },
     "statistics": {
-      "views": 33786,
-      "likes": 157
+      "views": 34334,
+      "likes": 161
     },
     "publishedAt": "2026-09-01T11:30:26Z",
     "verification": {
@@ -905,7 +905,7 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 62.4,
+      "trendingScore": 62.34,
       "recommendationScore": 55.38
     }
   },
@@ -931,8 +931,8 @@
       "durationSeconds": 6590
     },
     "statistics": {
-      "views": 114420,
-      "likes": 236
+      "views": 115253,
+      "likes": 238
     },
     "publishedAt": "2026-08-29T14:30:29Z",
     "verification": {
@@ -940,8 +940,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 62.4,
-      "recommendationScore": 57.13
+      "trendingScore": 62.32,
+      "recommendationScore": 57.1
     }
   },
   {
@@ -966,8 +966,8 @@
       "durationSeconds": 8214
     },
     "statistics": {
-      "views": 64441,
-      "likes": 301
+      "views": 64729,
+      "likes": 302
     },
     "publishedAt": "2026-08-29T11:30:18Z",
     "verification": {
@@ -975,8 +975,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 62.32,
-      "recommendationScore": 56.42
+      "trendingScore": 62.23,
+      "recommendationScore": 56.38
     }
   },
   {
@@ -1001,8 +1001,8 @@
       "durationSeconds": 7453
     },
     "statistics": {
-      "views": 31020,
-      "likes": 152
+      "views": 31578,
+      "likes": 153
     },
     "publishedAt": "2026-08-31T14:30:30Z",
     "verification": {
@@ -1010,17 +1010,17 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 62.08,
-      "recommendationScore": 55.1
+      "trendingScore": 62.0,
+      "recommendationScore": 55.08
     }
   },
   {
-    "id": "_Rs_TJ0Rtjk",
-    "title": "Maa Inti Bangaaram (2026) New Released Hindi Dubbed Full Movie | Starring Samantha, Gulshan Devaiah",
-    "slug": "maa-inti-bangaaram-2026-new-released-hindi-dubbed-full-movie-starring-samantha-gulshan-devaiah",
-    "youtubeVideoId": "_Rs_TJ0Rtjk",
-    "youtubeUrl": "https://www.youtube.com/watch?v=_Rs_TJ0Rtjk",
-    "thumbnail": "https://i.ytimg.com/vi/_Rs_TJ0Rtjk/maxresdefault.jpg",
+    "id": "Ws6M2gihrOI",
+    "title": "They Call Him OG (2025) Hindi Dubbed Full Movie | Starring Pawan Kalyan, Emraan Hashmi, Prakash Raj",
+    "slug": "they-call-him-og-2025-hindi-dubbed-full-movie-starring-pawan-kalyan-emraan-hashmi-prakash-raj",
+    "youtubeVideoId": "Ws6M2gihrOI",
+    "youtubeUrl": "https://www.youtube.com/watch?v=Ws6M2gihrOI",
+    "thumbnail": "https://i.ytimg.com/vi/Ws6M2gihrOI/maxresdefault.jpg",
     "language": "South Indian",
     "audioLanguage": "Hindi",
     "dubbed": true,
@@ -1029,24 +1029,24 @@
       "channelId": "UCgfO009hB_847kwL6NQnn-w",
       "channelUrl": "https://www.youtube.com/channel/UCgfO009hB_847kwL6NQnn-w"
     },
-    "description": "Presenting New South Indian Movies Dubbed In Hindi 2026 Full, Maa Inti Bangaaram.\n\nDirected by: B. V. Nandini Reddy\n\nScreenplay by: Raj Nidimoru\nVasanth Maringanti\nPrahas Boppudi\n\nStory by: Raj Nidimoru\n\nStarring: Samantha\nGulshan Devaiah\nDiganth Manchale\n\nMusic by: Santhosh Narayanan\n-----------------------------------------------------------------------------------------------------------\nStay Connected with Us!\n\nFollow us on Twitter :\nhttps://twitter.com/Royalgoldfilms\n\nFollow us on Instagram :\nhttps://www.instagram.com/royalgoldfilms",
+    "description": "Presenting New South Indian Movies Dubbed In Hindi 2025 Full, They Call Him OG.\n\nDirected by: Sujeeth\n\nWritten by: Sujeeth\n\nStarring: Pawan Kalyan\nEmraan Hashmi\nPrakash Raj\nPriyanka Mohan\nArjun Das\nSudev Nair\nSriya Reddy\n\nMusic by: Thaman S\n-----------------------------------------------------------------------------------------------------------\nStay Connected with Us!\n\nFollow us on Twitter :\nhttps://twitter.com/Royalgoldfilms\n\nFollow us on Instagram :\nhttps://www.instagram.com/royalgoldfilms",
     "metadata": {
-      "year": 2026,
+      "year": 2025,
       "genre": [],
-      "durationSeconds": 8814
+      "durationSeconds": 7213
     },
     "statistics": {
-      "views": 395577,
-      "likes": 5830
+      "views": 117983,
+      "likes": 1354
     },
-    "publishedAt": "2026-08-10T10:30:18Z",
+    "publishedAt": "2026-08-19T10:30:29Z",
     "verification": {
       "status": "verified",
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 62.03,
-      "recommendationScore": 60.36
+      "trendingScore": 61.92,
+      "recommendationScore": 57.94
     }
   }
 ]
