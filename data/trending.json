@@ -21,8 +21,8 @@
       "durationSeconds": 8051
     },
     "statistics": {
-      "views": 4249922,
-      "likes": 38590
+      "views": 4497445,
+      "likes": 39179
     },
     "publishedAt": "2026-08-29T14:00:17Z",
     "verification": {
@@ -30,8 +30,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 68.75,
-      "recommendationScore": 67.23
+      "trendingScore": 68.67,
+      "recommendationScore": 67.24
     }
   },
   {
@@ -56,8 +56,8 @@
       "durationSeconds": 6967
     },
     "statistics": {
-      "views": 3271680,
-      "likes": 22261
+      "views": 3387619,
+      "likes": 22538
     },
     "publishedAt": "2026-08-28T06:30:06Z",
     "verification": {
@@ -65,8 +65,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 67.4,
-      "recommendationScore": 65.84
+      "trendingScore": 67.35,
+      "recommendationScore": 65.85
     }
   },
   {
@@ -91,8 +91,8 @@
       "durationSeconds": 6849
     },
     "statistics": {
-      "views": 1530774,
-      "likes": 7029
+      "views": 1655920,
+      "likes": 7372
     },
     "publishedAt": "2026-08-31T12:26:14Z",
     "verification": {
@@ -100,8 +100,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 66.8,
-      "recommendationScore": 64.03
+      "trendingScore": 66.81,
+      "recommendationScore": 64.14
     }
   },
   {
@@ -126,8 +126,8 @@
       "durationSeconds": 7430
     },
     "statistics": {
-      "views": 1868268,
-      "likes": 8917
+      "views": 1941151,
+      "likes": 9095
     },
     "publishedAt": "2026-08-28T11:30:26Z",
     "verification": {
@@ -135,43 +135,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 66.19,
-      "recommendationScore": 64.05
-    }
-  },
-  {
-    "id": "50QJ_UGzyL0",
-    "title": "Rebound - Hindi Dubbed Full Movie | Based on True Story - Sports Movie |  IOF-Hindi",
-    "slug": "rebound-hindi-dubbed-full-movie-based-on-true-story-sports-movie-iof-hindi",
-    "youtubeVideoId": "50QJ_UGzyL0",
-    "youtubeUrl": "https://www.youtube.com/watch?v=50QJ_UGzyL0",
-    "thumbnail": "https://i.ytimg.com/vi/50QJ_UGzyL0/maxresdefault.jpg",
-    "language": "Telugu",
-    "audioLanguage": "Hindi",
-    "dubbed": true,
-    "creator": {
-      "name": "IOF - Hindi",
-      "channelId": "UCQ-DyEmlafaU5VVuRVnfsFw",
-      "channelUrl": "https://www.youtube.com/channel/UCQ-DyEmlafaU5VVuRVnfsFw"
-    },
-    "description": "Click here to Subscribe - https://bit.ly/SubscribeIndoOverseasFilmsHindi\n\n\n___________________________________ \nEnjoy & stay connected with us!\nSubscribe to Indo Overseas Movies 👉 https://Subscribe.openinapp.co/IndoOverseasFilms\nSubscribe to IOF Hindi 👉 https://Subscribe.openinapp.co/IOFHindi\nSubscribe to IOF Telugu 👉 https://Subscribe.openinapp.co/IOFTelugu\nSubscribe to IOF Tamil 👉 https://Subscribe.openinapp.co/IOFTamil\n\nFollow Us On\nFacebook : https://www.facebook.com/indooverseasfilm\nTwitter : https://twitter.com/IOF_India\nInstagram : https://www.instagram.com/iof_india_/\nLinkedln : https://www.linkedin.com/in/indo-overseas-films-india-1a98b8208/\nWebsite : https://www.indooverseasfilms.com\n\nIn association with Divo - Our YouTube  Partner\n\n#Iof #Indooverseasfilmshindi #Hindidubbedmovies",
-    "metadata": {
-      "year": null,
-      "genre": [],
-      "durationSeconds": 7341
-    },
-    "statistics": {
-      "views": 905444,
-      "likes": 8679
-    },
-    "publishedAt": "2026-08-26T09:43:36Z",
-    "verification": {
-      "status": "verified",
-      "method": "official-channel-whitelist"
-    },
-    "algorithm": {
-      "trendingScore": 65.92,
-      "recommendationScore": 63.23
+      "trendingScore": 66.16,
+      "recommendationScore": 64.09
     }
   },
   {
@@ -196,8 +161,8 @@
       "durationSeconds": 6754
     },
     "statistics": {
-      "views": 515618,
-      "likes": 2033
+      "views": 698605,
+      "likes": 2257
     },
     "publishedAt": "2026-09-02T14:30:35Z",
     "verification": {
@@ -205,8 +170,43 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 65.86,
-      "recommendationScore": 61.65
+      "trendingScore": 66.0,
+      "recommendationScore": 62.16
+    }
+  },
+  {
+    "id": "50QJ_UGzyL0",
+    "title": "Rebound - Hindi Dubbed Full Movie | Based on True Story - Sports Movie |  IOF-Hindi",
+    "slug": "rebound-hindi-dubbed-full-movie-based-on-true-story-sports-movie-iof-hindi",
+    "youtubeVideoId": "50QJ_UGzyL0",
+    "youtubeUrl": "https://www.youtube.com/watch?v=50QJ_UGzyL0",
+    "thumbnail": "https://i.ytimg.com/vi/50QJ_UGzyL0/maxresdefault.jpg",
+    "language": "Telugu",
+    "audioLanguage": "Hindi",
+    "dubbed": true,
+    "creator": {
+      "name": "IOF - Hindi",
+      "channelId": "UCQ-DyEmlafaU5VVuRVnfsFw",
+      "channelUrl": "https://www.youtube.com/channel/UCQ-DyEmlafaU5VVuRVnfsFw"
+    },
+    "description": "Click here to Subscribe - https://bit.ly/SubscribeIndoOverseasFilmsHindi\n\n\n___________________________________ \nEnjoy & stay connected with us!\nSubscribe to Indo Overseas Movies 👉 https://Subscribe.openinapp.co/IndoOverseasFilms\nSubscribe to IOF Hindi 👉 https://Subscribe.openinapp.co/IOFHindi\nSubscribe to IOF Telugu 👉 https://Subscribe.openinapp.co/IOFTelugu\nSubscribe to IOF Tamil 👉 https://Subscribe.openinapp.co/IOFTamil\n\nFollow Us On\nFacebook : https://www.facebook.com/indooverseasfilm\nTwitter : https://twitter.com/IOF_India\nInstagram : https://www.instagram.com/iof_india_/\nLinkedln : https://www.linkedin.com/in/indo-overseas-films-india-1a98b8208/\nWebsite : https://www.indooverseasfilms.com\n\nIn association with Divo - Our YouTube  Partner\n\n#Iof #Indooverseasfilmshindi #Hindidubbedmovies",
+    "metadata": {
+      "year": null,
+      "genre": [],
+      "durationSeconds": 7341
+    },
+    "statistics": {
+      "views": 924646,
+      "likes": 8797
+    },
+    "publishedAt": "2026-08-26T09:43:36Z",
+    "verification": {
+      "status": "verified",
+      "method": "official-channel-whitelist"
+    },
+    "algorithm": {
+      "trendingScore": 65.88,
+      "recommendationScore": 63.23
     }
   },
   {
@@ -231,8 +231,8 @@
       "durationSeconds": 7317
     },
     "statistics": {
-      "views": 2089403,
-      "likes": 12886
+      "views": 2150206,
+      "likes": 13010
     },
     "publishedAt": "2026-08-22T10:30:02Z",
     "verification": {
@@ -240,8 +240,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 64.94,
-      "recommendationScore": 63.73
+      "trendingScore": 64.89,
+      "recommendationScore": 63.74
     }
   },
   {
@@ -266,8 +266,8 @@
       "durationSeconds": 8826
     },
     "statistics": {
-      "views": 576247,
-      "likes": 2363
+      "views": 587781,
+      "likes": 2384
     },
     "publishedAt": "2026-08-29T11:30:32Z",
     "verification": {
@@ -275,8 +275,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 64.78,
-      "recommendationScore": 61.28
+      "trendingScore": 64.73,
+      "recommendationScore": 61.29
     }
   },
   {
@@ -301,8 +301,8 @@
       "durationSeconds": 7025
     },
     "statistics": {
-      "views": 115223,
-      "likes": 766
+      "views": 151289,
+      "likes": 893
     },
     "publishedAt": "2026-09-02T11:19:04Z",
     "verification": {
@@ -310,8 +310,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 64.6,
-      "recommendationScore": 58.79
+      "trendingScore": 64.69,
+      "recommendationScore": 59.21
     }
   },
   {
@@ -336,8 +336,8 @@
       "durationSeconds": 8172
     },
     "statistics": {
-      "views": 293525,
-      "likes": 1020
+      "views": 297371,
+      "likes": 1027
     },
     "publishedAt": "2026-08-31T11:30:26Z",
     "verification": {
@@ -345,8 +345,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 64.34,
-      "recommendationScore": 59.87
+      "trendingScore": 64.29,
+      "recommendationScore": 59.86
     }
   },
   {
@@ -371,8 +371,8 @@
       "durationSeconds": 8112
     },
     "statistics": {
-      "views": 2288133,
-      "likes": 9526
+      "views": 2303113,
+      "likes": 9562
     },
     "publishedAt": "2026-08-21T14:30:08Z",
     "verification": {
@@ -380,8 +380,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 64.28,
-      "recommendationScore": 63.32
+      "trendingScore": 64.23,
+      "recommendationScore": 63.3
     }
   },
   {
@@ -406,8 +406,8 @@
       "durationSeconds": 6668
     },
     "statistics": {
-      "views": 183014,
-      "likes": 971
+      "views": 190403,
+      "likes": 983
     },
     "publishedAt": "2026-08-31T05:30:37Z",
     "verification": {
@@ -415,8 +415,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 64.14,
-      "recommendationScore": 59.18
+      "trendingScore": 64.09,
+      "recommendationScore": 59.2
     }
   },
   {
@@ -441,8 +441,8 @@
       "durationSeconds": 6941
     },
     "statistics": {
-      "views": 827235,
-      "likes": 2271
+      "views": 847546,
+      "likes": 2289
     },
     "publishedAt": "2026-08-26T11:30:15Z",
     "verification": {
@@ -450,8 +450,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 63.98,
-      "recommendationScore": 61.32
+      "trendingScore": 63.94,
+      "recommendationScore": 61.34
     }
   },
   {
@@ -476,8 +476,8 @@
       "durationSeconds": 6658
     },
     "statistics": {
-      "views": 1150434,
-      "likes": 6231
+      "views": 1165087,
+      "likes": 6248
     },
     "publishedAt": "2026-08-22T11:30:05Z",
     "verification": {
@@ -485,8 +485,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 63.97,
-      "recommendationScore": 62.15
+      "trendingScore": 63.92,
+      "recommendationScore": 62.14
     }
   },
   {
@@ -511,8 +511,8 @@
       "durationSeconds": 7221
     },
     "statistics": {
-      "views": 16854469,
-      "likes": 201222
+      "views": 16961808,
+      "likes": 201719
     },
     "publishedAt": "2026-08-01T06:30:07Z",
     "verification": {
@@ -520,8 +520,43 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 63.67,
-      "recommendationScore": 67.15
+      "trendingScore": 63.62,
+      "recommendationScore": 67.13
+    }
+  },
+  {
+    "id": "klyNNi-XJ_o",
+    "title": "Happy Birthday Pawan Kalyan | Sardaar Gabbar Singh South Indian Hindi Action Movie | Kajal Aggarwal",
+    "slug": "happy-birthday-pawan-kalyan-sardaar-gabbar-singh-south-indian-hindi-action-movie-kajal-aggarwal",
+    "youtubeVideoId": "klyNNi-XJ_o",
+    "youtubeUrl": "https://www.youtube.com/watch?v=klyNNi-XJ_o",
+    "thumbnail": "https://i.ytimg.com/vi/klyNNi-XJ_o/maxresdefault.jpg",
+    "language": "South Indian",
+    "audioLanguage": "Hindi",
+    "dubbed": true,
+    "creator": {
+      "name": "RKD Studios",
+      "channelId": "UCjBwQ6M9QyCgO5Pp-TQRFUA",
+      "channelUrl": "https://www.youtube.com/channel/UCjBwQ6M9QyCgO5Pp-TQRFUA"
+    },
+    "description": "🎉🔥 Wishing Power Star Pawan Kalyan a very Happy Birthday! 🎂🥳\n\nCelebrate the special day with Sardaar Gabbar Singh, a power-packed action entertainer starring Pawan Kalyan and Kajal Aggarwal. Enjoy thrilling action, drama, comedy, and full-on entertainment in this South Indian Hindi Dubbed Movie! 💥🎬\n\n#HappyBirthdayPawanKalyan #PawanKalyan #SardaarGabbarSingh #kajalaggarwal \n\nFilm - Sardaar Gabbar Singh\nStarcast - Pawan Kalyan, Kajal Aggarwal, Brahmanandam, Sharad Kelkar, Kabir Duhan Singh, Ali, Mukesh Rishi, Tankela Bharani, Pradeep Rawat, Sanjana Galrani, Raghu Babu & Others\nDirector - K. S. Ravindra (Bobby)\nProducer: Sunil Lulla, Sharrath Marar\nMusic: Devi Sri Prasad\nStory & Screenplay: Pawan Kalyan\n\nThe residents of Rathanpur are forced to face the wrath of Bhairav Singh who unceremoniously usurps their land. They find respite when Gabbar Singh, a brave policeman, takes on their oppressor.\n\nKindly subscribe to the channel and Press the BELL ICON to get Instant Notifications from @rkddigital \n\nSubscribe To Our Channel: https://www.youtube.com/channel/UCjBwQ6M9QyCgO5Pp-TQRFUA?sub_confirmation=1 \n\nFollow Us On:- Facebook: https://www.facebook.com/RKDStudiosOfficial/ \n\nInstagram:- https://www.instagram.com/rkdstudios",
+    "metadata": {
+      "year": null,
+      "genre": [],
+      "durationSeconds": 7687
+    },
+    "statistics": {
+      "views": 86739,
+      "likes": 399
+    },
+    "publishedAt": "2026-09-02T11:30:19Z",
+    "verification": {
+      "status": "verified",
+      "method": "official-channel-whitelist"
+    },
+    "algorithm": {
+      "trendingScore": 63.62,
+      "recommendationScore": 57.58
     }
   },
   {
@@ -546,8 +581,8 @@
       "durationSeconds": 7588
     },
     "statistics": {
-      "views": 459183,
-      "likes": 2958
+      "views": 466457,
+      "likes": 2987
     },
     "publishedAt": "2026-08-24T10:38:29Z",
     "verification": {
@@ -555,7 +590,7 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 63.62,
+      "trendingScore": 63.57,
       "recommendationScore": 60.55
     }
   },
@@ -581,8 +616,8 @@
       "durationSeconds": 5187
     },
     "statistics": {
-      "views": 281473,
-      "likes": 1479
+      "views": 297325,
+      "likes": 1516
     },
     "publishedAt": "2026-08-27T11:30:01Z",
     "verification": {
@@ -590,43 +625,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 63.55,
-      "recommendationScore": 59.57
-    }
-  },
-  {
-    "id": "klyNNi-XJ_o",
-    "title": "Happy Birthday Pawan Kalyan | Sardaar Gabbar Singh South Indian Hindi Action Movie | Kajal Aggarwal",
-    "slug": "happy-birthday-pawan-kalyan-sardaar-gabbar-singh-south-indian-hindi-action-movie-kajal-aggarwal",
-    "youtubeVideoId": "klyNNi-XJ_o",
-    "youtubeUrl": "https://www.youtube.com/watch?v=klyNNi-XJ_o",
-    "thumbnail": "https://i.ytimg.com/vi/klyNNi-XJ_o/maxresdefault.jpg",
-    "language": "South Indian",
-    "audioLanguage": "Hindi",
-    "dubbed": true,
-    "creator": {
-      "name": "RKD Studios",
-      "channelId": "UCjBwQ6M9QyCgO5Pp-TQRFUA",
-      "channelUrl": "https://www.youtube.com/channel/UCjBwQ6M9QyCgO5Pp-TQRFUA"
-    },
-    "description": "🎉🔥 Wishing Power Star Pawan Kalyan a very Happy Birthday! 🎂🥳\n\nCelebrate the special day with Sardaar Gabbar Singh, a power-packed action entertainer starring Pawan Kalyan and Kajal Aggarwal. Enjoy thrilling action, drama, comedy, and full-on entertainment in this South Indian Hindi Dubbed Movie! 💥🎬\n\n#HappyBirthdayPawanKalyan #PawanKalyan #SardaarGabbarSingh #kajalaggarwal \n\nFilm - Sardaar Gabbar Singh\nStarcast - Pawan Kalyan, Kajal Aggarwal, Brahmanandam, Sharad Kelkar, Kabir Duhan Singh, Ali, Mukesh Rishi, Tankela Bharani, Pradeep Rawat, Sanjana Galrani, Raghu Babu & Others\nDirector - K. S. Ravindra (Bobby)\nProducer: Sunil Lulla, Sharrath Marar\nMusic: Devi Sri Prasad\nStory & Screenplay: Pawan Kalyan\n\nThe residents of Rathanpur are forced to face the wrath of Bhairav Singh who unceremoniously usurps their land. They find respite when Gabbar Singh, a brave policeman, takes on their oppressor.\n\nKindly subscribe to the channel and Press the BELL ICON to get Instant Notifications from @rkddigital \n\nSubscribe To Our Channel: https://www.youtube.com/channel/UCjBwQ6M9QyCgO5Pp-TQRFUA?sub_confirmation=1 \n\nFollow Us On:- Facebook: https://www.facebook.com/RKDStudiosOfficial/ \n\nInstagram:- https://www.instagram.com/rkdstudios",
-    "metadata": {
-      "year": null,
-      "genre": [],
-      "durationSeconds": 7687
-    },
-    "statistics": {
-      "views": 72752,
-      "likes": 361
-    },
-    "publishedAt": "2026-09-02T11:30:19Z",
-    "verification": {
-      "status": "verified",
-      "method": "official-channel-whitelist"
-    },
-    "algorithm": {
-      "trendingScore": 63.54,
-      "recommendationScore": 57.29
+      "trendingScore": 63.52,
+      "recommendationScore": 59.63
     }
   },
   {
@@ -651,8 +651,8 @@
       "durationSeconds": 4893
     },
     "statistics": {
-      "views": 548086,
-      "likes": 845
+      "views": 553197,
+      "likes": 847
     },
     "publishedAt": "2026-08-27T14:30:00Z",
     "verification": {
@@ -660,8 +660,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 63.45,
-      "recommendationScore": 60.23
+      "trendingScore": 63.41,
+      "recommendationScore": 60.22
     }
   },
   {
@@ -686,8 +686,8 @@
       "durationSeconds": 7233
     },
     "statistics": {
-      "views": 325075,
-      "likes": 1214
+      "views": 332049,
+      "likes": 1232
     },
     "publishedAt": "2026-08-27T06:00:33Z",
     "verification": {
@@ -695,8 +695,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 63.26,
-      "recommendationScore": 59.5
+      "trendingScore": 63.22,
+      "recommendationScore": 59.51
     }
   },
   {
@@ -721,8 +721,8 @@
       "durationSeconds": 7552
     },
     "statistics": {
-      "views": 13527670,
-      "likes": 141029
+      "views": 13562307,
+      "likes": 141122
     },
     "publishedAt": "2026-08-02T05:30:07Z",
     "verification": {
@@ -730,8 +730,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 63.2,
-      "recommendationScore": 66.38
+      "trendingScore": 63.15,
+      "recommendationScore": 66.35
     }
   },
   {
@@ -756,8 +756,8 @@
       "durationSeconds": 7140
     },
     "statistics": {
-      "views": 1465332,
-      "likes": 5461
+      "views": 1476870,
+      "likes": 5476
     },
     "publishedAt": "2026-08-19T09:30:04Z",
     "verification": {
@@ -765,8 +765,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 62.96,
-      "recommendationScore": 61.83
+      "trendingScore": 62.91,
+      "recommendationScore": 61.82
     }
   },
   {
@@ -791,8 +791,8 @@
       "durationSeconds": 7928
     },
     "statistics": {
-      "views": 536682,
-      "likes": 5340
+      "views": 544413,
+      "likes": 5366
     },
     "publishedAt": "2026-08-17T11:30:06Z",
     "verification": {
@@ -800,8 +800,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 62.8,
-      "recommendationScore": 60.76
+      "trendingScore": 62.74,
+      "recommendationScore": 60.74
     }
   },
   {
@@ -826,8 +826,8 @@
       "durationSeconds": 9436
     },
     "statistics": {
-      "views": 159804,
-      "likes": 602
+      "views": 166976,
+      "likes": 611
     },
     "publishedAt": "2026-08-28T14:30:29Z",
     "verification": {
@@ -835,8 +835,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 62.75,
-      "recommendationScore": 58.05
+      "trendingScore": 62.72,
+      "recommendationScore": 58.1
     }
   },
   {
@@ -861,8 +861,8 @@
       "durationSeconds": 6459
     },
     "statistics": {
-      "views": 162259,
-      "likes": 181
+      "views": 169291,
+      "likes": 182
     },
     "publishedAt": "2026-08-29T14:30:23Z",
     "verification": {
@@ -870,78 +870,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 62.36,
-      "recommendationScore": 57.58
-    }
-  },
-  {
-    "id": "igMwjlE-kDg",
-    "title": "Happy Birthday Sudeep | Bachchan Action Movie |Jagapathi Babu Latest South Indian Hindi Dubbed Movie",
-    "slug": "happy-birthday-sudeep-bachchan-action-movie-jagapathi-babu-latest-south-indian-hindi-dubbed-movie",
-    "youtubeVideoId": "igMwjlE-kDg",
-    "youtubeUrl": "https://www.youtube.com/watch?v=igMwjlE-kDg",
-    "thumbnail": "https://i.ytimg.com/vi/igMwjlE-kDg/maxresdefault.jpg",
-    "language": "Kannada",
-    "audioLanguage": "Hindi",
-    "dubbed": true,
-    "creator": {
-      "name": "RKD Studios",
-      "channelId": "UCjBwQ6M9QyCgO5Pp-TQRFUA",
-      "channelUrl": "https://www.youtube.com/channel/UCjBwQ6M9QyCgO5Pp-TQRFUA"
-    },
-    "description": "🎉 Wishing the charismatic superstar Kiccha Sudeep a very Happy Birthday! 🎂🔥\n\nCelebrate the special day by watching Bachchan, a power-packed action entertainer featuring Kiccha Sudeep and Jagapathi Babu. Get ready for thrilling action, drama, and full-on entertainment in this South Indian Hindi-Dubbed Movie! 💥🎬\n\nOriginal Movie: Bachchan In Kannada \nStar Cast: Sudeep, Jagapathi Babu, Tulip Joshi\nMusic:- V. Harikrishna\nProducer:- Uday K Mehta\nDirector:- Shashank  \n\nDisclaimer:- We are only the right holders of this content. Any opinions expressed in this Film may purely be of the director or the original producers but are not our personal opinions and we do not assume any responsibility or liability for the same.\n\nKindly subscribe to the channel and Press the BELL ICON to get Instant Notifications from RKD Studios.\n\nSubscribe To Our Channel: https://www.youtube.com/channel/UCjBwQ6M9QyCgO5Pp-TQRFUA?sub_confirmation=1\n\nFollow Us On:-\nFacebook: https://www.facebook.com/RKDStudiosOfficial/\n\nInstagram:-\nhttps://www.instagram.com/rkdstudios",
-    "metadata": {
-      "year": null,
-      "genre": [],
-      "durationSeconds": 7200
-    },
-    "statistics": {
-      "views": 35674,
-      "likes": 171
-    },
-    "publishedAt": "2026-09-01T11:30:26Z",
-    "verification": {
-      "status": "verified",
-      "method": "official-channel-whitelist"
-    },
-    "algorithm": {
-      "trendingScore": 62.26,
-      "recommendationScore": 55.42
-    }
-  },
-  {
-    "id": "H4vyqNmWJaY",
-    "title": "Jaanbaaz Commando | Superhit South Indian Movie Dubbed In Hindi | Ajith Kumar Action Movie",
-    "slug": "jaanbaaz-commando-superhit-south-indian-movie-dubbed-in-hindi-ajith-kumar-action-movie",
-    "youtubeVideoId": "H4vyqNmWJaY",
-    "youtubeUrl": "https://www.youtube.com/watch?v=H4vyqNmWJaY",
-    "thumbnail": "https://i.ytimg.com/vi/H4vyqNmWJaY/maxresdefault.jpg",
-    "language": "Tamil",
-    "audioLanguage": "Hindi",
-    "dubbed": true,
-    "creator": {
-      "name": "Netplex Movies 2026",
-      "channelId": "UCuqpqRaJJL51ydh801feZJA",
-      "channelUrl": "https://www.youtube.com/channel/UCuqpqRaJJL51ydh801feZJA"
-    },
-    "description": "Movie :- Jaanbaaz Commando (Hindi Dubbed)\nOriginal Movie :- Aegan (Tamil)\nStarring :- Ajith Kumar, Nayanthara, Navdeep, Suman\nDirector :- Raju Sundaram\n\nSynopsis:\nShiva, a fearless CBI officer, goes undercover as a college student to track down a dangerous terrorist named John Chinnappa. During the mission, he is also assigned to protect Pooja, the daughter of a key crime witness who has become the terrorist’s next target.\n\nAs Shiva balances his secret mission with college life, he faces deadly enemies, hilarious situations, romance, and high-voltage action. Packed with comedy, suspense, and thrilling moments, Jaanbaaz Commando is a complete entertainer for fans of mass action cinema.\n\n#southmovie2026 #hindidubbedmovies #ajithkumar #nayanthara #navdeep #actionmovie #comedymovie #southmovie #newsouthmovie #southhindidubbed #thrillermovie #trendingmovies #viral #entertainment #newhindimovie2026\n\nWatch other Blockbuster Hits for FREE on our YT Channel 🔥🔥🔥\nOur Blockbuster Movies -\nSkanda - https://youtu.be/GqBsBTQ-Fh0\nFamily Ek Deal - https://www.youtube.com/watch?v=Uya_-U7Tl4c\nMaayon - https://youtu.be/ByRnpG3Yjg0\nMahaveer No 1 - https://youtu.be/QgxNh9NGLKA\nInternational Rowdy - https://youtu.be/FOs6pGbbgsU\nMadhura Raja - https://youtu.be/biWzPzpyIS4\nShoorveer: https://youtu.be/luXy9HTVwZw\nTime Story: https://youtu.be/mf5965Bj5Kk\nNagvamshi: https://youtu.be/MX5TSwQ3aik\nKaatera: https://youtu.be/cQQ6ovn3ZBk\nGabbar Sher: https://youtu.be/Mb8P7X11yFg\n\nSubscribe सब्सक्राइब to our channel now for more South Indian Hindi Dubbed Movies\nYouTube: https://www.youtube.com/WAMIndiaMovies\nFacebook: https://www.facebook.com/wamindiamovies",
-    "metadata": {
-      "year": null,
-      "genre": [],
-      "durationSeconds": 6590
-    },
-    "statistics": {
-      "views": 119009,
-      "likes": 247
-    },
-    "publishedAt": "2026-08-29T14:30:29Z",
-    "verification": {
-      "status": "verified",
-      "method": "official-channel-whitelist"
-    },
-    "algorithm": {
-      "trendingScore": 62.21,
-      "recommendationScore": 57.1
+      "trendingScore": 62.34,
+      "recommendationScore": 57.64
     }
   },
   {
@@ -966,8 +896,8 @@
       "durationSeconds": 7236
     },
     "statistics": {
-      "views": 28544,
-      "likes": 119
+      "views": 39271,
+      "likes": 136
     },
     "publishedAt": "2026-09-02T14:30:38Z",
     "verification": {
@@ -975,8 +905,78 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 62.15,
-      "recommendationScore": 54.92
+      "trendingScore": 62.32,
+      "recommendationScore": 55.46
+    }
+  },
+  {
+    "id": "igMwjlE-kDg",
+    "title": "Happy Birthday Sudeep | Bachchan Action Movie |Jagapathi Babu Latest South Indian Hindi Dubbed Movie",
+    "slug": "happy-birthday-sudeep-bachchan-action-movie-jagapathi-babu-latest-south-indian-hindi-dubbed-movie",
+    "youtubeVideoId": "igMwjlE-kDg",
+    "youtubeUrl": "https://www.youtube.com/watch?v=igMwjlE-kDg",
+    "thumbnail": "https://i.ytimg.com/vi/igMwjlE-kDg/maxresdefault.jpg",
+    "language": "Kannada",
+    "audioLanguage": "Hindi",
+    "dubbed": true,
+    "creator": {
+      "name": "RKD Studios",
+      "channelId": "UCjBwQ6M9QyCgO5Pp-TQRFUA",
+      "channelUrl": "https://www.youtube.com/channel/UCjBwQ6M9QyCgO5Pp-TQRFUA"
+    },
+    "description": "🎉 Wishing the charismatic superstar Kiccha Sudeep a very Happy Birthday! 🎂🔥\n\nCelebrate the special day by watching Bachchan, a power-packed action entertainer featuring Kiccha Sudeep and Jagapathi Babu. Get ready for thrilling action, drama, and full-on entertainment in this South Indian Hindi-Dubbed Movie! 💥🎬\n\nOriginal Movie: Bachchan In Kannada \nStar Cast: Sudeep, Jagapathi Babu, Tulip Joshi\nMusic:- V. Harikrishna\nProducer:- Uday K Mehta\nDirector:- Shashank  \n\nDisclaimer:- We are only the right holders of this content. Any opinions expressed in this Film may purely be of the director or the original producers but are not our personal opinions and we do not assume any responsibility or liability for the same.\n\nKindly subscribe to the channel and Press the BELL ICON to get Instant Notifications from RKD Studios.\n\nSubscribe To Our Channel: https://www.youtube.com/channel/UCjBwQ6M9QyCgO5Pp-TQRFUA?sub_confirmation=1\n\nFollow Us On:-\nFacebook: https://www.facebook.com/RKDStudiosOfficial/\n\nInstagram:-\nhttps://www.instagram.com/rkdstudios",
+    "metadata": {
+      "year": null,
+      "genre": [],
+      "durationSeconds": 7200
+    },
+    "statistics": {
+      "views": 36485,
+      "likes": 171
+    },
+    "publishedAt": "2026-09-01T11:30:26Z",
+    "verification": {
+      "status": "verified",
+      "method": "official-channel-whitelist"
+    },
+    "algorithm": {
+      "trendingScore": 62.2,
+      "recommendationScore": 55.41
+    }
+  },
+  {
+    "id": "H4vyqNmWJaY",
+    "title": "Jaanbaaz Commando | Superhit South Indian Movie Dubbed In Hindi | Ajith Kumar Action Movie",
+    "slug": "jaanbaaz-commando-superhit-south-indian-movie-dubbed-in-hindi-ajith-kumar-action-movie",
+    "youtubeVideoId": "H4vyqNmWJaY",
+    "youtubeUrl": "https://www.youtube.com/watch?v=H4vyqNmWJaY",
+    "thumbnail": "https://i.ytimg.com/vi/H4vyqNmWJaY/maxresdefault.jpg",
+    "language": "Tamil",
+    "audioLanguage": "Hindi",
+    "dubbed": true,
+    "creator": {
+      "name": "Netplex Movies 2026",
+      "channelId": "UCuqpqRaJJL51ydh801feZJA",
+      "channelUrl": "https://www.youtube.com/channel/UCuqpqRaJJL51ydh801feZJA"
+    },
+    "description": "Movie :- Jaanbaaz Commando (Hindi Dubbed)\nOriginal Movie :- Aegan (Tamil)\nStarring :- Ajith Kumar, Nayanthara, Navdeep, Suman\nDirector :- Raju Sundaram\n\nSynopsis:\nShiva, a fearless CBI officer, goes undercover as a college student to track down a dangerous terrorist named John Chinnappa. During the mission, he is also assigned to protect Pooja, the daughter of a key crime witness who has become the terrorist’s next target.\n\nAs Shiva balances his secret mission with college life, he faces deadly enemies, hilarious situations, romance, and high-voltage action. Packed with comedy, suspense, and thrilling moments, Jaanbaaz Commando is a complete entertainer for fans of mass action cinema.\n\n#southmovie2026 #hindidubbedmovies #ajithkumar #nayanthara #navdeep #actionmovie #comedymovie #southmovie #newsouthmovie #southhindidubbed #thrillermovie #trendingmovies #viral #entertainment #newhindimovie2026\n\nWatch other Blockbuster Hits for FREE on our YT Channel 🔥🔥🔥\nOur Blockbuster Movies -\nSkanda - https://youtu.be/GqBsBTQ-Fh0\nFamily Ek Deal - https://www.youtube.com/watch?v=Uya_-U7Tl4c\nMaayon - https://youtu.be/ByRnpG3Yjg0\nMahaveer No 1 - https://youtu.be/QgxNh9NGLKA\nInternational Rowdy - https://youtu.be/FOs6pGbbgsU\nMadhura Raja - https://youtu.be/biWzPzpyIS4\nShoorveer: https://youtu.be/luXy9HTVwZw\nTime Story: https://youtu.be/mf5965Bj5Kk\nNagvamshi: https://youtu.be/MX5TSwQ3aik\nKaatera: https://youtu.be/cQQ6ovn3ZBk\nGabbar Sher: https://youtu.be/Mb8P7X11yFg\n\nSubscribe सब्सक्राइब to our channel now for more South Indian Hindi Dubbed Movies\nYouTube: https://www.youtube.com/WAMIndiaMovies\nFacebook: https://www.facebook.com/wamindiamovies",
+    "metadata": {
+      "year": null,
+      "genre": [],
+      "durationSeconds": 6590
+    },
+    "statistics": {
+      "views": 121451,
+      "likes": 249
+    },
+    "publishedAt": "2026-08-29T14:30:29Z",
+    "verification": {
+      "status": "verified",
+      "method": "official-channel-whitelist"
+    },
+    "algorithm": {
+      "trendingScore": 62.17,
+      "recommendationScore": 57.11
     }
   },
   {
@@ -1001,7 +1001,7 @@
       "durationSeconds": 8214
     },
     "statistics": {
-      "views": 65684,
+      "views": 66369,
       "likes": 307
     },
     "publishedAt": "2026-08-29T11:30:18Z",
@@ -1010,8 +1010,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 62.1,
-      "recommendationScore": 56.33
+      "trendingScore": 62.04,
+      "recommendationScore": 56.32
     }
   },
   {
@@ -1036,7 +1036,7 @@
       "durationSeconds": 7453
     },
     "statistics": {
-      "views": 32787,
+      "views": 33721,
       "likes": 158
     },
     "publishedAt": "2026-08-31T14:30:30Z",
@@ -1045,7 +1045,7 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 61.88,
+      "trendingScore": 61.83,
       "recommendationScore": 55.08
     }
   }
