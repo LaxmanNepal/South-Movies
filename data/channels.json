@@ -45,6 +45,11 @@
     "channelUrl": "https://www.youtube.com/channel/UCL0f2RzwTMJc02Lg9DdcgNw"
   },
   {
+    "name": "Netplex Movies 2026",
+    "channelId": "UCuqpqRaJJL51ydh801feZJA",
+    "channelUrl": "https://www.youtube.com/channel/UCuqpqRaJJL51ydh801feZJA"
+  },
+  {
     "name": "Goldmines Premiere",
     "channelId": "UCvUctuMp58UD_kQtcWcNCjw",
     "channelUrl": "https://www.youtube.com/channel/UCvUctuMp58UD_kQtcWcNCjw"
@@ -53,11 +58,6 @@
     "name": "Goldmines Movies",
     "channelId": "UCs570zdFq_NNA5OcV8chnHw",
     "channelUrl": "https://www.youtube.com/channel/UCs570zdFq_NNA5OcV8chnHw"
-  },
-  {
-    "name": "Netplex Movies 2026",
-    "channelId": "UCuqpqRaJJL51ydh801feZJA",
-    "channelUrl": "https://www.youtube.com/channel/UCuqpqRaJJL51ydh801feZJA"
   },
   {
     "name": "Ultra Movie Parlour",
@@ -70,14 +70,14 @@
     "channelUrl": "https://www.youtube.com/channel/UCY7tB-mpvlQeWgaCCS1Cmwg"
   },
   {
-    "name": "Goldmines Housefull",
-    "channelId": "UC2aBjYYDkwN5LLSB8957KZQ",
-    "channelUrl": "https://www.youtube.com/channel/UC2aBjYYDkwN5LLSB8957KZQ"
-  },
-  {
     "name": "Official Southplex Movies",
     "channelId": "UCdbNMpCun6odxt-mcL0otdw",
     "channelUrl": "https://www.youtube.com/channel/UCdbNMpCun6odxt-mcL0otdw"
+  },
+  {
+    "name": "Goldmines Housefull",
+    "channelId": "UC2aBjYYDkwN5LLSB8957KZQ",
+    "channelUrl": "https://www.youtube.com/channel/UC2aBjYYDkwN5LLSB8957KZQ"
   },
   {
     "name": "Hindi Films",
