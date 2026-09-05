@@ -25,6 +25,11 @@
     "channelUrl": "https://www.youtube.com/channel/UCgfO009hB_847kwL6NQnn-w"
   },
   {
+    "name": "WamIndia Select Movies",
+    "channelId": "UC_sXBvPWlKbvKfrzHiqxYhg",
+    "channelUrl": "https://www.youtube.com/channel/UC_sXBvPWlKbvKfrzHiqxYhg"
+  },
+  {
     "name": "Wamindia Movies",
     "channelId": "UCt7_pnSRPKU3bu2GqmgH8gQ",
     "channelUrl": "https://www.youtube.com/channel/UCt7_pnSRPKU3bu2GqmgH8gQ"
@@ -35,24 +40,19 @@
     "channelUrl": "https://www.youtube.com/channel/UCCrw5RBWF9i8VPt4IxL8IsQ"
   },
   {
-    "name": "WamIndia Select Movies",
-    "channelId": "UC_sXBvPWlKbvKfrzHiqxYhg",
-    "channelUrl": "https://www.youtube.com/channel/UC_sXBvPWlKbvKfrzHiqxYhg"
-  },
-  {
     "name": "Netplex Movies 2026",
     "channelId": "UCuqpqRaJJL51ydh801feZJA",
     "channelUrl": "https://www.youtube.com/channel/UCuqpqRaJJL51ydh801feZJA"
   },
   {
-    "name": "RKD Multiplex",
-    "channelId": "UCL0f2RzwTMJc02Lg9DdcgNw",
-    "channelUrl": "https://www.youtube.com/channel/UCL0f2RzwTMJc02Lg9DdcgNw"
-  },
-  {
     "name": "Goldmines Premiere",
     "channelId": "UCvUctuMp58UD_kQtcWcNCjw",
     "channelUrl": "https://www.youtube.com/channel/UCvUctuMp58UD_kQtcWcNCjw"
+  },
+  {
+    "name": "RKD Multiplex",
+    "channelId": "UCL0f2RzwTMJc02Lg9DdcgNw",
+    "channelUrl": "https://www.youtube.com/channel/UCL0f2RzwTMJc02Lg9DdcgNw"
   },
   {
     "name": "Goldmines Movies",
