@@ -21,8 +21,8 @@
       "durationSeconds": 8051
     },
     "statistics": {
-      "views": 5237791,
-      "likes": 42309
+      "views": 5386224,
+      "likes": 43016
     },
     "publishedAt": "2026-08-29T14:00:17Z",
     "verification": {
@@ -30,8 +30,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 68.23,
-      "recommendationScore": 67.19
+      "trendingScore": 68.18,
+      "recommendationScore": 67.2
     }
   },
   {
@@ -56,8 +56,8 @@
       "durationSeconds": 6967
     },
     "statistics": {
-      "views": 3777681,
-      "likes": 24110
+      "views": 3838718,
+      "likes": 24368
     },
     "publishedAt": "2026-08-28T06:30:06Z",
     "verification": {
@@ -65,8 +65,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 66.95,
-      "recommendationScore": 65.8
+      "trendingScore": 66.91,
+      "recommendationScore": 65.79
     }
   },
   {
@@ -91,8 +91,8 @@
       "durationSeconds": 6849
     },
     "statistics": {
-      "views": 2060943,
-      "likes": 9024
+      "views": 2114064,
+      "likes": 9195
     },
     "publishedAt": "2026-08-31T12:26:14Z",
     "verification": {
@@ -100,8 +100,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 66.6,
-      "recommendationScore": 64.39
+      "trendingScore": 66.56,
+      "recommendationScore": 64.41
     }
   },
   {
@@ -126,8 +126,8 @@
       "durationSeconds": 10602
     },
     "statistics": {
-      "views": 43394,
-      "likes": 797
+      "views": 145959,
+      "likes": 1672
     },
     "publishedAt": "2026-09-05T05:30:30Z",
     "verification": {
@@ -135,8 +135,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 66.56,
-      "recommendationScore": 59.47
+      "trendingScore": 66.27,
+      "recommendationScore": 60.58
     }
   },
   {
@@ -161,8 +161,8 @@
       "durationSeconds": 6754
     },
     "statistics": {
-      "views": 1099710,
-      "likes": 3220
+      "views": 1155599,
+      "likes": 3374
     },
     "publishedAt": "2026-09-02T14:30:35Z",
     "verification": {
@@ -171,7 +171,42 @@
     },
     "algorithm": {
       "trendingScore": 66.03,
-      "recommendationScore": 62.89
+      "recommendationScore": 62.97
+    }
+  },
+  {
+    "id": "YOLhLHky8Gc",
+    "title": "DANGER (HD) | South Superhit Hindi Dubbed Movie | Allari Naresh, Brahmanandam, Shireen",
+    "slug": "danger-hd-south-superhit-hindi-dubbed-movie-allari-naresh-brahmanandam-shireen",
+    "youtubeVideoId": "YOLhLHky8Gc",
+    "youtubeUrl": "https://www.youtube.com/watch?v=YOLhLHky8Gc",
+    "thumbnail": "https://i.ytimg.com/vi/YOLhLHky8Gc/maxresdefault.jpg",
+    "language": "South Indian",
+    "audioLanguage": "Hindi",
+    "dubbed": true,
+    "creator": {
+      "name": "GoldminesAction",
+      "channelId": "UCY7tB-mpvlQeWgaCCS1Cmwg",
+      "channelUrl": "https://www.youtube.com/channel/UCY7tB-mpvlQeWgaCCS1Cmwg"
+    },
+    "description": "The movie story deals with Karthik, Satya, Ali, Lakshmi and Radhika Reddy are childhood friends. They set out to a farmhouse for a party to celebrate the prospective marriage of Lakshmi. On the way, they collide with a police vehicle, and they speed away to the party happening in the outskirts of the city. The policemen in the vehicle are badly hurt, and one of them takes note of the car number which hit them. The police raids the party in search of the owners of the car. Panic raises among the crowd, and the group consisting of the five friends escapes from the party and in process of avoiding the chasing cops, they get lost in the Vikarabad forest. There, they tumble upon a ghastly incident where a man is taking the life of a toddler as part of a sacrificial ritual and black magic. Ali shoots the entire episode with his video camera. It is revealed that the man who killed the toddler is Gattayya, a politician who believes that using black magic can make him successful. The group gets discovered by Gattayya while filming the ritual. With Gattayya's goons chasing them, the group escapes from there. A corrupt cop named Raju Nayak is hired by Gattayya to search for the group. The group cannot return to their homes because the police are still looking for them at their respective houses. The group struggles with the situation and finally emerges victorious when they upload the video that was recorded to the internet. In the end, Raju Nayak is killed by the police commissioner and Gattayya is arrested.\n\nMovie:- Danger (Abbayam)\nStarcast:- Allari Naresh, Brahmanandam, Shireen, Sairam Shankar, Swathi, Siva Prasad, Satya Prakash\nDirected by:- Krishna Vamsi\nMusic by:- Joshua Sridhar\n\n#Brahamandanam #AllariNaresh #DangerHindiDubbedMovie #AbbayamHindiDubbed",
+    "metadata": {
+      "year": null,
+      "genre": [],
+      "durationSeconds": 6201
+    },
+    "statistics": {
+      "views": 298,
+      "likes": 12
+    },
+    "publishedAt": "2026-09-05T13:00:26Z",
+    "verification": {
+      "status": "verified",
+      "method": "official-channel-whitelist"
+    },
+    "algorithm": {
+      "trendingScore": 65.98,
+      "recommendationScore": 53.26
     }
   },
   {
@@ -196,8 +231,8 @@
       "durationSeconds": 7430
     },
     "statistics": {
-      "views": 2115712,
-      "likes": 9829
+      "views": 2138469,
+      "likes": 9968
     },
     "publishedAt": "2026-08-28T11:30:26Z",
     "verification": {
@@ -205,7 +240,7 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 65.79,
+      "trendingScore": 65.75,
       "recommendationScore": 64.03
     }
   },
@@ -231,8 +266,8 @@
       "durationSeconds": 7341
     },
     "statistics": {
-      "views": 990298,
-      "likes": 9407
+      "views": 999945,
+      "likes": 9520
     },
     "publishedAt": "2026-08-26T09:43:36Z",
     "verification": {
@@ -240,7 +275,7 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 65.5,
+      "trendingScore": 65.46,
       "recommendationScore": 63.15
     }
   },
@@ -266,8 +301,8 @@
       "durationSeconds": 7025
     },
     "statistics": {
-      "views": 208613,
-      "likes": 1185
+      "views": 213640,
+      "likes": 1223
     },
     "publishedAt": "2026-09-02T11:19:04Z",
     "verification": {
@@ -275,8 +310,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 64.56,
-      "recommendationScore": 59.66
+      "trendingScore": 64.55,
+      "recommendationScore": 59.69
     }
   },
   {
@@ -301,8 +336,8 @@
       "durationSeconds": 7317
     },
     "statistics": {
-      "views": 2413887,
-      "likes": 13803
+      "views": 2455601,
+      "likes": 13957
     },
     "publishedAt": "2026-08-22T10:30:02Z",
     "verification": {
@@ -310,8 +345,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 64.51,
-      "recommendationScore": 63.69
+      "trendingScore": 64.46,
+      "recommendationScore": 63.7
     }
   },
   {
@@ -336,8 +371,8 @@
       "durationSeconds": 8826
     },
     "statistics": {
-      "views": 624924,
-      "likes": 2501
+      "views": 630889,
+      "likes": 2529
     },
     "publishedAt": "2026-08-29T11:30:32Z",
     "verification": {
@@ -345,8 +380,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 64.33,
-      "recommendationScore": 61.17
+      "trendingScore": 64.28,
+      "recommendationScore": 61.16
     }
   },
   {
@@ -371,8 +406,8 @@
       "durationSeconds": 7368
     },
     "statistics": {
-      "views": 224300,
-      "likes": 399
+      "views": 244426,
+      "likes": 431
     },
     "publishedAt": "2026-09-03T14:30:14Z",
     "verification": {
@@ -380,43 +415,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 63.96,
-      "recommendationScore": 59.04
-    }
-  },
-  {
-    "id": "CeR-xk7jQ3s",
-    "title": "Inspector Vikram | Prajwal Devaraj South Indian Hindi Dubbed Action Movie | Bhavana, Darshan",
-    "slug": "inspector-vikram-prajwal-devaraj-south-indian-hindi-dubbed-action-movie-bhavana-darshan",
-    "youtubeVideoId": "CeR-xk7jQ3s",
-    "youtubeUrl": "https://www.youtube.com/watch?v=CeR-xk7jQ3s",
-    "thumbnail": "https://i.ytimg.com/vi/CeR-xk7jQ3s/maxresdefault.jpg",
-    "language": "South Indian",
-    "audioLanguage": "Hindi",
-    "dubbed": true,
-    "creator": {
-      "name": "RKD Studios",
-      "channelId": "UCjBwQ6M9QyCgO5Pp-TQRFUA",
-      "channelUrl": "https://www.youtube.com/channel/UCjBwQ6M9QyCgO5Pp-TQRFUA"
-    },
-    "description": "🔥 Inspector Vikram is here to take you on a thrilling ride of action, suspense & drama! 💥\nStarring Prajwal Devaraj, Bhavana & Darshan, this power-packed South Indian Hindi-Dubbed Action Movie is full of high-octane moments and unexpected twists! 🎬🔥\n\nMovie: Inspector Vikram\nDirector: Sri Narasimha\nProducer: Vikhyath AR\nMusic Director: Anoop Seelin\nStar cast: Prajwal Devaraj, Bhavana, Raghu Mukherjee, Darshan\n\nVikram, a police officer, strives hard to solve every case that comes his way. However, things take an unexpected turn when he encounters a criminal mastermind who runs an illegal drug operation.\n\nKindly subscribe to the channel and Press the BELL ICON to get Instant Notifications from @rkddigital \n\nSubscribe To Our Channel: https://www.youtube.com/channel/UCjBwQ6M9QyCgO5Pp-TQRFUA?sub_confirmation=1\n\nFollow Us On:\nFacebook: https://www.facebook.com/RKDStudiosOfficial/\nInstagram: https://www.instagram.com/rkdstudios",
-    "metadata": {
-      "year": null,
-      "genre": [],
-      "durationSeconds": 8172
-    },
-    "statistics": {
-      "views": 314699,
-      "likes": 1062
-    },
-    "publishedAt": "2026-08-31T11:30:26Z",
-    "verification": {
-      "status": "verified",
-      "method": "official-channel-whitelist"
-    },
-    "algorithm": {
-      "trendingScore": 63.87,
-      "recommendationScore": 59.72
+      "trendingScore": 64.0,
+      "recommendationScore": 59.2
     }
   }
 ]

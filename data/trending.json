@@ -21,8 +21,8 @@
       "durationSeconds": 8051
     },
     "statistics": {
-      "views": 5237791,
-      "likes": 42309
+      "views": 5386224,
+      "likes": 43016
     },
     "publishedAt": "2026-08-29T14:00:17Z",
     "verification": {
@@ -30,8 +30,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 68.23,
-      "recommendationScore": 67.19
+      "trendingScore": 68.18,
+      "recommendationScore": 67.2
     }
   },
   {
@@ -56,8 +56,8 @@
       "durationSeconds": 6967
     },
     "statistics": {
-      "views": 3777681,
-      "likes": 24110
+      "views": 3838718,
+      "likes": 24368
     },
     "publishedAt": "2026-08-28T06:30:06Z",
     "verification": {
@@ -65,8 +65,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 66.95,
-      "recommendationScore": 65.8
+      "trendingScore": 66.91,
+      "recommendationScore": 65.79
     }
   },
   {
@@ -91,8 +91,8 @@
       "durationSeconds": 6849
     },
     "statistics": {
-      "views": 2060943,
-      "likes": 9024
+      "views": 2114064,
+      "likes": 9195
     },
     "publishedAt": "2026-08-31T12:26:14Z",
     "verification": {
@@ -100,8 +100,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 66.6,
-      "recommendationScore": 64.39
+      "trendingScore": 66.56,
+      "recommendationScore": 64.41
     }
   },
   {
@@ -126,8 +126,8 @@
       "durationSeconds": 10602
     },
     "statistics": {
-      "views": 43394,
-      "likes": 797
+      "views": 145959,
+      "likes": 1672
     },
     "publishedAt": "2026-09-05T05:30:30Z",
     "verification": {
@@ -135,8 +135,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 66.56,
-      "recommendationScore": 59.47
+      "trendingScore": 66.27,
+      "recommendationScore": 60.58
     }
   },
   {
@@ -161,8 +161,8 @@
       "durationSeconds": 6754
     },
     "statistics": {
-      "views": 1099710,
-      "likes": 3220
+      "views": 1155599,
+      "likes": 3374
     },
     "publishedAt": "2026-09-02T14:30:35Z",
     "verification": {
@@ -171,7 +171,42 @@
     },
     "algorithm": {
       "trendingScore": 66.03,
-      "recommendationScore": 62.89
+      "recommendationScore": 62.97
+    }
+  },
+  {
+    "id": "YOLhLHky8Gc",
+    "title": "DANGER (HD) | South Superhit Hindi Dubbed Movie | Allari Naresh, Brahmanandam, Shireen",
+    "slug": "danger-hd-south-superhit-hindi-dubbed-movie-allari-naresh-brahmanandam-shireen",
+    "youtubeVideoId": "YOLhLHky8Gc",
+    "youtubeUrl": "https://www.youtube.com/watch?v=YOLhLHky8Gc",
+    "thumbnail": "https://i.ytimg.com/vi/YOLhLHky8Gc/maxresdefault.jpg",
+    "language": "South Indian",
+    "audioLanguage": "Hindi",
+    "dubbed": true,
+    "creator": {
+      "name": "GoldminesAction",
+      "channelId": "UCY7tB-mpvlQeWgaCCS1Cmwg",
+      "channelUrl": "https://www.youtube.com/channel/UCY7tB-mpvlQeWgaCCS1Cmwg"
+    },
+    "description": "The movie story deals with Karthik, Satya, Ali, Lakshmi and Radhika Reddy are childhood friends. They set out to a farmhouse for a party to celebrate the prospective marriage of Lakshmi. On the way, they collide with a police vehicle, and they speed away to the party happening in the outskirts of the city. The policemen in the vehicle are badly hurt, and one of them takes note of the car number which hit them. The police raids the party in search of the owners of the car. Panic raises among the crowd, and the group consisting of the five friends escapes from the party and in process of avoiding the chasing cops, they get lost in the Vikarabad forest. There, they tumble upon a ghastly incident where a man is taking the life of a toddler as part of a sacrificial ritual and black magic. Ali shoots the entire episode with his video camera. It is revealed that the man who killed the toddler is Gattayya, a politician who believes that using black magic can make him successful. The group gets discovered by Gattayya while filming the ritual. With Gattayya's goons chasing them, the group escapes from there. A corrupt cop named Raju Nayak is hired by Gattayya to search for the group. The group cannot return to their homes because the police are still looking for them at their respective houses. The group struggles with the situation and finally emerges victorious when they upload the video that was recorded to the internet. In the end, Raju Nayak is killed by the police commissioner and Gattayya is arrested.\n\nMovie:- Danger (Abbayam)\nStarcast:- Allari Naresh, Brahmanandam, Shireen, Sairam Shankar, Swathi, Siva Prasad, Satya Prakash\nDirected by:- Krishna Vamsi\nMusic by:- Joshua Sridhar\n\n#Brahamandanam #AllariNaresh #DangerHindiDubbedMovie #AbbayamHindiDubbed",
+    "metadata": {
+      "year": null,
+      "genre": [],
+      "durationSeconds": 6201
+    },
+    "statistics": {
+      "views": 298,
+      "likes": 12
+    },
+    "publishedAt": "2026-09-05T13:00:26Z",
+    "verification": {
+      "status": "verified",
+      "method": "official-channel-whitelist"
+    },
+    "algorithm": {
+      "trendingScore": 65.98,
+      "recommendationScore": 53.26
     }
   },
   {
@@ -196,8 +231,8 @@
       "durationSeconds": 7430
     },
     "statistics": {
-      "views": 2115712,
-      "likes": 9829
+      "views": 2138469,
+      "likes": 9968
     },
     "publishedAt": "2026-08-28T11:30:26Z",
     "verification": {
@@ -205,7 +240,7 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 65.79,
+      "trendingScore": 65.75,
       "recommendationScore": 64.03
     }
   },
@@ -231,8 +266,8 @@
       "durationSeconds": 7341
     },
     "statistics": {
-      "views": 990298,
-      "likes": 9407
+      "views": 999945,
+      "likes": 9520
     },
     "publishedAt": "2026-08-26T09:43:36Z",
     "verification": {
@@ -240,7 +275,7 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 65.5,
+      "trendingScore": 65.46,
       "recommendationScore": 63.15
     }
   },
@@ -266,8 +301,8 @@
       "durationSeconds": 7025
     },
     "statistics": {
-      "views": 208613,
-      "likes": 1185
+      "views": 213640,
+      "likes": 1223
     },
     "publishedAt": "2026-09-02T11:19:04Z",
     "verification": {
@@ -275,8 +310,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 64.56,
-      "recommendationScore": 59.66
+      "trendingScore": 64.55,
+      "recommendationScore": 59.69
     }
   },
   {
@@ -301,8 +336,8 @@
       "durationSeconds": 7317
     },
     "statistics": {
-      "views": 2413887,
-      "likes": 13803
+      "views": 2455601,
+      "likes": 13957
     },
     "publishedAt": "2026-08-22T10:30:02Z",
     "verification": {
@@ -310,8 +345,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 64.51,
-      "recommendationScore": 63.69
+      "trendingScore": 64.46,
+      "recommendationScore": 63.7
     }
   },
   {
@@ -336,8 +371,8 @@
       "durationSeconds": 8826
     },
     "statistics": {
-      "views": 624924,
-      "likes": 2501
+      "views": 630889,
+      "likes": 2529
     },
     "publishedAt": "2026-08-29T11:30:32Z",
     "verification": {
@@ -345,8 +380,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 64.33,
-      "recommendationScore": 61.17
+      "trendingScore": 64.28,
+      "recommendationScore": 61.16
     }
   },
   {
@@ -371,8 +406,8 @@
       "durationSeconds": 7368
     },
     "statistics": {
-      "views": 224300,
-      "likes": 399
+      "views": 244426,
+      "likes": 431
     },
     "publishedAt": "2026-09-03T14:30:14Z",
     "verification": {
@@ -380,8 +415,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 63.96,
-      "recommendationScore": 59.04
+      "trendingScore": 64.0,
+      "recommendationScore": 59.2
     }
   },
   {
@@ -406,8 +441,8 @@
       "durationSeconds": 8172
     },
     "statistics": {
-      "views": 314699,
-      "likes": 1062
+      "views": 317246,
+      "likes": 1066
     },
     "publishedAt": "2026-08-31T11:30:26Z",
     "verification": {
@@ -415,43 +450,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 63.87,
-      "recommendationScore": 59.72
-    }
-  },
-  {
-    "id": "LmG3Q3_mjnI",
-    "title": "UNNI MUKUNDAN - Marco (2026) | Most Violent Movie Of Indian | South Indian Hindi Dubbed Action Movie",
-    "slug": "unni-mukundan-marco-2026-most-violent-movie-of-indian-south-indian-hindi-dubbed-action-movie",
-    "youtubeVideoId": "LmG3Q3_mjnI",
-    "youtubeUrl": "https://www.youtube.com/watch?v=LmG3Q3_mjnI",
-    "thumbnail": "https://i.ytimg.com/vi/LmG3Q3_mjnI/maxresdefault.jpg",
-    "language": "Malayalam",
-    "audioLanguage": "Hindi",
-    "dubbed": true,
-    "creator": {
-      "name": "Wamindia Movies",
-      "channelId": "UCt7_pnSRPKU3bu2GqmgH8gQ",
-      "channelUrl": "https://www.youtube.com/channel/UCt7_pnSRPKU3bu2GqmgH8gQ"
-    },
-    "description": "🔥 PRESENTING the WORLD YOUTUBE PREMIERE of the SOUTH INDIAN MEGA BLOCKBUSTER MOVIE — “MARCO” — referred to as India’s MOST VIOLENT film! 💥\n\nMARCO (Hindi Dubbed) is a high-octane Malayalam neo-noir action thriller from hitmaker Haneef Adeni, with Unni Mukundan delivering his most fierce, unstoppable, and savage performance.\nWith its stylised violence, raw emotion, and slick visuals, Marco took the box office by storm — crossing ₹110 CRORE worldwide and becoming the highest-grossing A-rated Malayalam film in history of Indian Cinema.\n\nMovie Name: Marco (Dubbed from Malayalam)\nNew (2025) Released South Indian Movie Dubbed In Hindi\nStarring: Unni Mukundan, Yukti Thareja, Kabir Duhan Singh, Jagadish, Ishaan Shoukath & others\nDirector: Haneef Adeni \n\nSynopsis:\nIn Kerala’s most feared gold-trading family, an unexpected tragedy shakes the mighty Adattu empire. George, the family head, sets out to uncover the truth… but his younger brother Marco chooses a path of unrelenting violence to deliver justice — at any cost.\n\n⚡ Watch the Mass. Feel the Rage. Witness the Legend. \n\n#Marco #UnniMukundan #hindidubbedmovie2025 #newsouthmovie2025 #latestmovie  #actionmovie #southmovie #2025movie #thrillermovie #superhitsouthmovie #newmovie  #independencedayspecial #hitmovies2025 #massactionmovie #southblockbuster2025  #southmoviehits #actionthriller2025 #souththriller #fullmovie\n\nWatch other Blockbuster Hits for FREE on our YT Channel 🔥🔥🔥\nSkanda - https://youtu.be/GqBsBTQ-Fh0\nFamily Ek Deal - https://www.youtube.com/watch?v=Uya_-U7Tl4c\nMaayon - https://youtu.be/ByRnpG3Yjg0\nMahaveer No 1 - https://youtu.be/QgxNh9NGLKA\nInternational Rowdy - https://youtu.be/FOs6pGbbgsU\nMadhura Raja - https://youtu.be/biWzPzpyIS4\nShoorveer: https://youtu.be/luXy9HTVwZw\nTime Story: https://youtu.be/mf5965Bj5Kk\nNagvamshi: https://youtu.be/MX5TSwQ3aik\nKaatera: https://youtu.be/cQQ6ovn3ZBk\nGabbar Sher: https://youtu.be/Mb8P7X11yFg\n\nSubscribe सब्सक्राइब to our channel now for more South Indian Hindi Dubbed Movies\nYouTube: https://www.youtube.com/WAMIndiaMovies\nFacebook: https://www.facebook.com/wamindiamovies",
-    "metadata": {
-      "year": 2026,
-      "genre": [],
-      "durationSeconds": 8112
-    },
-    "statistics": {
-      "views": 2360096,
-      "likes": 9704
-    },
-    "publishedAt": "2026-08-21T14:30:08Z",
-    "verification": {
-      "status": "verified",
-      "method": "official-channel-whitelist"
-    },
-    "algorithm": {
       "trendingScore": 63.81,
-      "recommendationScore": 63.12
+      "recommendationScore": 59.71
     }
   },
   {
@@ -476,8 +476,8 @@
       "durationSeconds": 6668
     },
     "statistics": {
-      "views": 225620,
-      "likes": 1136
+      "views": 233202,
+      "likes": 1164
     },
     "publishedAt": "2026-08-31T05:30:37Z",
     "verification": {
@@ -485,8 +485,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 63.8,
-      "recommendationScore": 59.32
+      "trendingScore": 63.78,
+      "recommendationScore": 59.35
     }
   },
   {
@@ -511,8 +511,8 @@
       "durationSeconds": 7687
     },
     "statistics": {
-      "views": 159020,
-      "likes": 638
+      "views": 168952,
+      "likes": 674
     },
     "publishedAt": "2026-09-02T11:30:19Z",
     "verification": {
@@ -520,8 +520,43 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
+      "trendingScore": 63.77,
+      "recommendationScore": 58.71
+    }
+  },
+  {
+    "id": "LmG3Q3_mjnI",
+    "title": "UNNI MUKUNDAN - Marco (2026) | Most Violent Movie Of Indian | South Indian Hindi Dubbed Action Movie",
+    "slug": "unni-mukundan-marco-2026-most-violent-movie-of-indian-south-indian-hindi-dubbed-action-movie",
+    "youtubeVideoId": "LmG3Q3_mjnI",
+    "youtubeUrl": "https://www.youtube.com/watch?v=LmG3Q3_mjnI",
+    "thumbnail": "https://i.ytimg.com/vi/LmG3Q3_mjnI/maxresdefault.jpg",
+    "language": "Malayalam",
+    "audioLanguage": "Hindi",
+    "dubbed": true,
+    "creator": {
+      "name": "Wamindia Movies",
+      "channelId": "UCt7_pnSRPKU3bu2GqmgH8gQ",
+      "channelUrl": "https://www.youtube.com/channel/UCt7_pnSRPKU3bu2GqmgH8gQ"
+    },
+    "description": "🔥 PRESENTING the WORLD YOUTUBE PREMIERE of the SOUTH INDIAN MEGA BLOCKBUSTER MOVIE — “MARCO” — referred to as India’s MOST VIOLENT film! 💥\n\nMARCO (Hindi Dubbed) is a high-octane Malayalam neo-noir action thriller from hitmaker Haneef Adeni, with Unni Mukundan delivering his most fierce, unstoppable, and savage performance.\nWith its stylised violence, raw emotion, and slick visuals, Marco took the box office by storm — crossing ₹110 CRORE worldwide and becoming the highest-grossing A-rated Malayalam film in history of Indian Cinema.\n\nMovie Name: Marco (Dubbed from Malayalam)\nNew (2025) Released South Indian Movie Dubbed In Hindi\nStarring: Unni Mukundan, Yukti Thareja, Kabir Duhan Singh, Jagadish, Ishaan Shoukath & others\nDirector: Haneef Adeni \n\nSynopsis:\nIn Kerala’s most feared gold-trading family, an unexpected tragedy shakes the mighty Adattu empire. George, the family head, sets out to uncover the truth… but his younger brother Marco chooses a path of unrelenting violence to deliver justice — at any cost.\n\n⚡ Watch the Mass. Feel the Rage. Witness the Legend. \n\n#Marco #UnniMukundan #hindidubbedmovie2025 #newsouthmovie2025 #latestmovie  #actionmovie #southmovie #2025movie #thrillermovie #superhitsouthmovie #newmovie  #independencedayspecial #hitmovies2025 #massactionmovie #southblockbuster2025  #southmoviehits #actionthriller2025 #souththriller #fullmovie\n\nWatch other Blockbuster Hits for FREE on our YT Channel 🔥🔥🔥\nSkanda - https://youtu.be/GqBsBTQ-Fh0\nFamily Ek Deal - https://www.youtube.com/watch?v=Uya_-U7Tl4c\nMaayon - https://youtu.be/ByRnpG3Yjg0\nMahaveer No 1 - https://youtu.be/QgxNh9NGLKA\nInternational Rowdy - https://youtu.be/FOs6pGbbgsU\nMadhura Raja - https://youtu.be/biWzPzpyIS4\nShoorveer: https://youtu.be/luXy9HTVwZw\nTime Story: https://youtu.be/mf5965Bj5Kk\nNagvamshi: https://youtu.be/MX5TSwQ3aik\nKaatera: https://youtu.be/cQQ6ovn3ZBk\nGabbar Sher: https://youtu.be/Mb8P7X11yFg\n\nSubscribe सब्सक्राइब to our channel now for more South Indian Hindi Dubbed Movies\nYouTube: https://www.youtube.com/WAMIndiaMovies\nFacebook: https://www.facebook.com/wamindiamovies",
+    "metadata": {
+      "year": 2026,
+      "genre": [],
+      "durationSeconds": 8112
+    },
+    "statistics": {
+      "views": 2369080,
+      "likes": 9737
+    },
+    "publishedAt": "2026-08-21T14:30:08Z",
+    "verification": {
+      "status": "verified",
+      "method": "official-channel-whitelist"
+    },
+    "algorithm": {
       "trendingScore": 63.76,
-      "recommendationScore": 58.6
+      "recommendationScore": 63.1
     }
   },
   {
@@ -546,8 +581,8 @@
       "durationSeconds": 6941
     },
     "statistics": {
-      "views": 915547,
-      "likes": 2494
+      "views": 927341,
+      "likes": 2516
     },
     "publishedAt": "2026-08-26T11:30:15Z",
     "verification": {
@@ -555,7 +590,7 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 63.59,
+      "trendingScore": 63.55,
       "recommendationScore": 61.28
     }
   },
@@ -581,8 +616,8 @@
       "durationSeconds": 6658
     },
     "statistics": {
-      "views": 1232976,
-      "likes": 6513
+      "views": 1243945,
+      "likes": 6548
     },
     "publishedAt": "2026-08-22T11:30:05Z",
     "verification": {
@@ -590,8 +625,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 63.52,
-      "recommendationScore": 62.01
+      "trendingScore": 63.48,
+      "recommendationScore": 62.0
     }
   },
   {
@@ -616,8 +651,8 @@
       "durationSeconds": 7221
     },
     "statistics": {
-      "views": 17359997,
-      "likes": 204713
+      "views": 17422486,
+      "likes": 205107
     },
     "publishedAt": "2026-08-01T06:30:07Z",
     "verification": {
@@ -625,78 +660,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 63.25,
-      "recommendationScore": 66.96
-    }
-  },
-  {
-    "id": "nD-eAgX5el4",
-    "title": "Counter Attack | Hindi Dubbed Full Movie | Action Thriller Movie | IOF Hindi Dubbed Movies",
-    "slug": "counter-attack-hindi-dubbed-full-movie-action-thriller-movie-iof-hindi-dubbed-movies",
-    "youtubeVideoId": "nD-eAgX5el4",
-    "youtubeUrl": "https://www.youtube.com/watch?v=nD-eAgX5el4",
-    "thumbnail": "https://i.ytimg.com/vi/nD-eAgX5el4/maxresdefault.jpg",
-    "language": "Telugu",
-    "audioLanguage": "Hindi",
-    "dubbed": true,
-    "creator": {
-      "name": "IOF - Hindi",
-      "channelId": "UCQ-DyEmlafaU5VVuRVnfsFw",
-      "channelUrl": "https://www.youtube.com/channel/UCQ-DyEmlafaU5VVuRVnfsFw"
-    },
-    "description": "A highly skilled security expert is framed during a major oil and gas project bidding event. With his reputation and life at risk, he must uncover the conspiracy, prove his innocence, and strike back against those who betrayed him.\n\nWatch this action-packed Hindi dubbed movie filled with powerful fights, suspense, danger, and unexpected twists.\n\n#CounterAttack #HindiDubbed #HindiMovie #HindiDubbedMovie #ActionMovie #ActionThriller #HindiFullMovie #DubbedMovie #ChineseMovie #ActionThrillerMovie\n\nClick here to Subscribe - https://bit.ly/SubscribeIndoOverseasFilmsHindi\n\n\n___________________________________ \nEnjoy & stay connected with us!\nSubscribe to Indo Overseas Movies 👉 https://Subscribe.openinapp.co/IndoOverseasFilms\nSubscribe to IOF Hindi 👉 https://Subscribe.openinapp.co/IOFHindi\nSubscribe to IOF Telugu 👉 https://Subscribe.openinapp.co/IOFTelugu\nSubscribe to IOF Tamil 👉 https://Subscribe.openinapp.co/IOFTamil\n\nFollow Us On\nFacebook : https://www.facebook.com/indooverseasfilm\nTwitter : https://twitter.com/IOF_India\nInstagram : https://www.instagram.com/iof_india_/\nLinkedln : https://www.linkedin.com/in/indo-overseas-films-india-1a98b8208/\nWebsite : https://www.indooverseasfilms.com\n\nIn association with Divo - Our YouTube  Partner\n\n#Iof #Indooverseasfilmshindi #Hindidubbedmovies",
-    "metadata": {
-      "year": null,
-      "genre": [],
-      "durationSeconds": 5187
-    },
-    "statistics": {
-      "views": 331070,
-      "likes": 1670
-    },
-    "publishedAt": "2026-08-27T11:30:01Z",
-    "verification": {
-      "status": "verified",
-      "method": "official-channel-whitelist"
-    },
-    "algorithm": {
-      "trendingScore": 63.19,
-      "recommendationScore": 59.63
-    }
-  },
-  {
-    "id": "i79fSO8zNQY",
-    "title": "35 Days in the Tunnel | Hindi Dubbed Full Movie HD | Survival Thriller | IOF Hindi",
-    "slug": "35-days-in-the-tunnel-hindi-dubbed-full-movie-hd-survival-thriller-iof-hindi",
-    "youtubeVideoId": "i79fSO8zNQY",
-    "youtubeUrl": "https://www.youtube.com/watch?v=i79fSO8zNQY",
-    "thumbnail": "https://i.ytimg.com/vi/i79fSO8zNQY/maxresdefault.jpg",
-    "language": "Telugu",
-    "audioLanguage": "Hindi",
-    "dubbed": true,
-    "creator": {
-      "name": "IOF - Hindi",
-      "channelId": "UCQ-DyEmlafaU5VVuRVnfsFw",
-      "channelUrl": "https://www.youtube.com/channel/UCQ-DyEmlafaU5VVuRVnfsFw"
-    },
-    "description": "A man is on his way home when the poorly constructed tunnel he is driving through collapses, leaving him trapped.\n\nDirector:\nKim Seong-hun\nWriter:\nKim Seong-hun\nStars:\nHa Jung-woo, Bae Doona, Oh Dal-su\n\n\nClick here to Subscribe - https://bit.ly/SubscribeIndoOverseasFilmsHindi\n\n\n___________________________________ \nEnjoy & stay connected with us!\nSubscribe to Indo Overseas Movies 👉 https://Subscribe.openinapp.co/IndoOverseasFilms\nSubscribe to IOF Hindi 👉 https://Subscribe.openinapp.co/IOFHindi\nSubscribe to IOF Telugu 👉 https://Subscribe.openinapp.co/IOFTelugu\nSubscribe to IOF Tamil 👉 https://Subscribe.openinapp.co/IOFTamil\n\nFollow Us On\nFacebook : https://www.facebook.com/indooverseasfilm\nTwitter : https://twitter.com/IOF_India\nInstagram : https://www.instagram.com/iof_india_/\nLinkedln : https://www.linkedin.com/in/indo-overseas-films-india-1a98b8208/\nWebsite : https://www.indooverseasfilms.com\n\nIn association with Divo - Our YouTube  Partner\n\n#Iof #Indooverseasfilmshindi #Hindidubbedmovies",
-    "metadata": {
-      "year": null,
-      "genre": [],
-      "durationSeconds": 7588
-    },
-    "statistics": {
-      "views": 491346,
-      "likes": 3130
-    },
-    "publishedAt": "2026-08-24T10:38:29Z",
-    "verification": {
-      "status": "verified",
-      "method": "official-channel-whitelist"
-    },
-    "algorithm": {
-      "trendingScore": 63.18,
-      "recommendationScore": 60.42
+      "trendingScore": 63.2,
+      "recommendationScore": 66.94
     }
   },
   {
@@ -721,8 +686,8 @@
       "durationSeconds": 7236
     },
     "statistics": {
-      "views": 98364,
-      "likes": 368
+      "views": 109320,
+      "likes": 415
     },
     "publishedAt": "2026-09-02T14:30:38Z",
     "verification": {
@@ -730,8 +695,78 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 63.1,
-      "recommendationScore": 57.43
+      "trendingScore": 63.19,
+      "recommendationScore": 57.66
+    }
+  },
+  {
+    "id": "nD-eAgX5el4",
+    "title": "Counter Attack | Hindi Dubbed Full Movie | Action Thriller Movie | IOF Hindi Dubbed Movies",
+    "slug": "counter-attack-hindi-dubbed-full-movie-action-thriller-movie-iof-hindi-dubbed-movies",
+    "youtubeVideoId": "nD-eAgX5el4",
+    "youtubeUrl": "https://www.youtube.com/watch?v=nD-eAgX5el4",
+    "thumbnail": "https://i.ytimg.com/vi/nD-eAgX5el4/maxresdefault.jpg",
+    "language": "Telugu",
+    "audioLanguage": "Hindi",
+    "dubbed": true,
+    "creator": {
+      "name": "IOF - Hindi",
+      "channelId": "UCQ-DyEmlafaU5VVuRVnfsFw",
+      "channelUrl": "https://www.youtube.com/channel/UCQ-DyEmlafaU5VVuRVnfsFw"
+    },
+    "description": "A highly skilled security expert is framed during a major oil and gas project bidding event. With his reputation and life at risk, he must uncover the conspiracy, prove his innocence, and strike back against those who betrayed him.\n\nWatch this action-packed Hindi dubbed movie filled with powerful fights, suspense, danger, and unexpected twists.\n\n#CounterAttack #HindiDubbed #HindiMovie #HindiDubbedMovie #ActionMovie #ActionThriller #HindiFullMovie #DubbedMovie #ChineseMovie #ActionThrillerMovie\n\nClick here to Subscribe - https://bit.ly/SubscribeIndoOverseasFilmsHindi\n\n\n___________________________________ \nEnjoy & stay connected with us!\nSubscribe to Indo Overseas Movies 👉 https://Subscribe.openinapp.co/IndoOverseasFilms\nSubscribe to IOF Hindi 👉 https://Subscribe.openinapp.co/IOFHindi\nSubscribe to IOF Telugu 👉 https://Subscribe.openinapp.co/IOFTelugu\nSubscribe to IOF Tamil 👉 https://Subscribe.openinapp.co/IOFTamil\n\nFollow Us On\nFacebook : https://www.facebook.com/indooverseasfilm\nTwitter : https://twitter.com/IOF_India\nInstagram : https://www.instagram.com/iof_india_/\nLinkedln : https://www.linkedin.com/in/indo-overseas-films-india-1a98b8208/\nWebsite : https://www.indooverseasfilms.com\n\nIn association with Divo - Our YouTube  Partner\n\n#Iof #Indooverseasfilmshindi #Hindidubbedmovies",
+    "metadata": {
+      "year": null,
+      "genre": [],
+      "durationSeconds": 5187
+    },
+    "statistics": {
+      "views": 334876,
+      "likes": 1708
+    },
+    "publishedAt": "2026-08-27T11:30:01Z",
+    "verification": {
+      "status": "verified",
+      "method": "official-channel-whitelist"
+    },
+    "algorithm": {
+      "trendingScore": 63.16,
+      "recommendationScore": 59.64
+    }
+  },
+  {
+    "id": "i79fSO8zNQY",
+    "title": "35 Days in the Tunnel | Hindi Dubbed Full Movie HD | Survival Thriller | IOF Hindi",
+    "slug": "35-days-in-the-tunnel-hindi-dubbed-full-movie-hd-survival-thriller-iof-hindi",
+    "youtubeVideoId": "i79fSO8zNQY",
+    "youtubeUrl": "https://www.youtube.com/watch?v=i79fSO8zNQY",
+    "thumbnail": "https://i.ytimg.com/vi/i79fSO8zNQY/maxresdefault.jpg",
+    "language": "Telugu",
+    "audioLanguage": "Hindi",
+    "dubbed": true,
+    "creator": {
+      "name": "IOF - Hindi",
+      "channelId": "UCQ-DyEmlafaU5VVuRVnfsFw",
+      "channelUrl": "https://www.youtube.com/channel/UCQ-DyEmlafaU5VVuRVnfsFw"
+    },
+    "description": "A man is on his way home when the poorly constructed tunnel he is driving through collapses, leaving him trapped.\n\nDirector:\nKim Seong-hun\nWriter:\nKim Seong-hun\nStars:\nHa Jung-woo, Bae Doona, Oh Dal-su\n\n\nClick here to Subscribe - https://bit.ly/SubscribeIndoOverseasFilmsHindi\n\n\n___________________________________ \nEnjoy & stay connected with us!\nSubscribe to Indo Overseas Movies 👉 https://Subscribe.openinapp.co/IndoOverseasFilms\nSubscribe to IOF Hindi 👉 https://Subscribe.openinapp.co/IOFHindi\nSubscribe to IOF Telugu 👉 https://Subscribe.openinapp.co/IOFTelugu\nSubscribe to IOF Tamil 👉 https://Subscribe.openinapp.co/IOFTamil\n\nFollow Us On\nFacebook : https://www.facebook.com/indooverseasfilm\nTwitter : https://twitter.com/IOF_India\nInstagram : https://www.instagram.com/iof_india_/\nLinkedln : https://www.linkedin.com/in/indo-overseas-films-india-1a98b8208/\nWebsite : https://www.indooverseasfilms.com\n\nIn association with Divo - Our YouTube  Partner\n\n#Iof #Indooverseasfilmshindi #Hindidubbedmovies",
+    "metadata": {
+      "year": null,
+      "genre": [],
+      "durationSeconds": 7588
+    },
+    "statistics": {
+      "views": 496568,
+      "likes": 3154
+    },
+    "publishedAt": "2026-08-24T10:38:29Z",
+    "verification": {
+      "status": "verified",
+      "method": "official-channel-whitelist"
+    },
+    "algorithm": {
+      "trendingScore": 63.13,
+      "recommendationScore": 60.41
     }
   },
   {
@@ -756,8 +791,8 @@
       "durationSeconds": 4893
     },
     "statistics": {
-      "views": 571522,
-      "likes": 866
+      "views": 574340,
+      "likes": 869
     },
     "publishedAt": "2026-08-27T14:30:00Z",
     "verification": {
@@ -765,8 +800,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 62.98,
-      "recommendationScore": 60.05
+      "trendingScore": 62.93,
+      "recommendationScore": 60.03
     }
   },
   {
@@ -791,8 +826,8 @@
       "durationSeconds": 5057
     },
     "statistics": {
-      "views": 58124,
-      "likes": 261
+      "views": 61787,
+      "likes": 276
     },
     "publishedAt": "2026-09-03T12:30:02Z",
     "verification": {
@@ -800,8 +835,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 62.9,
-      "recommendationScore": 56.53
+      "trendingScore": 62.91,
+      "recommendationScore": 56.64
     }
   },
   {
@@ -826,8 +861,8 @@
       "durationSeconds": 7233
     },
     "statistics": {
-      "views": 350702,
-      "likes": 1285
+      "views": 352645,
+      "likes": 1295
     },
     "publishedAt": "2026-08-27T06:00:33Z",
     "verification": {
@@ -835,8 +870,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 62.82,
-      "recommendationScore": 59.38
+      "trendingScore": 62.77,
+      "recommendationScore": 59.37
     }
   },
   {
@@ -861,8 +896,8 @@
       "durationSeconds": 7552
     },
     "statistics": {
-      "views": 13728614,
-      "likes": 142034
+      "views": 13760889,
+      "likes": 142173
     },
     "publishedAt": "2026-08-02T05:30:07Z",
     "verification": {
@@ -870,8 +905,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 62.78,
-      "recommendationScore": 66.17
+      "trendingScore": 62.73,
+      "recommendationScore": 66.15
     }
   },
   {
@@ -896,8 +931,8 @@
       "durationSeconds": 7140
     },
     "statistics": {
-      "views": 1536774,
-      "likes": 5675
+      "views": 1546905,
+      "likes": 5709
     },
     "publishedAt": "2026-08-19T09:30:04Z",
     "verification": {
@@ -905,113 +940,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 62.52,
-      "recommendationScore": 61.68
-    }
-  },
-  {
-    "id": "0lcAmoADQF4",
-    "title": "Ram Pothineni - Skanda Full Movie | Sreeleela | South Action Hindi Dubbed Movie | Superhit Movie",
-    "slug": "ram-pothineni-skanda-full-movie-sreeleela-south-action-hindi-dubbed-movie-superhit-movie",
-    "youtubeVideoId": "0lcAmoADQF4",
-    "youtubeUrl": "https://www.youtube.com/watch?v=0lcAmoADQF4",
-    "thumbnail": "https://i.ytimg.com/vi/0lcAmoADQF4/maxresdefault.jpg",
-    "language": "South Indian",
-    "audioLanguage": "Hindi",
-    "dubbed": true,
-    "creator": {
-      "name": "Netplex Movies 2026",
-      "channelId": "UCuqpqRaJJL51ydh801feZJA",
-      "channelUrl": "https://www.youtube.com/channel/UCuqpqRaJJL51ydh801feZJA"
-    },
-    "description": "Movie Name: Skanda\nStarring: Ram Pothineni, Sreeleela, Saiee Manjrekar\nLanguage: Hindi Dubbed\nGenre: Action • Drama • Thriller\n\n📖 Synopsis:\n\nSkanda is a high-octane action drama that follows Bhaskar Raju (Ram Pothineni), a fearless young man who takes a shocking step by kidnapping the daughters of two powerful Chief Ministers.\n\nBut Bhaskar’s motive is not crime — it is revenge and justice. His father was falsely accused and destroyed by corrupt politicians, and Bhaskar is determined to expose their crimes to the world.\n\nAs the story unfolds, a dangerous political conspiracy comes to light, leading to intense action, emotional drama, and explosive confrontations.\n\nWill Bhaskar succeed in revealing the truth and clearing his father’s name?\n\n🔥 Watch Skanda Full Movie in Hindi Dubbed for powerful action, thrilling drama, and mass entertainment.\n\n💥 Subscribe for more South Indian Movies Dubbed in Hindi!\n\nHashtags:\n#Skanda #RamPothineni #Sreeleela #SaieeManjrekar #HindiDubbedMovie #SouthHindiMovies #ActionMovie #SouthActionMovie #SouthBlockbuster #SouthDubbedMovie #FullMovieHindi #NewHindiMovie\n\nWatch other Blockbuster Hits for FREE on our YT Channel 🔥🔥🔥\nOur Blockbuster Movies -\nSkanda - https://youtu.be/GqBsBTQ-Fh0\nFamily Ek Deal - https://www.youtube.com/watch?v=Uya_-U7Tl4c\nMaayon - https://youtu.be/ByRnpG3Yjg0\nMahaveer No 1 - https://youtu.be/QgxNh9NGLKA\nInternational Rowdy - https://youtu.be/FOs6pGbbgsU\nMadhura Raja - https://youtu.be/biWzPzpyIS4\nShoorveer: https://youtu.be/luXy9HTVwZw\nTime Story: https://youtu.be/mf5965Bj5Kk\nNagvamshi: https://youtu.be/MX5TSwQ3aik\nKaatera: https://youtu.be/cQQ6ovn3ZBk\nGabbar Sher: https://youtu.be/Mb8P7X11yFg\n\nSubscribe सब्सक्राइब to our channel now for more South Indian Hindi Dubbed Movies\nYouTube: https://www.youtube.com/WAMIndiaMovies\nFacebook: https://www.facebook.com/wamindiamovies",
-    "metadata": {
-      "year": null,
-      "genre": [],
-      "durationSeconds": 9436
-    },
-    "statistics": {
-      "views": 185426,
-      "likes": 664
-    },
-    "publishedAt": "2026-08-28T14:30:29Z",
-    "verification": {
-      "status": "verified",
-      "method": "official-channel-whitelist"
-    },
-    "algorithm": {
-      "trendingScore": 62.37,
-      "recommendationScore": 58.08
-    }
-  },
-  {
-    "id": "QFNh-wlePdU",
-    "title": "Choo Mantar 2026 New Released Hindi Dubbed Horror Comedy Movie | Aditi Prabhudeva, Sharan, Chikkanna",
-    "slug": "choo-mantar-2026-new-released-hindi-dubbed-horror-comedy-movie-aditi-prabhudeva-sharan-chikkanna",
-    "youtubeVideoId": "QFNh-wlePdU",
-    "youtubeUrl": "https://www.youtube.com/watch?v=QFNh-wlePdU",
-    "thumbnail": "https://i.ytimg.com/vi/QFNh-wlePdU/maxresdefault.jpg",
-    "language": "Kannada",
-    "audioLanguage": "Hindi",
-    "dubbed": true,
-    "creator": {
-      "name": "RKD Studios",
-      "channelId": "UCjBwQ6M9QyCgO5Pp-TQRFUA",
-      "channelUrl": "https://www.youtube.com/channel/UCjBwQ6M9QyCgO5Pp-TQRFUA"
-    },
-    "description": "\"Choo Mantar\" is a 2025 Indian Kannada-language horror comedy directed by Karvva Navneeth. The film features Aditi Prabhudeva, Sharan, Meghana Gaonkar, and Chikkanna in lead roles. The music is composed by Chandan Shetty and Avinash R Basutkar.\n\n#choomantar  #sharan #aditiprabhudeva #horrorcomedy \n\nMovie: Choo Mantar \nCast: Aditi Prabhudeva, Sharan, Meghana Gaonkar, Chikkanna\nProducer: Tarun Shivappa\nMusic: Chandan Shetty, Avinash R Basutkar\nDirector: Karvva Navneeth\n\nA hunt for secret treasure leads four friends to the historic Morgan House. However, as they uncover the dark history of its original colonial owner, their thrilling expedition spirals into an unpredictable nightmare.\n\nKindly subscribe to the channel and Press the BELL ICON to get Instant Notifications from @rkddigital \n\nSubscribe To Our Channel: https://www.youtube.com/channel/UCjBwQ6M9QyCgO5Pp-TQRFUA?sub_confirmation=1\n\nFollow Us On:- Facebook: https://www.facebook.com/RKDStudiosOfficial/ \nInstagram:- https://www.instagram.com/rkdstudios",
-    "metadata": {
-      "year": 2026,
-      "genre": [],
-      "durationSeconds": 7928
-    },
-    "statistics": {
-      "views": 567147,
-      "likes": 5524
-    },
-    "publishedAt": "2026-08-17T11:30:06Z",
-    "verification": {
-      "status": "verified",
-      "method": "official-channel-whitelist"
-    },
-    "algorithm": {
-      "trendingScore": 62.34,
-      "recommendationScore": 60.58
-    }
-  },
-  {
-    "id": "dGfXN3qmCvU",
-    "title": "Prema Kavali | Aadi Saikumar, Isha Chawla, Dev Gill, Nassar Superhit South Action Hindi Dubbed Movie",
-    "slug": "prema-kavali-aadi-saikumar-isha-chawla-dev-gill-nassar-superhit-south-action-hindi-dubbed-movie",
-    "youtubeVideoId": "dGfXN3qmCvU",
-    "youtubeUrl": "https://www.youtube.com/watch?v=dGfXN3qmCvU",
-    "thumbnail": "https://i.ytimg.com/vi/dGfXN3qmCvU/maxresdefault.jpg",
-    "language": "Telugu",
-    "audioLanguage": "Hindi",
-    "dubbed": true,
-    "creator": {
-      "name": "RKD Multiplex",
-      "channelId": "UCL0f2RzwTMJc02Lg9DdcgNw",
-      "channelUrl": "https://www.youtube.com/channel/UCL0f2RzwTMJc02Lg9DdcgNw"
-    },
-    "description": "Presenting South Indian Action Hindi Dubbed Movie, \"Prema Kavali\", starring Aadi Saikumar, Isha Chawla, Dev Gill, Nassar & others. Directed by K. Vijaya Bhaskar.\n\n#aadisaikumar #aadi #ishachawla #devgill #hindidubbedmovie #southactionmovies #southmovies \n\nCensor Certification Number - VIL/2/55/2020-MUM\nMovie (Hindi Dubbed):- Jungle Boy \nOriginal Movie:- Prema Kavali In Telugu\nStar Cast: Aadi, Isha Chawla, Dev Gill, Nassar\nMusic: Anoop Rubens\nProducer - K. Atchi Reddy\nDirector: K. Vijaya Bhaskar  \n\nDisclaimer: We are only the right holders of this content. Any opinions expressed in this Film may purely be of the director or the original producers but are not our personal opinions and we do not assume any responsibility or liability for the same.\n\nJoin Us:\n► YouTube: http://bit.ly/RKDMultiplex\n► Facebook: https://www.facebook.com/RKDStudios\n► Twitter: https://twitter.com/RKDStudios",
-    "metadata": {
-      "year": 2020,
-      "genre": [],
-      "durationSeconds": 6896
-    },
-    "statistics": {
-      "views": 30508,
-      "likes": 155
-    },
-    "publishedAt": "2026-09-03T06:00:02Z",
-    "verification": {
-      "status": "verified",
-      "method": "official-channel-whitelist"
-    },
-    "algorithm": {
-      "trendingScore": 62.14,
-      "recommendationScore": 55.12
+      "trendingScore": 62.48,
+      "recommendationScore": 61.67
     }
   },
   {
@@ -1036,8 +966,8 @@
       "durationSeconds": 9080
     },
     "statistics": {
-      "views": 23796,
-      "likes": 110
+      "views": 27825,
+      "likes": 138
     },
     "publishedAt": "2026-09-04T14:30:34Z",
     "verification": {
@@ -1045,8 +975,78 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 62.06,
-      "recommendationScore": 54.62
+      "trendingScore": 62.35,
+      "recommendationScore": 55.07
+    }
+  },
+  {
+    "id": "0lcAmoADQF4",
+    "title": "Ram Pothineni - Skanda Full Movie | Sreeleela | South Action Hindi Dubbed Movie | Superhit Movie",
+    "slug": "ram-pothineni-skanda-full-movie-sreeleela-south-action-hindi-dubbed-movie-superhit-movie",
+    "youtubeVideoId": "0lcAmoADQF4",
+    "youtubeUrl": "https://www.youtube.com/watch?v=0lcAmoADQF4",
+    "thumbnail": "https://i.ytimg.com/vi/0lcAmoADQF4/maxresdefault.jpg",
+    "language": "South Indian",
+    "audioLanguage": "Hindi",
+    "dubbed": true,
+    "creator": {
+      "name": "Netplex Movies 2026",
+      "channelId": "UCuqpqRaJJL51ydh801feZJA",
+      "channelUrl": "https://www.youtube.com/channel/UCuqpqRaJJL51ydh801feZJA"
+    },
+    "description": "Movie Name: Skanda\nStarring: Ram Pothineni, Sreeleela, Saiee Manjrekar\nLanguage: Hindi Dubbed\nGenre: Action • Drama • Thriller\n\n📖 Synopsis:\n\nSkanda is a high-octane action drama that follows Bhaskar Raju (Ram Pothineni), a fearless young man who takes a shocking step by kidnapping the daughters of two powerful Chief Ministers.\n\nBut Bhaskar’s motive is not crime — it is revenge and justice. His father was falsely accused and destroyed by corrupt politicians, and Bhaskar is determined to expose their crimes to the world.\n\nAs the story unfolds, a dangerous political conspiracy comes to light, leading to intense action, emotional drama, and explosive confrontations.\n\nWill Bhaskar succeed in revealing the truth and clearing his father’s name?\n\n🔥 Watch Skanda Full Movie in Hindi Dubbed for powerful action, thrilling drama, and mass entertainment.\n\n💥 Subscribe for more South Indian Movies Dubbed in Hindi!\n\nHashtags:\n#Skanda #RamPothineni #Sreeleela #SaieeManjrekar #HindiDubbedMovie #SouthHindiMovies #ActionMovie #SouthActionMovie #SouthBlockbuster #SouthDubbedMovie #FullMovieHindi #NewHindiMovie\n\nWatch other Blockbuster Hits for FREE on our YT Channel 🔥🔥🔥\nOur Blockbuster Movies -\nSkanda - https://youtu.be/GqBsBTQ-Fh0\nFamily Ek Deal - https://www.youtube.com/watch?v=Uya_-U7Tl4c\nMaayon - https://youtu.be/ByRnpG3Yjg0\nMahaveer No 1 - https://youtu.be/QgxNh9NGLKA\nInternational Rowdy - https://youtu.be/FOs6pGbbgsU\nMadhura Raja - https://youtu.be/biWzPzpyIS4\nShoorveer: https://youtu.be/luXy9HTVwZw\nTime Story: https://youtu.be/mf5965Bj5Kk\nNagvamshi: https://youtu.be/MX5TSwQ3aik\nKaatera: https://youtu.be/cQQ6ovn3ZBk\nGabbar Sher: https://youtu.be/Mb8P7X11yFg\n\nSubscribe सब्सक्राइब to our channel now for more South Indian Hindi Dubbed Movies\nYouTube: https://www.youtube.com/WAMIndiaMovies\nFacebook: https://www.facebook.com/wamindiamovies",
+    "metadata": {
+      "year": null,
+      "genre": [],
+      "durationSeconds": 9436
+    },
+    "statistics": {
+      "views": 187088,
+      "likes": 668
+    },
+    "publishedAt": "2026-08-28T14:30:29Z",
+    "verification": {
+      "status": "verified",
+      "method": "official-channel-whitelist"
+    },
+    "algorithm": {
+      "trendingScore": 62.32,
+      "recommendationScore": 58.07
+    }
+  },
+  {
+    "id": "QFNh-wlePdU",
+    "title": "Choo Mantar 2026 New Released Hindi Dubbed Horror Comedy Movie | Aditi Prabhudeva, Sharan, Chikkanna",
+    "slug": "choo-mantar-2026-new-released-hindi-dubbed-horror-comedy-movie-aditi-prabhudeva-sharan-chikkanna",
+    "youtubeVideoId": "QFNh-wlePdU",
+    "youtubeUrl": "https://www.youtube.com/watch?v=QFNh-wlePdU",
+    "thumbnail": "https://i.ytimg.com/vi/QFNh-wlePdU/maxresdefault.jpg",
+    "language": "Kannada",
+    "audioLanguage": "Hindi",
+    "dubbed": true,
+    "creator": {
+      "name": "RKD Studios",
+      "channelId": "UCjBwQ6M9QyCgO5Pp-TQRFUA",
+      "channelUrl": "https://www.youtube.com/channel/UCjBwQ6M9QyCgO5Pp-TQRFUA"
+    },
+    "description": "\"Choo Mantar\" is a 2025 Indian Kannada-language horror comedy directed by Karvva Navneeth. The film features Aditi Prabhudeva, Sharan, Meghana Gaonkar, and Chikkanna in lead roles. The music is composed by Chandan Shetty and Avinash R Basutkar.\n\n#choomantar  #sharan #aditiprabhudeva #horrorcomedy \n\nMovie: Choo Mantar \nCast: Aditi Prabhudeva, Sharan, Meghana Gaonkar, Chikkanna\nProducer: Tarun Shivappa\nMusic: Chandan Shetty, Avinash R Basutkar\nDirector: Karvva Navneeth\n\nA hunt for secret treasure leads four friends to the historic Morgan House. However, as they uncover the dark history of its original colonial owner, their thrilling expedition spirals into an unpredictable nightmare.\n\nKindly subscribe to the channel and Press the BELL ICON to get Instant Notifications from @rkddigital \n\nSubscribe To Our Channel: https://www.youtube.com/channel/UCjBwQ6M9QyCgO5Pp-TQRFUA?sub_confirmation=1\n\nFollow Us On:- Facebook: https://www.facebook.com/RKDStudiosOfficial/ \nInstagram:- https://www.instagram.com/rkdstudios",
+    "metadata": {
+      "year": 2026,
+      "genre": [],
+      "durationSeconds": 7928
+    },
+    "statistics": {
+      "views": 571513,
+      "likes": 5549
+    },
+    "publishedAt": "2026-08-17T11:30:06Z",
+    "verification": {
+      "status": "verified",
+      "method": "official-channel-whitelist"
+    },
+    "algorithm": {
+      "trendingScore": 62.29,
+      "recommendationScore": 60.56
     }
   }
 ]
