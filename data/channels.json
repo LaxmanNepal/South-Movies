@@ -1,10 +1,5 @@
 [
   {
-    "name": "RKD Studios",
-    "channelId": "UCjBwQ6M9QyCgO5Pp-TQRFUA",
-    "channelUrl": "https://www.youtube.com/channel/UCjBwQ6M9QyCgO5Pp-TQRFUA"
-  },
-  {
     "name": "AD-WISE MEDIA ACTION MOVIEPLEX",
     "channelId": "UCSx_w4q5PkAOg9i45uMFHmA",
     "channelUrl": "https://www.youtube.com/channel/UCSx_w4q5PkAOg9i45uMFHmA"
@@ -20,14 +15,19 @@
     "channelUrl": "https://www.youtube.com/channel/UCyoXW-Dse7fURq30EWl_CUA"
   },
   {
-    "name": "RG Entertainment",
-    "channelId": "UCgfO009hB_847kwL6NQnn-w",
-    "channelUrl": "https://www.youtube.com/channel/UCgfO009hB_847kwL6NQnn-w"
+    "name": "RKD Studios",
+    "channelId": "UCjBwQ6M9QyCgO5Pp-TQRFUA",
+    "channelUrl": "https://www.youtube.com/channel/UCjBwQ6M9QyCgO5Pp-TQRFUA"
   },
   {
     "name": "WamIndia Select Movies",
     "channelId": "UC_sXBvPWlKbvKfrzHiqxYhg",
     "channelUrl": "https://www.youtube.com/channel/UC_sXBvPWlKbvKfrzHiqxYhg"
+  },
+  {
+    "name": "RG Entertainment",
+    "channelId": "UCgfO009hB_847kwL6NQnn-w",
+    "channelUrl": "https://www.youtube.com/channel/UCgfO009hB_847kwL6NQnn-w"
   },
   {
     "name": "Goldmines Cineplex",
@@ -50,6 +50,11 @@
     "channelUrl": "https://www.youtube.com/channel/UCvUctuMp58UD_kQtcWcNCjw"
   },
   {
+    "name": "GoldminesAction",
+    "channelId": "UCY7tB-mpvlQeWgaCCS1Cmwg",
+    "channelUrl": "https://www.youtube.com/channel/UCY7tB-mpvlQeWgaCCS1Cmwg"
+  },
+  {
     "name": "RKD Multiplex",
     "channelId": "UCL0f2RzwTMJc02Lg9DdcgNw",
     "channelUrl": "https://www.youtube.com/channel/UCL0f2RzwTMJc02Lg9DdcgNw"
@@ -58,11 +63,6 @@
     "name": "Goldmines Movies",
     "channelId": "UCs570zdFq_NNA5OcV8chnHw",
     "channelUrl": "https://www.youtube.com/channel/UCs570zdFq_NNA5OcV8chnHw"
-  },
-  {
-    "name": "GoldminesAction",
-    "channelId": "UCY7tB-mpvlQeWgaCCS1Cmwg",
-    "channelUrl": "https://www.youtube.com/channel/UCY7tB-mpvlQeWgaCCS1Cmwg"
   },
   {
     "name": "Goldmines Housefull",
