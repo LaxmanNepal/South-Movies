@@ -10,11 +10,6 @@
     "channelUrl": "https://www.youtube.com/channel/UCQ-DyEmlafaU5VVuRVnfsFw"
   },
   {
-    "name": "Wamindia Movies",
-    "channelId": "UCt7_pnSRPKU3bu2GqmgH8gQ",
-    "channelUrl": "https://www.youtube.com/channel/UCt7_pnSRPKU3bu2GqmgH8gQ"
-  },
-  {
     "name": "Goldmines",
     "channelId": "UCyoXW-Dse7fURq30EWl_CUA",
     "channelUrl": "https://www.youtube.com/channel/UCyoXW-Dse7fURq30EWl_CUA"
@@ -48,6 +43,11 @@
     "name": "Goldmines Cineplex",
     "channelId": "UCCrw5RBWF9i8VPt4IxL8IsQ",
     "channelUrl": "https://www.youtube.com/channel/UCCrw5RBWF9i8VPt4IxL8IsQ"
+  },
+  {
+    "name": "Wamindia Movies",
+    "channelId": "UCt7_pnSRPKU3bu2GqmgH8gQ",
+    "channelUrl": "https://www.youtube.com/channel/UCt7_pnSRPKU3bu2GqmgH8gQ"
   },
   {
     "name": "Goldmines Housefull",
