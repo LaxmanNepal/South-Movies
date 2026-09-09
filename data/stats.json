@@ -8,8 +8,8 @@
     "not_public_or_embeddable": 351,
     "bad_content": 2542,
     "too_short": 2413,
-    "not_hindi_dubbed": 645,
-    "not_movie": 399,
+    "not_hindi_dubbed": 646,
+    "not_movie": 398,
     "unknown": 0
   },
   "byLanguage": {
@@ -66,7 +66,7 @@
   "probableSources": 0,
   "unknownSources": 0,
   "brokenSources": 0,
-  "latestUpdate": "2026-09-08T21:13:12.333824+00:00",
+  "latestUpdate": "2026-09-09T04:42:35.270681+00:00",
   "catalogGrowth": 2310,
   "languageScope": "South Indian cinema",
   "audioScope": "Hindi dubbed only",
