@@ -6,10 +6,10 @@
   "videosScanned": 8809,
   "rejections": {
     "not_public_or_embeddable": 350,
-    "bad_content": 2538,
-    "too_short": 2413,
-    "not_hindi_dubbed": 645,
-    "not_movie": 399,
+    "bad_content": 2537,
+    "too_short": 2414,
+    "not_hindi_dubbed": 644,
+    "not_movie": 400,
     "unknown": 0
   },
   "byLanguage": {
@@ -66,7 +66,7 @@
   "probableSources": 0,
   "unknownSources": 0,
   "brokenSources": 0,
-  "latestUpdate": "2026-09-09T21:00:18.087504+00:00",
+  "latestUpdate": "2026-09-10T04:44:00.180623+00:00",
   "catalogGrowth": 2315,
   "languageScope": "South Indian cinema",
   "audioScope": "Hindi dubbed only",
