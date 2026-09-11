@@ -1,18 +1,13 @@
 [
   {
-    "name": "Goldmines",
-    "channelId": "UCyoXW-Dse7fURq30EWl_CUA",
-    "channelUrl": "https://www.youtube.com/channel/UCyoXW-Dse7fURq30EWl_CUA"
-  },
-  {
     "name": "AD-WISE MEDIA ACTION MOVIEPLEX",
     "channelId": "UCSx_w4q5PkAOg9i45uMFHmA",
     "channelUrl": "https://www.youtube.com/channel/UCSx_w4q5PkAOg9i45uMFHmA"
   },
   {
-    "name": "IOF - Hindi",
-    "channelId": "UCQ-DyEmlafaU5VVuRVnfsFw",
-    "channelUrl": "https://www.youtube.com/channel/UCQ-DyEmlafaU5VVuRVnfsFw"
+    "name": "Goldmines",
+    "channelId": "UCyoXW-Dse7fURq30EWl_CUA",
+    "channelUrl": "https://www.youtube.com/channel/UCyoXW-Dse7fURq30EWl_CUA"
   },
   {
     "name": "RKD Studios",
@@ -20,9 +15,19 @@
     "channelUrl": "https://www.youtube.com/channel/UCjBwQ6M9QyCgO5Pp-TQRFUA"
   },
   {
+    "name": "IOF - Hindi",
+    "channelId": "UCQ-DyEmlafaU5VVuRVnfsFw",
+    "channelUrl": "https://www.youtube.com/channel/UCQ-DyEmlafaU5VVuRVnfsFw"
+  },
+  {
     "name": "Goldmines Premiere",
     "channelId": "UCvUctuMp58UD_kQtcWcNCjw",
     "channelUrl": "https://www.youtube.com/channel/UCvUctuMp58UD_kQtcWcNCjw"
+  },
+  {
+    "name": "RKD Multiplex",
+    "channelId": "UCL0f2RzwTMJc02Lg9DdcgNw",
+    "channelUrl": "https://www.youtube.com/channel/UCL0f2RzwTMJc02Lg9DdcgNw"
   },
   {
     "name": "Goldmines Cineplex",
@@ -30,19 +35,14 @@
     "channelUrl": "https://www.youtube.com/channel/UCCrw5RBWF9i8VPt4IxL8IsQ"
   },
   {
-    "name": "WamIndia Select Movies",
-    "channelId": "UC_sXBvPWlKbvKfrzHiqxYhg",
-    "channelUrl": "https://www.youtube.com/channel/UC_sXBvPWlKbvKfrzHiqxYhg"
-  },
-  {
     "name": "Netplex Movies 2026",
     "channelId": "UCuqpqRaJJL51ydh801feZJA",
     "channelUrl": "https://www.youtube.com/channel/UCuqpqRaJJL51ydh801feZJA"
   },
   {
-    "name": "RKD Multiplex",
-    "channelId": "UCL0f2RzwTMJc02Lg9DdcgNw",
-    "channelUrl": "https://www.youtube.com/channel/UCL0f2RzwTMJc02Lg9DdcgNw"
+    "name": "WamIndia Select Movies",
+    "channelId": "UC_sXBvPWlKbvKfrzHiqxYhg",
+    "channelUrl": "https://www.youtube.com/channel/UC_sXBvPWlKbvKfrzHiqxYhg"
   },
   {
     "name": "GoldminesAction",
