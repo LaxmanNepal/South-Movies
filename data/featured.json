@@ -21,8 +21,8 @@
       "durationSeconds": 6675
     },
     "statistics": {
-      "views": 705779,
-      "likes": 5724
+      "views": 770000,
+      "likes": 5995
     },
     "publishedAt": "2026-09-11T06:30:06Z",
     "verification": {
@@ -30,8 +30,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 67.36,
-      "recommendationScore": 63.41
+      "trendingScore": 67.33,
+      "recommendationScore": 63.5
     }
   },
   {
@@ -56,8 +56,8 @@
       "durationSeconds": 6607
     },
     "statistics": {
-      "views": 106970,
-      "likes": 1697
+      "views": 138252,
+      "likes": 1995
     },
     "publishedAt": "2026-09-11T14:30:18Z",
     "verification": {
@@ -65,8 +65,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 67.06,
-      "recommendationScore": 60.96
+      "trendingScore": 66.99,
+      "recommendationScore": 61.19
     }
   },
   {
@@ -91,8 +91,8 @@
       "durationSeconds": 8051
     },
     "statistics": {
-      "views": 7875859,
-      "likes": 50815
+      "views": 7910458,
+      "likes": 50947
     },
     "publishedAt": "2026-08-29T14:00:17Z",
     "verification": {
@@ -100,8 +100,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 66.28,
-      "recommendationScore": 66.67
+      "trendingScore": 66.23,
+      "recommendationScore": 66.65
     }
   },
   {
@@ -126,8 +126,8 @@
       "durationSeconds": 10602
     },
     "statistics": {
-      "views": 982823,
-      "likes": 6940
+      "views": 995300,
+      "likes": 7068
     },
     "publishedAt": "2026-09-05T05:30:30Z",
     "verification": {
@@ -135,8 +135,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 65.66,
-      "recommendationScore": 62.96
+      "trendingScore": 65.63,
+      "recommendationScore": 62.97
     }
   },
   {
@@ -161,8 +161,8 @@
       "durationSeconds": 6621
     },
     "statistics": {
-      "views": 728519,
-      "likes": 3735
+      "views": 752337,
+      "likes": 3946
     },
     "publishedAt": "2026-09-07T14:30:06Z",
     "verification": {
@@ -170,8 +170,43 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 65.47,
-      "recommendationScore": 62.15
+      "trendingScore": 65.48,
+      "recommendationScore": 62.22
+    }
+  },
+  {
+    "id": "cCmKPYLZKBA",
+    "title": "नंबर १ जुड़वा (4K) | SURIYA's Blockbuster Action Hindi Dubbed Movie | Kajal Aggarwal, Sachin Khedekar",
+    "slug": "4k-suriya-s-blockbuster-action-hindi-dubbed-movie-kajal-aggarwal-sachin-khedekar",
+    "youtubeVideoId": "cCmKPYLZKBA",
+    "youtubeUrl": "https://www.youtube.com/watch?v=cCmKPYLZKBA",
+    "thumbnail": "https://i.ytimg.com/vi/cCmKPYLZKBA/maxresdefault.jpg",
+    "language": "South Indian",
+    "audioLanguage": "Hindi",
+    "dubbed": true,
+    "creator": {
+      "name": "Goldmines Premiere",
+      "channelId": "UCvUctuMp58UD_kQtcWcNCjw",
+      "channelUrl": "https://www.youtube.com/channel/UCvUctuMp58UD_kQtcWcNCjw"
+    },
+    "description": "A pair of conjoined twins strive to save their father's flourishing business from a Russian spy. However, just before the spy is killed, she makes a shocking revelation that may change their lives forever.\n\nMovie:- No. 1 Judwaa (Maattrraan)\nStarcast:- Suriya, Kajal Aggarwal, Irina Maleva, Julia Bliss, Sachin Khedekar\nDirected By:- K V Anand\nMusic By:- Harris Jayaraj\n\n#Suriya #No1Judwaa #Maattrraan #KajalAggarwal",
+    "metadata": {
+      "year": null,
+      "genre": [],
+      "durationSeconds": 7274
+    },
+    "statistics": {
+      "views": 954,
+      "likes": 31
+    },
+    "publishedAt": "2026-09-12T12:30:11Z",
+    "verification": {
+      "status": "verified",
+      "method": "official-channel-whitelist"
+    },
+    "algorithm": {
+      "trendingScore": 65.4,
+      "recommendationScore": 54.05
     }
   },
   {
@@ -196,8 +231,8 @@
       "durationSeconds": 6967
     },
     "statistics": {
-      "views": 5083619,
-      "likes": 28550
+      "views": 5099631,
+      "likes": 28632
     },
     "publishedAt": "2026-08-28T06:30:06Z",
     "verification": {
@@ -205,8 +240,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 65.12,
-      "recommendationScore": 65.24
+      "trendingScore": 65.07,
+      "recommendationScore": 65.22
     }
   },
   {
@@ -231,8 +266,8 @@
       "durationSeconds": 6849
     },
     "statistics": {
-      "views": 2966638,
-      "likes": 12282
+      "views": 2984031,
+      "likes": 12364
     },
     "publishedAt": "2026-08-31T12:26:14Z",
     "verification": {
@@ -240,8 +275,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 64.94,
-      "recommendationScore": 64.09
+      "trendingScore": 64.89,
+      "recommendationScore": 64.08
     }
   },
   {
@@ -266,8 +301,8 @@
       "durationSeconds": 8048
     },
     "statistics": {
-      "views": 407227,
-      "likes": 1420
+      "views": 410147,
+      "likes": 1428
     },
     "publishedAt": "2026-09-07T11:30:09Z",
     "verification": {
@@ -275,8 +310,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 64.23,
-      "recommendationScore": 60.35
+      "trendingScore": 64.18,
+      "recommendationScore": 60.34
     }
   },
   {
@@ -301,8 +336,8 @@
       "durationSeconds": 6754
     },
     "statistics": {
-      "views": 1461450,
-      "likes": 3890
+      "views": 1463900,
+      "likes": 3894
     },
     "publishedAt": "2026-09-02T14:30:35Z",
     "verification": {
@@ -310,8 +345,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 64.22,
-      "recommendationScore": 62.38
+      "trendingScore": 64.16,
+      "recommendationScore": 62.35
     }
   },
   {
@@ -336,8 +371,8 @@
       "durationSeconds": 7430
     },
     "statistics": {
-      "views": 2607867,
-      "likes": 11657
+      "views": 2613851,
+      "likes": 11691
     },
     "publishedAt": "2026-08-28T11:30:26Z",
     "verification": {
@@ -345,8 +380,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 64.0,
-      "recommendationScore": 63.42
+      "trendingScore": 63.95,
+      "recommendationScore": 63.4
     }
   },
   {
@@ -371,8 +406,8 @@
       "durationSeconds": 7341
     },
     "statistics": {
-      "views": 1232971,
-      "likes": 11809
+      "views": 1237468,
+      "likes": 11849
     },
     "publishedAt": "2026-08-26T09:43:36Z",
     "verification": {
@@ -380,43 +415,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 63.83,
-      "recommendationScore": 62.64
-    }
-  },
-  {
-    "id": "JJgjg2_yc1s",
-    "title": "LIE | Nithin, Megha Akash, Arjun Sarja, Ravi Kishan Blockbuster South Action Hindi Dubbed Movie",
-    "slug": "lie-nithin-megha-akash-arjun-sarja-ravi-kishan-blockbuster-south-action-hindi-dubbed-movie",
-    "youtubeVideoId": "JJgjg2_yc1s",
-    "youtubeUrl": "https://www.youtube.com/watch?v=JJgjg2_yc1s",
-    "thumbnail": "https://i.ytimg.com/vi/JJgjg2_yc1s/maxresdefault.jpg",
-    "language": "Telugu",
-    "audioLanguage": "Hindi",
-    "dubbed": true,
-    "creator": {
-      "name": "RKD Multiplex",
-      "channelId": "UCL0f2RzwTMJc02Lg9DdcgNw",
-      "channelUrl": "https://www.youtube.com/channel/UCL0f2RzwTMJc02Lg9DdcgNw"
-    },
-    "description": "Here's presenting \"LIE\" Blockbuster South Indian Hindi Dubbed Movie, starring Nithin, Arjun Sarja, Megha Akash, Ravi Kishan & others. Directed by Hanu Raghavapudi.\n\n#meghaakash #nithin #hindidubbed #southdubbedhindimovie \n\nCensor Certification Number -DIL/2/137/2017-MUM\nMovie (Hindi Dubbed):- Ghayal Lover\nOriginal Movie:- LIE In Telugu\nStarCast:- Nithin, Arjun Sarja, Megha Akash, Ravi Kishan\nMusic By:- Mani Sharma\nProducer:- Anil Sunkara, Ram Achanta, Gopi Achanta\nDirected By:- Hanu Raghavapudi\n\nDisclaimer: We are only the right holders of this content. Any opinions expressed in this Film may purely be of the director or the original producers but are not our personal opinions and we do not assume any responsibility or liability for the same.\n\nJoin Us:\n► YouTube: http://bit.ly/RKDMultiplex\n► Facebook: https://www.facebook.com/RKDStudios\n► Twitter: https://twitter.com/RKDStudios",
-    "metadata": {
-      "year": 2017,
-      "genre": [],
-      "durationSeconds": 7293
-    },
-    "statistics": {
-      "views": 91327,
-      "likes": 390
-    },
-    "publishedAt": "2026-09-10T11:30:00Z",
-    "verification": {
-      "status": "verified",
-      "method": "official-channel-whitelist"
-    },
-    "algorithm": {
-      "trendingScore": 63.42,
-      "recommendationScore": 57.53
+      "trendingScore": 63.78,
+      "recommendationScore": 62.62
     }
   }
 ]

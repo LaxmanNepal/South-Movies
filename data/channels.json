@@ -15,6 +15,11 @@
     "channelUrl": "https://www.youtube.com/channel/UCQ-DyEmlafaU5VVuRVnfsFw"
   },
   {
+    "name": "Goldmines Premiere",
+    "channelId": "UCvUctuMp58UD_kQtcWcNCjw",
+    "channelUrl": "https://www.youtube.com/channel/UCvUctuMp58UD_kQtcWcNCjw"
+  },
+  {
     "name": "RKD Studios",
     "channelId": "UCjBwQ6M9QyCgO5Pp-TQRFUA",
     "channelUrl": "https://www.youtube.com/channel/UCjBwQ6M9QyCgO5Pp-TQRFUA"
@@ -23,11 +28,6 @@
     "name": "RKD Multiplex",
     "channelId": "UCL0f2RzwTMJc02Lg9DdcgNw",
     "channelUrl": "https://www.youtube.com/channel/UCL0f2RzwTMJc02Lg9DdcgNw"
-  },
-  {
-    "name": "Goldmines Premiere",
-    "channelId": "UCvUctuMp58UD_kQtcWcNCjw",
-    "channelUrl": "https://www.youtube.com/channel/UCvUctuMp58UD_kQtcWcNCjw"
   },
   {
     "name": "Goldmines Cineplex",
@@ -65,6 +65,11 @@
     "channelUrl": "https://www.youtube.com/channel/UCs570zdFq_NNA5OcV8chnHw"
   },
   {
+    "name": "Official Southplex Movies",
+    "channelId": "UCdbNMpCun6odxt-mcL0otdw",
+    "channelUrl": "https://www.youtube.com/channel/UCdbNMpCun6odxt-mcL0otdw"
+  },
+  {
     "name": "RG Entertainment",
     "channelId": "UCgfO009hB_847kwL6NQnn-w",
     "channelUrl": "https://www.youtube.com/channel/UCgfO009hB_847kwL6NQnn-w"
@@ -73,11 +78,6 @@
     "name": "Ultra Movie Parlour",
     "channelId": "UCYauDsl-rswjQGpA0_-Z9Pw",
     "channelUrl": "https://www.youtube.com/channel/UCYauDsl-rswjQGpA0_-Z9Pw"
-  },
-  {
-    "name": "Official Southplex Movies",
-    "channelId": "UCdbNMpCun6odxt-mcL0otdw",
-    "channelUrl": "https://www.youtube.com/channel/UCdbNMpCun6odxt-mcL0otdw"
   },
   {
     "name": "Hindi Films",
