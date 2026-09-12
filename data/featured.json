@@ -21,8 +21,8 @@
       "durationSeconds": 6675
     },
     "statistics": {
-      "views": 597452,
-      "likes": 5185
+      "views": 705779,
+      "likes": 5724
     },
     "publishedAt": "2026-09-11T06:30:06Z",
     "verification": {
@@ -31,7 +31,7 @@
     },
     "algorithm": {
       "trendingScore": 67.36,
-      "recommendationScore": 63.2
+      "recommendationScore": 63.41
     }
   },
   {
@@ -56,8 +56,8 @@
       "durationSeconds": 6607
     },
     "statistics": {
-      "views": 63940,
-      "likes": 1145
+      "views": 106970,
+      "likes": 1697
     },
     "publishedAt": "2026-09-11T14:30:18Z",
     "verification": {
@@ -65,8 +65,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 66.94,
-      "recommendationScore": 60.26
+      "trendingScore": 67.06,
+      "recommendationScore": 60.96
     }
   },
   {
@@ -91,8 +91,8 @@
       "durationSeconds": 8051
     },
     "statistics": {
-      "views": 7831761,
-      "likes": 50677
+      "views": 7875859,
+      "likes": 50815
     },
     "publishedAt": "2026-08-29T14:00:17Z",
     "verification": {
@@ -100,8 +100,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 66.35,
-      "recommendationScore": 66.7
+      "trendingScore": 66.28,
+      "recommendationScore": 66.67
     }
   },
   {
@@ -126,8 +126,8 @@
       "durationSeconds": 10602
     },
     "statistics": {
-      "views": 964502,
-      "likes": 6817
+      "views": 982823,
+      "likes": 6940
     },
     "publishedAt": "2026-09-05T05:30:30Z",
     "verification": {
@@ -135,8 +135,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 65.72,
-      "recommendationScore": 62.95
+      "trendingScore": 65.66,
+      "recommendationScore": 62.96
     }
   },
   {
@@ -161,8 +161,8 @@
       "durationSeconds": 6621
     },
     "statistics": {
-      "views": 701968,
-      "likes": 3605
+      "views": 728519,
+      "likes": 3735
     },
     "publishedAt": "2026-09-07T14:30:06Z",
     "verification": {
@@ -170,8 +170,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 65.5,
-      "recommendationScore": 62.1
+      "trendingScore": 65.47,
+      "recommendationScore": 62.15
     }
   },
   {
@@ -196,8 +196,8 @@
       "durationSeconds": 6967
     },
     "statistics": {
-      "views": 5062674,
-      "likes": 28438
+      "views": 5083619,
+      "likes": 28550
     },
     "publishedAt": "2026-08-28T06:30:06Z",
     "verification": {
@@ -205,8 +205,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 65.19,
-      "recommendationScore": 65.27
+      "trendingScore": 65.12,
+      "recommendationScore": 65.24
     }
   },
   {
@@ -231,8 +231,8 @@
       "durationSeconds": 6849
     },
     "statistics": {
-      "views": 2951572,
-      "likes": 12197
+      "views": 2966638,
+      "likes": 12282
     },
     "publishedAt": "2026-08-31T12:26:14Z",
     "verification": {
@@ -240,8 +240,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 65.0,
-      "recommendationScore": 64.12
+      "trendingScore": 64.94,
+      "recommendationScore": 64.09
     }
   },
   {
@@ -266,8 +266,8 @@
       "durationSeconds": 8048
     },
     "statistics": {
-      "views": 405566,
-      "likes": 1413
+      "views": 407227,
+      "likes": 1420
     },
     "publishedAt": "2026-09-07T11:30:09Z",
     "verification": {
@@ -275,8 +275,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 64.3,
-      "recommendationScore": 60.38
+      "trendingScore": 64.23,
+      "recommendationScore": 60.35
     }
   },
   {
@@ -301,8 +301,8 @@
       "durationSeconds": 6754
     },
     "statistics": {
-      "views": 1458174,
-      "likes": 3885
+      "views": 1461450,
+      "likes": 3890
     },
     "publishedAt": "2026-09-02T14:30:35Z",
     "verification": {
@@ -310,8 +310,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 64.29,
-      "recommendationScore": 62.41
+      "trendingScore": 64.22,
+      "recommendationScore": 62.38
     }
   },
   {
@@ -336,8 +336,8 @@
       "durationSeconds": 7430
     },
     "statistics": {
-      "views": 2600444,
-      "likes": 11629
+      "views": 2607867,
+      "likes": 11657
     },
     "publishedAt": "2026-08-28T11:30:26Z",
     "verification": {
@@ -345,8 +345,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 64.07,
-      "recommendationScore": 63.45
+      "trendingScore": 64.0,
+      "recommendationScore": 63.42
     }
   },
   {
@@ -371,8 +371,8 @@
       "durationSeconds": 7341
     },
     "statistics": {
-      "views": 1227494,
-      "likes": 11747
+      "views": 1232971,
+      "likes": 11809
     },
     "publishedAt": "2026-08-26T09:43:36Z",
     "verification": {
@@ -380,8 +380,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 63.89,
-      "recommendationScore": 62.66
+      "trendingScore": 63.83,
+      "recommendationScore": 62.64
     }
   },
   {
@@ -406,8 +406,8 @@
       "durationSeconds": 7293
     },
     "statistics": {
-      "views": 84736,
-      "likes": 352
+      "views": 91327,
+      "likes": 390
     },
     "publishedAt": "2026-09-10T11:30:00Z",
     "verification": {
@@ -415,8 +415,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 63.37,
-      "recommendationScore": 57.37
+      "trendingScore": 63.42,
+      "recommendationScore": 57.53
     }
   }
 ]
