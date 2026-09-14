@@ -1,5 +1,15 @@
 [
   {
+    "name": "Goldmines Premiere",
+    "channelId": "UCvUctuMp58UD_kQtcWcNCjw",
+    "channelUrl": "https://www.youtube.com/channel/UCvUctuMp58UD_kQtcWcNCjw"
+  },
+  {
+    "name": "RKD Studios",
+    "channelId": "UCjBwQ6M9QyCgO5Pp-TQRFUA",
+    "channelUrl": "https://www.youtube.com/channel/UCjBwQ6M9QyCgO5Pp-TQRFUA"
+  },
+  {
     "name": "Goldmines",
     "channelId": "UCyoXW-Dse7fURq30EWl_CUA",
     "channelUrl": "https://www.youtube.com/channel/UCyoXW-Dse7fURq30EWl_CUA"
@@ -10,24 +20,14 @@
     "channelUrl": "https://www.youtube.com/channel/UCSx_w4q5PkAOg9i45uMFHmA"
   },
   {
-    "name": "IOF - Hindi",
-    "channelId": "UCQ-DyEmlafaU5VVuRVnfsFw",
-    "channelUrl": "https://www.youtube.com/channel/UCQ-DyEmlafaU5VVuRVnfsFw"
-  },
-  {
     "name": "GoldminesAction",
     "channelId": "UCY7tB-mpvlQeWgaCCS1Cmwg",
     "channelUrl": "https://www.youtube.com/channel/UCY7tB-mpvlQeWgaCCS1Cmwg"
   },
   {
-    "name": "RKD Studios",
-    "channelId": "UCjBwQ6M9QyCgO5Pp-TQRFUA",
-    "channelUrl": "https://www.youtube.com/channel/UCjBwQ6M9QyCgO5Pp-TQRFUA"
-  },
-  {
-    "name": "Goldmines Premiere",
-    "channelId": "UCvUctuMp58UD_kQtcWcNCjw",
-    "channelUrl": "https://www.youtube.com/channel/UCvUctuMp58UD_kQtcWcNCjw"
+    "name": "IOF - Hindi",
+    "channelId": "UCQ-DyEmlafaU5VVuRVnfsFw",
+    "channelUrl": "https://www.youtube.com/channel/UCQ-DyEmlafaU5VVuRVnfsFw"
   },
   {
     "name": "RKD Multiplex",
