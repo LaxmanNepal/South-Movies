@@ -1,10 +1,5 @@
 [
   {
-    "name": "IOF - Hindi",
-    "channelId": "UCQ-DyEmlafaU5VVuRVnfsFw",
-    "channelUrl": "https://www.youtube.com/channel/UCQ-DyEmlafaU5VVuRVnfsFw"
-  },
-  {
     "name": "Goldmines",
     "channelId": "UCyoXW-Dse7fURq30EWl_CUA",
     "channelUrl": "https://www.youtube.com/channel/UCyoXW-Dse7fURq30EWl_CUA"
@@ -18,6 +13,11 @@
     "name": "AD-WISE MEDIA ACTION MOVIEPLEX",
     "channelId": "UCSx_w4q5PkAOg9i45uMFHmA",
     "channelUrl": "https://www.youtube.com/channel/UCSx_w4q5PkAOg9i45uMFHmA"
+  },
+  {
+    "name": "IOF - Hindi",
+    "channelId": "UCQ-DyEmlafaU5VVuRVnfsFw",
+    "channelUrl": "https://www.youtube.com/channel/UCQ-DyEmlafaU5VVuRVnfsFw"
   },
   {
     "name": "RKD Studios",
@@ -65,14 +65,14 @@
     "channelUrl": "https://www.youtube.com/channel/UCs570zdFq_NNA5OcV8chnHw"
   },
   {
-    "name": "Ultra Movie Parlour",
-    "channelId": "UCYauDsl-rswjQGpA0_-Z9Pw",
-    "channelUrl": "https://www.youtube.com/channel/UCYauDsl-rswjQGpA0_-Z9Pw"
-  },
-  {
     "name": "RG Entertainment",
     "channelId": "UCgfO009hB_847kwL6NQnn-w",
     "channelUrl": "https://www.youtube.com/channel/UCgfO009hB_847kwL6NQnn-w"
+  },
+  {
+    "name": "Ultra Movie Parlour",
+    "channelId": "UCYauDsl-rswjQGpA0_-Z9Pw",
+    "channelUrl": "https://www.youtube.com/channel/UCYauDsl-rswjQGpA0_-Z9Pw"
   },
   {
     "name": "Official Southplex Movies",

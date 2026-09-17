@@ -7,9 +7,9 @@
   "rejections": {
     "not_public_or_embeddable": 345,
     "bad_content": 2523,
-    "too_short": 2412,
+    "too_short": 2411,
     "not_hindi_dubbed": 654,
-    "not_movie": 415,
+    "not_movie": 416,
     "unknown": 0
   },
   "byLanguage": {
@@ -20,8 +20,8 @@
     "South Indian": 1296
   },
   "byYear": {
-    "2024": 264,
     "2026": 300,
+    "2024": 264,
     "2017": 9,
     "2019": 23,
     "2020": 24,
@@ -66,7 +66,7 @@
   "probableSources": 0,
   "unknownSources": 0,
   "brokenSources": 0,
-  "latestUpdate": "2026-09-16T21:22:03.691064+00:00",
+  "latestUpdate": "2026-09-17T04:55:06.389609+00:00",
   "catalogGrowth": 2325,
   "languageScope": "South Indian cinema",
   "audioScope": "Hindi dubbed only",
