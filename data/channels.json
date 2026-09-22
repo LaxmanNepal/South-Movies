@@ -1,18 +1,8 @@
 [
   {
-    "name": "AD-WISE MEDIA ACTION MOVIEPLEX",
-    "channelId": "UCSx_w4q5PkAOg9i45uMFHmA",
-    "channelUrl": "https://www.youtube.com/channel/UCSx_w4q5PkAOg9i45uMFHmA"
-  },
-  {
     "name": "IOF - Hindi",
     "channelId": "UCQ-DyEmlafaU5VVuRVnfsFw",
     "channelUrl": "https://www.youtube.com/channel/UCQ-DyEmlafaU5VVuRVnfsFw"
-  },
-  {
-    "name": "Official Southplex Movies",
-    "channelId": "UCdbNMpCun6odxt-mcL0otdw",
-    "channelUrl": "https://www.youtube.com/channel/UCdbNMpCun6odxt-mcL0otdw"
   },
   {
     "name": "Goldmines",
@@ -23,6 +13,11 @@
     "name": "GoldminesAction",
     "channelId": "UCY7tB-mpvlQeWgaCCS1Cmwg",
     "channelUrl": "https://www.youtube.com/channel/UCY7tB-mpvlQeWgaCCS1Cmwg"
+  },
+  {
+    "name": "AD-WISE MEDIA ACTION MOVIEPLEX",
+    "channelId": "UCSx_w4q5PkAOg9i45uMFHmA",
+    "channelUrl": "https://www.youtube.com/channel/UCSx_w4q5PkAOg9i45uMFHmA"
   },
   {
     "name": "Netplex Movies 2026",
@@ -78,6 +73,11 @@
     "name": "RG Entertainment",
     "channelId": "UCgfO009hB_847kwL6NQnn-w",
     "channelUrl": "https://www.youtube.com/channel/UCgfO009hB_847kwL6NQnn-w"
+  },
+  {
+    "name": "Official Southplex Movies",
+    "channelId": "UCdbNMpCun6odxt-mcL0otdw",
+    "channelUrl": "https://www.youtube.com/channel/UCdbNMpCun6odxt-mcL0otdw"
   },
   {
     "name": "Hindi Films",
