@@ -15,11 +15,6 @@
     "channelUrl": "https://www.youtube.com/channel/UCyoXW-Dse7fURq30EWl_CUA"
   },
   {
-    "name": "Official Southplex Movies",
-    "channelId": "UCdbNMpCun6odxt-mcL0otdw",
-    "channelUrl": "https://www.youtube.com/channel/UCdbNMpCun6odxt-mcL0otdw"
-  },
-  {
     "name": "GoldminesAction",
     "channelId": "UCY7tB-mpvlQeWgaCCS1Cmwg",
     "channelUrl": "https://www.youtube.com/channel/UCY7tB-mpvlQeWgaCCS1Cmwg"
@@ -63,6 +58,11 @@
     "name": "RKD Studios",
     "channelId": "UCjBwQ6M9QyCgO5Pp-TQRFUA",
     "channelUrl": "https://www.youtube.com/channel/UCjBwQ6M9QyCgO5Pp-TQRFUA"
+  },
+  {
+    "name": "Official Southplex Movies",
+    "channelId": "UCdbNMpCun6odxt-mcL0otdw",
+    "channelUrl": "https://www.youtube.com/channel/UCdbNMpCun6odxt-mcL0otdw"
   },
   {
     "name": "Wamindia Movies",
