@@ -3,25 +3,25 @@
   "officialChannels": 22,
   "registryChannels": 22,
   "unresolvedChannels": 0,
-  "videosScanned": 8825,
+  "videosScanned": 8823,
   "rejections": {
-    "not_public_or_embeddable": 338,
-    "bad_content": 2513,
-    "too_short": 2408,
+    "not_public_or_embeddable": 337,
+    "bad_content": 2515,
+    "too_short": 2405,
     "not_hindi_dubbed": 657,
     "not_movie": 435,
     "unknown": 0
   },
   "byLanguage": {
-    "Telugu": 624,
+    "Telugu": 623,
     "Tamil": 230,
     "Kannada": 136,
     "Malayalam": 48,
-    "South Indian": 1292
+    "South Indian": 1293
   },
   "byYear": {
+    "2026": 304,
     "2024": 265,
-    "2026": 303,
     "2014": 6,
     "2017": 9,
     "2019": 23,
@@ -66,7 +66,7 @@
   "probableSources": 0,
   "unknownSources": 0,
   "brokenSources": 0,
-  "latestUpdate": "2026-09-23T04:46:16.566176+00:00",
+  "latestUpdate": "2026-09-23T11:35:06.545387+00:00",
   "catalogGrowth": 2330,
   "languageScope": "South Indian cinema",
   "audioScope": "Hindi dubbed only",

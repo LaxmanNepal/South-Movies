@@ -1,5 +1,10 @@
 [
   {
+    "name": "Aditya Movies",
+    "channelId": "UCX_uPA_dGf7wXjuMEaSKLJA",
+    "channelUrl": "https://www.youtube.com/channel/UCX_uPA_dGf7wXjuMEaSKLJA"
+  },
+  {
     "name": "IOF - Hindi",
     "channelId": "UCQ-DyEmlafaU5VVuRVnfsFw",
     "channelUrl": "https://www.youtube.com/channel/UCQ-DyEmlafaU5VVuRVnfsFw"
@@ -30,6 +35,11 @@
     "channelUrl": "https://www.youtube.com/channel/UCCrw5RBWF9i8VPt4IxL8IsQ"
   },
   {
+    "name": "WamIndia Select Movies",
+    "channelId": "UC_sXBvPWlKbvKfrzHiqxYhg",
+    "channelUrl": "https://www.youtube.com/channel/UC_sXBvPWlKbvKfrzHiqxYhg"
+  },
+  {
     "name": "Ultra Movie Parlour",
     "channelId": "UCYauDsl-rswjQGpA0_-Z9Pw",
     "channelUrl": "https://www.youtube.com/channel/UCYauDsl-rswjQGpA0_-Z9Pw"
@@ -38,11 +48,6 @@
     "name": "RKD Multiplex",
     "channelId": "UCL0f2RzwTMJc02Lg9DdcgNw",
     "channelUrl": "https://www.youtube.com/channel/UCL0f2RzwTMJc02Lg9DdcgNw"
-  },
-  {
-    "name": "WamIndia Select Movies",
-    "channelId": "UC_sXBvPWlKbvKfrzHiqxYhg",
-    "channelUrl": "https://www.youtube.com/channel/UC_sXBvPWlKbvKfrzHiqxYhg"
   },
   {
     "name": "Goldmines Premiere",
