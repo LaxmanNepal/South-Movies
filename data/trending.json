@@ -21,8 +21,8 @@
       "durationSeconds": 6502
     },
     "statistics": {
-      "views": 3869474,
-      "likes": 30001
+      "views": 4110519,
+      "likes": 31806
     },
     "publishedAt": "2026-09-19T14:15:10Z",
     "verification": {
@@ -30,8 +30,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 68.12,
-      "recommendationScore": 66.6
+      "trendingScore": 68.11,
+      "recommendationScore": 66.69
     }
   },
   {
@@ -56,8 +56,8 @@
       "durationSeconds": 7829
     },
     "statistics": {
-      "views": 536642,
-      "likes": 3751
+      "views": 777160,
+      "likes": 5187
     },
     "publishedAt": "2026-09-24T11:30:40Z",
     "verification": {
@@ -65,8 +65,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 66.76,
-      "recommendationScore": 62.52
+      "trendingScore": 67.15,
+      "recommendationScore": 63.31
     }
   },
   {
@@ -91,8 +91,8 @@
       "durationSeconds": 6309
     },
     "statistics": {
-      "views": 1406147,
-      "likes": 11244
+      "views": 1428668,
+      "likes": 11385
     },
     "publishedAt": "2026-09-16T12:34:07Z",
     "verification": {
@@ -100,8 +100,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 65.95,
-      "recommendationScore": 63.8
+      "trendingScore": 65.88,
+      "recommendationScore": 63.79
     }
   },
   {
@@ -126,8 +126,8 @@
       "durationSeconds": 6675
     },
     "statistics": {
-      "views": 5403276,
-      "likes": 28832
+      "views": 5504540,
+      "likes": 29183
     },
     "publishedAt": "2026-09-11T06:30:06Z",
     "verification": {
@@ -135,8 +135,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 65.47,
-      "recommendationScore": 65.5
+      "trendingScore": 65.41,
+      "recommendationScore": 65.49
     }
   },
   {
@@ -161,8 +161,8 @@
       "durationSeconds": 8060
     },
     "statistics": {
-      "views": 939442,
-      "likes": 4480
+      "views": 973115,
+      "likes": 4595
     },
     "publishedAt": "2026-09-17T14:30:36Z",
     "verification": {
@@ -170,8 +170,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 64.87,
-      "recommendationScore": 62.22
+      "trendingScore": 64.82,
+      "recommendationScore": 62.24
     }
   },
   {
@@ -196,8 +196,8 @@
       "durationSeconds": 7156
     },
     "statistics": {
-      "views": 3036924,
-      "likes": 10731
+      "views": 3059505,
+      "likes": 10814
     },
     "publishedAt": "2026-09-13T12:30:24Z",
     "verification": {
@@ -205,8 +205,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 64.87,
-      "recommendationScore": 64.03
+      "trendingScore": 64.8,
+      "recommendationScore": 64.01
     }
   },
   {
@@ -231,8 +231,8 @@
       "durationSeconds": 6607
     },
     "statistics": {
-      "views": 1296511,
-      "likes": 12323
+      "views": 1315832,
+      "likes": 12506
     },
     "publishedAt": "2026-09-11T14:30:18Z",
     "verification": {
@@ -240,8 +240,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 64.83,
-      "recommendationScore": 63.24
+      "trendingScore": 64.77,
+      "recommendationScore": 63.23
     }
   },
   {
@@ -266,8 +266,8 @@
       "durationSeconds": 9357
     },
     "statistics": {
-      "views": 319727,
-      "likes": 1010
+      "views": 334785,
+      "likes": 1048
     },
     "publishedAt": "2026-09-22T14:30:14Z",
     "verification": {
@@ -275,8 +275,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 64.55,
-      "recommendationScore": 60.09
+      "trendingScore": 64.52,
+      "recommendationScore": 60.14
     }
   },
   {
@@ -301,8 +301,8 @@
       "durationSeconds": 8595
     },
     "statistics": {
-      "views": 193815,
-      "likes": 820
+      "views": 211529,
+      "likes": 883
     },
     "publishedAt": "2026-09-22T12:30:18Z",
     "verification": {
@@ -310,8 +310,43 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 64.16,
-      "recommendationScore": 59.17
+      "trendingScore": 64.17,
+      "recommendationScore": 59.31
+    }
+  },
+  {
+    "id": "EVUph3ZZ8Ks",
+    "title": "Ek Aur Qayamat (HD) | Jr. NTR Blockbuster Action Hindi Dubbed Movie | Hansika Motwani, Tanisha",
+    "slug": "ek-aur-qayamat-hd-jr-ntr-blockbuster-action-hindi-dubbed-movie-hansika-motwani-tanisha",
+    "youtubeVideoId": "EVUph3ZZ8Ks",
+    "youtubeUrl": "https://www.youtube.com/watch?v=EVUph3ZZ8Ks",
+    "thumbnail": "https://i.ytimg.com/vi/EVUph3ZZ8Ks/maxresdefault.jpg",
+    "language": "South Indian",
+    "audioLanguage": "Hindi",
+    "dubbed": true,
+    "creator": {
+      "name": "GoldminesAction",
+      "channelId": "UCY7tB-mpvlQeWgaCCS1Cmwg",
+      "channelUrl": "https://www.youtube.com/channel/UCY7tB-mpvlQeWgaCCS1Cmwg"
+    },
+    "description": "A man works for a criminal in Hong Kong. He soon leaves his service over a dispute and forms his own gang. An offer to kill his former employer seems appealing, but it comes with grave repercussions.\n\nMovie:- Ek Aur Qayamat (Kantri)\nStarcast:- Jr. NTR, Hansika Motwani, Tanisha Mukherjee, Prakash Raj, Ashish Vidyarthi\nDirected By:- Meher Ramesh\nMusic By:- Mani Sharma\n\n#EkAurQayamat #Kantri #JRNTR #HansikaMotwani #Goldmines",
+    "metadata": {
+      "year": null,
+      "genre": [],
+      "durationSeconds": 7815
+    },
+    "statistics": {
+      "views": 105,
+      "likes": 4
+    },
+    "publishedAt": "2026-09-25T11:30:37Z",
+    "verification": {
+      "status": "verified",
+      "method": "official-channel-whitelist"
+    },
+    "algorithm": {
+      "trendingScore": 64.03,
+      "recommendationScore": 50.27
     }
   },
   {
@@ -336,8 +371,8 @@
       "durationSeconds": 7156
     },
     "statistics": {
-      "views": 437014,
-      "likes": 1254
+      "views": 440813,
+      "likes": 1266
     },
     "publishedAt": "2026-09-19T05:30:36Z",
     "verification": {
@@ -345,8 +380,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 63.85,
-      "recommendationScore": 60.2
+      "trendingScore": 63.78,
+      "recommendationScore": 60.18
     }
   },
   {
@@ -371,8 +406,8 @@
       "durationSeconds": 6979
     },
     "statistics": {
-      "views": 1076114,
-      "likes": 3549
+      "views": 1092303,
+      "likes": 3607
     },
     "publishedAt": "2026-09-14T02:30:09Z",
     "verification": {
@@ -380,8 +415,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 63.63,
-      "recommendationScore": 61.63
+      "trendingScore": 63.57,
+      "recommendationScore": 61.62
     }
   },
   {
@@ -406,8 +441,8 @@
       "durationSeconds": 8659
     },
     "statistics": {
-      "views": 90220,
-      "likes": 354
+      "views": 104036,
+      "likes": 394
     },
     "publishedAt": "2026-09-23T14:30:16Z",
     "verification": {
@@ -415,8 +450,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 63.42,
-      "recommendationScore": 57.47
+      "trendingScore": 63.48,
+      "recommendationScore": 57.73
     }
   },
   {
@@ -441,8 +476,8 @@
       "durationSeconds": 7842
     },
     "statistics": {
-      "views": 48591,
-      "likes": 349
+      "views": 50263,
+      "likes": 355
     },
     "publishedAt": "2026-09-22T14:30:05Z",
     "verification": {
@@ -450,8 +485,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 63.18,
-      "recommendationScore": 56.67
+      "trendingScore": 63.11,
+      "recommendationScore": 56.68
     }
   },
   {
@@ -476,8 +511,8 @@
       "durationSeconds": 6323
     },
     "statistics": {
-      "views": 138820,
-      "likes": 467
+      "views": 140269,
+      "likes": 466
     },
     "publishedAt": "2026-09-21T11:30:36Z",
     "verification": {
@@ -485,43 +520,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 63.17,
-      "recommendationScore": 58.0
-    }
-  },
-  {
-    "id": "PVstEPuAG7A",
-    "title": "Encounter Shankar Superhit South Action Hindi Dubbed Movie | Mahesh Babu, Tamannaah, Sonu Sood",
-    "slug": "encounter-shankar-superhit-south-action-hindi-dubbed-movie-mahesh-babu-tamannaah-sonu-sood",
-    "youtubeVideoId": "PVstEPuAG7A",
-    "youtubeUrl": "https://www.youtube.com/watch?v=PVstEPuAG7A",
-    "thumbnail": "https://i.ytimg.com/vi/PVstEPuAG7A/maxresdefault.jpg",
-    "language": "Telugu",
-    "audioLanguage": "Hindi",
-    "dubbed": true,
-    "creator": {
-      "name": "RKD Multiplex",
-      "channelId": "UCL0f2RzwTMJc02Lg9DdcgNw",
-      "channelUrl": "https://www.youtube.com/channel/UCL0f2RzwTMJc02Lg9DdcgNw"
-    },
-    "description": "Here's presenting \"Encounter Shankar\", the Hindi Dubbed Version of the latest Telugu Blockbuster Film \"Aagadu\", starring Mahesh Babu, Tamannaah, Sonu Sood, Shruti Haasan, Brahmanandam, Nassar, Ashish Vidyarthi, Rajendra Prasad in lead role. Directed by Sreenu Vaitla.\n\n#maheshbabumovies #maheshbabu #tamannaah #brahmanandam \n\nMovie(Hindi Dubbed):- Encounter Shankar\nOriginal Movie:- Aagadu In Telugu (2014)\nStar Cast: Mahesh Babu, Tamannaah, Sonu Sood, Shruti Haasan, Brahmanandam, Nassar, Ashish Vidyarthi, Rajendra Prasad, others\nMusic: S. Thaman\nProducer: Anil Sunkara, Ram Achanta\nDirector: Sreenu Vaitla\n\nDisclaimer: We are only the right holders of this content. Any opinions expressed in this Film may purely be of the director or the original producers but are not our personal opinions and we do not assume any responsibility or liability for the same.\n\nJoin Us:\n► YouTube: http://bit.ly/RKDMultiplex\n► Facebook: https://www.facebook.com/RKDStudios\n► Twitter: https://twitter.com/RKDStudios",
-    "metadata": {
-      "year": 2014,
-      "genre": [],
-      "durationSeconds": 7440
-    },
-    "statistics": {
-      "views": 350224,
-      "likes": 1195
-    },
-    "publishedAt": "2026-09-17T06:00:19Z",
-    "verification": {
-      "status": "verified",
-      "method": "official-channel-whitelist"
-    },
-    "algorithm": {
-      "trendingScore": 63.12,
-      "recommendationScore": 59.51
+      "trendingScore": 63.09,
+      "recommendationScore": 57.97
     }
   },
   {
@@ -546,8 +546,8 @@
       "durationSeconds": 6621
     },
     "statistics": {
-      "views": 2109428,
-      "likes": 10191
+      "views": 2134179,
+      "likes": 10321
     },
     "publishedAt": "2026-09-07T14:30:06Z",
     "verification": {
@@ -555,43 +555,43 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 63.09,
-      "recommendationScore": 62.63
+      "trendingScore": 63.03,
+      "recommendationScore": 62.62
     }
   },
   {
-    "id": "y2-Kk3gp8Bk",
-    "title": "Vishwak Sen's MECHANIC ROCKY (2026) New Released Hindi Dubbed Movie | Shraddha, Sunil | South Movie",
-    "slug": "vishwak-sen-s-mechanic-rocky-2026-new-released-hindi-dubbed-movie-shraddha-sunil-south-movie",
-    "youtubeVideoId": "y2-Kk3gp8Bk",
-    "youtubeUrl": "https://www.youtube.com/watch?v=y2-Kk3gp8Bk",
-    "thumbnail": "https://i.ytimg.com/vi/y2-Kk3gp8Bk/maxresdefault.jpg",
+    "id": "PVstEPuAG7A",
+    "title": "Encounter Shankar Superhit South Action Hindi Dubbed Movie | Mahesh Babu, Tamannaah, Sonu Sood",
+    "slug": "encounter-shankar-superhit-south-action-hindi-dubbed-movie-mahesh-babu-tamannaah-sonu-sood",
+    "youtubeVideoId": "PVstEPuAG7A",
+    "youtubeUrl": "https://www.youtube.com/watch?v=PVstEPuAG7A",
+    "thumbnail": "https://i.ytimg.com/vi/PVstEPuAG7A/maxresdefault.jpg",
     "language": "Telugu",
     "audioLanguage": "Hindi",
     "dubbed": true,
     "creator": {
-      "name": "AD-WISE MEDIA ACTION MOVIEPLEX",
-      "channelId": "UCSx_w4q5PkAOg9i45uMFHmA",
-      "channelUrl": "https://www.youtube.com/channel/UCSx_w4q5PkAOg9i45uMFHmA"
+      "name": "RKD Multiplex",
+      "channelId": "UCL0f2RzwTMJc02Lg9DdcgNw",
+      "channelUrl": "https://www.youtube.com/channel/UCL0f2RzwTMJc02Lg9DdcgNw"
     },
-    "description": "Presenting New South (Sauth) Indian Movies Dubbed In Hindi 2026 Full (साउथ मूवी २०२६, New Movies 2026, Hindi Movie 2026, South Movie 2026) \"MECHANIC ROCKY\". Exclusively on  @ADMDMOVIES \n\nSubscribe सब्सक्राइब Us For More South Indian Blockbusters in Hindi for FREE\nhttp://bit.ly/ADMDMovies\n\nMovie Credits\nDirected by Ravi Teja Mullapudi\nWritten by Ravi Teja Mullapudi\nProduced by Ram Talluri\nStarring Vishwak Sen, Meenakshi Chaudhary, Shraddha Srinath, Naresh, Sunil & Others\nCinematography Manojh Reddy Katasani\nEdited by Anwar Ali\nMusic by Jakes Bejoy\n\nSynopsis\nA mechanic uncovers a sinister plot during a feud with local gangsters over ownership of his father's garage in this twisty Telugu-language action drama.\n\nJoin Us\n► Subscribe our channel : http://bit.ly/ADMDMovies\n► Visit our website: https://www.admdmovies.com\n► Like us on Facebook: https://www.facebook.com/adwisemediadigital\n► Follow us on Twitter: https://www.twitter.com/AdwiseMediaD\n\n#MechanicRocky #vishwaksen #meenakshichaudhary #shraddhasrinath #hindidubbedmovie #southmovie #newmovie2026",
+    "description": "Here's presenting \"Encounter Shankar\", the Hindi Dubbed Version of the latest Telugu Blockbuster Film \"Aagadu\", starring Mahesh Babu, Tamannaah, Sonu Sood, Shruti Haasan, Brahmanandam, Nassar, Ashish Vidyarthi, Rajendra Prasad in lead role. Directed by Sreenu Vaitla.\n\n#maheshbabumovies #maheshbabu #tamannaah #brahmanandam \n\nMovie(Hindi Dubbed):- Encounter Shankar\nOriginal Movie:- Aagadu In Telugu (2014)\nStar Cast: Mahesh Babu, Tamannaah, Sonu Sood, Shruti Haasan, Brahmanandam, Nassar, Ashish Vidyarthi, Rajendra Prasad, others\nMusic: S. Thaman\nProducer: Anil Sunkara, Ram Achanta\nDirector: Sreenu Vaitla\n\nDisclaimer: We are only the right holders of this content. Any opinions expressed in this Film may purely be of the director or the original producers but are not our personal opinions and we do not assume any responsibility or liability for the same.\n\nJoin Us:\n► YouTube: http://bit.ly/RKDMultiplex\n► Facebook: https://www.facebook.com/RKDStudios\n► Twitter: https://twitter.com/RKDStudios",
     "metadata": {
-      "year": 2026,
+      "year": 2014,
       "genre": [],
-      "durationSeconds": 8051
+      "durationSeconds": 7440
     },
     "statistics": {
-      "views": 9273682,
-      "likes": 55332
+      "views": 351938,
+      "likes": 1196
     },
-    "publishedAt": "2026-08-29T14:00:17Z",
+    "publishedAt": "2026-09-17T06:00:19Z",
     "verification": {
       "status": "verified",
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 62.95,
-      "recommendationScore": 65.14
+      "trendingScore": 63.03,
+      "recommendationScore": 59.47
     }
   },
   {
@@ -616,8 +616,8 @@
       "durationSeconds": 7519
     },
     "statistics": {
-      "views": 95330,
-      "likes": 279
+      "views": 100390,
+      "likes": 297
     },
     "publishedAt": "2026-09-22T14:30:01Z",
     "verification": {
@@ -625,8 +625,43 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 62.91,
-      "recommendationScore": 57.19
+      "trendingScore": 62.9,
+      "recommendationScore": 57.27
+    }
+  },
+  {
+    "id": "y2-Kk3gp8Bk",
+    "title": "Vishwak Sen's MECHANIC ROCKY (2026) New Released Hindi Dubbed Movie | Shraddha, Sunil | South Movie",
+    "slug": "vishwak-sen-s-mechanic-rocky-2026-new-released-hindi-dubbed-movie-shraddha-sunil-south-movie",
+    "youtubeVideoId": "y2-Kk3gp8Bk",
+    "youtubeUrl": "https://www.youtube.com/watch?v=y2-Kk3gp8Bk",
+    "thumbnail": "https://i.ytimg.com/vi/y2-Kk3gp8Bk/maxresdefault.jpg",
+    "language": "Telugu",
+    "audioLanguage": "Hindi",
+    "dubbed": true,
+    "creator": {
+      "name": "AD-WISE MEDIA ACTION MOVIEPLEX",
+      "channelId": "UCSx_w4q5PkAOg9i45uMFHmA",
+      "channelUrl": "https://www.youtube.com/channel/UCSx_w4q5PkAOg9i45uMFHmA"
+    },
+    "description": "Presenting New South (Sauth) Indian Movies Dubbed In Hindi 2026 Full (साउथ मूवी २०२६, New Movies 2026, Hindi Movie 2026, South Movie 2026) \"MECHANIC ROCKY\". Exclusively on  @ADMDMOVIES \n\nSubscribe सब्सक्राइब Us For More South Indian Blockbusters in Hindi for FREE\nhttp://bit.ly/ADMDMovies\n\nMovie Credits\nDirected by Ravi Teja Mullapudi\nWritten by Ravi Teja Mullapudi\nProduced by Ram Talluri\nStarring Vishwak Sen, Meenakshi Chaudhary, Shraddha Srinath, Naresh, Sunil & Others\nCinematography Manojh Reddy Katasani\nEdited by Anwar Ali\nMusic by Jakes Bejoy\n\nSynopsis\nA mechanic uncovers a sinister plot during a feud with local gangsters over ownership of his father's garage in this twisty Telugu-language action drama.\n\nJoin Us\n► Subscribe our channel : http://bit.ly/ADMDMovies\n► Visit our website: https://www.admdmovies.com\n► Like us on Facebook: https://www.facebook.com/adwisemediadigital\n► Follow us on Twitter: https://www.twitter.com/AdwiseMediaD\n\n#MechanicRocky #vishwaksen #meenakshichaudhary #shraddhasrinath #hindidubbedmovie #southmovie #newmovie2026",
+    "metadata": {
+      "year": 2026,
+      "genre": [],
+      "durationSeconds": 8051
+    },
+    "statistics": {
+      "views": 9294391,
+      "likes": 55419
+    },
+    "publishedAt": "2026-08-29T14:00:17Z",
+    "verification": {
+      "status": "verified",
+      "method": "official-channel-whitelist"
+    },
+    "algorithm": {
+      "trendingScore": 62.88,
+      "recommendationScore": 65.1
     }
   },
   {
@@ -651,8 +686,8 @@
       "durationSeconds": 6795
     },
     "statistics": {
-      "views": 237686,
-      "likes": 656
+      "views": 241662,
+      "likes": 668
     },
     "publishedAt": "2026-09-18T14:30:12Z",
     "verification": {
@@ -660,8 +695,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 62.84,
-      "recommendationScore": 58.65
+      "trendingScore": 62.78,
+      "recommendationScore": 58.64
     }
   },
   {
@@ -686,8 +721,8 @@
       "durationSeconds": 10602
     },
     "statistics": {
-      "views": 2015660,
-      "likes": 11545
+      "views": 2034306,
+      "likes": 11620
     },
     "publishedAt": "2026-09-05T05:30:30Z",
     "verification": {
@@ -695,43 +730,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 62.63,
-      "recommendationScore": 62.41
-    }
-  },
-  {
-    "id": "mYMumQs1LwE",
-    "title": "The Giant Crocodile - Hindi Dubbed Full Movie | Giant Monster | Survival Thriller | IOF-Hindi",
-    "slug": "the-giant-crocodile-hindi-dubbed-full-movie-giant-monster-survival-thriller-iof-hindi",
-    "youtubeVideoId": "mYMumQs1LwE",
-    "youtubeUrl": "https://www.youtube.com/watch?v=mYMumQs1LwE",
-    "thumbnail": "https://i.ytimg.com/vi/mYMumQs1LwE/maxresdefault.jpg",
-    "language": "Telugu",
-    "audioLanguage": "Hindi",
-    "dubbed": true,
-    "creator": {
-      "name": "IOF - Hindi",
-      "channelId": "UCQ-DyEmlafaU5VVuRVnfsFw",
-      "channelUrl": "https://www.youtube.com/channel/UCQ-DyEmlafaU5VVuRVnfsFw"
-    },
-    "description": "A team of biologists travels to the dangerous Hell Island to rescue missing people, but their mission takes a terrifying turn when they discover giant mutated crocodiles. As they uncover a secret genetic experiment, the team must fight for survival against a deadly mega crocodile. Watch The Giant Crocodile, a thrilling creature survival movie in Tamil.\n\nClick here to Subscribe - https://bit.ly/SubscribeIndoOverseasFilmsHindi\n\nWatch Full movie Mega Crocodile On IOF Hindi\n\nEnjoy & stay connected with us!\nSubscribe to Indo Overseas Movies 👉 https://Subscribe.openinapp.co/IndoOverseasFilms\nSubscribe to IOF Hindi 👉 https://Subscribe.openinapp.co/IOFHindi\nSubscribe to IOF Telugu 👉 https://Subscribe.openinapp.co/IOFTelugu\nSubscribe to IOF Tamil 👉 https://Subscribe.openinapp.co/IOFTamil\n\nFollow Us On\nFacebook : https://www.facebook.com/indooverseasfilm\nTwitter : https://twitter.com/IOF_India\nInstagram : https://www.instagram.com/indo_overseas_films/\nLinkedln : https://www.linkedin.com/in/indo-overseas-films-india-1a98b8208/\nWebsite : https://www.indooverseasfilms.com\n\nIn association with Divo - Our YouTube  Partner\n \n#iof #indooverseasfilmshindi #hindidubbedmovies #MegaCrocodile",
-    "metadata": {
-      "year": null,
-      "genre": [],
-      "durationSeconds": 5029
-    },
-    "statistics": {
-      "views": 47136,
-      "likes": 286
-    },
-    "publishedAt": "2026-09-21T14:13:53Z",
-    "verification": {
-      "status": "verified",
-      "method": "official-channel-whitelist"
-    },
-    "algorithm": {
-      "trendingScore": 62.53,
-      "recommendationScore": 56.16
+      "trendingScore": 62.56,
+      "recommendationScore": 62.39
     }
   },
   {
@@ -756,8 +756,8 @@
       "durationSeconds": 7615
     },
     "statistics": {
-      "views": 21654,
-      "likes": 141
+      "views": 23961,
+      "likes": 155
     },
     "publishedAt": "2026-09-24T06:00:15Z",
     "verification": {
@@ -765,8 +765,43 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 62.45,
-      "recommendationScore": 54.87
+      "trendingScore": 62.49,
+      "recommendationScore": 55.06
+    }
+  },
+  {
+    "id": "mYMumQs1LwE",
+    "title": "The Giant Crocodile - Hindi Dubbed Full Movie | Giant Monster | Survival Thriller | IOF-Hindi",
+    "slug": "the-giant-crocodile-hindi-dubbed-full-movie-giant-monster-survival-thriller-iof-hindi",
+    "youtubeVideoId": "mYMumQs1LwE",
+    "youtubeUrl": "https://www.youtube.com/watch?v=mYMumQs1LwE",
+    "thumbnail": "https://i.ytimg.com/vi/mYMumQs1LwE/maxresdefault.jpg",
+    "language": "Telugu",
+    "audioLanguage": "Hindi",
+    "dubbed": true,
+    "creator": {
+      "name": "IOF - Hindi",
+      "channelId": "UCQ-DyEmlafaU5VVuRVnfsFw",
+      "channelUrl": "https://www.youtube.com/channel/UCQ-DyEmlafaU5VVuRVnfsFw"
+    },
+    "description": "A team of biologists travels to the dangerous Hell Island to rescue missing people, but their mission takes a terrifying turn when they discover giant mutated crocodiles. As they uncover a secret genetic experiment, the team must fight for survival against a deadly mega crocodile. Watch The Giant Crocodile, a thrilling creature survival movie in Tamil.\n\nClick here to Subscribe - https://bit.ly/SubscribeIndoOverseasFilmsHindi\n\nWatch Full movie Mega Crocodile On IOF Hindi\n\nEnjoy & stay connected with us!\nSubscribe to Indo Overseas Movies 👉 https://Subscribe.openinapp.co/IndoOverseasFilms\nSubscribe to IOF Hindi 👉 https://Subscribe.openinapp.co/IOFHindi\nSubscribe to IOF Telugu 👉 https://Subscribe.openinapp.co/IOFTelugu\nSubscribe to IOF Tamil 👉 https://Subscribe.openinapp.co/IOFTamil\n\nFollow Us On\nFacebook : https://www.facebook.com/indooverseasfilm\nTwitter : https://twitter.com/IOF_India\nInstagram : https://www.instagram.com/indo_overseas_films/\nLinkedln : https://www.linkedin.com/in/indo-overseas-films-india-1a98b8208/\nWebsite : https://www.indooverseasfilms.com\n\nIn association with Divo - Our YouTube  Partner\n \n#iof #indooverseasfilmshindi #hindidubbedmovies #MegaCrocodile",
+    "metadata": {
+      "year": null,
+      "genre": [],
+      "durationSeconds": 5029
+    },
+    "statistics": {
+      "views": 48781,
+      "likes": 293
+    },
+    "publishedAt": "2026-09-21T14:13:53Z",
+    "verification": {
+      "status": "verified",
+      "method": "official-channel-whitelist"
+    },
+    "algorithm": {
+      "trendingScore": 62.47,
+      "recommendationScore": 56.18
     }
   },
   {
@@ -791,8 +826,8 @@
       "durationSeconds": 7274
     },
     "statistics": {
-      "views": 346124,
-      "likes": 2057
+      "views": 364789,
+      "likes": 2264
     },
     "publishedAt": "2026-09-12T12:30:11Z",
     "verification": {
@@ -800,8 +835,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 62.41,
-      "recommendationScore": 59.39
+      "trendingScore": 62.47,
+      "recommendationScore": 59.54
     }
   },
   {
@@ -826,8 +861,8 @@
       "durationSeconds": 8460
     },
     "statistics": {
-      "views": 204335,
-      "likes": 571
+      "views": 209040,
+      "likes": 577
     },
     "publishedAt": "2026-09-17T14:30:28Z",
     "verification": {
@@ -835,7 +870,7 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 62.35,
+      "trendingScore": 62.29,
       "recommendationScore": 58.15
     }
   },
@@ -861,8 +896,8 @@
       "durationSeconds": 8423
     },
     "statistics": {
-      "views": 118468,
-      "likes": 320
+      "views": 121352,
+      "likes": 330
     },
     "publishedAt": "2026-09-19T12:30:23Z",
     "verification": {
@@ -870,8 +905,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 62.19,
-      "recommendationScore": 57.15
+      "trendingScore": 62.14,
+      "recommendationScore": 57.16
     }
   },
   {
@@ -896,8 +931,8 @@
       "durationSeconds": 7626
     },
     "statistics": {
-      "views": 275042,
-      "likes": 1132
+      "views": 276748,
+      "likes": 1136
     },
     "publishedAt": "2026-09-14T12:30:34Z",
     "verification": {
@@ -905,8 +940,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 62.19,
-      "recommendationScore": 58.7
+      "trendingScore": 62.11,
+      "recommendationScore": 58.67
     }
   },
   {
@@ -931,8 +966,8 @@
       "durationSeconds": 7293
     },
     "statistics": {
-      "views": 234836,
-      "likes": 666
+      "views": 236664,
+      "likes": 667
     },
     "publishedAt": "2026-09-15T14:30:32Z",
     "verification": {
@@ -940,8 +975,43 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 61.96,
-      "recommendationScore": 58.17
+      "trendingScore": 61.88,
+      "recommendationScore": 58.14
+    }
+  },
+  {
+    "id": "Fr-mgTSK6TQ",
+    "title": "Shivam (Hindi Dubbed) Ram Pothineni Superhit South Action Movie | Raashi Khanna | Romantic Movie",
+    "slug": "shivam-hindi-dubbed-ram-pothineni-superhit-south-action-movie-raashi-khanna-romantic-movie",
+    "youtubeVideoId": "Fr-mgTSK6TQ",
+    "youtubeUrl": "https://www.youtube.com/watch?v=Fr-mgTSK6TQ",
+    "thumbnail": "https://i.ytimg.com/vi/Fr-mgTSK6TQ/maxresdefault.jpg",
+    "language": "Telugu",
+    "audioLanguage": "Hindi",
+    "dubbed": true,
+    "creator": {
+      "name": "Netplex Movies 2026",
+      "channelId": "UCuqpqRaJJL51ydh801feZJA",
+      "channelUrl": "https://www.youtube.com/channel/UCuqpqRaJJL51ydh801feZJA"
+    },
+    "description": "Movie :- Shivam (Hindi Dubbed)\nOriginal Movie :- Shivam (Telugu)\nStarring :- Ram Pothineni, Rashi Khanna & Others\nDirector :- Sreenivasa Reddy\n\n📖 Synopsis:\n\nShiva is a fearless, kind-hearted young man who is always ready to help lovers unite against all odds. Known for his selfless nature and unwavering courage, he believes that true love deserves a happy ending.\n\nHowever, life takes an unexpected turn when Shiva himself falls deeply in love with Tanu. Just as their relationship begins to blossom, powerful enemies emerge to tear them apart. Bhoji Reddy stands firmly against their love, while the ruthless Abhi kidnaps Tanu, forcing Shiva into a dangerous battle.\n\nDetermined to save the woman he loves, Shiva takes on powerful rivals, faces deadly confrontations, and overcomes countless obstacles. With courage, loyalty, and determination guiding him, he fights to protect his love and bring justice to those who threaten their happiness.\n\nPacked with high-voltage action, romance, comedy, emotional moments, and family entertainment, Shivam is a complete South Indian blockbuster that celebrates love, friendship, and the courage to stand against evil.\n\n#shivam #rampothineni #rashikhanna #sreenivasareddy #southmovie2026 #hindidubbedmovies #actionmovie #romanticmovie #comedymovie #familyentertainer #southmovie #newsouthmovie #southhindidubbed #blockbustermovie #newhindimovie2026\n\nWatch other Blockbuster Hits for FREE on our YT Channel 🔥🔥🔥\nOur Blockbuster Movies -\nSkanda - https://youtu.be/GqBsBTQ-Fh0\nFamily Ek Deal - https://www.youtube.com/watch?v=Uya_-U7Tl4c\nMaayon - https://youtu.be/ByRnpG3Yjg0\nMahaveer No 1 - https://youtu.be/QgxNh9NGLKA\nInternational Rowdy - https://youtu.be/FOs6pGbbgsU\nMadhura Raja - https://youtu.be/biWzPzpyIS4\nShoorveer: https://youtu.be/luXy9HTVwZw\nTime Story: https://youtu.be/mf5965Bj5Kk\nNagvamshi: https://youtu.be/MX5TSwQ3aik\nKaatera: https://youtu.be/cQQ6ovn3ZBk\nGabbar Sher: https://youtu.be/Mb8P7X11yFg\n\nSubscribe सब्सक्राइब to our channel now for more South Indian Hindi Dubbed Movies\nYouTube: https://www.youtube.com/WAMIndiaMovies\nFacebook: https://www.facebook.com/wamindiamovies",
+    "metadata": {
+      "year": null,
+      "genre": [],
+      "durationSeconds": 8313
+    },
+    "statistics": {
+      "views": 18291,
+      "likes": 94
+    },
+    "publishedAt": "2026-09-24T14:30:20Z",
+    "verification": {
+      "status": "verified",
+      "method": "official-channel-whitelist"
+    },
+    "algorithm": {
+      "trendingScore": 61.86,
+      "recommendationScore": 54.13
     }
   },
   {
@@ -966,8 +1036,8 @@
       "durationSeconds": 6967
     },
     "statistics": {
-      "views": 5877173,
-      "likes": 32520
+      "views": 5893157,
+      "likes": 32636
     },
     "publishedAt": "2026-08-28T06:30:06Z",
     "verification": {
@@ -975,78 +1045,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 61.91,
-      "recommendationScore": 63.78
-    }
-  },
-  {
-    "id": "8vEMx36l5Fo",
-    "title": "Suriya & Sameera Reddy Superhit Romantic Hindi Dubbed Movie | सुरिया का याराना (4K) | Simran",
-    "slug": "suriya-sameera-reddy-superhit-romantic-hindi-dubbed-movie-4k-simran",
-    "youtubeVideoId": "8vEMx36l5Fo",
-    "youtubeUrl": "https://www.youtube.com/watch?v=8vEMx36l5Fo",
-    "thumbnail": "https://i.ytimg.com/vi/8vEMx36l5Fo/maxresdefault.jpg",
-    "language": "South Indian",
-    "audioLanguage": "Hindi",
-    "dubbed": true,
-    "creator": {
-      "name": "GoldminesAction",
-      "channelId": "UCY7tB-mpvlQeWgaCCS1Cmwg",
-      "channelUrl": "https://www.youtube.com/channel/UCY7tB-mpvlQeWgaCCS1Cmwg"
-    },
-    "description": "Surya, an NSG official, is on a mission to rescue someone when he gets the news of his father's demise. He starts reminiscing about the bond he shared with his father and the stories related to him\n\nMovie: Suriya Ka Yaarana (Vaaranam Aayiram)\nStarcast: Suriya Sivakumar, Sameera Reddy, Simran, Ramya, Deepa Narendran\nDirector: Sy Gowthamraj\n\n#SuriyaKaYaarana #VaaranamAayiram #Suriya #SameeraReddy",
-    "metadata": {
-      "year": null,
-      "genre": [],
-      "durationSeconds": 7087
-    },
-    "statistics": {
-      "views": 42318,
-      "likes": 210
-    },
-    "publishedAt": "2026-09-20T12:30:12Z",
-    "verification": {
-      "status": "verified",
-      "method": "official-channel-whitelist"
-    },
-    "algorithm": {
-      "trendingScore": 61.76,
-      "recommendationScore": 55.46
-    }
-  },
-  {
-    "id": "KSvelmwJsoI",
-    "title": "Family Ek Deal (Hindi) Full Movie | JR NTR Emotional Action South Movie | Rakul Preet",
-    "slug": "family-ek-deal-hindi-full-movie-jr-ntr-emotional-action-south-movie-rakul-preet",
-    "youtubeVideoId": "KSvelmwJsoI",
-    "youtubeUrl": "https://www.youtube.com/watch?v=KSvelmwJsoI",
-    "thumbnail": "https://i.ytimg.com/vi/KSvelmwJsoI/maxresdefault.jpg",
-    "language": "South Indian",
-    "audioLanguage": "Hindi",
-    "dubbed": true,
-    "creator": {
-      "name": "WamIndia Select Movies",
-      "channelId": "UC_sXBvPWlKbvKfrzHiqxYhg",
-      "channelUrl": "https://www.youtube.com/channel/UC_sXBvPWlKbvKfrzHiqxYhg"
-    },
-    "description": "Movie :- Family Ek Deal (Hindi Dubbed)\nOriginal Movie Name :- Nannaku Prematho\nStarring :- Jr NTR, Rakul Preet Singh, Jagapathi Babu, Rajendra Prasad\nCinematography :- Vijay K. Chakravarthy\nMusic :- Devi Sri Prasad\nProducer :- B. V. S. N. Prasad\nDirected By :- Sukumar\n\nSynopsis:\nAbhiram, the son of a wealthy businessman, discovers that his father once lost everything because of the cunning and ruthless Krishnamurthy Kautilya. Determined to take revenge and restore his family’s honor, Abhiram enters a dangerous psychological battle to destroy Krishnamurthy’s empire and take away his fortune.\n\nPacked with intense drama, emotions, stylish action, and mind games, Family Ek Deal is a gripping entertainer with powerful performances and suspenseful twists.\n\n#jrntr #rakulpreetsingh #jagapathibabu #familyekdeal #southmovie2026 #hindidubbedmovies #southdubbedmovies #actionmovie #dramamovie #southmovie #newsouthmovie #trendingmovies #viral #entertainment #newhindimovie2026\n\nWatch other Blockbuster Hits for FREE on our YT Channel 🔥🔥🔥\nOur Blockbuster Movies -\nSkanda - https://youtu.be/GqBsBTQ-Fh0\nFamily Ek Deal - https://www.youtube.com/watch?v=Uya_-U7Tl4c\nMaayon - https://youtu.be/ByRnpG3Yjg0\nMahaveer No 1 - https://youtu.be/QgxNh9NGLKA\nInternational Rowdy - https://youtu.be/FOs6pGbbgsU\nMadhura Raja - https://youtu.be/biWzPzpyIS4\nShoorveer: https://youtu.be/luXy9HTVwZw\nTime Story: https://youtu.be/mf5965Bj5Kk\nNagvamshi: https://youtu.be/MX5TSwQ3aik\nKaatera: https://youtu.be/cQQ6ovn3ZBk\nGabbar Sher: https://youtu.be/Mb8P7X11yFg\n\nSubscribe सब्सक्राइब to our channel now for more South Indian Hindi Dubbed Movies\nYouTube: https://www.youtube.com/WAMIndiaMovies\nFacebook: https://www.facebook.com/wamindiamovies",
-    "metadata": {
-      "year": null,
-      "genre": [],
-      "durationSeconds": 7704
-    },
-    "statistics": {
-      "views": 113669,
-      "likes": 258
-    },
-    "publishedAt": "2026-09-18T14:30:27Z",
-    "verification": {
-      "status": "verified",
-      "method": "official-channel-whitelist"
-    },
-    "algorithm": {
-      "trendingScore": 61.75,
-      "recommendationScore": 56.8
+      "trendingScore": 61.84,
+      "recommendationScore": 63.75
     }
   }
 ]
