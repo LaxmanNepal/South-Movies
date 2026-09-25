@@ -21,8 +21,8 @@
       "durationSeconds": 6502
     },
     "statistics": {
-      "views": 3791115,
-      "likes": 29340
+      "views": 3869474,
+      "likes": 30001
     },
     "publishedAt": "2026-09-19T14:15:10Z",
     "verification": {
@@ -30,7 +30,7 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 68.18,
+      "trendingScore": 68.12,
       "recommendationScore": 66.6
     }
   },
@@ -56,8 +56,8 @@
       "durationSeconds": 7829
     },
     "statistics": {
-      "views": 422068,
-      "likes": 3077
+      "views": 536642,
+      "likes": 3751
     },
     "publishedAt": "2026-09-24T11:30:40Z",
     "verification": {
@@ -65,8 +65,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 66.53,
-      "recommendationScore": 62.03
+      "trendingScore": 66.76,
+      "recommendationScore": 62.52
     }
   },
   {
@@ -91,8 +91,8 @@
       "durationSeconds": 6309
     },
     "statistics": {
-      "views": 1392652,
-      "likes": 11165
+      "views": 1406147,
+      "likes": 11244
     },
     "publishedAt": "2026-09-16T12:34:07Z",
     "verification": {
@@ -100,8 +100,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 66.03,
-      "recommendationScore": 63.83
+      "trendingScore": 65.95,
+      "recommendationScore": 63.8
     }
   },
   {
@@ -126,8 +126,8 @@
       "durationSeconds": 6675
     },
     "statistics": {
-      "views": 5361084,
-      "likes": 28668
+      "views": 5403276,
+      "likes": 28832
     },
     "publishedAt": "2026-09-11T06:30:06Z",
     "verification": {
@@ -135,43 +135,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 65.55,
-      "recommendationScore": 65.53
-    }
-  },
-  {
-    "id": "29-HE8Fe-qc",
-    "title": "THERI (4K) Thalapathy Vijay Blockbuster Action Comedy Full Hindi Dubbed Movie | Samantha, Amy",
-    "slug": "theri-4k-thalapathy-vijay-blockbuster-action-comedy-full-hindi-dubbed-movie-samantha-amy",
-    "youtubeVideoId": "29-HE8Fe-qc",
-    "youtubeUrl": "https://www.youtube.com/watch?v=29-HE8Fe-qc",
-    "thumbnail": "https://i.ytimg.com/vi/29-HE8Fe-qc/maxresdefault.jpg",
-    "language": "South Indian",
-    "audioLanguage": "Hindi",
-    "dubbed": true,
-    "creator": {
-      "name": "GoldminesAction",
-      "channelId": "UCY7tB-mpvlQeWgaCCS1Cmwg",
-      "channelUrl": "https://www.youtube.com/channel/UCY7tB-mpvlQeWgaCCS1Cmwg"
-    },
-    "description": "DCP Vijaya Kumar goes into hiding to bring up his daughter in a safe environment. However, after her life is threatened by deadly gangsters, he must face his past to protect his daughter.\n\nMovie:- Theri\nStarcast:- Vijay, Samantha Ruth Prabhu, Amy Jackson, Baby Nainika, J. Mahendran, Rajendran\nDirected by:- Atlee Kumar\nMusic by:- G. V. Prakash Kumar\n\n#Theri #Vijay #Samantha #AmyJackson",
-    "metadata": {
-      "year": null,
-      "genre": [],
-      "durationSeconds": 7156
-    },
-    "statistics": {
-      "views": 3027921,
-      "likes": 10703
-    },
-    "publishedAt": "2026-09-13T12:30:24Z",
-    "verification": {
-      "status": "verified",
-      "method": "official-channel-whitelist"
-    },
-    "algorithm": {
-      "trendingScore": 64.96,
-      "recommendationScore": 64.07
+      "trendingScore": 65.47,
+      "recommendationScore": 65.5
     }
   },
   {
@@ -196,8 +161,8 @@
       "durationSeconds": 8060
     },
     "statistics": {
-      "views": 926087,
-      "likes": 4423
+      "views": 939442,
+      "likes": 4480
     },
     "publishedAt": "2026-09-17T14:30:36Z",
     "verification": {
@@ -205,8 +170,43 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 64.95,
-      "recommendationScore": 62.23
+      "trendingScore": 64.87,
+      "recommendationScore": 62.22
+    }
+  },
+  {
+    "id": "29-HE8Fe-qc",
+    "title": "THERI (4K) Thalapathy Vijay Blockbuster Action Comedy Full Hindi Dubbed Movie | Samantha, Amy",
+    "slug": "theri-4k-thalapathy-vijay-blockbuster-action-comedy-full-hindi-dubbed-movie-samantha-amy",
+    "youtubeVideoId": "29-HE8Fe-qc",
+    "youtubeUrl": "https://www.youtube.com/watch?v=29-HE8Fe-qc",
+    "thumbnail": "https://i.ytimg.com/vi/29-HE8Fe-qc/maxresdefault.jpg",
+    "language": "South Indian",
+    "audioLanguage": "Hindi",
+    "dubbed": true,
+    "creator": {
+      "name": "GoldminesAction",
+      "channelId": "UCY7tB-mpvlQeWgaCCS1Cmwg",
+      "channelUrl": "https://www.youtube.com/channel/UCY7tB-mpvlQeWgaCCS1Cmwg"
+    },
+    "description": "DCP Vijaya Kumar goes into hiding to bring up his daughter in a safe environment. However, after her life is threatened by deadly gangsters, he must face his past to protect his daughter.\n\nMovie:- Theri\nStarcast:- Vijay, Samantha Ruth Prabhu, Amy Jackson, Baby Nainika, J. Mahendran, Rajendran\nDirected by:- Atlee Kumar\nMusic by:- G. V. Prakash Kumar\n\n#Theri #Vijay #Samantha #AmyJackson",
+    "metadata": {
+      "year": null,
+      "genre": [],
+      "durationSeconds": 7156
+    },
+    "statistics": {
+      "views": 3036924,
+      "likes": 10731
+    },
+    "publishedAt": "2026-09-13T12:30:24Z",
+    "verification": {
+      "status": "verified",
+      "method": "official-channel-whitelist"
+    },
+    "algorithm": {
+      "trendingScore": 64.87,
+      "recommendationScore": 64.03
     }
   },
   {
@@ -231,8 +231,8 @@
       "durationSeconds": 6607
     },
     "statistics": {
-      "views": 1291863,
-      "likes": 12275
+      "views": 1296511,
+      "likes": 12323
     },
     "publishedAt": "2026-09-11T14:30:18Z",
     "verification": {
@@ -240,8 +240,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 64.91,
-      "recommendationScore": 63.28
+      "trendingScore": 64.83,
+      "recommendationScore": 63.24
     }
   },
   {
@@ -266,8 +266,8 @@
       "durationSeconds": 9357
     },
     "statistics": {
-      "views": 306991,
-      "likes": 979
+      "views": 319727,
+      "likes": 1010
     },
     "publishedAt": "2026-09-22T14:30:14Z",
     "verification": {
@@ -275,8 +275,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 64.6,
-      "recommendationScore": 60.05
+      "trendingScore": 64.55,
+      "recommendationScore": 60.09
     }
   },
   {
@@ -301,8 +301,8 @@
       "durationSeconds": 8595
     },
     "statistics": {
-      "views": 184669,
-      "likes": 797
+      "views": 193815,
+      "likes": 820
     },
     "publishedAt": "2026-09-22T12:30:18Z",
     "verification": {
@@ -310,8 +310,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 64.22,
-      "recommendationScore": 59.13
+      "trendingScore": 64.16,
+      "recommendationScore": 59.17
     }
   },
   {
@@ -336,8 +336,8 @@
       "durationSeconds": 7156
     },
     "statistics": {
-      "views": 435086,
-      "likes": 1252
+      "views": 437014,
+      "likes": 1254
     },
     "publishedAt": "2026-09-19T05:30:36Z",
     "verification": {
@@ -345,8 +345,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 63.94,
-      "recommendationScore": 60.24
+      "trendingScore": 63.85,
+      "recommendationScore": 60.2
     }
   },
   {
@@ -371,8 +371,8 @@
       "durationSeconds": 6979
     },
     "statistics": {
-      "views": 1069701,
-      "likes": 3526
+      "views": 1076114,
+      "likes": 3549
     },
     "publishedAt": "2026-09-14T02:30:09Z",
     "verification": {
@@ -380,8 +380,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 63.71,
-      "recommendationScore": 61.66
+      "trendingScore": 63.63,
+      "recommendationScore": 61.63
     }
   },
   {
@@ -406,8 +406,8 @@
       "durationSeconds": 8659
     },
     "statistics": {
-      "views": 83548,
-      "likes": 326
+      "views": 90220,
+      "likes": 354
     },
     "publishedAt": "2026-09-23T14:30:16Z",
     "verification": {
@@ -415,8 +415,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 63.41,
-      "recommendationScore": 57.34
+      "trendingScore": 63.42,
+      "recommendationScore": 57.47
     }
   }
 ]
