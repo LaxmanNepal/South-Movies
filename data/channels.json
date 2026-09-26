@@ -40,24 +40,24 @@
     "channelUrl": "https://www.youtube.com/channel/UC_sXBvPWlKbvKfrzHiqxYhg"
   },
   {
-    "name": "Goldmines Premiere",
-    "channelId": "UCvUctuMp58UD_kQtcWcNCjw",
-    "channelUrl": "https://www.youtube.com/channel/UCvUctuMp58UD_kQtcWcNCjw"
-  },
-  {
     "name": "Wamindia Movies",
     "channelId": "UCt7_pnSRPKU3bu2GqmgH8gQ",
     "channelUrl": "https://www.youtube.com/channel/UCt7_pnSRPKU3bu2GqmgH8gQ"
   },
   {
-    "name": "RKD Multiplex",
-    "channelId": "UCL0f2RzwTMJc02Lg9DdcgNw",
-    "channelUrl": "https://www.youtube.com/channel/UCL0f2RzwTMJc02Lg9DdcgNw"
+    "name": "Goldmines Premiere",
+    "channelId": "UCvUctuMp58UD_kQtcWcNCjw",
+    "channelUrl": "https://www.youtube.com/channel/UCvUctuMp58UD_kQtcWcNCjw"
   },
   {
     "name": "Goldmines Cineplex",
     "channelId": "UCCrw5RBWF9i8VPt4IxL8IsQ",
     "channelUrl": "https://www.youtube.com/channel/UCCrw5RBWF9i8VPt4IxL8IsQ"
+  },
+  {
+    "name": "RKD Multiplex",
+    "channelId": "UCL0f2RzwTMJc02Lg9DdcgNw",
+    "channelUrl": "https://www.youtube.com/channel/UCL0f2RzwTMJc02Lg9DdcgNw"
   },
   {
     "name": "Goldmines Movies",
