@@ -1,5 +1,15 @@
 [
   {
+    "name": "RG Entertainment",
+    "channelId": "UCgfO009hB_847kwL6NQnn-w",
+    "channelUrl": "https://www.youtube.com/channel/UCgfO009hB_847kwL6NQnn-w"
+  },
+  {
+    "name": "Goldmines Premiere",
+    "channelId": "UCvUctuMp58UD_kQtcWcNCjw",
+    "channelUrl": "https://www.youtube.com/channel/UCvUctuMp58UD_kQtcWcNCjw"
+  },
+  {
     "name": "Aditya Movies",
     "channelId": "UCX_uPA_dGf7wXjuMEaSKLJA",
     "channelUrl": "https://www.youtube.com/channel/UCX_uPA_dGf7wXjuMEaSKLJA"
@@ -40,11 +50,6 @@
     "channelUrl": "https://www.youtube.com/channel/UCY7tB-mpvlQeWgaCCS1Cmwg"
   },
   {
-    "name": "Goldmines Premiere",
-    "channelId": "UCvUctuMp58UD_kQtcWcNCjw",
-    "channelUrl": "https://www.youtube.com/channel/UCvUctuMp58UD_kQtcWcNCjw"
-  },
-  {
     "name": "WamIndia Select Movies",
     "channelId": "UC_sXBvPWlKbvKfrzHiqxYhg",
     "channelUrl": "https://www.youtube.com/channel/UC_sXBvPWlKbvKfrzHiqxYhg"
@@ -78,11 +83,6 @@
     "name": "Official Southplex Movies",
     "channelId": "UCdbNMpCun6odxt-mcL0otdw",
     "channelUrl": "https://www.youtube.com/channel/UCdbNMpCun6odxt-mcL0otdw"
-  },
-  {
-    "name": "RG Entertainment",
-    "channelId": "UCgfO009hB_847kwL6NQnn-w",
-    "channelUrl": "https://www.youtube.com/channel/UCgfO009hB_847kwL6NQnn-w"
   },
   {
     "name": "Hindi Films",
