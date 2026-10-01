@@ -35,11 +35,6 @@
     "channelUrl": "https://www.youtube.com/channel/UCyoXW-Dse7fURq30EWl_CUA"
   },
   {
-    "name": "RG Entertainment",
-    "channelId": "UCgfO009hB_847kwL6NQnn-w",
-    "channelUrl": "https://www.youtube.com/channel/UCgfO009hB_847kwL6NQnn-w"
-  },
-  {
     "name": "Goldmines Premiere",
     "channelId": "UCvUctuMp58UD_kQtcWcNCjw",
     "channelUrl": "https://www.youtube.com/channel/UCvUctuMp58UD_kQtcWcNCjw"
@@ -48,6 +43,11 @@
     "name": "RKD Studios",
     "channelId": "UCjBwQ6M9QyCgO5Pp-TQRFUA",
     "channelUrl": "https://www.youtube.com/channel/UCjBwQ6M9QyCgO5Pp-TQRFUA"
+  },
+  {
+    "name": "RG Entertainment",
+    "channelId": "UCgfO009hB_847kwL6NQnn-w",
+    "channelUrl": "https://www.youtube.com/channel/UCgfO009hB_847kwL6NQnn-w"
   },
   {
     "name": "GoldminesAction",
@@ -65,24 +65,24 @@
     "channelUrl": "https://www.youtube.com/channel/UC_sXBvPWlKbvKfrzHiqxYhg"
   },
   {
-    "name": "Goldmines Cineplex",
-    "channelId": "UCCrw5RBWF9i8VPt4IxL8IsQ",
-    "channelUrl": "https://www.youtube.com/channel/UCCrw5RBWF9i8VPt4IxL8IsQ"
-  },
-  {
     "name": "Goldmines Movies",
     "channelId": "UCs570zdFq_NNA5OcV8chnHw",
     "channelUrl": "https://www.youtube.com/channel/UCs570zdFq_NNA5OcV8chnHw"
   },
   {
-    "name": "Official Southplex Movies",
-    "channelId": "UCdbNMpCun6odxt-mcL0otdw",
-    "channelUrl": "https://www.youtube.com/channel/UCdbNMpCun6odxt-mcL0otdw"
+    "name": "Goldmines Cineplex",
+    "channelId": "UCCrw5RBWF9i8VPt4IxL8IsQ",
+    "channelUrl": "https://www.youtube.com/channel/UCCrw5RBWF9i8VPt4IxL8IsQ"
   },
   {
     "name": "Goldmines Housefull",
     "channelId": "UC2aBjYYDkwN5LLSB8957KZQ",
     "channelUrl": "https://www.youtube.com/channel/UC2aBjYYDkwN5LLSB8957KZQ"
+  },
+  {
+    "name": "Official Southplex Movies",
+    "channelId": "UCdbNMpCun6odxt-mcL0otdw",
+    "channelUrl": "https://www.youtube.com/channel/UCdbNMpCun6odxt-mcL0otdw"
   },
   {
     "name": "Hindi Films",
