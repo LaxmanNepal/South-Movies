@@ -21,8 +21,8 @@
       "durationSeconds": 7337
     },
     "statistics": {
-      "views": 7878160,
-      "likes": 86795
+      "views": 8130090,
+      "likes": 88907
     },
     "publishedAt": "2026-10-01T13:30:09Z",
     "verification": {
@@ -30,7 +30,7 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 69.9,
+      "trendingScore": 69.83,
       "recommendationScore": 69.07
     }
   },
@@ -56,8 +56,8 @@
       "durationSeconds": 8071
     },
     "statistics": {
-      "views": 11319794,
-      "likes": 88484
+      "views": 11879859,
+      "likes": 92607
     },
     "publishedAt": "2026-10-02T06:30:08Z",
     "verification": {
@@ -65,8 +65,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 69.73,
-      "recommendationScore": 69.23
+      "trendingScore": 69.69,
+      "recommendationScore": 69.29
     }
   },
   {
@@ -91,8 +91,8 @@
       "durationSeconds": 10154
     },
     "statistics": {
-      "views": 881066,
-      "likes": 9572
+      "views": 1016815,
+      "likes": 10342
     },
     "publishedAt": "2026-10-03T10:30:19Z",
     "verification": {
@@ -100,8 +100,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 67.58,
-      "recommendationScore": 64.19
+      "trendingScore": 67.49,
+      "recommendationScore": 64.31
     }
   },
   {
@@ -126,8 +126,8 @@
       "durationSeconds": 7153
     },
     "statistics": {
-      "views": 1626503,
-      "likes": 13558
+      "views": 1708588,
+      "likes": 14258
     },
     "publishedAt": "2026-10-01T14:30:28Z",
     "verification": {
@@ -135,8 +135,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 67.14,
-      "recommendationScore": 64.71
+      "trendingScore": 67.11,
+      "recommendationScore": 64.77
     }
   },
   {
@@ -161,8 +161,8 @@
       "durationSeconds": 6899
     },
     "statistics": {
-      "views": 1109358,
-      "likes": 6275
+      "views": 1182052,
+      "likes": 6577
     },
     "publishedAt": "2026-10-02T14:30:20Z",
     "verification": {
@@ -170,8 +170,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 66.22,
-      "recommendationScore": 63.3
+      "trendingScore": 66.18,
+      "recommendationScore": 63.37
     }
   },
   {
@@ -196,8 +196,8 @@
       "durationSeconds": 6502
     },
     "statistics": {
-      "views": 10362216,
-      "likes": 80402
+      "views": 10432651,
+      "likes": 80910
     },
     "publishedAt": "2026-09-19T14:15:10Z",
     "verification": {
@@ -205,8 +205,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 65.94,
-      "recommendationScore": 67.09
+      "trendingScore": 65.87,
+      "recommendationScore": 67.06
     }
   },
   {
@@ -231,8 +231,8 @@
       "durationSeconds": 9080
     },
     "statistics": {
-      "views": 3221555,
-      "likes": 15512
+      "views": 3258661,
+      "likes": 15736
     },
     "publishedAt": "2026-09-25T14:30:04Z",
     "verification": {
@@ -240,8 +240,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 65.31,
-      "recommendationScore": 64.5
+      "trendingScore": 65.24,
+      "recommendationScore": 64.48
     }
   },
   {
@@ -266,8 +266,8 @@
       "durationSeconds": 7829
     },
     "statistics": {
-      "views": 3777695,
-      "likes": 19215
+      "views": 3811453,
+      "likes": 19425
     },
     "publishedAt": "2026-09-24T11:30:40Z",
     "verification": {
@@ -275,8 +275,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 65.27,
-      "recommendationScore": 64.77
+      "trendingScore": 65.2,
+      "recommendationScore": 64.75
     }
   },
   {
@@ -301,8 +301,8 @@
       "durationSeconds": 8060
     },
     "statistics": {
-      "views": 586429,
-      "likes": 2924
+      "views": 613813,
+      "likes": 3086
     },
     "publishedAt": "2026-10-02T14:30:19Z",
     "verification": {
@@ -310,8 +310,43 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 65.21,
-      "recommendationScore": 61.64
+      "trendingScore": 65.19,
+      "recommendationScore": 61.7
+    }
+  },
+  {
+    "id": "OP4lmeHf95c",
+    "title": "BHAGAVANTH KESARI - Hindi Dubbed Full Movie | Nandamuri Balakrishna, Sreeleela, Kajal",
+    "slug": "bhagavanth-kesari-hindi-dubbed-full-movie-nandamuri-balakrishna-sreeleela-kajal",
+    "youtubeVideoId": "OP4lmeHf95c",
+    "youtubeUrl": "https://www.youtube.com/watch?v=OP4lmeHf95c",
+    "thumbnail": "https://i.ytimg.com/vi/OP4lmeHf95c/maxresdefault.jpg",
+    "language": "South Indian",
+    "audioLanguage": "Hindi",
+    "dubbed": true,
+    "creator": {
+      "name": "AD-WISE MEDIA ACTION MOVIEPLEX",
+      "channelId": "UCSx_w4q5PkAOg9i45uMFHmA",
+      "channelUrl": "https://www.youtube.com/channel/UCSx_w4q5PkAOg9i45uMFHmA"
+    },
+    "description": "Presenting Hindi Dubbed Full Movie HD \"BHAGAVANTH KESARI\". Exclusively on @ADMDMOVIES \n\nSubscribe सब्सक्राइब Us For More South Indian Blockbusters in Hindi for FREE - http://bit.ly/ADMDMovies\n\nMovie Credits:\nDirected by Anil Ravipudi\nWritten by Anil Ravipudi\nProduced by Sahu Garapati & Harish Peddi\nStarring Nandamuri Balakrishna, Sreeleela, Arjun Rampal, Kajal Aggarwal, Priyanka Jawalkar, Rathika Rose, Palak Lalwani, Rahul Ravi, Jayachitra, Priyamani, R. Sarathkumar, Raghu Babu, VTV Ganesh, Subbaraju Santosh, P. Ravishankar, Brahmaji, Subhalekha Sudhakar, John Vijay, Aadukalam Naren, Srikanth Iyengar, Sanjay Swaroop, Bharath Reddy, Muralidhar Goud, Sravan Raghavendra, Raj Tirandasu, Dubbing Janaki, Vadlamani Srinivas, Racha Ravi, Jeevan Kumar, Sunaina Badam, Sriram Reddy, Anand Ramaraju, Balagam Sanjay Krishna, Raghav Rudra Mulpuru & Chakravarthii\nCinematography by C. Ramprasad\nEdited by Tammiraju\nMusic by Thaman S. \n\nSynopsis:\nNelakonda Bhagavanth Kesari is adamant about getting even with a powerful businessman who cost him money. He is prepared to square off against the formidable foe and resolve their issues amicably.\n\nJoin Us\n► Subscribe our channel : http://bit.ly/ADMDMovies\n► Visit our website: https://www.admdmovies.com\n► Like us on Facebook: https://www.facebook.com/adwisemediadigital\n► Follow us on Twitter: https://www.twitter.com/AdwiseMediaD\n\n#JailerDada #NandamuriBalakrishna #Sreeleela #ArjunRampal #KajalAggarwal #SouthIndianMovie #HindiDubbedMovies",
+    "metadata": {
+      "year": null,
+      "genre": [],
+      "durationSeconds": 7890
+    },
+    "statistics": {
+      "views": 291733,
+      "likes": 1171
+    },
+    "publishedAt": "2026-10-06T13:30:31Z",
+    "verification": {
+      "status": "verified",
+      "method": "official-channel-whitelist"
+    },
+    "algorithm": {
+      "trendingScore": 65.16,
+      "recommendationScore": 60.35
     }
   },
   {
@@ -336,8 +371,8 @@
       "durationSeconds": 7025
     },
     "statistics": {
-      "views": 347530,
-      "likes": 1458
+      "views": 390596,
+      "likes": 1671
     },
     "publishedAt": "2026-10-03T14:30:36Z",
     "verification": {
@@ -345,43 +380,78 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 64.62,
-      "recommendationScore": 60.37
+      "trendingScore": 64.7,
+      "recommendationScore": 60.62
     }
   },
   {
-    "id": "OP4lmeHf95c",
-    "title": "JAILER DADA - Hindi Dubbed Full Movie | Nandamuri Balakrishna, Sreeleela, Kajal | South Action Movie",
-    "slug": "jailer-dada-hindi-dubbed-full-movie-nandamuri-balakrishna-sreeleela-kajal-south-action-movie",
-    "youtubeVideoId": "OP4lmeHf95c",
-    "youtubeUrl": "https://www.youtube.com/watch?v=OP4lmeHf95c",
-    "thumbnail": "https://i.ytimg.com/vi/OP4lmeHf95c/maxresdefault.jpg",
-    "language": "South Indian",
+    "id": "8x4iUgF6T7M",
+    "title": "Snake Skin Beauty - Hindi Dubbed Full Movie | Horror Fantasy Movie | Snake Woman Horror Movie | IOF",
+    "slug": "snake-skin-beauty-hindi-dubbed-full-movie-horror-fantasy-movie-snake-woman-horror-movie-iof",
+    "youtubeVideoId": "8x4iUgF6T7M",
+    "youtubeUrl": "https://www.youtube.com/watch?v=8x4iUgF6T7M",
+    "thumbnail": "https://i.ytimg.com/vi/8x4iUgF6T7M/maxresdefault.jpg",
+    "language": "Telugu",
     "audioLanguage": "Hindi",
     "dubbed": true,
     "creator": {
-      "name": "AD-WISE MEDIA ACTION MOVIEPLEX",
-      "channelId": "UCSx_w4q5PkAOg9i45uMFHmA",
-      "channelUrl": "https://www.youtube.com/channel/UCSx_w4q5PkAOg9i45uMFHmA"
+      "name": "IOF - Hindi",
+      "channelId": "UCQ-DyEmlafaU5VVuRVnfsFw",
+      "channelUrl": "https://www.youtube.com/channel/UCQ-DyEmlafaU5VVuRVnfsFw"
     },
-    "description": "Presenting Hindi Dubbed Full Movie HD \"JAILER DADA\". Exclusively on @ad-\n\nSubscribe सब्सक्राइब Us For More South Indian Blockbusters in Hindi for FREE - http://bit.ly/ADMDMovies\n\nMovie Credits:\nDirected by Anil Ravipudi\nWritten by Anil Ravipudi\nProduced by Sahu Garapati & Harish Peddi\nStarring Nandamuri Balakrishna, Sreeleela, Arjun Rampal, Kajal Aggarwal, Priyanka Jawalkar, Rathika Rose, Palak Lalwani, Rahul Ravi, Jayachitra, Priyamani, R. Sarathkumar, Raghu Babu, VTV Ganesh, Subbaraju Santosh, P. Ravishankar, Brahmaji, Subhalekha Sudhakar, John Vijay, Aadukalam Naren, Srikanth Iyengar, Sanjay Swaroop, Bharath Reddy, Muralidhar Goud, Sravan Raghavendra, Raj Tirandasu, Dubbing Janaki, Vadlamani Srinivas, Racha Ravi, Jeevan Kumar, Sunaina Badam, Sriram Reddy, Anand Ramaraju, Balagam Sanjay Krishna, Raghav Rudra Mulpuru & Chakravarthii\nCinematography by C. Ramprasad\nEdited by Tammiraju\nMusic by Thaman S. \n\nSynopsis:\nNelakonda Bhagavanth Kesari is adamant about getting even with a powerful businessman who cost him money. He is prepared to square off against the formidable foe and resolve their issues amicably.\n\nJoin Us\n► Subscribe our channel : http://bit.ly/ADMDMovies\n► Visit our website: https://www.admdmovies.com\n► Like us on Facebook: https://www.facebook.com/adwisemediadigital\n► Follow us on Twitter: https://www.twitter.com/AdwiseMediaD\n\n#JailerDada #NandamuriBalakrishna #Sreeleela #ArjunRampal #KajalAggarwal #SouthIndianMovie #HindiDubbedMovies",
+    "description": "Click here to Subscribe - https://bit.ly/SubscribeIndoOverseasFilmsHindi\n\nएक रहस्यमयी गांव में लगातार हत्याएं हो रही हैं। एक दिन ली निआन नाम का शव सिलने वाला व्यक्ति एक बिना सिर वाली लाश को जोड़कर एक नागिन जैसी रहस्यमयी राक्षसी को पुनर्जीवित कर देता है।\n\nइसके बाद गांव में खौफनाक घटनाएं शुरू हो जाती हैं और ली निआन व उसकी पत्नी एक भयानक रहस्य के जाल में फंस जाते हैं।\n\nMovie Credits \nMovie Name: Snake Skin Beauty\nOriginal Title: She Pi Mei Ren\nRelease Year: 2024\nRelease Date: April 4, 2024\nLanguage: Chinese\nCountry: China\nGenre: Horror / Fantasy / Action\nDirector: Xinhao Wang (Wang Xinhao)\nWriters: Huang Erdao, Tian Ruihe\nCast: Di Liu, Na Shang, Cailun Sun, Liu Yajin, Bao Haochen, Ziwen Zhang, Li Chenhui, Shen Xuewei, Guo Xin\nRuntime: 1 Hour 23 Minutes (83 Minutes)\nProduction Platforms: iQIYI, Tencent Video, Youku\n\n\n#snakeskinbeauty #snakeskinbeautyfullmovie #horrormovies  #fantasymovie #chinesemovie \n\n \nEnjoy & stay connected with us!\nSubscribe to Indo Overseas Movies 👉 https://Subscribe.openinapp.co/IndoOverseasFilms\nSubscribe to IOF Hindi 👉 https://Subscribe.openinapp.co/IOFHindi\nSubscribe to IOF Telugu 👉 https://Subscribe.openinapp.co/IOFTelugu\nSubscribe to IOF Tamil 👉 https://Subscribe.openinapp.co/IOFTamil\n\nFollow Us On\nFacebook : https://www.facebook.com/indooverseasfilm\nTwitter : https://twitter.com/IOF_India\nInstagram : https://www.instagram.com/iof_india_/\nLinkedln : https://www.linkedin.com/in/indo-overseas-films-india-1a98b8208/\nWebsite : https://www.indooverseasfilms.com\n\nIn association with Divo - Our YouTube  Partner\n\n#Iof #Indooverseasfilmshindi #Hindidubbedmovies",
     "metadata": {
-      "year": null,
+      "year": 2024,
       "genre": [],
-      "durationSeconds": 7933
+      "durationSeconds": 4944
     },
     "statistics": {
-      "views": 155772,
-      "likes": 775
+      "views": 2447,
+      "likes": 62
     },
-    "publishedAt": "2026-10-06T13:30:31Z",
+    "publishedAt": "2026-10-07T12:00:12Z",
     "verification": {
       "status": "verified",
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 64.61,
-      "recommendationScore": 59.12
+      "trendingScore": 64.69,
+      "recommendationScore": 54.47
+    }
+  },
+  {
+    "id": "Iu97bp4YJ0Q",
+    "title": "Lenin (2026) Hindi Dubbed Full Movie | Starring Akhil Akkineni & Bhagyashri Borse",
+    "slug": "lenin-2026-hindi-dubbed-full-movie-starring-akhil-akkineni-bhagyashri-borse",
+    "youtubeVideoId": "Iu97bp4YJ0Q",
+    "youtubeUrl": "https://www.youtube.com/watch?v=Iu97bp4YJ0Q",
+    "thumbnail": "https://i.ytimg.com/vi/Iu97bp4YJ0Q/maxresdefault.jpg",
+    "language": "South Indian",
+    "audioLanguage": "Hindi",
+    "dubbed": true,
+    "creator": {
+      "name": "RG Entertainment",
+      "channelId": "UCgfO009hB_847kwL6NQnn-w",
+      "channelUrl": "https://www.youtube.com/channel/UCgfO009hB_847kwL6NQnn-w"
+    },
+    "description": "Presenting New South Indian Movies Dubbed In Hindi 2026 Full, Lenin.\n\nWritten & Directed: Murali Kishor Abburu\n\nStarring: Akhil Akkineni\nBhagyashri\nPramod Panju\nShivaji\nSunil \n\nDirector of Photography: Leon Britto\n\nMusic Director : Thaman S\n\nEditor: Navin Nooli\n-----------------------------------------------------------------------------------------------------------\nStay Connected with Us!\n\nFollow us on Twitter :\nhttps://twitter.com/Royalgoldfilms\n\nFollow us on Instagram :\nhttps://www.instagram.com/royalgoldfilms",
+    "metadata": {
+      "year": 2026,
+      "genre": [],
+      "durationSeconds": 6443
+    },
+    "statistics": {
+      "views": 39213,
+      "likes": 490
+    },
+    "publishedAt": "2026-10-05T10:30:26Z",
+    "verification": {
+      "status": "verified",
+      "method": "official-channel-whitelist"
+    },
+    "algorithm": {
+      "trendingScore": 64.49,
+      "recommendationScore": 57.58
     }
   },
   {
@@ -406,8 +476,8 @@
       "durationSeconds": 7292
     },
     "statistics": {
-      "views": 865586,
-      "likes": 3510
+      "views": 871213,
+      "likes": 3534
     },
     "publishedAt": "2026-09-29T11:33:58Z",
     "verification": {
@@ -415,43 +485,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 64.52,
-      "recommendationScore": 61.82
-    }
-  },
-  {
-    "id": "Iu97bp4YJ0Q",
-    "title": "Lenin (2026) New Released Hindi Dubbed Full Movie | Starring Akhil Akkineni & Bhagyashri Borse",
-    "slug": "lenin-2026-new-released-hindi-dubbed-full-movie-starring-akhil-akkineni-bhagyashri-borse",
-    "youtubeVideoId": "Iu97bp4YJ0Q",
-    "youtubeUrl": "https://www.youtube.com/watch?v=Iu97bp4YJ0Q",
-    "thumbnail": "https://i.ytimg.com/vi/Iu97bp4YJ0Q/maxresdefault.jpg",
-    "language": "South Indian",
-    "audioLanguage": "Hindi",
-    "dubbed": true,
-    "creator": {
-      "name": "RG Entertainment",
-      "channelId": "UCgfO009hB_847kwL6NQnn-w",
-      "channelUrl": "https://www.youtube.com/channel/UCgfO009hB_847kwL6NQnn-w"
-    },
-    "description": "Presenting New South Indian Movies Dubbed In Hindi 2026 Full, Lenin.\n\nWritten & Directed: Murali Kishor Abburu\n\nStarring: Akhil Akkineni\nBhagyashri\nPramod Panju\nShivaji\nSunil \n\nDirector of Photography: Leon Britto\n\nMusic Director : Thaman S\n\nEditor: Navin Nooli\n-----------------------------------------------------------------------------------------------------------\nStay Connected with Us!\n\nFollow us on Twitter :\nhttps://twitter.com/Royalgoldfilms\n\nFollow us on Instagram :\nhttps://www.instagram.com/royalgoldfilms",
-    "metadata": {
-      "year": 2026,
-      "genre": [],
-      "durationSeconds": 6443
-    },
-    "statistics": {
-      "views": 37002,
-      "likes": 462
-    },
-    "publishedAt": "2026-10-05T10:30:26Z",
-    "verification": {
-      "status": "verified",
-      "method": "official-channel-whitelist"
-    },
-    "algorithm": {
-      "trendingScore": 64.51,
-      "recommendationScore": 57.49
+      "trendingScore": 64.44,
+      "recommendationScore": 61.79
     }
   },
   {
@@ -476,8 +511,8 @@
       "durationSeconds": 8344
     },
     "statistics": {
-      "views": 840624,
-      "likes": 4601
+      "views": 842534,
+      "likes": 4604
     },
     "publishedAt": "2026-09-25T14:30:37Z",
     "verification": {
@@ -485,8 +520,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 63.74,
-      "recommendationScore": 61.51
+      "trendingScore": 63.65,
+      "recommendationScore": 61.47
     }
   },
   {
@@ -511,8 +546,8 @@
       "durationSeconds": 8857
     },
     "statistics": {
-      "views": 278646,
-      "likes": 1401
+      "views": 281062,
+      "likes": 1407
     },
     "publishedAt": "2026-09-29T12:30:15Z",
     "verification": {
@@ -520,8 +555,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 63.32,
-      "recommendationScore": 59.41
+      "trendingScore": 63.24,
+      "recommendationScore": 59.38
     }
   },
   {
@@ -546,8 +581,8 @@
       "durationSeconds": 8198
     },
     "statistics": {
-      "views": 374244,
-      "likes": 1217
+      "views": 378124,
+      "likes": 1226
     },
     "publishedAt": "2026-09-29T14:30:27Z",
     "verification": {
@@ -555,8 +590,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 63.25,
-      "recommendationScore": 59.67
+      "trendingScore": 63.17,
+      "recommendationScore": 59.65
     }
   },
   {
@@ -581,8 +616,8 @@
       "durationSeconds": 6309
     },
     "statistics": {
-      "views": 2375642,
-      "likes": 18714
+      "views": 2390228,
+      "likes": 18839
     },
     "publishedAt": "2026-09-16T12:34:07Z",
     "verification": {
@@ -590,8 +625,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 63.23,
-      "recommendationScore": 63.23
+      "trendingScore": 63.15,
+      "recommendationScore": 63.2
     }
   },
   {
@@ -616,8 +651,8 @@
       "durationSeconds": 6378
     },
     "statistics": {
-      "views": 156752,
-      "likes": 951
+      "views": 159022,
+      "likes": 970
     },
     "publishedAt": "2026-09-30T10:53:50Z",
     "verification": {
@@ -625,78 +660,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 63.13,
-      "recommendationScore": 58.47
-    }
-  },
-  {
-    "id": "LM7lHYchk3E",
-    "title": "GATTA KUSTHI | New (2026) Released South Indian Movie Dubbed In Hindi | Aishwarya, Vishnu | Action",
-    "slug": "gatta-kusthi-new-2026-released-south-indian-movie-dubbed-in-hindi-aishwarya-vishnu-action",
-    "youtubeVideoId": "LM7lHYchk3E",
-    "youtubeUrl": "https://www.youtube.com/watch?v=LM7lHYchk3E",
-    "thumbnail": "https://i.ytimg.com/vi/LM7lHYchk3E/maxresdefault.jpg",
-    "language": "Tamil",
-    "audioLanguage": "Hindi",
-    "dubbed": true,
-    "creator": {
-      "name": "Wamindia Movies",
-      "channelId": "UCt7_pnSRPKU3bu2GqmgH8gQ",
-      "channelUrl": "https://www.youtube.com/channel/UCt7_pnSRPKU3bu2GqmgH8gQ"
-    },
-    "description": "Movie Name: Gatta Kusthi\nOriginal Movie Name: Gatta Kusthi\nLanguage: Hindi Dubbed\nOriginal Language: Tamil\nGenre: Comedy, Drama, Sports, Family\nStarring: Vishnu Vishal, Aishwarya Lekshmi, Lizzie Antony, Chella Ayyavu, Sreeja Ravi, Ajay, Hareesh Peradi, Prema Priya, Kaali Venkat, Redin Kingsley, Mathew Varghese, Munishkanth, Nikhila Sankar, Karunas, Shatru & Others\nDirector: Chella Ayyavu\nProducers: Vishnu Vishal, Ravi Teja, Aryan Ramesh\n\nSynopsis\n\nGatta Kusthi is an entertaining South Indian sports comedy-drama that brings together family emotions, romance, humour, and the world of wrestling.\n\nThe story revolves around a couple whose relationship takes unexpected turns as hidden truths and contrasting personalities come to light. As family expectations, marriage, and personal ambitions collide, the characters find themselves caught in a series of hilarious and emotional situations.\n\nWith wrestling at the heart of the story, Gatta Kusthi delivers a fun-filled cinematic experience packed with comedy, family drama, romance, determination, and exciting moments.\n\nWatch Gatta Kusthi in Hindi and enjoy this entertaining South Indian comedy-drama featuring Vishnu Vishal and Aishwarya Lekshmi.\n\n#GattaKusthi #GattaKusthiHindiDubbed #HindiDubbedMovie #SouthIndianMovie #SouthMovie #VishnuVishal #AishwaryaLekshmi #TamilMovie #WrestlingMovie #ComedyMovie #FamilyDrama #SouthDubbedMovie\n\nWatch other Blockbuster Hits for FREE on our YT Channel 🔥🔥🔥\nOur Blockbuster Movies -\nSkanda - https://youtu.be/GqBsBTQ-Fh0\nHaathi Friends Forever - https://youtu.be/p1sS6rdM08s\nSuper Taxi - https://youtu.be/xbXC_QAkzqU\nBusinessman 2 - https://youtu.be/1qnNsMfIoXQ\nGeethanjali - https://youtu.be/6dDxaRQXgKY\nShoorveer - https://youtu.be/luXy9HTVwZw\nTime Story - https://youtu.be/mf5965Bj5Kk\n\nWelcome to WAMIndia Movies – your ultimate destination for the best South Indian Movies Dubbed in Hindi. Enjoy blockbuster action, comedy, romance, and drama from the South, now in Hindi for you to watch anytime! Subscribe now for non-stop entertainment.\n\nSubscribe सब्सक्राइब to our channel now for more South Indian Hindi Dubbed Movies\nYouTube: https://www.youtube.com/WAMIndiaMovies\nFacebook: https://www.facebook.com/wamindiamovies",
-    "metadata": {
-      "year": 2026,
-      "genre": [],
-      "durationSeconds": 8118
-    },
-    "statistics": {
-      "views": 664778,
-      "likes": 2407
-    },
-    "publishedAt": "2026-09-25T14:30:35Z",
-    "verification": {
-      "status": "verified",
-      "method": "official-channel-whitelist"
-    },
-    "algorithm": {
-      "trendingScore": 62.93,
-      "recommendationScore": 60.5
-    }
-  },
-  {
-    "id": "woGTRaoOvSE",
-    "title": "Krishna Talkies Superhit Hindi Mystery Thriller Movie | Ajay Rao, Apoorva,Sindhu Lokanath, Chikkanna",
-    "slug": "krishna-talkies-superhit-hindi-mystery-thriller-movie-ajay-rao-apoorva-sindhu-lokanath-chikkanna",
-    "youtubeVideoId": "woGTRaoOvSE",
-    "youtubeUrl": "https://www.youtube.com/watch?v=woGTRaoOvSE",
-    "thumbnail": "https://i.ytimg.com/vi/woGTRaoOvSE/maxresdefault.jpg",
-    "language": "Kannada",
-    "audioLanguage": "Hindi",
-    "dubbed": true,
-    "creator": {
-      "name": "RKD Studios",
-      "channelId": "UCjBwQ6M9QyCgO5Pp-TQRFUA",
-      "channelUrl": "https://www.youtube.com/channel/UCjBwQ6M9QyCgO5Pp-TQRFUA"
-    },
-    "description": "🎬 Krishna Talkies – Every secret has a story... and every story hides a mystery! 🔍🔥\nA thrilling ride filled with suspense, unexpected twists, and edge-of-your-seat moments awaits. Starring Ajay Rao, Apoorva, Sindhu Lokanath & Chikkanna, this gripping mystery thriller will keep you guessing till the very end.\n\n🍿 Watch the full Hindi dubbed movie now!\n\n#KrishnaTalkies #HindiDubbedMovie #MysteryThriller #SouthMovies #AjayRao #Chikkanna #SuspenseMovie #ThrillerMovie #SouthIndianMovies #FullMovie \n\nMovie (Hindi Dubbed): Krishna Talkies\nOriginal Movie Name: Krishna Talkies In Kannada\nProducer: Govindaraju\nDirector: Vijayanandha\nMusic Director: Sridhar V. Sambhram\nStarcast: Ajay Rao, Apoorva, Sindhu Lokanath & Chikkanna\n\nIn a single screen theater named Krishna Talkies where mystery on cine-goers with a balcony ticket bearing the number 13 poses as a series of threats with murders, death and accidents. Ajay, a journalist goes about unraveling the truth\n\nDisclaimer:- We are only the right holders of this content. Any opinions expressed in this Film may purely be of the director or the original producers but are not our personal opinions and we do not assume any responsibility or liability for the same.\n\nKindly subscribe to the channel and Press the BELL ICON to get Instant Notifications from RKD Studios. \n\nSubscribe To Our Channel: https://www.youtube.com/channel/UCjBwQ6M9QyCgO5Pp-TQRFUA?sub_confirmation=1 \n\nFollow Us On:- Facebook: https://www.facebook.com/RKDStudiosOfficial/ \n\nInstagram:- https://www.instagram.com/rkdstudios",
-    "metadata": {
-      "year": null,
-      "genre": [],
-      "durationSeconds": 7890
-    },
-    "statistics": {
-      "views": 207080,
-      "likes": 814
-    },
-    "publishedAt": "2026-09-30T11:30:13Z",
-    "verification": {
-      "status": "verified",
-      "method": "official-channel-whitelist"
-    },
-    "algorithm": {
-      "trendingScore": 62.92,
-      "recommendationScore": 58.59
+      "trendingScore": 63.07,
+      "recommendationScore": 58.46
     }
   },
   {
@@ -721,8 +686,8 @@
       "durationSeconds": 6187
     },
     "statistics": {
-      "views": 168491,
-      "likes": 395
+      "views": 180991,
+      "likes": 426
     },
     "publishedAt": "2026-10-02T14:30:35Z",
     "verification": {
@@ -731,7 +696,77 @@
     },
     "algorithm": {
       "trendingScore": 62.87,
-      "recommendationScore": 58.05
+      "recommendationScore": 58.17
+    }
+  },
+  {
+    "id": "LM7lHYchk3E",
+    "title": "GATTA KUSTHI | New (2026) Released South Indian Movie Dubbed In Hindi | Aishwarya, Vishnu | Action",
+    "slug": "gatta-kusthi-new-2026-released-south-indian-movie-dubbed-in-hindi-aishwarya-vishnu-action",
+    "youtubeVideoId": "LM7lHYchk3E",
+    "youtubeUrl": "https://www.youtube.com/watch?v=LM7lHYchk3E",
+    "thumbnail": "https://i.ytimg.com/vi/LM7lHYchk3E/maxresdefault.jpg",
+    "language": "Tamil",
+    "audioLanguage": "Hindi",
+    "dubbed": true,
+    "creator": {
+      "name": "Wamindia Movies",
+      "channelId": "UCt7_pnSRPKU3bu2GqmgH8gQ",
+      "channelUrl": "https://www.youtube.com/channel/UCt7_pnSRPKU3bu2GqmgH8gQ"
+    },
+    "description": "Movie Name: Gatta Kusthi\nOriginal Movie Name: Gatta Kusthi\nLanguage: Hindi Dubbed\nOriginal Language: Tamil\nGenre: Comedy, Drama, Sports, Family\nStarring: Vishnu Vishal, Aishwarya Lekshmi, Lizzie Antony, Chella Ayyavu, Sreeja Ravi, Ajay, Hareesh Peradi, Prema Priya, Kaali Venkat, Redin Kingsley, Mathew Varghese, Munishkanth, Nikhila Sankar, Karunas, Shatru & Others\nDirector: Chella Ayyavu\nProducers: Vishnu Vishal, Ravi Teja, Aryan Ramesh\n\nSynopsis\n\nGatta Kusthi is an entertaining South Indian sports comedy-drama that brings together family emotions, romance, humour, and the world of wrestling.\n\nThe story revolves around a couple whose relationship takes unexpected turns as hidden truths and contrasting personalities come to light. As family expectations, marriage, and personal ambitions collide, the characters find themselves caught in a series of hilarious and emotional situations.\n\nWith wrestling at the heart of the story, Gatta Kusthi delivers a fun-filled cinematic experience packed with comedy, family drama, romance, determination, and exciting moments.\n\nWatch Gatta Kusthi in Hindi and enjoy this entertaining South Indian comedy-drama featuring Vishnu Vishal and Aishwarya Lekshmi.\n\n#GattaKusthi #GattaKusthiHindiDubbed #HindiDubbedMovie #SouthIndianMovie #SouthMovie #VishnuVishal #AishwaryaLekshmi #TamilMovie #WrestlingMovie #ComedyMovie #FamilyDrama #SouthDubbedMovie\n\nWatch other Blockbuster Hits for FREE on our YT Channel 🔥🔥🔥\nOur Blockbuster Movies -\nSkanda - https://youtu.be/GqBsBTQ-Fh0\nHaathi Friends Forever - https://youtu.be/p1sS6rdM08s\nSuper Taxi - https://youtu.be/xbXC_QAkzqU\nBusinessman 2 - https://youtu.be/1qnNsMfIoXQ\nGeethanjali - https://youtu.be/6dDxaRQXgKY\nShoorveer - https://youtu.be/luXy9HTVwZw\nTime Story - https://youtu.be/mf5965Bj5Kk\n\nWelcome to WAMIndia Movies – your ultimate destination for the best South Indian Movies Dubbed in Hindi. Enjoy blockbuster action, comedy, romance, and drama from the South, now in Hindi for you to watch anytime! Subscribe now for non-stop entertainment.\n\nSubscribe सब्सक्राइब to our channel now for more South Indian Hindi Dubbed Movies\nYouTube: https://www.youtube.com/WAMIndiaMovies\nFacebook: https://www.facebook.com/wamindiamovies",
+    "metadata": {
+      "year": 2026,
+      "genre": [],
+      "durationSeconds": 8118
+    },
+    "statistics": {
+      "views": 671034,
+      "likes": 2427
+    },
+    "publishedAt": "2026-09-25T14:30:35Z",
+    "verification": {
+      "status": "verified",
+      "method": "official-channel-whitelist"
+    },
+    "algorithm": {
+      "trendingScore": 62.85,
+      "recommendationScore": 60.47
+    }
+  },
+  {
+    "id": "woGTRaoOvSE",
+    "title": "Krishna Talkies Superhit Hindi Mystery Thriller Movie | Ajay Rao, Apoorva,Sindhu Lokanath, Chikkanna",
+    "slug": "krishna-talkies-superhit-hindi-mystery-thriller-movie-ajay-rao-apoorva-sindhu-lokanath-chikkanna",
+    "youtubeVideoId": "woGTRaoOvSE",
+    "youtubeUrl": "https://www.youtube.com/watch?v=woGTRaoOvSE",
+    "thumbnail": "https://i.ytimg.com/vi/woGTRaoOvSE/maxresdefault.jpg",
+    "language": "Kannada",
+    "audioLanguage": "Hindi",
+    "dubbed": true,
+    "creator": {
+      "name": "RKD Studios",
+      "channelId": "UCjBwQ6M9QyCgO5Pp-TQRFUA",
+      "channelUrl": "https://www.youtube.com/channel/UCjBwQ6M9QyCgO5Pp-TQRFUA"
+    },
+    "description": "🎬 Krishna Talkies – Every secret has a story... and every story hides a mystery! 🔍🔥\nA thrilling ride filled with suspense, unexpected twists, and edge-of-your-seat moments awaits. Starring Ajay Rao, Apoorva, Sindhu Lokanath & Chikkanna, this gripping mystery thriller will keep you guessing till the very end.\n\n🍿 Watch the full Hindi dubbed movie now!\n\n#KrishnaTalkies #HindiDubbedMovie #MysteryThriller #SouthMovies #AjayRao #Chikkanna #SuspenseMovie #ThrillerMovie #SouthIndianMovies #FullMovie \n\nMovie (Hindi Dubbed): Krishna Talkies\nOriginal Movie Name: Krishna Talkies In Kannada\nProducer: Govindaraju\nDirector: Vijayanandha\nMusic Director: Sridhar V. Sambhram\nStarcast: Ajay Rao, Apoorva, Sindhu Lokanath & Chikkanna\n\nIn a single screen theater named Krishna Talkies where mystery on cine-goers with a balcony ticket bearing the number 13 poses as a series of threats with murders, death and accidents. Ajay, a journalist goes about unraveling the truth\n\nDisclaimer:- We are only the right holders of this content. Any opinions expressed in this Film may purely be of the director or the original producers but are not our personal opinions and we do not assume any responsibility or liability for the same.\n\nKindly subscribe to the channel and Press the BELL ICON to get Instant Notifications from RKD Studios. \n\nSubscribe To Our Channel: https://www.youtube.com/channel/UCjBwQ6M9QyCgO5Pp-TQRFUA?sub_confirmation=1 \n\nFollow Us On:- Facebook: https://www.facebook.com/RKDStudiosOfficial/ \n\nInstagram:- https://www.instagram.com/rkdstudios",
+    "metadata": {
+      "year": null,
+      "genre": [],
+      "durationSeconds": 7890
+    },
+    "statistics": {
+      "views": 208343,
+      "likes": 817
+    },
+    "publishedAt": "2026-09-30T11:30:13Z",
+    "verification": {
+      "status": "verified",
+      "method": "official-channel-whitelist"
+    },
+    "algorithm": {
+      "trendingScore": 62.84,
+      "recommendationScore": 58.56
     }
   },
   {
@@ -756,8 +791,8 @@
       "durationSeconds": 4965
     },
     "statistics": {
-      "views": 40088,
-      "likes": 208
+      "views": 44066,
+      "likes": 234
     },
     "publishedAt": "2026-10-05T12:26:06Z",
     "verification": {
@@ -765,8 +800,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 62.67,
-      "recommendationScore": 55.87
+      "trendingScore": 62.73,
+      "recommendationScore": 56.07
     }
   },
   {
@@ -791,8 +826,8 @@
       "durationSeconds": 6675
     },
     "statistics": {
-      "views": 8318009,
-      "likes": 38950
+      "views": 8402939,
+      "likes": 39267
     },
     "publishedAt": "2026-09-11T06:30:06Z",
     "verification": {
@@ -800,8 +835,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 62.63,
-      "recommendationScore": 64.65
+      "trendingScore": 62.56,
+      "recommendationScore": 64.63
     }
   },
   {
@@ -826,8 +861,8 @@
       "durationSeconds": 8659
     },
     "statistics": {
-      "views": 663040,
-      "likes": 2474
+      "views": 666881,
+      "likes": 2487
     },
     "publishedAt": "2026-09-23T14:30:16Z",
     "verification": {
@@ -835,8 +870,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 62.39,
-      "recommendationScore": 60.22
+      "trendingScore": 62.31,
+      "recommendationScore": 60.19
     }
   },
   {
@@ -861,8 +896,8 @@
       "durationSeconds": 8313
     },
     "statistics": {
-      "views": 467887,
-      "likes": 1920
+      "views": 470612,
+      "likes": 1932
     },
     "publishedAt": "2026-09-24T14:30:20Z",
     "verification": {
@@ -870,8 +905,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 62.32,
-      "recommendationScore": 59.64
+      "trendingScore": 62.24,
+      "recommendationScore": 59.61
     }
   },
   {
@@ -896,8 +931,8 @@
       "durationSeconds": 4380
     },
     "statistics": {
-      "views": 39182,
-      "likes": 220
+      "views": 40107,
+      "likes": 224
     },
     "publishedAt": "2026-10-03T10:30:08Z",
     "verification": {
@@ -905,43 +940,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 62.11,
+      "trendingScore": 62.04,
       "recommendationScore": 55.58
-    }
-  },
-  {
-    "id": "94wNs_ezMqY",
-    "title": "Oh Baby (HD) | Superhit Comedy Hindi Dubbed Full Movie | Samantha, Teja Sajja, Naga Chaitanya |",
-    "slug": "oh-baby-hd-superhit-comedy-hindi-dubbed-full-movie-samantha-teja-sajja-naga-chaitanya",
-    "youtubeVideoId": "94wNs_ezMqY",
-    "youtubeUrl": "https://www.youtube.com/watch?v=94wNs_ezMqY",
-    "thumbnail": "https://i.ytimg.com/vi/94wNs_ezMqY/maxresdefault.jpg",
-    "language": "South Indian",
-    "audioLanguage": "Hindi",
-    "dubbed": true,
-    "creator": {
-      "name": "Goldmines Cineplex",
-      "channelId": "UCCrw5RBWF9i8VPt4IxL8IsQ",
-      "channelUrl": "https://www.youtube.com/channel/UCCrw5RBWF9i8VPt4IxL8IsQ"
-    },
-    "description": "Savitri, a 70-year-old woman who is unhappy with her life, accuses God for her problems. When she gets her photograph clicked at a studio, she is transformed into a beautiful 24-year-old girl.\n\nMovie:- Oh Baby\nStarcast:- Samantha, Teja Sajja, Naga Chaitanya, Lakshmi, Rajendra Prasad\nCreative Producer:- Manish Shah\nDirected by:-  B. V. Nandini Reddy\nMusic by:- Mickey J. Meyer\n\n#OhBaby #Samantha #TejaSajja #NagaChaitanya #Goldmines\n--------------------------------------\nFor More Movies\nSubscribe:@https://www.youtube.com/GoldminesTelefilms\n\nFollow Us On\nFacebook:@https://www.facebook.com/OfficialGoldminesTelefilms\n\nInstagram:\nhttps://www.instagram.com/officialgoldminestelefilms\n\nTwitter:\nhttps://twitter.com/GTelefilms",
-    "metadata": {
-      "year": null,
-      "genre": [],
-      "durationSeconds": 7845
-    },
-    "statistics": {
-      "views": 265,
-      "likes": 7
-    },
-    "publishedAt": "2026-10-07T05:30:35Z",
-    "verification": {
-      "status": "verified",
-      "method": "official-channel-whitelist"
-    },
-    "algorithm": {
-      "trendingScore": 62.09,
-      "recommendationScore": 49.52
     }
   },
   {
@@ -966,8 +966,8 @@
       "durationSeconds": 7492
     },
     "statistics": {
-      "views": 140417,
-      "likes": 476
+      "views": 143009,
+      "likes": 484
     },
     "publishedAt": "2026-09-29T14:30:28Z",
     "verification": {
@@ -975,8 +975,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 62.01,
-      "recommendationScore": 57.41
+      "trendingScore": 61.94,
+      "recommendationScore": 57.4
     }
   },
   {
@@ -1001,8 +1001,8 @@
       "durationSeconds": 8060
     },
     "statistics": {
-      "views": 1470138,
-      "likes": 6491
+      "views": 1476088,
+      "likes": 6512
     },
     "publishedAt": "2026-09-17T14:30:36Z",
     "verification": {
@@ -1010,8 +1010,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 61.96,
-      "recommendationScore": 61.39
+      "trendingScore": 61.88,
+      "recommendationScore": 61.35
     }
   },
   {
@@ -1036,8 +1036,8 @@
       "durationSeconds": 7615
     },
     "statistics": {
-      "views": 340666,
-      "likes": 1570
+      "views": 346371,
+      "likes": 1593
     },
     "publishedAt": "2026-09-24T06:00:15Z",
     "verification": {
@@ -1045,8 +1045,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 61.94,
-      "recommendationScore": 58.97
+      "trendingScore": 61.87,
+      "recommendationScore": 58.96
     }
   }
 ]
