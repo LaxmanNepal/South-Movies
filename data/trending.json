@@ -21,8 +21,8 @@
       "durationSeconds": 8771
     },
     "statistics": {
-      "views": 12220040,
-      "likes": 90366
+      "views": 12502371,
+      "likes": 91656
     },
     "publishedAt": "2026-10-08T18:30:31Z",
     "verification": {
@@ -30,8 +30,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 69.28,
-      "recommendationScore": 69.08
+      "trendingScore": 69.2,
+      "recommendationScore": 69.07
     }
   },
   {
@@ -56,8 +56,8 @@
       "durationSeconds": 8071
     },
     "statistics": {
-      "views": 25048514,
-      "likes": 190862
+      "views": 25764467,
+      "likes": 198625
     },
     "publishedAt": "2026-10-02T06:30:08Z",
     "verification": {
@@ -65,8 +65,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 68.37,
-      "recommendationScore": 69.82
+      "trendingScore": 68.35,
+      "recommendationScore": 69.86
     }
   },
   {
@@ -91,8 +91,8 @@
       "durationSeconds": 7337
     },
     "statistics": {
-      "views": 11646178,
-      "likes": 115184
+      "views": 11783856,
+      "likes": 116349
     },
     "publishedAt": "2026-10-01T13:30:09Z",
     "verification": {
@@ -100,8 +100,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 67.79,
-      "recommendationScore": 68.48
+      "trendingScore": 67.72,
+      "recommendationScore": 68.46
     }
   },
   {
@@ -126,8 +126,8 @@
       "durationSeconds": 6847
     },
     "statistics": {
-      "views": 2462761,
-      "likes": 19073
+      "views": 2496244,
+      "likes": 19333
     },
     "publishedAt": "2026-10-08T18:30:13Z",
     "verification": {
@@ -135,8 +135,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 67.28,
-      "recommendationScore": 65.41
+      "trendingScore": 67.22,
+      "recommendationScore": 65.39
     }
   },
   {
@@ -161,8 +161,8 @@
       "durationSeconds": 8694
     },
     "statistics": {
-      "views": 2231117,
-      "likes": 12970
+      "views": 2262943,
+      "likes": 13151
     },
     "publishedAt": "2026-10-09T17:30:02Z",
     "verification": {
@@ -170,43 +170,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 66.92,
-      "recommendationScore": 64.84
-    }
-  },
-  {
-    "id": "IFdcpzZrT80",
-    "title": "Khalifa (2026) New Released Hindi Dubbed Full Movie | Starring Prithviraj, Neil Nitin, Mohanlal",
-    "slug": "khalifa-2026-new-released-hindi-dubbed-full-movie-starring-prithviraj-neil-nitin-mohanlal",
-    "youtubeVideoId": "IFdcpzZrT80",
-    "youtubeUrl": "https://www.youtube.com/watch?v=IFdcpzZrT80",
-    "thumbnail": "https://i.ytimg.com/vi/IFdcpzZrT80/maxresdefault.jpg",
-    "language": "South Indian",
-    "audioLanguage": "Hindi",
-    "dubbed": true,
-    "creator": {
-      "name": "RG Entertainment",
-      "channelId": "UCgfO009hB_847kwL6NQnn-w",
-      "channelUrl": "https://www.youtube.com/channel/UCgfO009hB_847kwL6NQnn-w"
-    },
-    "description": "Presenting New South Indian Movies Dubbed In Hindi 2026 Full, Khalifa: The Ruler.\n\nDirected by: Vysakh\n\nWritten by: Jinu V. Abraham\nSuraj Kumar\n\nStarring: Prithviraj Sukumaran\nNeil Nitin Mukesh\nMohanlal\nSuresh Oberoi\nIndrans\n\nCinematography: Jomon T. John\n\nMusic by: Jakes Bejoy\n-----------------------------------------------------------------------------------------------------------\nStay Connected with Us!\n\nFollow us on Twitter :\nhttps://twitter.com/Royalgoldfilms\n\nFollow us on Instagram :\nhttps://www.instagram.com/royalgoldfilms",
-    "metadata": {
-      "year": 2026,
-      "genre": [],
-      "durationSeconds": 6908
-    },
-    "statistics": {
-      "views": 1206703,
-      "likes": 8883
-    },
-    "publishedAt": "2026-10-09T07:10:54Z",
-    "verification": {
-      "status": "verified",
-      "method": "official-channel-whitelist"
-    },
-    "algorithm": {
-      "trendingScore": 66.41,
-      "recommendationScore": 63.72
+      "trendingScore": 66.86,
+      "recommendationScore": 64.83
     }
   },
   {
@@ -231,8 +196,8 @@
       "durationSeconds": 7152
     },
     "statistics": {
-      "views": 642188,
-      "likes": 3344
+      "views": 698207,
+      "likes": 3668
     },
     "publishedAt": "2026-10-13T14:30:30Z",
     "verification": {
@@ -240,8 +205,43 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
+      "trendingScore": 66.36,
+      "recommendationScore": 62.56
+    }
+  },
+  {
+    "id": "IFdcpzZrT80",
+    "title": "Khalifa (2026) New Released Hindi Dubbed Full Movie | Starring Prithviraj, Neil Nitin, Mohanlal",
+    "slug": "khalifa-2026-new-released-hindi-dubbed-full-movie-starring-prithviraj-neil-nitin-mohanlal",
+    "youtubeVideoId": "IFdcpzZrT80",
+    "youtubeUrl": "https://www.youtube.com/watch?v=IFdcpzZrT80",
+    "thumbnail": "https://i.ytimg.com/vi/IFdcpzZrT80/maxresdefault.jpg",
+    "language": "South Indian",
+    "audioLanguage": "Hindi",
+    "dubbed": true,
+    "creator": {
+      "name": "RG Entertainment",
+      "channelId": "UCgfO009hB_847kwL6NQnn-w",
+      "channelUrl": "https://www.youtube.com/channel/UCgfO009hB_847kwL6NQnn-w"
+    },
+    "description": "Presenting New South Indian Movies Dubbed In Hindi 2026 Full, Khalifa: The Ruler.\n\nDirected by: Vysakh\n\nWritten by: Jinu V. Abraham\nSuraj Kumar\n\nStarring: Prithviraj Sukumaran\nNeil Nitin Mukesh\nMohanlal\nSuresh Oberoi\nIndrans\n\nCinematography: Jomon T. John\n\nMusic by: Jakes Bejoy\n-----------------------------------------------------------------------------------------------------------\nStay Connected with Us!\n\nFollow us on Twitter :\nhttps://twitter.com/Royalgoldfilms\n\nFollow us on Instagram :\nhttps://www.instagram.com/royalgoldfilms",
+    "metadata": {
+      "year": 2026,
+      "genre": [],
+      "durationSeconds": 6908
+    },
+    "statistics": {
+      "views": 1255030,
+      "likes": 9033
+    },
+    "publishedAt": "2026-10-09T07:10:54Z",
+    "verification": {
+      "status": "verified",
+      "method": "official-channel-whitelist"
+    },
+    "algorithm": {
       "trendingScore": 66.33,
-      "recommendationScore": 62.4
+      "recommendationScore": 63.73
     }
   },
   {
@@ -266,8 +266,8 @@
       "durationSeconds": 8299
     },
     "statistics": {
-      "views": 938605,
-      "likes": 6453
+      "views": 954564,
+      "likes": 6553
     },
     "publishedAt": "2026-10-08T18:30:16Z",
     "verification": {
@@ -275,8 +275,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 65.79,
-      "recommendationScore": 62.93
+      "trendingScore": 65.73,
+      "recommendationScore": 62.92
     }
   },
   {
@@ -301,8 +301,8 @@
       "durationSeconds": 7883
     },
     "statistics": {
-      "views": 446841,
-      "likes": 1428
+      "views": 500512,
+      "likes": 1583
     },
     "publishedAt": "2026-10-14T05:43:03Z",
     "verification": {
@@ -310,8 +310,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 65.5,
-      "recommendationScore": 61.14
+      "trendingScore": 65.56,
+      "recommendationScore": 61.36
     }
   },
   {
@@ -336,8 +336,8 @@
       "durationSeconds": 7153
     },
     "statistics": {
-      "views": 2469470,
-      "likes": 18929
+      "views": 2488952,
+      "likes": 19083
     },
     "publishedAt": "2026-10-01T14:30:28Z",
     "verification": {
@@ -345,8 +345,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 65.18,
-      "recommendationScore": 64.29
+      "trendingScore": 65.11,
+      "recommendationScore": 64.27
     }
   },
   {
@@ -371,8 +371,8 @@
       "durationSeconds": 7467
     },
     "statistics": {
-      "views": 316125,
-      "likes": 1632
+      "views": 331489,
+      "likes": 1693
     },
     "publishedAt": "2026-10-12T11:30:29Z",
     "verification": {
@@ -380,8 +380,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 65.04,
-      "recommendationScore": 60.54
+      "trendingScore": 65.0,
+      "recommendationScore": 60.59
     }
   },
   {
@@ -406,8 +406,8 @@
       "durationSeconds": 9070
     },
     "statistics": {
-      "views": 817350,
-      "likes": 4650
+      "views": 830118,
+      "likes": 4711
     },
     "publishedAt": "2026-10-07T14:23:36Z",
     "verification": {
@@ -415,8 +415,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 64.94,
-      "recommendationScore": 62.12
+      "trendingScore": 64.87,
+      "recommendationScore": 62.11
     }
   },
   {
@@ -441,8 +441,8 @@
       "durationSeconds": 5466
     },
     "statistics": {
-      "views": 244174,
-      "likes": 2189
+      "views": 251534,
+      "likes": 2236
     },
     "publishedAt": "2026-10-09T13:30:17Z",
     "verification": {
@@ -450,43 +450,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 64.84,
+      "trendingScore": 64.77,
       "recommendationScore": 60.42
-    }
-  },
-  {
-    "id": "UI0N1LwVRk0",
-    "title": "Seetharama Kalyana | Nikhil Gowda, Rachita Ram, R. Sarathkumar South Action Hindi Dubbed Movie",
-    "slug": "seetharama-kalyana-nikhil-gowda-rachita-ram-r-sarathkumar-south-action-hindi-dubbed-movie",
-    "youtubeVideoId": "UI0N1LwVRk0",
-    "youtubeUrl": "https://www.youtube.com/watch?v=UI0N1LwVRk0",
-    "thumbnail": "https://i.ytimg.com/vi/UI0N1LwVRk0/maxresdefault.jpg",
-    "language": "South Indian",
-    "audioLanguage": "Hindi",
-    "dubbed": true,
-    "creator": {
-      "name": "RKD Studios",
-      "channelId": "UCjBwQ6M9QyCgO5Pp-TQRFUA",
-      "channelUrl": "https://www.youtube.com/channel/UCjBwQ6M9QyCgO5Pp-TQRFUA"
-    },
-    "description": "Enjoy \"Seetharama Kalyana\", a Latest South Action Hindi Dubbed Movie starring Nikhil Gowda, Rachita Ram, Madhoo, R. Sarathkumar, Sanjay Kapoor, Bhagyashree, P. Ravishankar, Adithya Menon, Chikkanna, Sadhu Kokila & others. Directed by A. Harsha.\n\n#nikhilgowda #rachitaram #southaction #hindidubbedmovie #madhoo #rsarathkumar #sanjaykapoor #bhagyashree #SeetharamaKalyana #HindiDubbed #HindiDubbedMovie #SouthIndianMovies #SouthIndianMovie #KannadaMovie #ActionMovie #RomanticMovie\n\nCredits:\nTitle: Seetharama Kalyana (2019)\nDirector: A. Harsha\nProducer: Anitha Kumaraswamy\nMusic: Anup Rubens\nGenre: Action, Romance, Family Drama, Political Drama\nStarcast: Nikhil Gowda, Rachita Ram, Madhoo, R. Sarathkumar, Sanjay Kapoor, Bhagyashree, P. Ravishankar\n\nDisclaimer:- We are only the right holders of this content. Any opinions expressed in this Film may purely be of the director or the original producers but are not our personal opinions and we do not assume any responsibility or liability for the same.\n\nKindly subscribe to the channel and Press the BELL ICON to get Instant Notifications from @rkddigital\n\nSubscribe To Our Channel:- https://www.youtube.com/channel/UCjBwQ6M9QyCgO5Pp-TQRFUA?sub_confirmation=1\n\nFollow Us On:\nFacebook: https://www.facebook.com/RKDStudiosOfficial/\nInstagram: https://www.instagram.com/rkdstudios",
-    "metadata": {
-      "year": 2019,
-      "genre": [],
-      "durationSeconds": 7796
-    },
-    "statistics": {
-      "views": 333032,
-      "likes": 2087
-    },
-    "publishedAt": "2026-10-10T05:34:59Z",
-    "verification": {
-      "status": "verified",
-      "method": "official-channel-whitelist"
-    },
-    "algorithm": {
-      "trendingScore": 64.72,
-      "recommendationScore": 60.58
     }
   },
   {
@@ -511,8 +476,8 @@
       "durationSeconds": 5727
     },
     "statistics": {
-      "views": 142055,
-      "likes": 875
+      "views": 160812,
+      "likes": 1016
     },
     "publishedAt": "2026-10-13T12:30:24Z",
     "verification": {
@@ -520,8 +485,43 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 64.59,
-      "recommendationScore": 59.09
+      "trendingScore": 64.71,
+      "recommendationScore": 59.37
+    }
+  },
+  {
+    "id": "UI0N1LwVRk0",
+    "title": "Seetharama Kalyana | Nikhil Gowda, Rachita Ram, R. Sarathkumar South Action Hindi Dubbed Movie",
+    "slug": "seetharama-kalyana-nikhil-gowda-rachita-ram-r-sarathkumar-south-action-hindi-dubbed-movie",
+    "youtubeVideoId": "UI0N1LwVRk0",
+    "youtubeUrl": "https://www.youtube.com/watch?v=UI0N1LwVRk0",
+    "thumbnail": "https://i.ytimg.com/vi/UI0N1LwVRk0/maxresdefault.jpg",
+    "language": "South Indian",
+    "audioLanguage": "Hindi",
+    "dubbed": true,
+    "creator": {
+      "name": "RKD Studios",
+      "channelId": "UCjBwQ6M9QyCgO5Pp-TQRFUA",
+      "channelUrl": "https://www.youtube.com/channel/UCjBwQ6M9QyCgO5Pp-TQRFUA"
+    },
+    "description": "Enjoy \"Seetharama Kalyana\", a Latest South Action Hindi Dubbed Movie starring Nikhil Gowda, Rachita Ram, Madhoo, R. Sarathkumar, Sanjay Kapoor, Bhagyashree, P. Ravishankar, Adithya Menon, Chikkanna, Sadhu Kokila & others. Directed by A. Harsha.\n\n#nikhilgowda #rachitaram #southaction #hindidubbedmovie #madhoo #rsarathkumar #sanjaykapoor #bhagyashree #SeetharamaKalyana #HindiDubbed #HindiDubbedMovie #SouthIndianMovies #SouthIndianMovie #KannadaMovie #ActionMovie #RomanticMovie\n\nCredits:\nTitle: Seetharama Kalyana (2019)\nDirector: A. Harsha\nProducer: Anitha Kumaraswamy\nMusic: Anup Rubens\nGenre: Action, Romance, Family Drama, Political Drama\nStarcast: Nikhil Gowda, Rachita Ram, Madhoo, R. Sarathkumar, Sanjay Kapoor, Bhagyashree, P. Ravishankar\n\nDisclaimer:- We are only the right holders of this content. Any opinions expressed in this Film may purely be of the director or the original producers but are not our personal opinions and we do not assume any responsibility or liability for the same.\n\nKindly subscribe to the channel and Press the BELL ICON to get Instant Notifications from @rkddigital\n\nSubscribe To Our Channel:- https://www.youtube.com/channel/UCjBwQ6M9QyCgO5Pp-TQRFUA?sub_confirmation=1\n\nFollow Us On:\nFacebook: https://www.facebook.com/RKDStudiosOfficial/\nInstagram: https://www.instagram.com/rkdstudios",
+    "metadata": {
+      "year": 2019,
+      "genre": [],
+      "durationSeconds": 7796
+    },
+    "statistics": {
+      "views": 339804,
+      "likes": 2116
+    },
+    "publishedAt": "2026-10-10T05:34:59Z",
+    "verification": {
+      "status": "verified",
+      "method": "official-channel-whitelist"
+    },
+    "algorithm": {
+      "trendingScore": 64.65,
+      "recommendationScore": 60.57
     }
   },
   {
@@ -546,8 +546,8 @@
       "durationSeconds": 6747
     },
     "statistics": {
-      "views": 194293,
-      "likes": 1098
+      "views": 198920,
+      "likes": 1116
     },
     "publishedAt": "2026-10-12T14:24:02Z",
     "verification": {
@@ -555,7 +555,7 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 64.58,
+      "trendingScore": 64.51,
       "recommendationScore": 59.54
     }
   },
@@ -581,8 +581,8 @@
       "durationSeconds": 8299
     },
     "statistics": {
-      "views": 353311,
-      "likes": 2133
+      "views": 356529,
+      "likes": 2156
     },
     "publishedAt": "2026-10-09T11:30:03Z",
     "verification": {
@@ -590,8 +590,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 64.51,
-      "recommendationScore": 60.54
+      "trendingScore": 64.44,
+      "recommendationScore": 60.52
     }
   },
   {
@@ -616,8 +616,8 @@
       "durationSeconds": 7654
     },
     "statistics": {
-      "views": 260071,
-      "likes": 1502
+      "views": 262249,
+      "likes": 1512
     },
     "publishedAt": "2026-10-10T13:30:35Z",
     "verification": {
@@ -625,8 +625,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 64.37,
-      "recommendationScore": 59.93
+      "trendingScore": 64.29,
+      "recommendationScore": 59.9
     }
   },
   {
@@ -651,8 +651,8 @@
       "durationSeconds": 6899
     },
     "statistics": {
-      "views": 1995597,
-      "likes": 9232
+      "views": 2009305,
+      "likes": 9286
     },
     "publishedAt": "2026-10-02T14:30:20Z",
     "verification": {
@@ -660,8 +660,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 64.36,
-      "recommendationScore": 63.19
+      "trendingScore": 64.29,
+      "recommendationScore": 63.16
     }
   },
   {
@@ -686,8 +686,8 @@
       "durationSeconds": 6479
     },
     "statistics": {
-      "views": 207207,
-      "likes": 710
+      "views": 212910,
+      "likes": 733
     },
     "publishedAt": "2026-10-12T06:41:36Z",
     "verification": {
@@ -695,8 +695,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 63.96,
-      "recommendationScore": 59.09
+      "trendingScore": 63.91,
+      "recommendationScore": 59.11
     }
   },
   {
@@ -721,8 +721,8 @@
       "durationSeconds": 6502
     },
     "statistics": {
-      "views": 11599549,
-      "likes": 88380
+      "views": 11628600,
+      "likes": 88570
     },
     "publishedAt": "2026-09-19T14:15:10Z",
     "verification": {
@@ -730,8 +730,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 63.95,
-      "recommendationScore": 66.21
+      "trendingScore": 63.88,
+      "recommendationScore": 66.18
     }
   },
   {
@@ -756,8 +756,8 @@
       "durationSeconds": 7328
     },
     "statistics": {
-      "views": 96668,
-      "likes": 532
+      "views": 101456,
+      "likes": 546
     },
     "publishedAt": "2026-10-13T11:54:02Z",
     "verification": {
@@ -765,78 +765,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 63.91,
-      "recommendationScore": 58.02
-    }
-  },
-  {
-    "id": "Z6dMBl4KshA",
-    "title": "Arjuna Phalguna | Sree Vishnu, Amritha Aiyer, Subbaraju S | Latest South Action Hindi Dubbed Movie",
-    "slug": "arjuna-phalguna-sree-vishnu-amritha-aiyer-subbaraju-s-latest-south-action-hindi-dubbed-movie",
-    "youtubeVideoId": "Z6dMBl4KshA",
-    "youtubeUrl": "https://www.youtube.com/watch?v=Z6dMBl4KshA",
-    "thumbnail": "https://i.ytimg.com/vi/Z6dMBl4KshA/maxresdefault.jpg",
-    "language": "Telugu",
-    "audioLanguage": "Hindi",
-    "dubbed": true,
-    "creator": {
-      "name": "RKD Studios",
-      "channelId": "UCjBwQ6M9QyCgO5Pp-TQRFUA",
-      "channelUrl": "https://www.youtube.com/channel/UCjBwQ6M9QyCgO5Pp-TQRFUA"
-    },
-    "description": "Presenting Telugu action-comedy thriller Hindi Dubbed movie \"Arjuna Phalguna (2021),\" starring Sree Vishnu, Amritha Aiyer, Subbaraju Santosh, Kalpa Latha, Vijaykrishna Naresh, Dayanand Reddy & Others.\n\n🔥 Watch this entertaining South Indian Hindi-dubbed movie filled with friendship, comedy, action, and suspense!\"\n\n#sreevishnu #amrithaaiyer #hindidubbedmovie #southaction #southfilm #telugumoviehindidubbed #crimethrillerhindi\n\nMovie: Arjuna Phalguna (2021)\nDirector: Teja Marni\nProducers: Niranjan Reddy, Anvesh Reddy\nMusic: Priyadarshan Balasubramanian & Gaurav Pareek\nStarcast: Sree Vishnu, Amritha Aiyer, Subbaraju Santosh, Kalpa Latha\n\nSynopsis: The story revolves around a group of friends whose lives take an unexpected turn when they become involved in a risky situation. Their journey brings together friendship, comedy, action, suspense, and emotional moments.\n\nDisclaimer:- We are only the right holders of this content. Any opinions expressed in this Film may purely be of the director or the original producers but are not our personal opinions and we do not assume any responsibility or liability for the same.\n\nKindly subscribe to the channel and Press the BELL ICON to get Instant Notifications from @rkddigital\n\nSubscribe To Our Channel:- https://www.youtube.com/channel/UCjBwQ6M9QyCgO5Pp-TQRFUA?sub_confirmation=1\n\nFollow Us On:\nFacebook: https://www.facebook.com/RKDStudiosOfficial/\nInstagram: https://www.instagram.com/rkdstudios",
-    "metadata": {
-      "year": 2021,
-      "genre": [],
-      "durationSeconds": 6190
-    },
-    "statistics": {
-      "views": 115474,
-      "likes": 698
-    },
-    "publishedAt": "2026-10-11T05:30:21Z",
-    "verification": {
-      "status": "verified",
-      "method": "official-channel-whitelist"
-    },
-    "algorithm": {
-      "trendingScore": 63.58,
-      "recommendationScore": 58.2
-    }
-  },
-  {
-    "id": "q_c0HYlW2d0",
-    "title": "Silver Lady Hawk - Hindi Dubbed Full Movie HD | Sci-FI Hindi Movie | Hindi Movies HD | IOF Hindi",
-    "slug": "silver-lady-hawk-hindi-dubbed-full-movie-hd-sci-fi-hindi-movie-hindi-movies-hd-iof-hindi",
-    "youtubeVideoId": "q_c0HYlW2d0",
-    "youtubeUrl": "https://www.youtube.com/watch?v=q_c0HYlW2d0",
-    "thumbnail": "https://i.ytimg.com/vi/q_c0HYlW2d0/maxresdefault.jpg",
-    "language": "Telugu",
-    "audioLanguage": "Hindi",
-    "dubbed": true,
-    "creator": {
-      "name": "IOF - Hindi",
-      "channelId": "UCQ-DyEmlafaU5VVuRVnfsFw",
-      "channelUrl": "https://www.youtube.com/channel/UCQ-DyEmlafaU5VVuRVnfsFw"
-    },
-    "description": "Click here to Subscribe - https://bit.ly/SubscribeIndoOverseasFilmsHindi\n\n\n___________________________________ \nEnjoy & stay connected with us!\nSubscribe to Indo Overseas Movies 👉 https://Subscribe.openinapp.co/IndoOverseasFilms\nSubscribe to IOF Hindi 👉 https://Subscribe.openinapp.co/IOFHindi\nSubscribe to IOF Telugu 👉 https://Subscribe.openinapp.co/IOFTelugu\nSubscribe to IOF Tamil 👉 https://Subscribe.openinapp.co/IOFTamil\n\nFollow Us On\nFacebook : https://www.facebook.com/indooverseasfilm\nTwitter : https://twitter.com/IOF_India\nInstagram : https://www.instagram.com/iof_india_/\nLinkedln : https://www.linkedin.com/in/indo-overseas-films-india-1a98b8208/\nWebsite : https://www.indooverseasfilms.com\n\nIn association with Divo - Our YouTube  Partner\n\n#Iof #Indooverseasfilmshindi #Hindidubbedmovies",
-    "metadata": {
-      "year": null,
-      "genre": [],
-      "durationSeconds": 5575
-    },
-    "statistics": {
-      "views": 75811,
-      "likes": 463
-    },
-    "publishedAt": "2026-10-12T10:52:25Z",
-    "verification": {
-      "status": "verified",
-      "method": "official-channel-whitelist"
-    },
-    "algorithm": {
-      "trendingScore": 63.43,
-      "recommendationScore": 57.43
+      "trendingScore": 63.85,
+      "recommendationScore": 58.05
     }
   },
   {
@@ -861,8 +791,8 @@
       "durationSeconds": 7881
     },
     "statistics": {
-      "views": 54272,
-      "likes": 307
+      "views": 67700,
+      "likes": 357
     },
     "publishedAt": "2026-10-14T11:30:19Z",
     "verification": {
@@ -870,8 +800,78 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 63.42,
-      "recommendationScore": 56.81
+      "trendingScore": 63.6,
+      "recommendationScore": 57.24
+    }
+  },
+  {
+    "id": "Z6dMBl4KshA",
+    "title": "Arjuna Phalguna | Sree Vishnu, Amritha Aiyer, Subbaraju S | Latest South Action Hindi Dubbed Movie",
+    "slug": "arjuna-phalguna-sree-vishnu-amritha-aiyer-subbaraju-s-latest-south-action-hindi-dubbed-movie",
+    "youtubeVideoId": "Z6dMBl4KshA",
+    "youtubeUrl": "https://www.youtube.com/watch?v=Z6dMBl4KshA",
+    "thumbnail": "https://i.ytimg.com/vi/Z6dMBl4KshA/maxresdefault.jpg",
+    "language": "Telugu",
+    "audioLanguage": "Hindi",
+    "dubbed": true,
+    "creator": {
+      "name": "RKD Studios",
+      "channelId": "UCjBwQ6M9QyCgO5Pp-TQRFUA",
+      "channelUrl": "https://www.youtube.com/channel/UCjBwQ6M9QyCgO5Pp-TQRFUA"
+    },
+    "description": "Presenting Telugu action-comedy thriller Hindi Dubbed movie \"Arjuna Phalguna (2021),\" starring Sree Vishnu, Amritha Aiyer, Subbaraju Santosh, Kalpa Latha, Vijaykrishna Naresh, Dayanand Reddy & Others.\n\n🔥 Watch this entertaining South Indian Hindi-dubbed movie filled with friendship, comedy, action, and suspense!\"\n\n#sreevishnu #amrithaaiyer #hindidubbedmovie #southaction #southfilm #telugumoviehindidubbed #crimethrillerhindi\n\nMovie: Arjuna Phalguna (2021)\nDirector: Teja Marni\nProducers: Niranjan Reddy, Anvesh Reddy\nMusic: Priyadarshan Balasubramanian & Gaurav Pareek\nStarcast: Sree Vishnu, Amritha Aiyer, Subbaraju Santosh, Kalpa Latha\n\nSynopsis: The story revolves around a group of friends whose lives take an unexpected turn when they become involved in a risky situation. Their journey brings together friendship, comedy, action, suspense, and emotional moments.\n\nDisclaimer:- We are only the right holders of this content. Any opinions expressed in this Film may purely be of the director or the original producers but are not our personal opinions and we do not assume any responsibility or liability for the same.\n\nKindly subscribe to the channel and Press the BELL ICON to get Instant Notifications from @rkddigital\n\nSubscribe To Our Channel:- https://www.youtube.com/channel/UCjBwQ6M9QyCgO5Pp-TQRFUA?sub_confirmation=1\n\nFollow Us On:\nFacebook: https://www.facebook.com/RKDStudiosOfficial/\nInstagram: https://www.instagram.com/rkdstudios",
+    "metadata": {
+      "year": 2021,
+      "genre": [],
+      "durationSeconds": 6190
+    },
+    "statistics": {
+      "views": 116194,
+      "likes": 699
+    },
+    "publishedAt": "2026-10-11T05:30:21Z",
+    "verification": {
+      "status": "verified",
+      "method": "official-channel-whitelist"
+    },
+    "algorithm": {
+      "trendingScore": 63.5,
+      "recommendationScore": 58.16
+    }
+  },
+  {
+    "id": "q_c0HYlW2d0",
+    "title": "Silver Lady Hawk - Hindi Dubbed Full Movie HD | Sci-FI Hindi Movie | Hindi Movies HD | IOF Hindi",
+    "slug": "silver-lady-hawk-hindi-dubbed-full-movie-hd-sci-fi-hindi-movie-hindi-movies-hd-iof-hindi",
+    "youtubeVideoId": "q_c0HYlW2d0",
+    "youtubeUrl": "https://www.youtube.com/watch?v=q_c0HYlW2d0",
+    "thumbnail": "https://i.ytimg.com/vi/q_c0HYlW2d0/maxresdefault.jpg",
+    "language": "Telugu",
+    "audioLanguage": "Hindi",
+    "dubbed": true,
+    "creator": {
+      "name": "IOF - Hindi",
+      "channelId": "UCQ-DyEmlafaU5VVuRVnfsFw",
+      "channelUrl": "https://www.youtube.com/channel/UCQ-DyEmlafaU5VVuRVnfsFw"
+    },
+    "description": "Click here to Subscribe - https://bit.ly/SubscribeIndoOverseasFilmsHindi\n\n\n___________________________________ \nEnjoy & stay connected with us!\nSubscribe to Indo Overseas Movies 👉 https://Subscribe.openinapp.co/IndoOverseasFilms\nSubscribe to IOF Hindi 👉 https://Subscribe.openinapp.co/IOFHindi\nSubscribe to IOF Telugu 👉 https://Subscribe.openinapp.co/IOFTelugu\nSubscribe to IOF Tamil 👉 https://Subscribe.openinapp.co/IOFTamil\n\nFollow Us On\nFacebook : https://www.facebook.com/indooverseasfilm\nTwitter : https://twitter.com/IOF_India\nInstagram : https://www.instagram.com/iof_india_/\nLinkedln : https://www.linkedin.com/in/indo-overseas-films-india-1a98b8208/\nWebsite : https://www.indooverseasfilms.com\n\nIn association with Divo - Our YouTube  Partner\n\n#Iof #Indooverseasfilmshindi #Hindidubbedmovies",
+    "metadata": {
+      "year": null,
+      "genre": [],
+      "durationSeconds": 5575
+    },
+    "statistics": {
+      "views": 78390,
+      "likes": 480
+    },
+    "publishedAt": "2026-10-12T10:52:25Z",
+    "verification": {
+      "status": "verified",
+      "method": "official-channel-whitelist"
+    },
+    "algorithm": {
+      "trendingScore": 63.39,
+      "recommendationScore": 57.46
     }
   },
   {
@@ -896,8 +896,8 @@
       "durationSeconds": 4944
     },
     "statistics": {
-      "views": 353859,
-      "likes": 1334
+      "views": 356133,
+      "likes": 1343
     },
     "publishedAt": "2026-10-07T12:00:12Z",
     "verification": {
@@ -905,8 +905,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 63.3,
-      "recommendationScore": 59.66
+      "trendingScore": 63.23,
+      "recommendationScore": 59.63
     }
   },
   {
@@ -931,8 +931,8 @@
       "durationSeconds": 9080
     },
     "statistics": {
-      "views": 3615954,
-      "likes": 17309
+      "views": 3624012,
+      "likes": 17337
     },
     "publishedAt": "2026-09-25T14:30:04Z",
     "verification": {
@@ -940,43 +940,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 63.24,
-      "recommendationScore": 63.6
-    }
-  },
-  {
-    "id": "OP4lmeHf95c",
-    "title": "BHAGAVANTH KESARI - Hindi Dubbed Full Movie | Nandamuri Balakrishna, Sreeleela, Kajal",
-    "slug": "bhagavanth-kesari-hindi-dubbed-full-movie-nandamuri-balakrishna-sreeleela-kajal",
-    "youtubeVideoId": "OP4lmeHf95c",
-    "youtubeUrl": "https://www.youtube.com/watch?v=OP4lmeHf95c",
-    "thumbnail": "https://i.ytimg.com/vi/OP4lmeHf95c/maxresdefault.jpg",
-    "language": "South Indian",
-    "audioLanguage": "Hindi",
-    "dubbed": true,
-    "creator": {
-      "name": "AD-WISE MEDIA ACTION MOVIEPLEX",
-      "channelId": "UCSx_w4q5PkAOg9i45uMFHmA",
-      "channelUrl": "https://www.youtube.com/channel/UCSx_w4q5PkAOg9i45uMFHmA"
-    },
-    "description": "Presenting Hindi Dubbed Full Movie HD \"BHAGAVANTH KESARI\". Exclusively on @ADMDMOVIES \n\nSubscribe सब्सक्राइब Us For More South Indian Blockbusters in Hindi for FREE - http://bit.ly/ADMDMovies\n\nMovie Credits:\nDirected by Anil Ravipudi\nWritten by Anil Ravipudi\nProduced by Sahu Garapati & Harish Peddi\nStarring Nandamuri Balakrishna, Sreeleela, Arjun Rampal, Kajal Aggarwal, Priyanka Jawalkar, Rathika Rose, Palak Lalwani, Rahul Ravi, Jayachitra, Priyamani, R. Sarathkumar, Raghu Babu, VTV Ganesh, Subbaraju Santosh, P. Ravishankar, Brahmaji, Subhalekha Sudhakar, John Vijay, Aadukalam Naren, Srikanth Iyengar, Sanjay Swaroop, Bharath Reddy, Muralidhar Goud, Sravan Raghavendra, Raj Tirandasu, Dubbing Janaki, Vadlamani Srinivas, Racha Ravi, Jeevan Kumar, Sunaina Badam, Sriram Reddy, Anand Ramaraju, Balagam Sanjay Krishna, Raghav Rudra Mulpuru & Chakravarthii\nCinematography by C. Ramprasad\nEdited by Tammiraju\nMusic by Thaman S. \n\nSynopsis:\nNelakonda Bhagavanth Kesari is adamant about getting even with a powerful businessman who cost him money. He is prepared to square off against the formidable foe and resolve their issues amicably.\n\nJoin Us\n► Subscribe our channel : http://bit.ly/ADMDMovies\n► Visit our website: https://www.admdmovies.com\n► Like us on Facebook: https://www.facebook.com/adwisemediadigital\n► Follow us on Twitter: https://www.twitter.com/AdwiseMediaD\n\n#JailerDada #NandamuriBalakrishna #Sreeleela #ArjunRampal #KajalAggarwal #SouthIndianMovie #HindiDubbedMovies",
-    "metadata": {
-      "year": null,
-      "genre": [],
-      "durationSeconds": 7890
-    },
-    "statistics": {
-      "views": 464128,
-      "likes": 1493
-    },
-    "publishedAt": "2026-10-06T13:30:31Z",
-    "verification": {
-      "status": "verified",
-      "method": "official-channel-whitelist"
-    },
-    "algorithm": {
-      "trendingScore": 63.23,
-      "recommendationScore": 60.02
+      "trendingScore": 63.17,
+      "recommendationScore": 63.56
     }
   },
   {
@@ -1001,8 +966,8 @@
       "durationSeconds": 7829
     },
     "statistics": {
-      "views": 4394170,
-      "likes": 21634
+      "views": 4413952,
+      "likes": 21735
     },
     "publishedAt": "2026-09-24T11:30:40Z",
     "verification": {
@@ -1010,8 +975,43 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 63.23,
-      "recommendationScore": 63.93
+      "trendingScore": 63.16,
+      "recommendationScore": 63.9
+    }
+  },
+  {
+    "id": "OP4lmeHf95c",
+    "title": "BHAGAVANTH KESARI - Hindi Dubbed Full Movie | Nandamuri Balakrishna, Sreeleela, Kajal",
+    "slug": "bhagavanth-kesari-hindi-dubbed-full-movie-nandamuri-balakrishna-sreeleela-kajal",
+    "youtubeVideoId": "OP4lmeHf95c",
+    "youtubeUrl": "https://www.youtube.com/watch?v=OP4lmeHf95c",
+    "thumbnail": "https://i.ytimg.com/vi/OP4lmeHf95c/maxresdefault.jpg",
+    "language": "South Indian",
+    "audioLanguage": "Hindi",
+    "dubbed": true,
+    "creator": {
+      "name": "AD-WISE MEDIA ACTION MOVIEPLEX",
+      "channelId": "UCSx_w4q5PkAOg9i45uMFHmA",
+      "channelUrl": "https://www.youtube.com/channel/UCSx_w4q5PkAOg9i45uMFHmA"
+    },
+    "description": "Presenting Hindi Dubbed Full Movie HD \"BHAGAVANTH KESARI\". Exclusively on @ADMDMOVIES \n\nSubscribe सब्सक्राइब Us For More South Indian Blockbusters in Hindi for FREE - http://bit.ly/ADMDMovies\n\nMovie Credits:\nDirected by Anil Ravipudi\nWritten by Anil Ravipudi\nProduced by Sahu Garapati & Harish Peddi\nStarring Nandamuri Balakrishna, Sreeleela, Arjun Rampal, Kajal Aggarwal, Priyanka Jawalkar, Rathika Rose, Palak Lalwani, Rahul Ravi, Jayachitra, Priyamani, R. Sarathkumar, Raghu Babu, VTV Ganesh, Subbaraju Santosh, P. Ravishankar, Brahmaji, Subhalekha Sudhakar, John Vijay, Aadukalam Naren, Srikanth Iyengar, Sanjay Swaroop, Bharath Reddy, Muralidhar Goud, Sravan Raghavendra, Raj Tirandasu, Dubbing Janaki, Vadlamani Srinivas, Racha Ravi, Jeevan Kumar, Sunaina Badam, Sriram Reddy, Anand Ramaraju, Balagam Sanjay Krishna, Raghav Rudra Mulpuru & Chakravarthii\nCinematography by C. Ramprasad\nEdited by Tammiraju\nMusic by Thaman S. \n\nSynopsis:\nNelakonda Bhagavanth Kesari is adamant about getting even with a powerful businessman who cost him money. He is prepared to square off against the formidable foe and resolve their issues amicably.\n\nJoin Us\n► Subscribe our channel : http://bit.ly/ADMDMovies\n► Visit our website: https://www.admdmovies.com\n► Like us on Facebook: https://www.facebook.com/adwisemediadigital\n► Follow us on Twitter: https://www.twitter.com/AdwiseMediaD\n\n#JailerDada #NandamuriBalakrishna #Sreeleela #ArjunRampal #KajalAggarwal #SouthIndianMovie #HindiDubbedMovies",
+    "metadata": {
+      "year": null,
+      "genre": [],
+      "durationSeconds": 7890
+    },
+    "statistics": {
+      "views": 465066,
+      "likes": 1493
+    },
+    "publishedAt": "2026-10-06T13:30:31Z",
+    "verification": {
+      "status": "verified",
+      "method": "official-channel-whitelist"
+    },
+    "algorithm": {
+      "trendingScore": 63.15,
+      "recommendationScore": 59.98
     }
   },
   {
@@ -1036,8 +1036,8 @@
       "durationSeconds": 7025
     },
     "statistics": {
-      "views": 755614,
-      "likes": 2925
+      "views": 758122,
+      "likes": 2933
     },
     "publishedAt": "2026-10-03T14:30:36Z",
     "verification": {
@@ -1045,8 +1045,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 63.18,
-      "recommendationScore": 60.87
+      "trendingScore": 63.1,
+      "recommendationScore": 60.83
     }
   }
 ]
