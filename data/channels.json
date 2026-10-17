@@ -65,14 +65,14 @@
     "channelUrl": "https://www.youtube.com/channel/UCvUctuMp58UD_kQtcWcNCjw"
   },
   {
-    "name": "GoldminesAction",
-    "channelId": "UCY7tB-mpvlQeWgaCCS1Cmwg",
-    "channelUrl": "https://www.youtube.com/channel/UCY7tB-mpvlQeWgaCCS1Cmwg"
-  },
-  {
     "name": "Goldmines Movies",
     "channelId": "UCs570zdFq_NNA5OcV8chnHw",
     "channelUrl": "https://www.youtube.com/channel/UCs570zdFq_NNA5OcV8chnHw"
+  },
+  {
+    "name": "GoldminesAction",
+    "channelId": "UCY7tB-mpvlQeWgaCCS1Cmwg",
+    "channelUrl": "https://www.youtube.com/channel/UCY7tB-mpvlQeWgaCCS1Cmwg"
   },
   {
     "name": "Official Southplex Movies",
