@@ -35,11 +35,6 @@
     "channelUrl": "https://www.youtube.com/channel/UCL0f2RzwTMJc02Lg9DdcgNw"
   },
   {
-    "name": "Official Southplex Movies",
-    "channelId": "UCdbNMpCun6odxt-mcL0otdw",
-    "channelUrl": "https://www.youtube.com/channel/UCdbNMpCun6odxt-mcL0otdw"
-  },
-  {
     "name": "Netplex Movies 2026",
     "channelId": "UCuqpqRaJJL51ydh801feZJA",
     "channelUrl": "https://www.youtube.com/channel/UCuqpqRaJJL51ydh801feZJA"
@@ -83,6 +78,11 @@
     "name": "GoldminesAction",
     "channelId": "UCY7tB-mpvlQeWgaCCS1Cmwg",
     "channelUrl": "https://www.youtube.com/channel/UCY7tB-mpvlQeWgaCCS1Cmwg"
+  },
+  {
+    "name": "Official Southplex Movies",
+    "channelId": "UCdbNMpCun6odxt-mcL0otdw",
+    "channelUrl": "https://www.youtube.com/channel/UCdbNMpCun6odxt-mcL0otdw"
   },
   {
     "name": "Hindi Films",
