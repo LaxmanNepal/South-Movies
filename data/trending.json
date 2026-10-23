@@ -21,8 +21,8 @@
       "durationSeconds": 7356
     },
     "statistics": {
-      "views": 13818260,
-      "likes": 67424
+      "views": 13916003,
+      "likes": 68064
     },
     "publishedAt": "2026-10-16T06:30:09Z",
     "verification": {
@@ -30,8 +30,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 68.7,
-      "recommendationScore": 68.7
+      "trendingScore": 68.62,
+      "recommendationScore": 68.68
     }
   },
   {
@@ -56,8 +56,8 @@
       "durationSeconds": 6757
     },
     "statistics": {
-      "views": 2995470,
-      "likes": 21196
+      "views": 3010172,
+      "likes": 21301
     },
     "publishedAt": "2026-10-16T14:30:24Z",
     "verification": {
@@ -65,8 +65,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 67.4,
-      "recommendationScore": 65.72
+      "trendingScore": 67.31,
+      "recommendationScore": 65.68
     }
   },
   {
@@ -91,8 +91,8 @@
       "durationSeconds": 8771
     },
     "statistics": {
-      "views": 17028513,
-      "likes": 111738
+      "views": 17063521,
+      "likes": 111895
     },
     "publishedAt": "2026-10-08T18:30:31Z",
     "verification": {
@@ -100,8 +100,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 67.24,
-      "recommendationScore": 68.47
+      "trendingScore": 67.16,
+      "recommendationScore": 68.43
     }
   },
   {
@@ -126,8 +126,8 @@
       "durationSeconds": 8071
     },
     "statistics": {
-      "views": 40737449,
-      "likes": 315391
+      "views": 40833499,
+      "likes": 316468
     },
     "publishedAt": "2026-10-02T06:30:08Z",
     "verification": {
@@ -135,8 +135,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 66.92,
-      "recommendationScore": 69.87
+      "trendingScore": 66.84,
+      "recommendationScore": 69.84
     }
   },
   {
@@ -161,8 +161,8 @@
       "durationSeconds": 7450
     },
     "statistics": {
-      "views": 80040,
-      "likes": 1287
+      "views": 87588,
+      "likes": 1399
     },
     "publishedAt": "2026-10-21T10:30:21Z",
     "verification": {
@@ -171,7 +171,7 @@
     },
     "algorithm": {
       "trendingScore": 66.59,
-      "recommendationScore": 60.26
+      "recommendationScore": 60.39
     }
   },
   {
@@ -196,8 +196,8 @@
       "durationSeconds": 7337
     },
     "statistics": {
-      "views": 14937334,
-      "likes": 136045
+      "views": 14973183,
+      "likes": 136246
     },
     "publishedAt": "2026-10-01T13:30:09Z",
     "verification": {
@@ -205,8 +205,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 65.79,
-      "recommendationScore": 67.76
+      "trendingScore": 65.71,
+      "recommendationScore": 67.72
     }
   },
   {
@@ -231,8 +231,8 @@
       "durationSeconds": 7937
     },
     "statistics": {
-      "views": 523848,
-      "likes": 2078
+      "views": 543106,
+      "likes": 2165
     },
     "publishedAt": "2026-10-20T12:30:38Z",
     "verification": {
@@ -240,8 +240,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 65.48,
-      "recommendationScore": 61.48
+      "trendingScore": 65.44,
+      "recommendationScore": 61.52
     }
   },
   {
@@ -266,8 +266,8 @@
       "durationSeconds": 6847
     },
     "statistics": {
-      "views": 3002283,
-      "likes": 22501
+      "views": 3005367,
+      "likes": 22524
     },
     "publishedAt": "2026-10-08T18:30:13Z",
     "verification": {
@@ -275,8 +275,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 65.23,
-      "recommendationScore": 64.63
+      "trendingScore": 65.15,
+      "recommendationScore": 64.59
     }
   },
   {
@@ -301,8 +301,8 @@
       "durationSeconds": 8694
     },
     "statistics": {
-      "views": 2988016,
-      "likes": 17105
+      "views": 2996155,
+      "likes": 17155
     },
     "publishedAt": "2026-10-09T17:30:02Z",
     "verification": {
@@ -310,8 +310,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 65.02,
-      "recommendationScore": 64.32
+      "trendingScore": 64.94,
+      "recommendationScore": 64.28
     }
   },
   {
@@ -336,8 +336,8 @@
       "durationSeconds": 7926
     },
     "statistics": {
-      "views": 394987,
-      "likes": 1378
+      "views": 403607,
+      "likes": 1401
     },
     "publishedAt": "2026-10-20T12:30:36Z",
     "verification": {
@@ -345,7 +345,7 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 64.99,
+      "trendingScore": 64.92,
       "recommendationScore": 60.7
     }
   },
@@ -371,8 +371,8 @@
       "durationSeconds": 7152
     },
     "statistics": {
-      "views": 1344125,
-      "likes": 6873
+      "views": 1346547,
+      "likes": 6893
     },
     "publishedAt": "2026-10-13T14:30:30Z",
     "verification": {
@@ -380,8 +380,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 64.93,
-      "recommendationScore": 62.88
+      "trendingScore": 64.85,
+      "recommendationScore": 62.84
     }
   },
   {
@@ -406,8 +406,8 @@
       "durationSeconds": 8372
     },
     "statistics": {
-      "views": 319573,
-      "likes": 1006
+      "views": 330721,
+      "likes": 1052
     },
     "publishedAt": "2026-10-20T11:30:36Z",
     "verification": {
@@ -415,8 +415,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 64.6,
-      "recommendationScore": 60.11
+      "trendingScore": 64.56,
+      "recommendationScore": 60.15
     }
   },
   {
@@ -441,8 +441,8 @@
       "durationSeconds": 7596
     },
     "statistics": {
-      "views": 777412,
-      "likes": 3107
+      "views": 779246,
+      "likes": 3121
     },
     "publishedAt": "2026-10-15T14:30:19Z",
     "verification": {
@@ -450,8 +450,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 64.51,
-      "recommendationScore": 61.63
+      "trendingScore": 64.43,
+      "recommendationScore": 61.59
     }
   },
   {
@@ -476,8 +476,8 @@
       "durationSeconds": 6908
     },
     "statistics": {
-      "views": 1962030,
-      "likes": 11462
+      "views": 1968605,
+      "likes": 11487
     },
     "publishedAt": "2026-10-09T07:10:54Z",
     "verification": {
@@ -485,8 +485,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 64.38,
-      "recommendationScore": 63.3
+      "trendingScore": 64.3,
+      "recommendationScore": 63.26
     }
   },
   {
@@ -511,8 +511,8 @@
       "durationSeconds": 6427
     },
     "statistics": {
-      "views": 354605,
-      "likes": 1037
+      "views": 356108,
+      "likes": 1044
     },
     "publishedAt": "2026-10-19T11:30:06Z",
     "verification": {
@@ -520,8 +520,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 64.37,
-      "recommendationScore": 60.14
+      "trendingScore": 64.29,
+      "recommendationScore": 60.1
     }
   },
   {
@@ -546,8 +546,8 @@
       "durationSeconds": 7541
     },
     "statistics": {
-      "views": 110919,
-      "likes": 623
+      "views": 113613,
+      "likes": 638
     },
     "publishedAt": "2026-10-21T14:30:01Z",
     "verification": {
@@ -555,8 +555,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 64.24,
-      "recommendationScore": 58.43
+      "trendingScore": 64.18,
+      "recommendationScore": 58.44
     }
   },
   {
@@ -581,8 +581,8 @@
       "durationSeconds": 6852
     },
     "statistics": {
-      "views": 108301,
-      "likes": 511
+      "views": 112773,
+      "likes": 524
     },
     "publishedAt": "2026-10-21T14:34:12Z",
     "verification": {
@@ -590,8 +590,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 63.97,
-      "recommendationScore": 58.15
+      "trendingScore": 63.91,
+      "recommendationScore": 58.18
     }
   },
   {
@@ -616,8 +616,8 @@
       "durationSeconds": 8299
     },
     "statistics": {
-      "views": 1146907,
-      "likes": 7638
+      "views": 1147814,
+      "likes": 7644
     },
     "publishedAt": "2026-10-08T18:30:16Z",
     "verification": {
@@ -625,8 +625,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 63.76,
-      "recommendationScore": 62.16
+      "trendingScore": 63.67,
+      "recommendationScore": 62.12
     }
   },
   {
@@ -651,8 +651,8 @@
       "durationSeconds": 5697
     },
     "statistics": {
-      "views": 334063,
-      "likes": 1424
+      "views": 336612,
+      "likes": 1440
     },
     "publishedAt": "2026-10-16T11:00:08Z",
     "verification": {
@@ -660,8 +660,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 63.74,
-      "recommendationScore": 59.85
+      "trendingScore": 63.66,
+      "recommendationScore": 59.82
     }
   },
   {
@@ -686,8 +686,8 @@
       "durationSeconds": 7883
     },
     "statistics": {
-      "views": 764309,
-      "likes": 2023
+      "views": 765272,
+      "likes": 2025
     },
     "publishedAt": "2026-10-14T05:43:03Z",
     "verification": {
@@ -695,8 +695,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 63.72,
-      "recommendationScore": 61.04
+      "trendingScore": 63.63,
+      "recommendationScore": 60.99
     }
   },
   {
@@ -721,8 +721,8 @@
       "durationSeconds": 7467
     },
     "statistics": {
-      "views": 564572,
-      "likes": 2657
+      "views": 565325,
+      "likes": 2660
     },
     "publishedAt": "2026-10-12T11:30:29Z",
     "verification": {
@@ -730,8 +730,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 63.37,
-      "recommendationScore": 60.57
+      "trendingScore": 63.28,
+      "recommendationScore": 60.53
     }
   },
   {
@@ -756,8 +756,8 @@
       "durationSeconds": 5727
     },
     "statistics": {
-      "views": 360740,
-      "likes": 2046
+      "views": 361709,
+      "likes": 2051
     },
     "publishedAt": "2026-10-13T12:30:24Z",
     "verification": {
@@ -765,8 +765,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 63.35,
-      "recommendationScore": 59.92
+      "trendingScore": 63.26,
+      "recommendationScore": 59.88
     }
   },
   {
@@ -791,7 +791,7 @@
       "durationSeconds": 7113
     },
     "statistics": {
-      "views": 455050,
+      "views": 458893,
       "likes": 0
     },
     "publishedAt": "2026-10-17T12:30:18Z",
@@ -800,8 +800,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 63.31,
-      "recommendationScore": 59.68
+      "trendingScore": 63.23,
+      "recommendationScore": 59.65
     }
   },
   {
@@ -826,8 +826,8 @@
       "durationSeconds": 7153
     },
     "statistics": {
-      "views": 3028706,
-      "likes": 22812
+      "views": 3033064,
+      "likes": 22854
     },
     "publishedAt": "2026-10-01T14:30:28Z",
     "verification": {
@@ -835,8 +835,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 63.3,
-      "recommendationScore": 63.63
+      "trendingScore": 63.22,
+      "recommendationScore": 63.59
     }
   },
   {
@@ -861,8 +861,8 @@
       "durationSeconds": 9070
     },
     "statistics": {
-      "views": 997674,
-      "likes": 5557
+      "views": 998951,
+      "likes": 5565
     },
     "publishedAt": "2026-10-07T14:23:36Z",
     "verification": {
@@ -870,8 +870,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 62.95,
-      "recommendationScore": 61.39
+      "trendingScore": 62.87,
+      "recommendationScore": 61.35
     }
   },
   {
@@ -896,8 +896,8 @@
       "durationSeconds": 7343
     },
     "statistics": {
-      "views": 185221,
-      "likes": 659
+      "views": 185504,
+      "likes": 661
     },
     "publishedAt": "2026-10-16T11:30:34Z",
     "verification": {
@@ -905,8 +905,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 62.78,
-      "recommendationScore": 58.29
+      "trendingScore": 62.7,
+      "recommendationScore": 58.25
     }
   },
   {
@@ -931,8 +931,8 @@
       "durationSeconds": 6627
     },
     "statistics": {
-      "views": 238514,
-      "likes": 858
+      "views": 239352,
+      "likes": 860
     },
     "publishedAt": "2026-10-15T05:30:36Z",
     "verification": {
@@ -940,8 +940,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 62.75,
-      "recommendationScore": 58.7
+      "trendingScore": 62.66,
+      "recommendationScore": 58.66
     }
   },
   {
@@ -966,7 +966,7 @@
       "durationSeconds": 5466
     },
     "statistics": {
-      "views": 294323,
+      "views": 294542,
       "likes": 2470
     },
     "publishedAt": "2026-10-09T13:30:17Z",
@@ -975,43 +975,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 62.67,
-      "recommendationScore": 59.53
-    }
-  },
-  {
-    "id": "UI0N1LwVRk0",
-    "title": "Seetharama Kalyana | Nikhil Gowda, Rachita Ram, R. Sarathkumar South Action Hindi Dubbed Movie",
-    "slug": "seetharama-kalyana-nikhil-gowda-rachita-ram-r-sarathkumar-south-action-hindi-dubbed-movie",
-    "youtubeVideoId": "UI0N1LwVRk0",
-    "youtubeUrl": "https://www.youtube.com/watch?v=UI0N1LwVRk0",
-    "thumbnail": "https://i.ytimg.com/vi/UI0N1LwVRk0/maxresdefault.jpg",
-    "language": "South Indian",
-    "audioLanguage": "Hindi",
-    "dubbed": true,
-    "creator": {
-      "name": "RKD Studios",
-      "channelId": "UCjBwQ6M9QyCgO5Pp-TQRFUA",
-      "channelUrl": "https://www.youtube.com/channel/UCjBwQ6M9QyCgO5Pp-TQRFUA"
-    },
-    "description": "Enjoy \"Seetharama Kalyana\", a Latest South Action Hindi Dubbed Movie starring Nikhil Gowda, Rachita Ram, Madhoo, R. Sarathkumar, Sanjay Kapoor, Bhagyashree, P. Ravishankar, Adithya Menon, Chikkanna, Sadhu Kokila & others. Directed by A. Harsha.\n\n#nikhilgowda #rachitaram #southaction #hindidubbedmovie #madhoo #rsarathkumar #sanjaykapoor #bhagyashree #SeetharamaKalyana #HindiDubbed #HindiDubbedMovie #SouthIndianMovies #SouthIndianMovie #KannadaMovie #ActionMovie #RomanticMovie\n\nCredits:\nTitle: Seetharama Kalyana (2019)\nDirector: A. Harsha\nProducer: Anitha Kumaraswamy\nMusic: Anup Rubens\nGenre: Action, Romance, Family Drama, Political Drama\nStarcast: Nikhil Gowda, Rachita Ram, Madhoo, R. Sarathkumar, Sanjay Kapoor, Bhagyashree, P. Ravishankar\n\nDisclaimer:- We are only the right holders of this content. Any opinions expressed in this Film may purely be of the director or the original producers but are not our personal opinions and we do not assume any responsibility or liability for the same.\n\nKindly subscribe to the channel and Press the BELL ICON to get Instant Notifications from @rkddigital\n\nSubscribe To Our Channel:- https://www.youtube.com/channel/UCjBwQ6M9QyCgO5Pp-TQRFUA?sub_confirmation=1\n\nFollow Us On:\nFacebook: https://www.facebook.com/RKDStudiosOfficial/\nInstagram: https://www.instagram.com/rkdstudios",
-    "metadata": {
-      "year": 2019,
-      "genre": [],
-      "durationSeconds": 7796
-    },
-    "statistics": {
-      "views": 400793,
-      "likes": 2373
-    },
-    "publishedAt": "2026-10-10T05:34:59Z",
-    "verification": {
-      "status": "verified",
-      "method": "official-channel-whitelist"
-    },
-    "algorithm": {
-      "trendingScore": 62.6,
-      "recommendationScore": 59.73
+      "trendingScore": 62.59,
+      "recommendationScore": 59.48
     }
   },
   {
@@ -1036,8 +1001,8 @@
       "durationSeconds": 6406
     },
     "statistics": {
-      "views": 62675,
-      "likes": 141
+      "views": 65580,
+      "likes": 145
     },
     "publishedAt": "2026-10-21T14:30:06Z",
     "verification": {
@@ -1045,8 +1010,43 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 62.59,
-      "recommendationScore": 56.25
+      "trendingScore": 62.54,
+      "recommendationScore": 56.3
+    }
+  },
+  {
+    "id": "UI0N1LwVRk0",
+    "title": "Seetharama Kalyana | Nikhil Gowda, Rachita Ram, R. Sarathkumar South Action Hindi Dubbed Movie",
+    "slug": "seetharama-kalyana-nikhil-gowda-rachita-ram-r-sarathkumar-south-action-hindi-dubbed-movie",
+    "youtubeVideoId": "UI0N1LwVRk0",
+    "youtubeUrl": "https://www.youtube.com/watch?v=UI0N1LwVRk0",
+    "thumbnail": "https://i.ytimg.com/vi/UI0N1LwVRk0/maxresdefault.jpg",
+    "language": "South Indian",
+    "audioLanguage": "Hindi",
+    "dubbed": true,
+    "creator": {
+      "name": "RKD Studios",
+      "channelId": "UCjBwQ6M9QyCgO5Pp-TQRFUA",
+      "channelUrl": "https://www.youtube.com/channel/UCjBwQ6M9QyCgO5Pp-TQRFUA"
+    },
+    "description": "Enjoy \"Seetharama Kalyana\", a Latest South Action Hindi Dubbed Movie starring Nikhil Gowda, Rachita Ram, Madhoo, R. Sarathkumar, Sanjay Kapoor, Bhagyashree, P. Ravishankar, Adithya Menon, Chikkanna, Sadhu Kokila & others. Directed by A. Harsha.\n\n#nikhilgowda #rachitaram #southaction #hindidubbedmovie #madhoo #rsarathkumar #sanjaykapoor #bhagyashree #SeetharamaKalyana #HindiDubbed #HindiDubbedMovie #SouthIndianMovies #SouthIndianMovie #KannadaMovie #ActionMovie #RomanticMovie\n\nCredits:\nTitle: Seetharama Kalyana (2019)\nDirector: A. Harsha\nProducer: Anitha Kumaraswamy\nMusic: Anup Rubens\nGenre: Action, Romance, Family Drama, Political Drama\nStarcast: Nikhil Gowda, Rachita Ram, Madhoo, R. Sarathkumar, Sanjay Kapoor, Bhagyashree, P. Ravishankar\n\nDisclaimer:- We are only the right holders of this content. Any opinions expressed in this Film may purely be of the director or the original producers but are not our personal opinions and we do not assume any responsibility or liability for the same.\n\nKindly subscribe to the channel and Press the BELL ICON to get Instant Notifications from @rkddigital\n\nSubscribe To Our Channel:- https://www.youtube.com/channel/UCjBwQ6M9QyCgO5Pp-TQRFUA?sub_confirmation=1\n\nFollow Us On:\nFacebook: https://www.facebook.com/RKDStudiosOfficial/\nInstagram: https://www.instagram.com/rkdstudios",
+    "metadata": {
+      "year": 2019,
+      "genre": [],
+      "durationSeconds": 7796
+    },
+    "statistics": {
+      "views": 401001,
+      "likes": 2375
+    },
+    "publishedAt": "2026-10-10T05:34:59Z",
+    "verification": {
+      "status": "verified",
+      "method": "official-channel-whitelist"
+    },
+    "algorithm": {
+      "trendingScore": 62.52,
+      "recommendationScore": 59.69
     }
   }
 ]
