@@ -25,14 +25,14 @@
     "channelUrl": "https://www.youtube.com/channel/UCvUctuMp58UD_kQtcWcNCjw"
   },
   {
-    "name": "Aditya Movies",
-    "channelId": "UCX_uPA_dGf7wXjuMEaSKLJA",
-    "channelUrl": "https://www.youtube.com/channel/UCX_uPA_dGf7wXjuMEaSKLJA"
-  },
-  {
     "name": "RKD Multiplex",
     "channelId": "UCL0f2RzwTMJc02Lg9DdcgNw",
     "channelUrl": "https://www.youtube.com/channel/UCL0f2RzwTMJc02Lg9DdcgNw"
+  },
+  {
+    "name": "Aditya Movies",
+    "channelId": "UCX_uPA_dGf7wXjuMEaSKLJA",
+    "channelUrl": "https://www.youtube.com/channel/UCX_uPA_dGf7wXjuMEaSKLJA"
   },
   {
     "name": "Netplex Movies 2026",
@@ -60,14 +60,14 @@
     "channelUrl": "https://www.youtube.com/channel/UC2aBjYYDkwN5LLSB8957KZQ"
   },
   {
-    "name": "Goldmines Cineplex",
-    "channelId": "UCCrw5RBWF9i8VPt4IxL8IsQ",
-    "channelUrl": "https://www.youtube.com/channel/UCCrw5RBWF9i8VPt4IxL8IsQ"
-  },
-  {
     "name": "Goldmines Movies",
     "channelId": "UCs570zdFq_NNA5OcV8chnHw",
     "channelUrl": "https://www.youtube.com/channel/UCs570zdFq_NNA5OcV8chnHw"
+  },
+  {
+    "name": "Goldmines Cineplex",
+    "channelId": "UCCrw5RBWF9i8VPt4IxL8IsQ",
+    "channelUrl": "https://www.youtube.com/channel/UCCrw5RBWF9i8VPt4IxL8IsQ"
   },
   {
     "name": "WamIndia Select Movies",
@@ -75,14 +75,14 @@
     "channelUrl": "https://www.youtube.com/channel/UC_sXBvPWlKbvKfrzHiqxYhg"
   },
   {
-    "name": "Official Southplex Movies",
-    "channelId": "UCdbNMpCun6odxt-mcL0otdw",
-    "channelUrl": "https://www.youtube.com/channel/UCdbNMpCun6odxt-mcL0otdw"
-  },
-  {
     "name": "GoldminesAction",
     "channelId": "UCY7tB-mpvlQeWgaCCS1Cmwg",
     "channelUrl": "https://www.youtube.com/channel/UCY7tB-mpvlQeWgaCCS1Cmwg"
+  },
+  {
+    "name": "Official Southplex Movies",
+    "channelId": "UCdbNMpCun6odxt-mcL0otdw",
+    "channelUrl": "https://www.youtube.com/channel/UCdbNMpCun6odxt-mcL0otdw"
   },
   {
     "name": "Hindi Films",
