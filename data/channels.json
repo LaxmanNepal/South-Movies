@@ -1,8 +1,18 @@
 [
   {
+    "name": "Netplex Movies 2026",
+    "channelId": "UCuqpqRaJJL51ydh801feZJA",
+    "channelUrl": "https://www.youtube.com/channel/UCuqpqRaJJL51ydh801feZJA"
+  },
+  {
     "name": "RKD Studios",
     "channelId": "UCjBwQ6M9QyCgO5Pp-TQRFUA",
     "channelUrl": "https://www.youtube.com/channel/UCjBwQ6M9QyCgO5Pp-TQRFUA"
+  },
+  {
+    "name": "Goldmines Premiere",
+    "channelId": "UCvUctuMp58UD_kQtcWcNCjw",
+    "channelUrl": "https://www.youtube.com/channel/UCvUctuMp58UD_kQtcWcNCjw"
   },
   {
     "name": "Goldmines",
@@ -23,16 +33,6 @@
     "name": "RKD Multiplex",
     "channelId": "UCL0f2RzwTMJc02Lg9DdcgNw",
     "channelUrl": "https://www.youtube.com/channel/UCL0f2RzwTMJc02Lg9DdcgNw"
-  },
-  {
-    "name": "Netplex Movies 2026",
-    "channelId": "UCuqpqRaJJL51ydh801feZJA",
-    "channelUrl": "https://www.youtube.com/channel/UCuqpqRaJJL51ydh801feZJA"
-  },
-  {
-    "name": "Goldmines Premiere",
-    "channelId": "UCvUctuMp58UD_kQtcWcNCjw",
-    "channelUrl": "https://www.youtube.com/channel/UCvUctuMp58UD_kQtcWcNCjw"
   },
   {
     "name": "Aditya Movies",
