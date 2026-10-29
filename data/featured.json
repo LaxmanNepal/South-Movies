@@ -21,8 +21,8 @@
       "durationSeconds": 6680
     },
     "statistics": {
-      "views": 9829206,
-      "likes": 89260
+      "views": 10765167,
+      "likes": 95673
     },
     "publishedAt": "2026-10-23T11:30:11Z",
     "verification": {
@@ -30,8 +30,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 69.56,
-      "recommendationScore": 69.04
+      "trendingScore": 69.5,
+      "recommendationScore": 69.14
     }
   },
   {
@@ -56,8 +56,8 @@
       "durationSeconds": 7356
     },
     "statistics": {
-      "views": 22196973,
-      "likes": 106203
+      "views": 22840065,
+      "likes": 108741
     },
     "publishedAt": "2026-10-16T06:30:09Z",
     "verification": {
@@ -65,7 +65,7 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 67.35,
+      "trendingScore": 67.27,
       "recommendationScore": 68.77
     }
   },
@@ -91,8 +91,8 @@
       "durationSeconds": 7545
     },
     "statistics": {
-      "views": 16464,
-      "likes": 391
+      "views": 573488,
+      "likes": 2343
     },
     "publishedAt": "2026-10-29T11:30:08Z",
     "verification": {
@@ -100,43 +100,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 66.75,
-      "recommendationScore": 58.54
-    }
-  },
-  {
-    "id": "kVg1yrAGdTs",
-    "title": "DAAMAD SUPERSTAR (2026) New Released Full Hindi Dubbed Movie | Kalyaan Dev, Avika | New South Movie",
-    "slug": "daamad-superstar-2026-new-released-full-hindi-dubbed-movie-kalyaan-dev-avika-new-south-movie",
-    "youtubeVideoId": "kVg1yrAGdTs",
-    "youtubeUrl": "https://www.youtube.com/watch?v=kVg1yrAGdTs",
-    "thumbnail": "https://i.ytimg.com/vi/kVg1yrAGdTs/maxresdefault.jpg",
-    "language": "South Indian",
-    "audioLanguage": "Hindi",
-    "dubbed": true,
-    "creator": {
-      "name": "AD-WISE MEDIA ACTION MOVIEPLEX",
-      "channelId": "UCSx_w4q5PkAOg9i45uMFHmA",
-      "channelUrl": "https://www.youtube.com/channel/UCSx_w4q5PkAOg9i45uMFHmA"
-    },
-    "description": "Presenting New South (Sauth) Indian Movies Dubbed In Hindi 2026 Full (साउथ मूवी २०२६, New Movies 2026, Hindi Movie 2026, South Movie 2026) ''DAAMAD SUPERSTAR ''. Exclusively on @ADMDMOVIES \n\nSubscribe सब्सक्राइब Us For More South Indian Blockbusters in Hindi for FREE\nhttp://bit.ly/ADMDMovies\n\nMovie Credit \nDirected by Sreedhar Seepana\nProducer: Aditya Bhatia\nStarring : Kalyaan Dev, Avika gor, Subbaraju santosh, Prushvi raj, Vennela Kishore, Vudyullekha raman, Manobala, Ariyana Glory & Venkat prab prasad\n\nJoin Us\n► Subscribe our channel : http://bit.ly/ADMDMovies\n► Visit our website: https://www.admdmovies.com\n► Like us on Facebook: https://www.facebook.com/adwisemediadigital\n► Follow us on Twitter: https://www.twitter.com/AdwiseMediaD\n\n#DaamadSuperstar #newmovie #newsouthmovie #southmovie2026 #hindidubbedmovie",
-    "metadata": {
-      "year": 2026,
-      "genre": [],
-      "durationSeconds": 6757
-    },
-    "statistics": {
-      "views": 4371616,
-      "likes": 28147
-    },
-    "publishedAt": "2026-10-16T14:30:24Z",
-    "verification": {
-      "status": "verified",
-      "method": "official-channel-whitelist"
-    },
-    "algorithm": {
-      "trendingScore": 65.78,
-      "recommendationScore": 65.43
+      "trendingScore": 66.06,
+      "recommendationScore": 61.95
     }
   },
   {
@@ -161,8 +126,8 @@
       "durationSeconds": 8112
     },
     "statistics": {
-      "views": 275561,
-      "likes": 1613
+      "views": 450774,
+      "likes": 2259
     },
     "publishedAt": "2026-10-28T14:30:13Z",
     "verification": {
@@ -170,17 +135,17 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 65.59,
-      "recommendationScore": 60.67
+      "trendingScore": 65.89,
+      "recommendationScore": 61.56
     }
   },
   {
-    "id": "L1p2K5wFLE8",
-    "title": "BAGHEERA (2026) New Released Full Hindi Dubbed Movie | Sriimurali, Rukmini Vasanth, Prakash Raj",
-    "slug": "bagheera-2026-new-released-full-hindi-dubbed-movie-sriimurali-rukmini-vasanth-prakash-raj",
-    "youtubeVideoId": "L1p2K5wFLE8",
-    "youtubeUrl": "https://www.youtube.com/watch?v=L1p2K5wFLE8",
-    "thumbnail": "https://i.ytimg.com/vi/L1p2K5wFLE8/maxresdefault.jpg",
+    "id": "kVg1yrAGdTs",
+    "title": "DAAMAD SUPERSTAR (2026) New Released Full Hindi Dubbed Movie | Kalyaan Dev, Avika | New South Movie",
+    "slug": "daamad-superstar-2026-new-released-full-hindi-dubbed-movie-kalyaan-dev-avika-new-south-movie",
+    "youtubeVideoId": "kVg1yrAGdTs",
+    "youtubeUrl": "https://www.youtube.com/watch?v=kVg1yrAGdTs",
+    "thumbnail": "https://i.ytimg.com/vi/kVg1yrAGdTs/maxresdefault.jpg",
     "language": "South Indian",
     "audioLanguage": "Hindi",
     "dubbed": true,
@@ -189,24 +154,24 @@
       "channelId": "UCSx_w4q5PkAOg9i45uMFHmA",
       "channelUrl": "https://www.youtube.com/channel/UCSx_w4q5PkAOg9i45uMFHmA"
     },
-    "description": "PRESENTING WORLD DIGITAL PREMIERE 'BAGHEERA' a power-packed Superhero Action New South (Sauth) Indian Movies Dubbed In Hindi 2026 Full (साउथ मूवी २०२६, New Movies 2026, Hindi Movie 2026, South Movie 2026)  \"VADAM\". Exclusively on  @ADMDMOVIES  \n\nSubscribe सब्सक्राइब Us For More South Indian Blockbusters in Hindi for FREE - http://bit.ly/ADMDMovies\n\nMovie Credits:\nDirected by Dr. Suri\nScreenplay by Dr. Suri\nStory by Prashanth Neel\nProduced by Vijay Kiragandur\nStarring Sriimurali, Rukmini Vasanth, Prakash Raj, Achyuth Kumar, Rangayana Raghu, Garuda Ram, Pramod Shetty, Sudha Rani, Sharath Lohitashwa & Others\nCinematography Arjun Shetty\nEdited by Pranav Sri Prasad\nMusic by B. Ajaneesh Loknath\n\nSynopsis:\nVedanth Prabhakar, inspired by his dying mother's belief that police officers are true superheroes, joins the police force to fight crime. But after discovering deep-rooted corruption within the system and witnessing the brutal injustice faced by innocent victims, he secretly transforms into Bagheera, a masked vigilante who takes the law into his own hands. As he wages a one-man war against ruthless criminals and an organ-trafficking network led by the powerful Rana, Vedanth must also evade a determined CBI officer investigating Bagheera's identity. When Rana kidnaps Vedanth's fiancée Sneha and forces him to make an impossible choice, tragedy pushes Bagheera into a final battle for justice and revenge, exposing the powerful figures behind the criminal empire.\n\nJoin Us\n► Subscribe our channel : http://bit.ly/ADMDMovies\n► Visit our website: https://www.admdmovies.com\n► Like us on Facebook: https://www.facebook.com/adwisemediadigital\n► Follow us on Twitter: https://www.twitter.com/AdwiseMediaD\n\n#Bagheera  #Sriimurali  #RukminiVasanth #PrakashRaj #SouthIndianMovie #HindiDubbedMovies #hindimovie #superheromovies",
+    "description": "Presenting New South (Sauth) Indian Movies Dubbed In Hindi 2026 Full (साउथ मूवी २०२६, New Movies 2026, Hindi Movie 2026, South Movie 2026) ''DAAMAD SUPERSTAR ''. Exclusively on @ADMDMOVIES \n\nSubscribe सब्सक्राइब Us For More South Indian Blockbusters in Hindi for FREE\nhttp://bit.ly/ADMDMovies\n\nMovie Credit \nDirected by Sreedhar Seepana\nProducer: Aditya Bhatia\nStarring : Kalyaan Dev, Avika gor, Subbaraju santosh, Prushvi raj, Vennela Kishore, Vudyullekha raman, Manobala, Ariyana Glory & Venkat prab prasad\n\nJoin Us\n► Subscribe our channel : http://bit.ly/ADMDMovies\n► Visit our website: https://www.admdmovies.com\n► Like us on Facebook: https://www.facebook.com/adwisemediadigital\n► Follow us on Twitter: https://www.twitter.com/AdwiseMediaD\n\n#DaamadSuperstar #newmovie #newsouthmovie #southmovie2026 #hindidubbedmovie",
     "metadata": {
       "year": 2026,
       "genre": [],
-      "durationSeconds": 8771
+      "durationSeconds": 6757
     },
     "statistics": {
-      "views": 18774035,
-      "likes": 119068
+      "views": 4468889,
+      "likes": 28632
     },
-    "publishedAt": "2026-10-08T18:30:31Z",
+    "publishedAt": "2026-10-16T14:30:24Z",
     "verification": {
       "status": "verified",
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 65.49,
-      "recommendationScore": 67.68
+      "trendingScore": 65.68,
+      "recommendationScore": 65.41
     }
   },
   {
@@ -231,8 +196,8 @@
       "durationSeconds": 7552
     },
     "statistics": {
-      "views": 329360,
-      "likes": 1822
+      "views": 395590,
+      "likes": 2019
     },
     "publishedAt": "2026-10-27T11:30:22Z",
     "verification": {
@@ -241,42 +206,42 @@
     },
     "algorithm": {
       "trendingScore": 65.4,
-      "recommendationScore": 60.84
+      "recommendationScore": 61.09
     }
   },
   {
-    "id": "PEylwLDmayE",
-    "title": "Paradha 2026 New Release South Thriller Movie | Anupama Parameswaran, Darshana Rajendran, Sangeetha",
-    "slug": "paradha-2026-new-release-south-thriller-movie-anupama-parameswaran-darshana-rajendran-sangeetha",
-    "youtubeVideoId": "PEylwLDmayE",
-    "youtubeUrl": "https://www.youtube.com/watch?v=PEylwLDmayE",
-    "thumbnail": "https://i.ytimg.com/vi/PEylwLDmayE/maxresdefault.jpg",
-    "language": "Telugu",
+    "id": "L1p2K5wFLE8",
+    "title": "BAGHEERA (2026) New Released Full Hindi Dubbed Movie | Sriimurali, Rukmini Vasanth, Prakash Raj",
+    "slug": "bagheera-2026-new-released-full-hindi-dubbed-movie-sriimurali-rukmini-vasanth-prakash-raj",
+    "youtubeVideoId": "L1p2K5wFLE8",
+    "youtubeUrl": "https://www.youtube.com/watch?v=L1p2K5wFLE8",
+    "thumbnail": "https://i.ytimg.com/vi/L1p2K5wFLE8/maxresdefault.jpg",
+    "language": "South Indian",
     "audioLanguage": "Hindi",
     "dubbed": true,
     "creator": {
-      "name": "RKD Studios",
-      "channelId": "UCjBwQ6M9QyCgO5Pp-TQRFUA",
-      "channelUrl": "https://www.youtube.com/channel/UCjBwQ6M9QyCgO5Pp-TQRFUA"
+      "name": "AD-WISE MEDIA ACTION MOVIEPLEX",
+      "channelId": "UCSx_w4q5PkAOg9i45uMFHmA",
+      "channelUrl": "https://www.youtube.com/channel/UCSx_w4q5PkAOg9i45uMFHmA"
     },
-    "description": "\"Paradha\" is a latest Indian Telugu-language film directed by Praveen Kandregula. The film features Anupama Parameswaran, Darshana Rajendran, Sangeetha & Rajendra Prasad in lead role. \n\nParadha is a powerful women-centric film that talks about freedom, identity and courage.\nThis journey becomes a journey of self-discovery, where 3 women from different backgrounds fight against patriarchy, superstition and age-old customs. \nWill Subbu be able to break the veil? Watch now, only on RKD Studios! 🔥\n\n#rkdstudios #paradha #anupamaparameswaran #darshanarajendran #gauthamvasudevmenon #rajendraprasad #sangeetha #hindidubbed #southdubbedmovie \n\nMovie (Hindi Dubbed):- Paradha (2025)\nOriginal Movie Name: Paradha in Telugu\nDirector:- Praveen Kandregula\nProducer:- Vijay Donkada, Sridhar Makkuva, Sreenivasulu PV\nMusic:- Gopi Sundar\nStarCast:- Anupama Parameswaran, Darshana Rajendran, Sangeetha, Rajendra Prasad, Gautham Vasudev Menon, Ananya Mohan,  Rag Mayur, Harshavardhan, Kethiri Sudhakar Reddy, Palasa Janardhan, Gnaneswari Kandregula\n\nDisclaimer:- We are only the right holders of this content. Any opinions expressed in this Film may purely be of the director or the original producers but are not our personal opinions and we do not assume any responsibility or liability for the same.\n\nKindly subscribe to the channel and Press the BELL ICON to get Instant Notifications from @rkddigital\n\nSubscribe To Our Channel:- https://www.youtube.com/channel/UCjBwQ6M9QyCgO5Pp-TQRFUA?sub_confirmation=1\n\nFollow Us On:\nFacebook: https://www.facebook.com/RKDStudiosOfficial/\nInstagram: https://www.instagram.com/rkdstudios",
+    "description": "PRESENTING WORLD DIGITAL PREMIERE 'BAGHEERA' a power-packed Superhero Action New South (Sauth) Indian Movies Dubbed In Hindi 2026 Full (साउथ मूवी २०२६, New Movies 2026, Hindi Movie 2026, South Movie 2026)  \"VADAM\". Exclusively on  @ADMDMOVIES  \n\nSubscribe सब्सक्राइब Us For More South Indian Blockbusters in Hindi for FREE - http://bit.ly/ADMDMovies\n\nMovie Credits:\nDirected by Dr. Suri\nScreenplay by Dr. Suri\nStory by Prashanth Neel\nProduced by Vijay Kiragandur\nStarring Sriimurali, Rukmini Vasanth, Prakash Raj, Achyuth Kumar, Rangayana Raghu, Garuda Ram, Pramod Shetty, Sudha Rani, Sharath Lohitashwa & Others\nCinematography Arjun Shetty\nEdited by Pranav Sri Prasad\nMusic by B. Ajaneesh Loknath\n\nSynopsis:\nVedanth Prabhakar, inspired by his dying mother's belief that police officers are true superheroes, joins the police force to fight crime. But after discovering deep-rooted corruption within the system and witnessing the brutal injustice faced by innocent victims, he secretly transforms into Bagheera, a masked vigilante who takes the law into his own hands. As he wages a one-man war against ruthless criminals and an organ-trafficking network led by the powerful Rana, Vedanth must also evade a determined CBI officer investigating Bagheera's identity. When Rana kidnaps Vedanth's fiancée Sneha and forces him to make an impossible choice, tragedy pushes Bagheera into a final battle for justice and revenge, exposing the powerful figures behind the criminal empire.\n\nJoin Us\n► Subscribe our channel : http://bit.ly/ADMDMovies\n► Visit our website: https://www.admdmovies.com\n► Like us on Facebook: https://www.facebook.com/adwisemediadigital\n► Follow us on Twitter: https://www.twitter.com/AdwiseMediaD\n\n#Bagheera  #Sriimurali  #RukminiVasanth #PrakashRaj #SouthIndianMovie #HindiDubbedMovies #hindimovie #superheromovies",
     "metadata": {
       "year": 2026,
       "genre": [],
-      "durationSeconds": 8071
+      "durationSeconds": 8771
     },
     "statistics": {
-      "views": 50199505,
-      "likes": 372489
+      "views": 18885286,
+      "likes": 119529
     },
-    "publishedAt": "2026-10-02T06:30:08Z",
+    "publishedAt": "2026-10-08T18:30:31Z",
     "verification": {
       "status": "verified",
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 65.38,
-      "recommendationScore": 69.37
+      "trendingScore": 65.39,
+      "recommendationScore": 67.64
     }
   },
   {
@@ -301,8 +266,8 @@
       "durationSeconds": 6747
     },
     "statistics": {
-      "views": 592683,
-      "likes": 4211
+      "views": 629467,
+      "likes": 4459
     },
     "publishedAt": "2026-10-23T11:30:05Z",
     "verification": {
@@ -310,8 +275,43 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 65.36,
-      "recommendationScore": 61.96
+      "trendingScore": 65.31,
+      "recommendationScore": 62.04
+    }
+  },
+  {
+    "id": "PEylwLDmayE",
+    "title": "Paradha 2026 New Release South Thriller Movie | Anupama Parameswaran, Darshana Rajendran, Sangeetha",
+    "slug": "paradha-2026-new-release-south-thriller-movie-anupama-parameswaran-darshana-rajendran-sangeetha",
+    "youtubeVideoId": "PEylwLDmayE",
+    "youtubeUrl": "https://www.youtube.com/watch?v=PEylwLDmayE",
+    "thumbnail": "https://i.ytimg.com/vi/PEylwLDmayE/maxresdefault.jpg",
+    "language": "Telugu",
+    "audioLanguage": "Hindi",
+    "dubbed": true,
+    "creator": {
+      "name": "RKD Studios",
+      "channelId": "UCjBwQ6M9QyCgO5Pp-TQRFUA",
+      "channelUrl": "https://www.youtube.com/channel/UCjBwQ6M9QyCgO5Pp-TQRFUA"
+    },
+    "description": "\"Paradha\" is a latest Indian Telugu-language film directed by Praveen Kandregula. The film features Anupama Parameswaran, Darshana Rajendran, Sangeetha & Rajendra Prasad in lead role. \n\nParadha is a powerful women-centric film that talks about freedom, identity and courage.\nThis journey becomes a journey of self-discovery, where 3 women from different backgrounds fight against patriarchy, superstition and age-old customs. \nWill Subbu be able to break the veil? Watch now, only on RKD Studios! 🔥\n\n#rkdstudios #paradha #anupamaparameswaran #darshanarajendran #gauthamvasudevmenon #rajendraprasad #sangeetha #hindidubbed #southdubbedmovie \n\nMovie (Hindi Dubbed):- Paradha (2025)\nOriginal Movie Name: Paradha in Telugu\nDirector:- Praveen Kandregula\nProducer:- Vijay Donkada, Sridhar Makkuva, Sreenivasulu PV\nMusic:- Gopi Sundar\nStarCast:- Anupama Parameswaran, Darshana Rajendran, Sangeetha, Rajendra Prasad, Gautham Vasudev Menon, Ananya Mohan,  Rag Mayur, Harshavardhan, Kethiri Sudhakar Reddy, Palasa Janardhan, Gnaneswari Kandregula\n\nDisclaimer:- We are only the right holders of this content. Any opinions expressed in this Film may purely be of the director or the original producers but are not our personal opinions and we do not assume any responsibility or liability for the same.\n\nKindly subscribe to the channel and Press the BELL ICON to get Instant Notifications from @rkddigital\n\nSubscribe To Our Channel:- https://www.youtube.com/channel/UCjBwQ6M9QyCgO5Pp-TQRFUA?sub_confirmation=1\n\nFollow Us On:\nFacebook: https://www.facebook.com/RKDStudiosOfficial/\nInstagram: https://www.instagram.com/rkdstudios",
+    "metadata": {
+      "year": 2026,
+      "genre": [],
+      "durationSeconds": 8071
+    },
+    "statistics": {
+      "views": 50770054,
+      "likes": 374927
+    },
+    "publishedAt": "2026-10-02T06:30:08Z",
+    "verification": {
+      "status": "verified",
+      "method": "official-channel-whitelist"
+    },
+    "algorithm": {
+      "trendingScore": 65.28,
+      "recommendationScore": 69.34
     }
   },
   {
@@ -336,8 +336,8 @@
       "durationSeconds": 7450
     },
     "statistics": {
-      "views": 483649,
-      "likes": 4573
+      "views": 518058,
+      "likes": 4713
     },
     "publishedAt": "2026-10-21T10:30:21Z",
     "verification": {
@@ -345,8 +345,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 65.12,
-      "recommendationScore": 61.75
+      "trendingScore": 65.0,
+      "recommendationScore": 61.76
     }
   },
   {
@@ -371,8 +371,8 @@
       "durationSeconds": 7864
     },
     "statistics": {
-      "views": 1433706,
-      "likes": 5665
+      "views": 1472620,
+      "likes": 5760
     },
     "publishedAt": "2026-10-20T12:30:36Z",
     "verification": {
@@ -380,8 +380,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 64.78,
-      "recommendationScore": 62.78
+      "trendingScore": 64.69,
+      "recommendationScore": 62.77
     }
   },
   {
@@ -406,8 +406,8 @@
       "durationSeconds": 6185
     },
     "statistics": {
-      "views": 167180,
-      "likes": 637
+      "views": 190252,
+      "likes": 705
     },
     "publishedAt": "2026-10-28T11:30:14Z",
     "verification": {
@@ -415,8 +415,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 64.36,
-      "recommendationScore": 58.98
+      "trendingScore": 64.38,
+      "recommendationScore": 59.19
     }
   }
 ]
