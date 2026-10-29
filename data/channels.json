@@ -1,5 +1,10 @@
 [
   {
+    "name": "Goldmines Cineplex",
+    "channelId": "UCCrw5RBWF9i8VPt4IxL8IsQ",
+    "channelUrl": "https://www.youtube.com/channel/UCCrw5RBWF9i8VPt4IxL8IsQ"
+  },
+  {
     "name": "RKD Studios",
     "channelId": "UCjBwQ6M9QyCgO5Pp-TQRFUA",
     "channelUrl": "https://www.youtube.com/channel/UCjBwQ6M9QyCgO5Pp-TQRFUA"
@@ -58,11 +63,6 @@
     "name": "Goldmines Movies",
     "channelId": "UCs570zdFq_NNA5OcV8chnHw",
     "channelUrl": "https://www.youtube.com/channel/UCs570zdFq_NNA5OcV8chnHw"
-  },
-  {
-    "name": "Goldmines Cineplex",
-    "channelId": "UCCrw5RBWF9i8VPt4IxL8IsQ",
-    "channelUrl": "https://www.youtube.com/channel/UCCrw5RBWF9i8VPt4IxL8IsQ"
   },
   {
     "name": "Goldmines Housefull",
