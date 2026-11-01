@@ -21,8 +21,8 @@
       "durationSeconds": 6680
     },
     "statistics": {
-      "views": 13930175,
-      "likes": 118396
+      "views": 14494745,
+      "likes": 121982
     },
     "publishedAt": "2026-10-23T11:30:11Z",
     "verification": {
@@ -30,8 +30,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 68.96,
-      "recommendationScore": 69.25
+      "trendingScore": 68.88,
+      "recommendationScore": 69.26
     }
   },
   {
@@ -56,8 +56,8 @@
       "durationSeconds": 7300
     },
     "statistics": {
-      "views": 203484,
-      "likes": 3849
+      "views": 283493,
+      "likes": 4900
     },
     "publishedAt": "2026-10-30T11:00:01Z",
     "verification": {
@@ -65,8 +65,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 68.37,
-      "recommendationScore": 63.05
+      "trendingScore": 68.25,
+      "recommendationScore": 63.36
     }
   },
   {
@@ -91,8 +91,8 @@
       "durationSeconds": 9813
     },
     "statistics": {
-      "views": 1119261,
-      "likes": 8256
+      "views": 1276360,
+      "likes": 9108
     },
     "publishedAt": "2026-10-30T13:30:09Z",
     "verification": {
@@ -101,7 +101,7 @@
     },
     "algorithm": {
       "trendingScore": 67.51,
-      "recommendationScore": 64.18
+      "recommendationScore": 64.37
     }
   },
   {
@@ -126,8 +126,8 @@
       "durationSeconds": 7356
     },
     "statistics": {
-      "views": 25209928,
-      "likes": 118226
+      "views": 25623489,
+      "likes": 119599
     },
     "publishedAt": "2026-10-16T06:30:09Z",
     "verification": {
@@ -135,8 +135,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 66.65,
-      "recommendationScore": 68.6
+      "trendingScore": 66.56,
+      "recommendationScore": 68.58
     }
   },
   {
@@ -161,8 +161,8 @@
       "durationSeconds": 7545
     },
     "statistics": {
-      "views": 1143240,
-      "likes": 4341
+      "views": 1211669,
+      "likes": 4550
     },
     "publishedAt": "2026-10-29T11:30:08Z",
     "verification": {
@@ -170,8 +170,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 66.24,
-      "recommendationScore": 63.16
+      "trendingScore": 66.19,
+      "recommendationScore": 63.22
     }
   },
   {
@@ -196,8 +196,8 @@
       "durationSeconds": 8112
     },
     "statistics": {
-      "views": 788870,
-      "likes": 3703
+      "views": 838082,
+      "likes": 3865
     },
     "publishedAt": "2026-10-28T14:30:13Z",
     "verification": {
@@ -205,8 +205,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 65.73,
-      "recommendationScore": 62.37
+      "trendingScore": 65.67,
+      "recommendationScore": 62.43
     }
   },
   {
@@ -231,8 +231,8 @@
       "durationSeconds": 6897
     },
     "statistics": {
-      "views": 178365,
-      "likes": 1148
+      "views": 207856,
+      "likes": 1302
     },
     "publishedAt": "2026-10-31T11:30:30Z",
     "verification": {
@@ -240,8 +240,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 65.15,
-      "recommendationScore": 59.79
+      "trendingScore": 65.19,
+      "recommendationScore": 60.04
     }
   },
   {
@@ -266,8 +266,8 @@
       "durationSeconds": 6757
     },
     "statistics": {
-      "views": 4840963,
-      "likes": 30700
+      "views": 4904174,
+      "likes": 30979
     },
     "publishedAt": "2026-10-16T14:30:24Z",
     "verification": {
@@ -275,8 +275,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 65.04,
-      "recommendationScore": 65.19
+      "trendingScore": 64.95,
+      "recommendationScore": 65.17
     }
   },
   {
@@ -301,8 +301,8 @@
       "durationSeconds": 7552
     },
     "statistics": {
-      "views": 573759,
-      "likes": 2640
+      "views": 613709,
+      "likes": 2787
     },
     "publishedAt": "2026-10-27T11:30:22Z",
     "verification": {
@@ -310,8 +310,43 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 64.94,
-      "recommendationScore": 61.42
+      "trendingScore": 64.91,
+      "recommendationScore": 61.5
+    }
+  },
+  {
+    "id": "mDQz8wERqMI",
+    "title": "No Way Out - New Hindi Dubbed Full Movie HD | Crime Action Thriller | IOF Hindi",
+    "slug": "no-way-out-new-hindi-dubbed-full-movie-hd-crime-action-thriller-iof-hindi",
+    "youtubeVideoId": "mDQz8wERqMI",
+    "youtubeUrl": "https://www.youtube.com/watch?v=mDQz8wERqMI",
+    "thumbnail": "https://i.ytimg.com/vi/mDQz8wERqMI/maxresdefault.jpg",
+    "language": "Telugu",
+    "audioLanguage": "Hindi",
+    "dubbed": true,
+    "creator": {
+      "name": "IOF - Hindi",
+      "channelId": "UCQ-DyEmlafaU5VVuRVnfsFw",
+      "channelUrl": "https://www.youtube.com/channel/UCQ-DyEmlafaU5VVuRVnfsFw"
+    },
+    "description": "Click here to Subscribe - https://bit.ly/SubscribeIndoOverseasFilmsHindi\n\n\n___________________________________ \nEnjoy & stay connected with us!\nSubscribe to Indo Overseas Movies 👉 https://Subscribe.openinapp.co/IndoOverseasFilms\nSubscribe to IOF Hindi 👉 https://Subscribe.openinapp.co/IOFHindi\nSubscribe to IOF Telugu 👉 https://Subscribe.openinapp.co/IOFTelugu\nSubscribe to IOF Tamil 👉 https://Subscribe.openinapp.co/IOFTamil\n\nFollow Us On\nFacebook : https://www.facebook.com/indooverseasfilm\nTwitter : https://twitter.com/IOF_India\nInstagram : https://www.instagram.com/iof_india_/\nLinkedln : https://www.linkedin.com/in/indo-overseas-films-india-1a98b8208/\nWebsite : https://www.indooverseasfilms.com\n\nIn association with Divo - Our YouTube  Partner\n\n#Iof #Indooverseasfilmshindi #Hindidubbedmovies",
+    "metadata": {
+      "year": null,
+      "genre": [],
+      "durationSeconds": 7244
+    },
+    "statistics": {
+      "views": 218177,
+      "likes": 1202
+    },
+    "publishedAt": "2026-10-30T12:41:12Z",
+    "verification": {
+      "status": "verified",
+      "method": "official-channel-whitelist"
+    },
+    "algorithm": {
+      "trendingScore": 64.75,
+      "recommendationScore": 59.81
     }
   },
   {
@@ -336,8 +371,8 @@
       "durationSeconds": 6747
     },
     "statistics": {
-      "views": 727855,
-      "likes": 5158
+      "views": 748138,
+      "likes": 5280
     },
     "publishedAt": "2026-10-23T11:30:05Z",
     "verification": {
@@ -345,7 +380,7 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 64.73,
+      "trendingScore": 64.65,
       "recommendationScore": 61.97
     }
   },
@@ -371,8 +406,8 @@
       "durationSeconds": 8771
     },
     "statistics": {
-      "views": 19301833,
-      "likes": 121243
+      "views": 19375196,
+      "likes": 121469
     },
     "publishedAt": "2026-10-08T18:30:31Z",
     "verification": {
@@ -380,8 +415,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 64.72,
-      "recommendationScore": 67.32
+      "trendingScore": 64.63,
+      "recommendationScore": 67.27
     }
   },
   {
@@ -406,8 +441,8 @@
       "durationSeconds": 8071
     },
     "statistics": {
-      "views": 53117467,
-      "likes": 386637
+      "views": 53503316,
+      "likes": 388107
     },
     "publishedAt": "2026-10-02T06:30:08Z",
     "verification": {
@@ -415,43 +450,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 64.66,
-      "recommendationScore": 69.07
-    }
-  },
-  {
-    "id": "mDQz8wERqMI",
-    "title": "No Way Out - New Hindi Dubbed Full Movie HD | Crime Action Thriller | IOF Hindi",
-    "slug": "no-way-out-new-hindi-dubbed-full-movie-hd-crime-action-thriller-iof-hindi",
-    "youtubeVideoId": "mDQz8wERqMI",
-    "youtubeUrl": "https://www.youtube.com/watch?v=mDQz8wERqMI",
-    "thumbnail": "https://i.ytimg.com/vi/mDQz8wERqMI/maxresdefault.jpg",
-    "language": "Telugu",
-    "audioLanguage": "Hindi",
-    "dubbed": true,
-    "creator": {
-      "name": "IOF - Hindi",
-      "channelId": "UCQ-DyEmlafaU5VVuRVnfsFw",
-      "channelUrl": "https://www.youtube.com/channel/UCQ-DyEmlafaU5VVuRVnfsFw"
-    },
-    "description": "Click here to Subscribe - https://bit.ly/SubscribeIndoOverseasFilmsHindi\n\n\n___________________________________ \nEnjoy & stay connected with us!\nSubscribe to Indo Overseas Movies 👉 https://Subscribe.openinapp.co/IndoOverseasFilms\nSubscribe to IOF Hindi 👉 https://Subscribe.openinapp.co/IOFHindi\nSubscribe to IOF Telugu 👉 https://Subscribe.openinapp.co/IOFTelugu\nSubscribe to IOF Tamil 👉 https://Subscribe.openinapp.co/IOFTamil\n\nFollow Us On\nFacebook : https://www.facebook.com/indooverseasfilm\nTwitter : https://twitter.com/IOF_India\nInstagram : https://www.instagram.com/iof_india_/\nLinkedln : https://www.linkedin.com/in/indo-overseas-films-india-1a98b8208/\nWebsite : https://www.indooverseasfilms.com\n\nIn association with Divo - Our YouTube  Partner\n\n#Iof #Indooverseasfilmshindi #Hindidubbedmovies",
-    "metadata": {
-      "year": null,
-      "genre": [],
-      "durationSeconds": 7244
-    },
-    "statistics": {
-      "views": 172976,
-      "likes": 994
-    },
-    "publishedAt": "2026-10-30T12:41:12Z",
-    "verification": {
-      "status": "verified",
-      "method": "official-channel-whitelist"
-    },
-    "algorithm": {
-      "trendingScore": 64.63,
-      "recommendationScore": 59.39
+      "trendingScore": 64.58,
+      "recommendationScore": 69.04
     }
   },
   {
@@ -476,8 +476,8 @@
       "durationSeconds": 7526
     },
     "statistics": {
-      "views": 281313,
-      "likes": 961
+      "views": 296922,
+      "likes": 989
     },
     "publishedAt": "2026-10-30T11:30:18Z",
     "verification": {
@@ -485,8 +485,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 64.62,
-      "recommendationScore": 59.94
+      "trendingScore": 64.55,
+      "recommendationScore": 59.98
     }
   },
   {
@@ -511,8 +511,8 @@
       "durationSeconds": 5970
     },
     "statistics": {
-      "views": 179395,
-      "likes": 922
+      "views": 200947,
+      "likes": 1013
     },
     "publishedAt": "2026-10-30T14:30:28Z",
     "verification": {
@@ -521,7 +521,7 @@
     },
     "algorithm": {
       "trendingScore": 64.54,
-      "recommendationScore": 59.33
+      "recommendationScore": 59.51
     }
   },
   {
@@ -546,8 +546,8 @@
       "durationSeconds": 7864
     },
     "statistics": {
-      "views": 1633619,
-      "likes": 6452
+      "views": 1676489,
+      "likes": 6608
     },
     "publishedAt": "2026-10-20T12:30:36Z",
     "verification": {
@@ -555,7 +555,7 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 64.08,
+      "trendingScore": 64.01,
       "recommendationScore": 62.63
     }
   },
@@ -581,8 +581,8 @@
       "durationSeconds": 6185
     },
     "statistics": {
-      "views": 260094,
-      "likes": 974
+      "views": 273695,
+      "likes": 1007
     },
     "publishedAt": "2026-10-28T11:30:14Z",
     "verification": {
@@ -590,8 +590,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 63.99,
-      "recommendationScore": 59.51
+      "trendingScore": 63.92,
+      "recommendationScore": 59.55
     }
   },
   {
@@ -616,8 +616,8 @@
       "durationSeconds": 6179
     },
     "statistics": {
-      "views": 959766,
-      "likes": 2022
+      "views": 1004824,
+      "likes": 2099
     },
     "publishedAt": "2026-10-23T14:12:53Z",
     "verification": {
@@ -625,8 +625,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 63.78,
-      "recommendationScore": 61.39
+      "trendingScore": 63.73,
+      "recommendationScore": 61.44
     }
   },
   {
@@ -651,8 +651,8 @@
       "durationSeconds": 7803
     },
     "statistics": {
-      "views": 246776,
-      "likes": 878
+      "views": 257458,
+      "likes": 909
     },
     "publishedAt": "2026-10-27T09:30:25Z",
     "verification": {
@@ -660,8 +660,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 63.54,
-      "recommendationScore": 59.17
+      "trendingScore": 63.48,
+      "recommendationScore": 59.2
     }
   },
   {
@@ -686,8 +686,8 @@
       "durationSeconds": 5380
     },
     "statistics": {
-      "views": 182596,
-      "likes": 634
+      "views": 186525,
+      "likes": 639
     },
     "publishedAt": "2026-10-28T11:30:01Z",
     "verification": {
@@ -695,8 +695,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 63.45,
-      "recommendationScore": 58.61
+      "trendingScore": 63.36,
+      "recommendationScore": 58.59
     }
   },
   {
@@ -721,8 +721,8 @@
       "durationSeconds": 7937
     },
     "statistics": {
-      "views": 1200300,
-      "likes": 3613
+      "views": 1203795,
+      "likes": 3615
     },
     "publishedAt": "2026-10-20T12:30:38Z",
     "verification": {
@@ -730,43 +730,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 63.42,
-      "recommendationScore": 61.67
-    }
-  },
-  {
-    "id": "npTQ05KPVCY",
-    "title": "KAAPA Full Movie | New South Indian Movie Dubbed In Hindi 2026 Full | Action Movie | Prithviraj",
-    "slug": "kaapa-full-movie-new-south-indian-movie-dubbed-in-hindi-2026-full-action-movie-prithviraj",
-    "youtubeVideoId": "npTQ05KPVCY",
-    "youtubeUrl": "https://www.youtube.com/watch?v=npTQ05KPVCY",
-    "thumbnail": "https://i.ytimg.com/vi/npTQ05KPVCY/maxresdefault.jpg",
-    "language": "Malayalam",
-    "audioLanguage": "Hindi",
-    "dubbed": true,
-    "creator": {
-      "name": "Wamindia Movies",
-      "channelId": "UCt7_pnSRPKU3bu2GqmgH8gQ",
-      "channelUrl": "https://www.youtube.com/channel/UCt7_pnSRPKU3bu2GqmgH8gQ"
-    },
-    "description": "Watch KAAPA in Hindi, a gripping South Indian action thriller packed with gangster rivalry, crime, suspense, and brutal underworld power struggles. If you love South Indian Hindi dubbed movies featuring powerful characters, intense action sequences, dangerous gang wars, and unexpected twists, this Malayalam crime thriller delivers a thrilling cinematic experience.\n\nSet in the crime-ridden streets of Thiruvananthapuram, KAAPA explores the dark world of organized crime, political connections, and the ruthless struggle for power. When an innocent woman's name is mistakenly added to the KAAPA watchlist, her husband becomes entangled in a dangerous underworld dominated by rival gangs and influential criminals. As tensions rise and enemies close in, survival becomes a battle against a world where power, revenge, and violence rule.\n\nExperience an intense South Indian gangster drama dubbed in Hindi, featuring gripping storytelling, powerful performances, high-stakes confrontations, and edge-of-your-seat suspense.\n\nMovie Details\n\nMovie Name: Kaapa\nOriginal Language: Malayalam\nAvailable Language: Hindi Dubbed\nGenre: Action, Crime, Thriller, Gangster Drama\nStar Cast: Prithviraj Sukumaran, Asif Ali, Aparna Balamurali, Anna Ben, Dileesh Pothan, Jagadish & Others\nDirector: Shaji Kailas\nWriter: G. R. Indugopan\n\nLove watching South Indian action movies dubbed in Hindi? Explore more Hindi dubbed action thrillers, crime dramas, gangster movies, and full-length South Indian movies on our channel. Subscribe for more exciting South Hindi dubbed movie releases.\n\n#HindiDubbedMovie #SouthMovie #SouthIndianMovie #SouthHindiDubbed #ActionThriller #GangsterMovie #CrimeThriller #SouthIndianMovies #HindiDubbedMovies #FullMovie",
-    "metadata": {
-      "year": 2026,
-      "genre": [],
-      "durationSeconds": 7397
-    },
-    "statistics": {
-      "views": 821242,
-      "likes": 1194
-    },
-    "publishedAt": "2026-10-23T14:30:22Z",
-    "verification": {
-      "status": "verified",
-      "method": "official-channel-whitelist"
-    },
-    "algorithm": {
-      "trendingScore": 63.4,
-      "recommendationScore": 60.86
+      "trendingScore": 63.32,
+      "recommendationScore": 61.62
     }
   },
   {
@@ -791,8 +756,8 @@
       "durationSeconds": 7337
     },
     "statistics": {
-      "views": 17975415,
-      "likes": 151700
+      "views": 18077291,
+      "likes": 152186
     },
     "publishedAt": "2026-10-01T13:30:09Z",
     "verification": {
@@ -800,8 +765,78 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 63.39,
-      "recommendationScore": 66.73
+      "trendingScore": 63.31,
+      "recommendationScore": 66.69
+    }
+  },
+  {
+    "id": "npTQ05KPVCY",
+    "title": "KAAPA Full Movie | New South Indian Movie Dubbed In Hindi 2026 Full | Action Movie | Prithviraj",
+    "slug": "kaapa-full-movie-new-south-indian-movie-dubbed-in-hindi-2026-full-action-movie-prithviraj",
+    "youtubeVideoId": "npTQ05KPVCY",
+    "youtubeUrl": "https://www.youtube.com/watch?v=npTQ05KPVCY",
+    "thumbnail": "https://i.ytimg.com/vi/npTQ05KPVCY/maxresdefault.jpg",
+    "language": "Malayalam",
+    "audioLanguage": "Hindi",
+    "dubbed": true,
+    "creator": {
+      "name": "Wamindia Movies",
+      "channelId": "UCt7_pnSRPKU3bu2GqmgH8gQ",
+      "channelUrl": "https://www.youtube.com/channel/UCt7_pnSRPKU3bu2GqmgH8gQ"
+    },
+    "description": "Watch KAAPA in Hindi, a gripping South Indian action thriller packed with gangster rivalry, crime, suspense, and brutal underworld power struggles. If you love South Indian Hindi dubbed movies featuring powerful characters, intense action sequences, dangerous gang wars, and unexpected twists, this Malayalam crime thriller delivers a thrilling cinematic experience.\n\nSet in the crime-ridden streets of Thiruvananthapuram, KAAPA explores the dark world of organized crime, political connections, and the ruthless struggle for power. When an innocent woman's name is mistakenly added to the KAAPA watchlist, her husband becomes entangled in a dangerous underworld dominated by rival gangs and influential criminals. As tensions rise and enemies close in, survival becomes a battle against a world where power, revenge, and violence rule.\n\nExperience an intense South Indian gangster drama dubbed in Hindi, featuring gripping storytelling, powerful performances, high-stakes confrontations, and edge-of-your-seat suspense.\n\nMovie Details\n\nMovie Name: Kaapa\nOriginal Language: Malayalam\nAvailable Language: Hindi Dubbed\nGenre: Action, Crime, Thriller, Gangster Drama\nStar Cast: Prithviraj Sukumaran, Asif Ali, Aparna Balamurali, Anna Ben, Dileesh Pothan, Jagadish & Others\nDirector: Shaji Kailas\nWriter: G. R. Indugopan\n\nLove watching South Indian action movies dubbed in Hindi? Explore more Hindi dubbed action thrillers, crime dramas, gangster movies, and full-length South Indian movies on our channel. Subscribe for more exciting South Hindi dubbed movie releases.\n\n#HindiDubbedMovie #SouthMovie #SouthIndianMovie #SouthHindiDubbed #ActionThriller #GangsterMovie #CrimeThriller #SouthIndianMovies #HindiDubbedMovies #FullMovie",
+    "metadata": {
+      "year": 2026,
+      "genre": [],
+      "durationSeconds": 7397
+    },
+    "statistics": {
+      "views": 831238,
+      "likes": 1207
+    },
+    "publishedAt": "2026-10-23T14:30:22Z",
+    "verification": {
+      "status": "verified",
+      "method": "official-channel-whitelist"
+    },
+    "algorithm": {
+      "trendingScore": 63.31,
+      "recommendationScore": 60.84
+    }
+  },
+  {
+    "id": "Umm9Mua7T0s",
+    "title": "मैं हूँ ख़तरनाक (HD) | इलीयाना डी'क्रूज़ Birthday Spl | Superhit Hindi Dubbed Movie l Ravi Teja",
+    "slug": "hd-birthday-spl-superhit-hindi-dubbed-movie-l-ravi-teja",
+    "youtubeVideoId": "Umm9Mua7T0s",
+    "youtubeUrl": "https://www.youtube.com/watch?v=Umm9Mua7T0s",
+    "thumbnail": "https://i.ytimg.com/vi/Umm9Mua7T0s/maxresdefault.jpg",
+    "language": "South Indian",
+    "audioLanguage": "Hindi",
+    "dubbed": true,
+    "creator": {
+      "name": "Goldmines Premiere",
+      "channelId": "UCvUctuMp58UD_kQtcWcNCjw",
+      "channelUrl": "https://www.youtube.com/channel/UCvUctuMp58UD_kQtcWcNCjw"
+    },
+    "description": "Villain makes Ravi Teja a police officer so that he can use him for his own purpose. But when he knows the truth things turn upside down.\n\nMovie :- Main Hoon Khatarnak (Khatarnak)\nStarcast :- Ravi Teja, Ileana D'Cruz, Biju Menon, Prakash Raj",
+    "metadata": {
+      "year": null,
+      "genre": [],
+      "durationSeconds": 6527
+    },
+    "statistics": {
+      "views": 53308,
+      "likes": 285
+    },
+    "publishedAt": "2026-11-01T12:30:14Z",
+    "verification": {
+      "status": "verified",
+      "method": "official-channel-whitelist"
+    },
+    "algorithm": {
+      "trendingScore": 63.31,
+      "recommendationScore": 56.7
     }
   },
   {
@@ -826,8 +861,8 @@
       "durationSeconds": 9647
     },
     "statistics": {
-      "views": 271170,
-      "likes": 775
+      "views": 274883,
+      "likes": 777
     },
     "publishedAt": "2026-10-26T14:30:11Z",
     "verification": {
@@ -835,8 +870,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 63.23,
-      "recommendationScore": 59.09
+      "trendingScore": 63.13,
+      "recommendationScore": 59.05
     }
   },
   {
@@ -861,8 +896,8 @@
       "durationSeconds": 6847
     },
     "statistics": {
-      "views": 3557747,
-      "likes": 27463
+      "views": 3572753,
+      "likes": 27507
     },
     "publishedAt": "2026-10-09T13:31:59Z",
     "verification": {
@@ -870,8 +905,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 63.11,
-      "recommendationScore": 63.82
+      "trendingScore": 63.02,
+      "recommendationScore": 63.77
     }
   },
   {
@@ -896,8 +931,8 @@
       "durationSeconds": 8372
     },
     "statistics": {
-      "views": 874608,
-      "likes": 2247
+      "views": 881240,
+      "likes": 2256
     },
     "publishedAt": "2026-10-20T11:30:36Z",
     "verification": {
@@ -905,8 +940,43 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 62.88,
-      "recommendationScore": 60.81
+      "trendingScore": 62.78,
+      "recommendationScore": 60.77
+    }
+  },
+  {
+    "id": "agNiLP3UwdE",
+    "title": "The Search for the Lost Zodiac Treasure | Jackie Chan Comedy Movie | Hindi Dubbed Full Movie | IOF",
+    "slug": "the-search-for-the-lost-zodiac-treasure-jackie-chan-comedy-movie-hindi-dubbed-full-movie-iof",
+    "youtubeVideoId": "agNiLP3UwdE",
+    "youtubeUrl": "https://www.youtube.com/watch?v=agNiLP3UwdE",
+    "thumbnail": "https://i.ytimg.com/vi/agNiLP3UwdE/maxresdefault.jpg",
+    "language": "Telugu",
+    "audioLanguage": "Hindi",
+    "dubbed": true,
+    "creator": {
+      "name": "IOF - Hindi",
+      "channelId": "UCQ-DyEmlafaU5VVuRVnfsFw",
+      "channelUrl": "https://www.youtube.com/channel/UCQ-DyEmlafaU5VVuRVnfsFw"
+    },
+    "description": "Get ready for an exciting action adventure with Jackie Chan in The Search for the Lost Zodiac Treasure! Watch an expert treasure hunter embark on a dangerous mission to find 12 ancient zodiac treasures. Packed with amazing stunts, thrilling action sequences, hidden mysteries and unexpected twists, this movie delivers an unforgettable adventure.\n\nWatch the full movie in Hindi on IOF!\n\n\n#TheSearchForTheLostZodiacTreasure #JackieChan #HindiDubbedMovie #HindiFullMovie #ActionAdventure #TreasureHunt #HollywoodDubbedMovie #IOF\n\nClick here to Subscribe - https://bit.ly/SubscribeIndoOverseasFilmsHindi\n\n\n___________________________________ \nEnjoy & stay connected with us!\nSubscribe to Indo Overseas Movies 👉 https://Subscribe.openinapp.co/IndoOverseasFilms\nSubscribe to IOF Hindi 👉 https://Subscribe.openinapp.co/IOFHindi\nSubscribe to IOF Telugu 👉 https://Subscribe.openinapp.co/IOFTelugu\nSubscribe to IOF Tamil 👉 https://Subscribe.openinapp.co/IOFTamil\n\nFollow Us On\nFacebook : https://www.facebook.com/indooverseasfilm\nTwitter : https://twitter.com/IOF_India\nInstagram : https://www.instagram.com/iof_india_/\nLinkedln : https://www.linkedin.com/in/indo-overseas-films-india-1a98b8208/\nWebsite : https://www.indooverseasfilms.com\n\nIn association with Divo - Our YouTube  Partner\n\n#Iof #Indooverseasfilmshindi #Hindidubbedmovies",
+    "metadata": {
+      "year": null,
+      "genre": [],
+      "durationSeconds": 6778
+    },
+    "statistics": {
+      "views": 40457,
+      "likes": 174
+    },
+    "publishedAt": "2026-11-01T04:30:00Z",
+    "verification": {
+      "status": "verified",
+      "method": "official-channel-whitelist"
+    },
+    "algorithm": {
+      "trendingScore": 62.67,
+      "recommendationScore": 55.79
     }
   },
   {
@@ -931,8 +1001,8 @@
       "durationSeconds": 8326
     },
     "statistics": {
-      "views": 113287,
-      "likes": 177
+      "views": 123238,
+      "likes": 189
     },
     "publishedAt": "2026-10-29T14:30:14Z",
     "verification": {
@@ -940,113 +1010,43 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 62.66,
-      "recommendationScore": 57.2
+      "trendingScore": 62.65,
+      "recommendationScore": 57.33
     }
   },
   {
-    "id": "ablENw8HztI",
-    "title": "Bagheera (4K) | Srii Murali, Rukmini Vasanth, Prakash Raj | Latest South Action Hindi Dubbed Movie",
-    "slug": "bagheera-4k-srii-murali-rukmini-vasanth-prakash-raj-latest-south-action-hindi-dubbed-movie",
-    "youtubeVideoId": "ablENw8HztI",
-    "youtubeUrl": "https://www.youtube.com/watch?v=ablENw8HztI",
-    "thumbnail": "https://i.ytimg.com/vi/ablENw8HztI/maxresdefault.jpg",
-    "language": "South Indian",
+    "id": "awUTgSflppA",
+    "title": "''Chandramukhi Ki Pratigya'' | New South Horror Movie in hindi Dubbed | South Horror Movie | HD",
+    "slug": "chandramukhi-ki-pratigya-new-south-horror-movie-in-hindi-dubbed-south-horror-movie-hd",
+    "youtubeVideoId": "awUTgSflppA",
+    "youtubeUrl": "https://www.youtube.com/watch?v=awUTgSflppA",
+    "thumbnail": "https://i.ytimg.com/vi/awUTgSflppA/maxresdefault.jpg",
+    "language": "Malayalam",
     "audioLanguage": "Hindi",
     "dubbed": true,
     "creator": {
-      "name": "RKD Studios",
-      "channelId": "UCjBwQ6M9QyCgO5Pp-TQRFUA",
-      "channelUrl": "https://www.youtube.com/channel/UCjBwQ6M9QyCgO5Pp-TQRFUA"
+      "name": "WamIndia Select Movies",
+      "channelId": "UC_sXBvPWlKbvKfrzHiqxYhg",
+      "channelUrl": "https://www.youtube.com/channel/UC_sXBvPWlKbvKfrzHiqxYhg"
     },
-    "description": "In a land ruled by corruption, fear and injustice, one man refuses to stay silent. By day, he is a police officer. By night, he becomes Bagheera - a mysterious vigilante who hunts down the guilty and protects those who have nowhere else to turn.\nWatch Srii Murali, Prakash Raj & Rukmini Vasanth in this explosive Hindi Dubbed Superhero Action Thriller Film in 4K.\n\n#bagheera #bagheeramovie #hindidubbedmovie #superheroaction #actionthriller #sriimurali #rukminivasanth #prakashraj #garudaram #achyuthkumar\n\nStarcast - Srii Murali, Rukmini Vasanth, Prakash Raj, Rangayana Raghu, Achyuth Kumar, Garuda Ram, Sudha Rani, Ramachandra Raju, Avinash Yelandur, Sharath Lohithaswa, Pramod Shetty, Prakash Thuminad, Puneet Rudranag\nWriters - Prasanth Neel, D.R Suri\nProducer - Vijay Kiragandur\nDirector - D.R Suri\n\nDisclaimer:- We are only the right holders of this content. Any opinions expressed in this Film may purely be of the director or the original producers but are not our personal opinions and we do not assume any responsibility or liability for the same.\n\nKindly subscribe to the channel and Press the BELL ICON to get Instant Notifications from @rkddigital\n\nSubscribe To Our Channel:- https://www.youtube.com/channel/UCjBwQ6M9QyCgO5Pp-TQRFUA?sub_confirmation=1\n\nFollow Us On:\nFacebook: https://www.facebook.com/RKDStudiosOfficial/\nInstagram: https://www.instagram.com/rkdstudios",
+    "description": "''Chandramukhi Ki Pratigya'' | New South Horror Movie in hindi Dubbed | South Horror Movie | HD\n\nChandramukhi Ki Pratigya is the Hindi-dubbed version of the 2012 Malayalam horror-comedy film Manthrikan. The film stars Jayaram, Poonam Bajwa and Muktha George in lead roles\n\nCredit:\nDirector Anil\nStory & Screenplay Rajan Kiriyath\nProducer Anand Kumar\nProduction Banner Yes Cinema Company\nCinematography Vaidy S. Pillai\nEditor P. C. Mohanan\nMusic Director S. Balakrishnan\nLyrics Vayalar Sarath Chandra Varma, Santhosh Varma\nBackground Score Rajamani\nArt Director Ranjith Kothari\nMakeup Pattanam Rasheed\nCostume Designer Anil Chemmboor\nAction Director Run Ravi\nChoreography Kala, Sujatha, Gayathri Raghuram\nProduction Controller Girish Vaikom\nDistributor Yes Vision\n\nMovie Synopsis\nA young tantric magician and exorcist named Mukundan Unni meets a beautiful girl named Malu, who has lost her memory. As time passes, their paths separate, but destiny brings them together again.\n\nYears later, Mukundan is called to a wealthy family's mansion to investigate a mysterious supernatural presence. To his surprise, he discovers that Malu is possessed by an evil spirit.\n\nUsing his knowledge of ancient tantric practices and supernatural powers, Mukundan begins investigating the spirit's dark past. But the mystery is more dangerous than he imagined.\n\nWill Mukundan save Malu from the evil spirit? What secrets are hidden behind the haunting?",
     "metadata": {
-      "year": null,
+      "year": 2012,
       "genre": [],
-      "durationSeconds": 8694
+      "durationSeconds": 6641
     },
     "statistics": {
-      "views": 3684674,
-      "likes": 20626
+      "views": 61005,
+      "likes": 161
     },
-    "publishedAt": "2026-10-09T17:30:02Z",
+    "publishedAt": "2026-10-31T13:00:13Z",
     "verification": {
       "status": "verified",
       "method": "official-channel-whitelist"
     },
     "algorithm": {
       "trendingScore": 62.63,
-      "recommendationScore": 63.39
-    }
-  },
-  {
-    "id": "Bwj0H5blRhg",
-    "title": "BHEEMA | New (2026) Released South Indian Movie Dubbed In Hindi | Duniya Vijay | Action Movie Hindi",
-    "slug": "bheema-new-2026-released-south-indian-movie-dubbed-in-hindi-duniya-vijay-action-movie-hindi",
-    "youtubeVideoId": "Bwj0H5blRhg",
-    "youtubeUrl": "https://www.youtube.com/watch?v=Bwj0H5blRhg",
-    "thumbnail": "https://i.ytimg.com/vi/Bwj0H5blRhg/maxresdefault.jpg",
-    "language": "South Indian",
-    "audioLanguage": "Hindi",
-    "dubbed": true,
-    "creator": {
-      "name": "Wamindia Movies",
-      "channelId": "UCt7_pnSRPKU3bu2GqmgH8gQ",
-      "channelUrl": "https://www.youtube.com/channel/UCt7_pnSRPKU3bu2GqmgH8gQ"
-    },
-    "description": "Watch BHEEMA, an explosive South Indian action crime drama in Hindi dubbed, starring Duniya Vijay in a powerful action-packed role. Packed with intense action sequences, a gripping crime story, dangerous drug networks, political corruption, and powerful confrontations, BHEEMA delivers a thrilling South Indian movie experience for Hindi-speaking audiences.\n\nIf you love South Indian Hindi Dubbed Movies, Duniya Vijay Action Movies, South Indian Crime Thrillers, Mass Action Movies, and Full-On Entertainment, BHEEMA is a movie to watch!\n\nMOVIE DETAILS\n\nMovie Name: Bheema\nLanguage: Hindi Dubbed\nGenre: Action, Crime, Drama\nStarring: Duniya Vijay, Ashwini Ambrish, Priya Shatamarshan, Dragon Manju, Kalyani Raju, Ramesh Indira, Achyuth Kumar, Rangayana Raghu & Others\nDirector: Duniya Vijay\n\nWatch BHEEMA on WAMINDIA MOVIES and enjoy an intense South Indian action movie experience in Hindi.\n\nLIKE the video if you love South Indian action movies.\nSHARE this movie with fellow action movie fans.\nCOMMENT below and tell us what you think about BHEEMA!\n\nSubscribe to WAMINDIA MOVIES for more exclusive South Indian Hindi Dubbed Movies, blockbuster action movies, crime thrillers, full-length Hindi dubbed films, and exciting movie entertainment.\n\n#Bheema #BheemaHindiDubbed #DuniyaVijay #SouthHindiMovie #HindiDubbedMovie #SouthIndianMovies #SouthIndianActionMovie #ActionMovie #CrimeThriller #WAMIndiaMovies",
-    "metadata": {
-      "year": 2026,
-      "genre": [],
-      "durationSeconds": 7596
-    },
-    "statistics": {
-      "views": 1354657,
-      "likes": 6216
-    },
-    "publishedAt": "2026-10-15T14:30:19Z",
-    "verification": {
-      "status": "verified",
-      "method": "official-channel-whitelist"
-    },
-    "algorithm": {
-      "trendingScore": 62.63,
-      "recommendationScore": 61.62
-    }
-  },
-  {
-    "id": "OPr-hCxRTvU",
-    "title": "THE CHASER - Hindi Dubbed Full Movie HD| Korean Crime Thriller Full Movie | IOF Hindi",
-    "slug": "the-chaser-hindi-dubbed-full-movie-hd-korean-crime-thriller-full-movie-iof-hindi",
-    "youtubeVideoId": "OPr-hCxRTvU",
-    "youtubeUrl": "https://www.youtube.com/watch?v=OPr-hCxRTvU",
-    "thumbnail": "https://i.ytimg.com/vi/OPr-hCxRTvU/maxresdefault.jpg",
-    "language": "Telugu",
-    "audioLanguage": "Hindi",
-    "dubbed": true,
-    "creator": {
-      "name": "IOF - Hindi",
-      "channelId": "UCQ-DyEmlafaU5VVuRVnfsFw",
-      "channelUrl": "https://www.youtube.com/channel/UCQ-DyEmlafaU5VVuRVnfsFw"
-    },
-    "description": "THE CHASER | Hindi Dubbed | Full Movie\n\nGet ready for a gripping thriller with THE CHASER! Dive into a tense, edge-of-your-seat story of crime, suspense, and relentless pursuit. As a determined investigator hunts down a cunning criminal, every second counts. Packed with twists, action, and intense drama, this Tamil dubbed version keeps you hooked from start to finish.\n\n🔥 Watch now and experience the ultimate chase of justice and suspense!\n\n#TheChaser #HindiDubbed #ThrillerMovie #CrimeAction #FullMovie #Suspense #ActionDrama #MustWatch #EdgeOfYourSeat #HindiMoviesConnected\n\nClick here to Subscribe - https://bit.ly/SubscribeIndoOverseasFilmsHindi\n\n\n___________________________________ \nEnjoy & stay connected with us!\nSubscribe to Indo Overseas Movies 👉 https://Subscribe.openinapp.co/IndoOverseasFilms\nSubscribe to IOF Hindi 👉 https://Subscribe.openinapp.co/IOFHindi\nSubscribe to IOF Telugu 👉 https://Subscribe.openinapp.co/IOFTelugu\nSubscribe to IOF Tamil 👉 https://Subscribe.openinapp.co/IOFTamil\n\nFollow Us On\nFacebook : https://www.facebook.com/indooverseasfilm\nTwitter : https://twitter.com/IOF_India\nInstagram : https://www.instagram.com/iof_india_/\nLinkedln : https://www.linkedin.com/in/indo-overseas-films-india-1a98b8208/\nWebsite : https://www.indooverseasfilms.com\n\nIn association with Divo - Our YouTube  Partner\n\n#Iof #Indooverseasfilmshindi #Hindidubbedmovies",
-    "metadata": {
-      "year": null,
-      "genre": [],
-      "durationSeconds": 7487
-    },
-    "statistics": {
-      "views": 150052,
-      "likes": 712
-    },
-    "publishedAt": "2026-10-25T03:30:35Z",
-    "verification": {
-      "status": "verified",
-      "method": "official-channel-whitelist"
-    },
-    "algorithm": {
-      "trendingScore": 62.53,
-      "recommendationScore": 57.94
+      "recommendationScore": 56.27
     }
   }
 ]
