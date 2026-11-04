@@ -1,8 +1,8 @@
 [
   {
-    "name": "Official Southplex Movies",
-    "channelId": "UCdbNMpCun6odxt-mcL0otdw",
-    "channelUrl": "https://www.youtube.com/channel/UCdbNMpCun6odxt-mcL0otdw"
+    "name": "RKD Studios",
+    "channelId": "UCjBwQ6M9QyCgO5Pp-TQRFUA",
+    "channelUrl": "https://www.youtube.com/channel/UCjBwQ6M9QyCgO5Pp-TQRFUA"
   },
   {
     "name": "Goldmines",
@@ -10,19 +10,9 @@
     "channelUrl": "https://www.youtube.com/channel/UCyoXW-Dse7fURq30EWl_CUA"
   },
   {
-    "name": "RKD Studios",
-    "channelId": "UCjBwQ6M9QyCgO5Pp-TQRFUA",
-    "channelUrl": "https://www.youtube.com/channel/UCjBwQ6M9QyCgO5Pp-TQRFUA"
-  },
-  {
     "name": "RG Entertainment",
     "channelId": "UCgfO009hB_847kwL6NQnn-w",
     "channelUrl": "https://www.youtube.com/channel/UCgfO009hB_847kwL6NQnn-w"
-  },
-  {
-    "name": "Ultra Movie Parlour",
-    "channelId": "UCYauDsl-rswjQGpA0_-Z9Pw",
-    "channelUrl": "https://www.youtube.com/channel/UCYauDsl-rswjQGpA0_-Z9Pw"
   },
   {
     "name": "Aditya Movies",
@@ -38,6 +28,11 @@
     "name": "Wamindia Movies",
     "channelId": "UCt7_pnSRPKU3bu2GqmgH8gQ",
     "channelUrl": "https://www.youtube.com/channel/UCt7_pnSRPKU3bu2GqmgH8gQ"
+  },
+  {
+    "name": "Ultra Movie Parlour",
+    "channelId": "UCYauDsl-rswjQGpA0_-Z9Pw",
+    "channelUrl": "https://www.youtube.com/channel/UCYauDsl-rswjQGpA0_-Z9Pw"
   },
   {
     "name": "IOF - Hindi",
@@ -70,6 +65,11 @@
     "channelUrl": "https://www.youtube.com/channel/UC_sXBvPWlKbvKfrzHiqxYhg"
   },
   {
+    "name": "GoldminesAction",
+    "channelId": "UCY7tB-mpvlQeWgaCCS1Cmwg",
+    "channelUrl": "https://www.youtube.com/channel/UCY7tB-mpvlQeWgaCCS1Cmwg"
+  },
+  {
     "name": "Goldmines Cineplex",
     "channelId": "UCCrw5RBWF9i8VPt4IxL8IsQ",
     "channelUrl": "https://www.youtube.com/channel/UCCrw5RBWF9i8VPt4IxL8IsQ"
@@ -80,9 +80,9 @@
     "channelUrl": "https://www.youtube.com/channel/UC2aBjYYDkwN5LLSB8957KZQ"
   },
   {
-    "name": "GoldminesAction",
-    "channelId": "UCY7tB-mpvlQeWgaCCS1Cmwg",
-    "channelUrl": "https://www.youtube.com/channel/UCY7tB-mpvlQeWgaCCS1Cmwg"
+    "name": "Official Southplex Movies",
+    "channelId": "UCdbNMpCun6odxt-mcL0otdw",
+    "channelUrl": "https://www.youtube.com/channel/UCdbNMpCun6odxt-mcL0otdw"
   },
   {
     "name": "Hindi Films",
