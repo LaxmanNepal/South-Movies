@@ -30,11 +30,6 @@
     "channelUrl": "https://www.youtube.com/channel/UCX_uPA_dGf7wXjuMEaSKLJA"
   },
   {
-    "name": "IOF - Hindi",
-    "channelId": "UCQ-DyEmlafaU5VVuRVnfsFw",
-    "channelUrl": "https://www.youtube.com/channel/UCQ-DyEmlafaU5VVuRVnfsFw"
-  },
-  {
     "name": "Ultra Movie Parlour",
     "channelId": "UCYauDsl-rswjQGpA0_-Z9Pw",
     "channelUrl": "https://www.youtube.com/channel/UCYauDsl-rswjQGpA0_-Z9Pw"
@@ -50,6 +45,11 @@
     "channelUrl": "https://www.youtube.com/channel/UCuqpqRaJJL51ydh801feZJA"
   },
   {
+    "name": "IOF - Hindi",
+    "channelId": "UCQ-DyEmlafaU5VVuRVnfsFw",
+    "channelUrl": "https://www.youtube.com/channel/UCQ-DyEmlafaU5VVuRVnfsFw"
+  },
+  {
     "name": "Goldmines Premiere",
     "channelId": "UCvUctuMp58UD_kQtcWcNCjw",
     "channelUrl": "https://www.youtube.com/channel/UCvUctuMp58UD_kQtcWcNCjw"
@@ -60,14 +60,14 @@
     "channelUrl": "https://www.youtube.com/channel/UCY7tB-mpvlQeWgaCCS1Cmwg"
   },
   {
-    "name": "Goldmines Movies",
-    "channelId": "UCs570zdFq_NNA5OcV8chnHw",
-    "channelUrl": "https://www.youtube.com/channel/UCs570zdFq_NNA5OcV8chnHw"
-  },
-  {
     "name": "Goldmines Cineplex",
     "channelId": "UCCrw5RBWF9i8VPt4IxL8IsQ",
     "channelUrl": "https://www.youtube.com/channel/UCCrw5RBWF9i8VPt4IxL8IsQ"
+  },
+  {
+    "name": "Goldmines Movies",
+    "channelId": "UCs570zdFq_NNA5OcV8chnHw",
+    "channelUrl": "https://www.youtube.com/channel/UCs570zdFq_NNA5OcV8chnHw"
   },
   {
     "name": "WamIndia Select Movies",
