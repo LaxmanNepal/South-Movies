@@ -21,8 +21,8 @@
       "durationSeconds": 8664
     },
     "statistics": {
-      "views": 8659774,
-      "likes": 82639
+      "views": 8737688,
+      "likes": 83104
     },
     "publishedAt": "2026-11-05T18:30:28Z",
     "verification": {
@@ -30,8 +30,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 68.92,
-      "recommendationScore": 68.55
+      "trendingScore": 68.8,
+      "recommendationScore": 68.49
     }
   },
   {
@@ -56,8 +56,8 @@
       "durationSeconds": 8272
     },
     "statistics": {
-      "views": 6235849,
-      "likes": 68645
+      "views": 6306132,
+      "likes": 69366
     },
     "publishedAt": "2026-11-05T18:30:35Z",
     "verification": {
@@ -65,8 +65,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 68.89,
-      "recommendationScore": 68.15
+      "trendingScore": 68.77,
+      "recommendationScore": 68.1
     }
   },
   {
@@ -91,8 +91,8 @@
       "durationSeconds": 7149
     },
     "statistics": {
-      "views": 12009768,
-      "likes": 67604
+      "views": 12187681,
+      "likes": 68476
     },
     "publishedAt": "2026-11-04T06:30:08Z",
     "verification": {
@@ -100,8 +100,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 67.85,
-      "recommendationScore": 68.11
+      "trendingScore": 67.74,
+      "recommendationScore": 68.07
     }
   },
   {
@@ -126,8 +126,8 @@
       "durationSeconds": 8123
     },
     "statistics": {
-      "views": 5871113,
-      "likes": 35761
+      "views": 6011334,
+      "likes": 36570
     },
     "publishedAt": "2026-11-06T12:30:32Z",
     "verification": {
@@ -135,8 +135,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 67.71,
-      "recommendationScore": 66.89
+      "trendingScore": 67.61,
+      "recommendationScore": 66.88
     }
   },
   {
@@ -161,8 +161,8 @@
       "durationSeconds": 8664
     },
     "statistics": {
-      "views": 3302681,
-      "likes": 20072
+      "views": 3387785,
+      "likes": 20463
     },
     "publishedAt": "2026-11-07T13:37:31Z",
     "verification": {
@@ -170,8 +170,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 67.27,
-      "recommendationScore": 65.71
+      "trendingScore": 67.16,
+      "recommendationScore": 65.69
     }
   },
   {
@@ -196,8 +196,8 @@
       "durationSeconds": 7681
     },
     "statistics": {
-      "views": 1191051,
-      "likes": 6559
+      "views": 1238555,
+      "likes": 6798
     },
     "publishedAt": "2026-11-11T14:30:14Z",
     "verification": {
@@ -205,8 +205,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 67.02,
-      "recommendationScore": 63.82
+      "trendingScore": 66.93,
+      "recommendationScore": 63.84
     }
   },
   {
@@ -231,8 +231,8 @@
       "durationSeconds": 7228
     },
     "statistics": {
-      "views": 681645,
-      "likes": 6481
+      "views": 708009,
+      "likes": 6777
     },
     "publishedAt": "2026-11-09T11:40:05Z",
     "verification": {
@@ -240,8 +240,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 66.72,
-      "recommendationScore": 63.17
+      "trendingScore": 66.65,
+      "recommendationScore": 63.2
     }
   },
   {
@@ -266,8 +266,8 @@
       "durationSeconds": 9015
     },
     "statistics": {
-      "views": 1193398,
-      "likes": 4955
+      "views": 1224453,
+      "likes": 5054
     },
     "publishedAt": "2026-11-11T11:30:19Z",
     "verification": {
@@ -275,8 +275,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 66.62,
-      "recommendationScore": 63.47
+      "trendingScore": 66.51,
+      "recommendationScore": 63.45
     }
   },
   {
@@ -301,8 +301,8 @@
       "durationSeconds": 7807
     },
     "statistics": {
-      "views": 2580459,
-      "likes": 14967
+      "views": 2613090,
+      "likes": 15105
     },
     "publishedAt": "2026-11-06T15:05:15Z",
     "verification": {
@@ -310,8 +310,43 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 66.59,
-      "recommendationScore": 64.91
+      "trendingScore": 66.47,
+      "recommendationScore": 64.86
+    }
+  },
+  {
+    "id": "WAzAx_iQQt8",
+    "title": "My Dear Bhootham (2026) New Released Hindi Dubbed Movie | Prabhu Deva, Ashwanth Ashokkumar, Remya",
+    "slug": "my-dear-bhootham-2026-new-released-hindi-dubbed-movie-prabhu-deva-ashwanth-ashokkumar-remya",
+    "youtubeVideoId": "WAzAx_iQQt8",
+    "youtubeUrl": "https://www.youtube.com/watch?v=WAzAx_iQQt8",
+    "thumbnail": "https://i.ytimg.com/vi/WAzAx_iQQt8/maxresdefault.jpg",
+    "language": "South Indian",
+    "audioLanguage": "Hindi",
+    "dubbed": true,
+    "creator": {
+      "name": "Goldmines",
+      "channelId": "UCyoXW-Dse7fURq30EWl_CUA",
+      "channelUrl": "https://www.youtube.com/channel/UCyoXW-Dse7fURq30EWl_CUA"
+    },
+    "description": "A young boy finds a lantern in a cave and opens it to find Karkimuki, the king of all genies. Karkimuki helps the child with various problems in his life and forms a bond with him.\n\n🎬Movie: My Dear Bhootham (Hindi)\n⭐Starcast: Prabhu Deva, Remya Nambeesan, Samyuktha Shanmughanathan, Ashwanth Ashokkumar, Suresh Chandra Menon\n🧐 Director: N. Ragavan\n🎵 Music: D. Imman\n\n#MyDearBhootham #PrabhuDeva #AshwanthAshokkumar #southmovie #childrensday \n-------------------------------------\n\nFor More Movies\nSubscribe:@https://www.youtube.com/GoldminesTelefilms\n\nFollow Us On\nFacebook:@https://www.facebook.com/OfficialGoldminesTeleFilms\n\nInstagram:\nhttps://www.instagram.com/officialgoldminestelefilms\n\nX:\nhttps://x.com/GTelefilms",
+    "metadata": {
+      "year": 2026,
+      "genre": [],
+      "durationSeconds": 6339
+    },
+    "statistics": {
+      "views": 330637,
+      "likes": 2492
+    },
+    "publishedAt": "2026-11-13T06:30:11Z",
+    "verification": {
+      "status": "verified",
+      "method": "official-channel-whitelist"
+    },
+    "algorithm": {
+      "trendingScore": 66.28,
+      "recommendationScore": 61.52
     }
   },
   {
@@ -336,8 +371,8 @@
       "durationSeconds": 6832
     },
     "statistics": {
-      "views": 697971,
-      "likes": 4632
+      "views": 773418,
+      "likes": 4902
     },
     "publishedAt": "2026-11-10T13:30:05Z",
     "verification": {
@@ -345,43 +380,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 66.31,
-      "recommendationScore": 62.68
-    }
-  },
-  {
-    "id": "TiKuJzi8qpI",
-    "title": "Maaman Action Movie | Aishwarya Lekshmi, Soori, Swasika, Kalaivani B | South Action Hindi Dub Movie",
-    "slug": "maaman-action-movie-aishwarya-lekshmi-soori-swasika-kalaivani-b-south-action-hindi-dub-movie",
-    "youtubeVideoId": "TiKuJzi8qpI",
-    "youtubeUrl": "https://www.youtube.com/watch?v=TiKuJzi8qpI",
-    "thumbnail": "https://i.ytimg.com/vi/TiKuJzi8qpI/maxresdefault.jpg",
-    "language": "South Indian",
-    "audioLanguage": "Hindi",
-    "dubbed": true,
-    "creator": {
-      "name": "RKD Studios",
-      "channelId": "UCjBwQ6M9QyCgO5Pp-TQRFUA",
-      "channelUrl": "https://www.youtube.com/channel/UCjBwQ6M9QyCgO5Pp-TQRFUA"
-    },
-    "description": "Watch Soori and Aishwarya Lekshmi in Maaman, an emotional entertainer that celebrates family, relationships and the power of love.\n\n#maaman #aishwaryalekshmi #soori #swasika #kalaivanibhaskar #nikhilasankar #rajkiran #geethakailasam #prageethsivan #bababaskar #hindiactionfilm #hindidubbed #actionmovie #southaction \n\nSynopsis:\nA special bond between a maternal uncle and his nephew takes an unexpected turn when differences and misunderstandings begin to create distance between them. What follows is an emotional journey filled with arguments, challenges, unexpected twists and moments that will touch your heart.\n\nMovie: Maaman\nDirector: Prasanth Pandiyaraj\nProducer: K. Kumar\nStarcast: Soori, Aishwarya Lekshmi, Nikhila Sankar, Swastika Vijay, Baba Bhaskar, V. Jayaprakash, Bala Saravanan, Raj Kiran, Geetha Kailasam, Kalaivani Bhaskar, Viji Chandrashekhar, Chaya Devi, Umesh Kanth\n\nDisclaimer:- We are only the right holders of this content. Any opinions expressed in this Film may purely be of the director or the original producers but are not our personal opinions and we do not assume any responsibility or liability for the same.\n\nKindly subscribe to the channel and Press the BELL ICON to get Instant Notifications from @rkddigital\n\nSubscribe To Our Channel:- https://www.youtube.com/channel/UCjBwQ6M9QyCgO5Pp-TQRFUA?sub_confirmation=1\n\nFollow Us On:\nFacebook: https://www.facebook.com/RKDStudiosOfficial/\nInstagram: https://www.instagram.com/rkdstudios",
-    "metadata": {
-      "year": null,
-      "genre": [],
-      "durationSeconds": 8272
-    },
-    "statistics": {
-      "views": 1478048,
-      "likes": 11378
-    },
-    "publishedAt": "2026-11-06T07:52:10Z",
-    "verification": {
-      "status": "verified",
-      "method": "official-channel-whitelist"
-    },
-    "algorithm": {
-      "trendingScore": 66.29,
-      "recommendationScore": 64.03
+      "trendingScore": 66.22,
+      "recommendationScore": 62.77
     }
   },
   {
@@ -406,8 +406,8 @@
       "durationSeconds": 8302
     },
     "statistics": {
-      "views": 282938,
-      "likes": 2113
+      "views": 357094,
+      "likes": 2459
     },
     "publishedAt": "2026-11-13T11:30:13Z",
     "verification": {
@@ -415,8 +415,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 66.06,
-      "recommendationScore": 61.14
+      "trendingScore": 66.2,
+      "recommendationScore": 61.54
     }
   }
 ]
