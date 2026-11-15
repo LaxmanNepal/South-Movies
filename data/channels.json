@@ -1,13 +1,18 @@
 [
   {
+    "name": "RKD Multiplex",
+    "channelId": "UCL0f2RzwTMJc02Lg9DdcgNw",
+    "channelUrl": "https://www.youtube.com/channel/UCL0f2RzwTMJc02Lg9DdcgNw"
+  },
+  {
     "name": "RKD Studios",
     "channelId": "UCjBwQ6M9QyCgO5Pp-TQRFUA",
     "channelUrl": "https://www.youtube.com/channel/UCjBwQ6M9QyCgO5Pp-TQRFUA"
   },
   {
-    "name": "RKD Multiplex",
-    "channelId": "UCL0f2RzwTMJc02Lg9DdcgNw",
-    "channelUrl": "https://www.youtube.com/channel/UCL0f2RzwTMJc02Lg9DdcgNw"
+    "name": "Aditya Movies",
+    "channelId": "UCX_uPA_dGf7wXjuMEaSKLJA",
+    "channelUrl": "https://www.youtube.com/channel/UCX_uPA_dGf7wXjuMEaSKLJA"
   },
   {
     "name": "Goldmines",
@@ -18,11 +23,6 @@
     "name": "AD-WISE MEDIA ACTION MOVIEPLEX",
     "channelId": "UCSx_w4q5PkAOg9i45uMFHmA",
     "channelUrl": "https://www.youtube.com/channel/UCSx_w4q5PkAOg9i45uMFHmA"
-  },
-  {
-    "name": "Aditya Movies",
-    "channelId": "UCX_uPA_dGf7wXjuMEaSKLJA",
-    "channelUrl": "https://www.youtube.com/channel/UCX_uPA_dGf7wXjuMEaSKLJA"
   },
   {
     "name": "IOF - Hindi",
@@ -45,14 +45,14 @@
     "channelUrl": "https://www.youtube.com/channel/UCs570zdFq_NNA5OcV8chnHw"
   },
   {
-    "name": "Wamindia Movies",
-    "channelId": "UCt7_pnSRPKU3bu2GqmgH8gQ",
-    "channelUrl": "https://www.youtube.com/channel/UCt7_pnSRPKU3bu2GqmgH8gQ"
-  },
-  {
     "name": "Goldmines Premiere",
     "channelId": "UCvUctuMp58UD_kQtcWcNCjw",
     "channelUrl": "https://www.youtube.com/channel/UCvUctuMp58UD_kQtcWcNCjw"
+  },
+  {
+    "name": "Wamindia Movies",
+    "channelId": "UCt7_pnSRPKU3bu2GqmgH8gQ",
+    "channelUrl": "https://www.youtube.com/channel/UCt7_pnSRPKU3bu2GqmgH8gQ"
   },
   {
     "name": "Ultra Movie Parlour",
