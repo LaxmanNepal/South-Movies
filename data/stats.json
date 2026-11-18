@@ -1,15 +1,15 @@
 {
-  "totalMovies": 2457,
+  "totalMovies": 2458,
   "officialChannels": 22,
   "registryChannels": 22,
   "unresolvedChannels": 0,
   "videosScanned": 8917,
   "rejections": {
     "not_public_or_embeddable": 297,
-    "bad_content": 2472,
-    "too_short": 2320,
+    "bad_content": 2474,
+    "too_short": 2315,
     "not_hindi_dubbed": 728,
-    "not_movie": 487,
+    "not_movie": 489,
     "unknown": 0
   },
   "byLanguage": {
@@ -17,11 +17,11 @@
     "Tamil": 253,
     "Kannada": 156,
     "Malayalam": 58,
-    "South Indian": 1322
+    "South Indian": 1323
   },
   "byYear": {
-    "2025": 421,
     "2026": 351,
+    "2025": 421,
     "2024": 251,
     "2023": 50,
     "2022": 47,
@@ -55,8 +55,8 @@
     "2002": 3,
     "1969": 1,
     "1953": 1,
-    "1942": 1,
     "1996": 1,
+    "1942": 1,
     "2001": 1,
     "1975": 1,
     "1992": 1,
@@ -64,12 +64,12 @@
     "1910": 1
   },
   "byGenre": {},
-  "verifiedSources": 2457,
+  "verifiedSources": 2458,
   "probableSources": 0,
   "unknownSources": 0,
   "brokenSources": 0,
-  "latestUpdate": "2026-11-17T20:57:15.782718+00:00",
-  "catalogGrowth": 2457,
+  "latestUpdate": "2026-11-18T07:24:36.382803+00:00",
+  "catalogGrowth": 2458,
   "languageScope": "South Indian cinema",
   "audioScope": "Hindi dubbed only",
   "sourcePolicy": "Verified channel ID whitelist + channel uploads only"
