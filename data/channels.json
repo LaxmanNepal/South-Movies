@@ -1,5 +1,10 @@
 [
   {
+    "name": "RG Entertainment",
+    "channelId": "UCgfO009hB_847kwL6NQnn-w",
+    "channelUrl": "https://www.youtube.com/channel/UCgfO009hB_847kwL6NQnn-w"
+  },
+  {
     "name": "Goldmines",
     "channelId": "UCyoXW-Dse7fURq30EWl_CUA",
     "channelUrl": "https://www.youtube.com/channel/UCyoXW-Dse7fURq30EWl_CUA"
@@ -40,9 +45,9 @@
     "channelUrl": "https://www.youtube.com/channel/UCuqpqRaJJL51ydh801feZJA"
   },
   {
-    "name": "RG Entertainment",
-    "channelId": "UCgfO009hB_847kwL6NQnn-w",
-    "channelUrl": "https://www.youtube.com/channel/UCgfO009hB_847kwL6NQnn-w"
+    "name": "Wamindia Movies",
+    "channelId": "UCt7_pnSRPKU3bu2GqmgH8gQ",
+    "channelUrl": "https://www.youtube.com/channel/UCt7_pnSRPKU3bu2GqmgH8gQ"
   },
   {
     "name": "Ultra Movie Parlour",
@@ -53,11 +58,6 @@
     "name": "Goldmines Movies",
     "channelId": "UCs570zdFq_NNA5OcV8chnHw",
     "channelUrl": "https://www.youtube.com/channel/UCs570zdFq_NNA5OcV8chnHw"
-  },
-  {
-    "name": "Wamindia Movies",
-    "channelId": "UCt7_pnSRPKU3bu2GqmgH8gQ",
-    "channelUrl": "https://www.youtube.com/channel/UCt7_pnSRPKU3bu2GqmgH8gQ"
   },
   {
     "name": "Goldmines Premiere",
