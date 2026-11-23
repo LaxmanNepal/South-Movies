@@ -21,8 +21,8 @@
       "durationSeconds": 7866
     },
     "statistics": {
-      "views": 404633,
-      "likes": 6627
+      "views": 440124,
+      "likes": 6878
     },
     "publishedAt": "2026-11-20T10:30:29Z",
     "verification": {
@@ -30,43 +30,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 68.5,
-      "recommendationScore": 63.98
-    }
-  },
-  {
-    "id": "7j9SHa2fZpo",
-    "title": "Anbil Avan (2026) New Released Hindi Dubbed Full Movie | Starring Ashok Selvan & Preity Mukhundhan",
-    "slug": "anbil-avan-2026-new-released-hindi-dubbed-full-movie-starring-ashok-selvan-preity-mukhundhan",
-    "youtubeVideoId": "7j9SHa2fZpo",
-    "youtubeUrl": "https://www.youtube.com/watch?v=7j9SHa2fZpo",
-    "thumbnail": "https://i.ytimg.com/vi/7j9SHa2fZpo/maxresdefault.jpg",
-    "language": "South Indian",
-    "audioLanguage": "Hindi",
-    "dubbed": true,
-    "creator": {
-      "name": "RG Entertainment",
-      "channelId": "UCgfO009hB_847kwL6NQnn-w",
-      "channelUrl": "https://www.youtube.com/channel/UCgfO009hB_847kwL6NQnn-w"
-    },
-    "description": "Presenting New South Indian Movies Dubbed In Hindi 2026 Full, Anbil Avan.\n\nDirected by: R. Kaarthikeyan\n\nScreenplay by: Vignesh Raja\nR. Kaarthikeyan\nAshok Selvan\n\nStarring: Ashok Selvan\nPreity Mukhundhan\n\nCinematography: Gowtham Rajendran\n\nMusic by: Govind Vasantha\n-----------------------------------------------------------------------------------------------------------\nStay Connected with Us!\n\nFollow us on Twitter :\nhttps://twitter.com/Royalgoldfilms\n\nFollow us on Instagram :\nhttps://www.instagram.com/royalgoldfilms",
-    "metadata": {
-      "year": 2026,
-      "genre": [],
-      "durationSeconds": 7535
-    },
-    "statistics": {
-      "views": 27995,
-      "likes": 678
-    },
-    "publishedAt": "2026-11-22T10:30:11Z",
-    "verification": {
-      "status": "verified",
-      "method": "official-channel-whitelist"
-    },
-    "algorithm": {
-      "trendingScore": 67.56,
-      "recommendationScore": 59.9
+      "trendingScore": 68.25,
+      "recommendationScore": 63.91
     }
   },
   {
@@ -91,8 +56,8 @@
       "durationSeconds": 6339
     },
     "statistics": {
-      "views": 7125604,
-      "likes": 42554
+      "views": 7297086,
+      "likes": 43379
     },
     "publishedAt": "2026-11-13T06:30:11Z",
     "verification": {
@@ -100,8 +65,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 67.27,
-      "recommendationScore": 66.97
+      "trendingScore": 67.14,
+      "recommendationScore": 66.94
     }
   },
   {
@@ -126,8 +91,8 @@
       "durationSeconds": 5881
     },
     "statistics": {
-      "views": 400824,
-      "likes": 3725
+      "views": 543503,
+      "likes": 4401
     },
     "publishedAt": "2026-11-22T03:30:20Z",
     "verification": {
@@ -135,8 +100,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 67.0,
-      "recommendationScore": 62.41
+      "trendingScore": 67.02,
+      "recommendationScore": 62.8
     }
   },
   {
@@ -161,8 +126,8 @@
       "durationSeconds": 8039
     },
     "statistics": {
-      "views": 4113492,
-      "likes": 21632
+      "views": 4173204,
+      "likes": 21773
     },
     "publishedAt": "2026-11-14T13:30:11Z",
     "verification": {
@@ -170,8 +135,43 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 66.74,
-      "recommendationScore": 65.7
+      "trendingScore": 66.6,
+      "recommendationScore": 65.65
+    }
+  },
+  {
+    "id": "7j9SHa2fZpo",
+    "title": "Anbil Avan (2026) New Released Hindi Dubbed Full Movie | Starring Ashok Selvan & Preity Mukhundhan",
+    "slug": "anbil-avan-2026-new-released-hindi-dubbed-full-movie-starring-ashok-selvan-preity-mukhundhan",
+    "youtubeVideoId": "7j9SHa2fZpo",
+    "youtubeUrl": "https://www.youtube.com/watch?v=7j9SHa2fZpo",
+    "thumbnail": "https://i.ytimg.com/vi/7j9SHa2fZpo/maxresdefault.jpg",
+    "language": "South Indian",
+    "audioLanguage": "Hindi",
+    "dubbed": true,
+    "creator": {
+      "name": "RG Entertainment",
+      "channelId": "UCgfO009hB_847kwL6NQnn-w",
+      "channelUrl": "https://www.youtube.com/channel/UCgfO009hB_847kwL6NQnn-w"
+    },
+    "description": "Presenting New South Indian Movies Dubbed In Hindi 2026 Full, Anbil Avan.\n\nDirected by: R. Kaarthikeyan\n\nScreenplay by: Vignesh Raja\nR. Kaarthikeyan\nAshok Selvan\n\nStarring: Ashok Selvan\nPreity Mukhundhan\n\nCinematography: Gowtham Rajendran\n\nMusic by: Govind Vasantha\n-----------------------------------------------------------------------------------------------------------\nStay Connected with Us!\n\nFollow us on Twitter :\nhttps://twitter.com/Royalgoldfilms\n\nFollow us on Instagram :\nhttps://www.instagram.com/royalgoldfilms",
+    "metadata": {
+      "year": 2026,
+      "genre": [],
+      "durationSeconds": 7535
+    },
+    "statistics": {
+      "views": 48416,
+      "likes": 867
+    },
+    "publishedAt": "2026-11-22T10:30:11Z",
+    "verification": {
+      "status": "verified",
+      "method": "official-channel-whitelist"
+    },
+    "algorithm": {
+      "trendingScore": 66.57,
+      "recommendationScore": 59.61
     }
   },
   {
@@ -196,8 +196,8 @@
       "durationSeconds": 8272
     },
     "statistics": {
-      "views": 9281646,
-      "likes": 90153
+      "views": 9338984,
+      "likes": 90421
     },
     "publishedAt": "2026-11-05T18:30:35Z",
     "verification": {
@@ -205,8 +205,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 66.49,
-      "recommendationScore": 67.41
+      "trendingScore": 66.36,
+      "recommendationScore": 67.34
     }
   },
   {
@@ -231,8 +231,8 @@
       "durationSeconds": 8664
     },
     "statistics": {
-      "views": 10676178,
-      "likes": 94028
+      "views": 10713761,
+      "likes": 94145
     },
     "publishedAt": "2026-11-05T18:30:28Z",
     "verification": {
@@ -240,8 +240,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 66.43,
-      "recommendationScore": 67.51
+      "trendingScore": 66.29,
+      "recommendationScore": 67.44
     }
   },
   {
@@ -266,8 +266,8 @@
       "durationSeconds": 9647
     },
     "statistics": {
-      "views": 1190541,
-      "likes": 3096
+      "views": 1268708,
+      "likes": 3223
     },
     "publishedAt": "2026-11-20T14:30:22Z",
     "verification": {
@@ -275,8 +275,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 66.24,
-      "recommendationScore": 63.09
+      "trendingScore": 66.15,
+      "recommendationScore": 63.15
     }
   },
   {
@@ -301,8 +301,8 @@
       "durationSeconds": 8285
     },
     "statistics": {
-      "views": 1184415,
-      "likes": 3975
+      "views": 1211825,
+      "likes": 4043
     },
     "publishedAt": "2026-11-19T14:30:38Z",
     "verification": {
@@ -310,8 +310,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 66.12,
-      "recommendationScore": 63.11
+      "trendingScore": 65.99,
+      "recommendationScore": 63.08
     }
   },
   {
@@ -336,8 +336,8 @@
       "durationSeconds": 4670
     },
     "statistics": {
-      "views": 265967,
-      "likes": 2215
+      "views": 286808,
+      "likes": 2319
     },
     "publishedAt": "2026-11-20T13:30:24Z",
     "verification": {
@@ -345,8 +345,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 65.82,
-      "recommendationScore": 61.0
+      "trendingScore": 65.69,
+      "recommendationScore": 61.04
     }
   },
   {
@@ -371,8 +371,8 @@
       "durationSeconds": 8123
     },
     "statistics": {
-      "views": 10733244,
-      "likes": 61503
+      "views": 10844520,
+      "likes": 61760
     },
     "publishedAt": "2026-11-06T12:30:32Z",
     "verification": {
@@ -380,113 +380,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 65.81,
-      "recommendationScore": 66.86
-    }
-  },
-  {
-    "id": "tAD0VYWEWZk",
-    "title": "Bheeshma (2026) New Released Hindi Dubbed Movie | #Nithin #RashmikaMandanna  | #Diwali Special",
-    "slug": "bheeshma-2026-new-released-hindi-dubbed-movie-nithin-rashmikamandanna-diwali-special",
-    "youtubeVideoId": "tAD0VYWEWZk",
-    "youtubeUrl": "https://www.youtube.com/watch?v=tAD0VYWEWZk",
-    "thumbnail": "https://i.ytimg.com/vi/tAD0VYWEWZk/maxresdefault.jpg",
-    "language": "South Indian",
-    "audioLanguage": "Hindi",
-    "dubbed": true,
-    "creator": {
-      "name": "Goldmines",
-      "channelId": "UCyoXW-Dse7fURq30EWl_CUA",
-      "channelUrl": "https://www.youtube.com/channel/UCyoXW-Dse7fURq30EWl_CUA"
-    },
-    "description": "Bheeshma, an aimless bachelor, falls in love with Chaitra, a woman working at an organic farming company. When he gets an unexpected opportunity to lead the company, he faces a powerful rival who threatens its future. Can Bheeshma overcome the challenges and win both love and success?\n\nMovie: Bheeshma\nStarcast: Nithin, Rashmika Mandanna, Anant Nag, Jisshu Sengupta, Vennela Kishore, Sampath Raj, Raghu Babu, Hebah Patel\nDirected by: Venky Kudumula\nMusic by: Mahati Swara Sagar\nCreative Producer: Manish Shah\n\n#Nithin #RashmikaMandanna #Bheeshma #Goldmines #SouthMovie\n\n-------------------------------------\n\nFor More Movies\nSubscribe:@https://www.youtube.com/GoldminesTelefilms\n\nFollow Us On\nFacebook:@https://www.facebook.com/OfficialGoldminesTeleFilms\n\nInstagram:\nhttps://www.instagram.com/officialgoldminestelefilms\n\nX:\nhttps://x.com/GTelefilms",
-    "metadata": {
-      "year": 2026,
-      "genre": [],
-      "durationSeconds": 7149
-    },
-    "statistics": {
-      "views": 17880946,
-      "likes": 95489
-    },
-    "publishedAt": "2026-11-04T06:30:08Z",
-    "verification": {
-      "status": "verified",
-      "method": "official-channel-whitelist"
-    },
-    "algorithm": {
-      "trendingScore": 65.76,
-      "recommendationScore": 67.63
-    }
-  },
-  {
-    "id": "uJkWdz5FhHE",
-    "title": "Kaagada (2024) | Adithya, Ankita Jayaram, Neha Patil, Bala Rajwadi | South Action Hindi Dubbed Movie",
-    "slug": "kaagada-2024-adithya-ankita-jayaram-neha-patil-bala-rajwadi-south-action-hindi-dubbed-movie",
-    "youtubeVideoId": "uJkWdz5FhHE",
-    "youtubeUrl": "https://www.youtube.com/watch?v=uJkWdz5FhHE",
-    "thumbnail": "https://i.ytimg.com/vi/uJkWdz5FhHE/maxresdefault.jpg",
-    "language": "Kannada",
-    "audioLanguage": "Hindi",
-    "dubbed": true,
-    "creator": {
-      "name": "RKD Multiplex",
-      "channelId": "UCL0f2RzwTMJc02Lg9DdcgNw",
-      "channelUrl": "https://www.youtube.com/channel/UCL0f2RzwTMJc02Lg9DdcgNw"
-    },
-    "description": "Watch Superhit Kannada South Action Romantic Hindi Dubbed movie \"Kaagada (2024),\" starring Adithya Karegowda, Ankita Jayaram, Neha Patil, Bala Rajwadi, Neenasam Ashwath, Raj Goutham & others. Directed by Ranjith Kumar Gowda.\n\n#kaagadamovie #adithyakaregowda #ankitajayaram #nehapatil #Balarajwadi #kannadacinema #KannadaMovies #HindiDubbedMovies #SouthIndianMovies #actionfantasy #romantic #indiancinema \n\nCredits:\nMovie: Kaagada (2024)\nDirector: Ranjith Kumar Gowda\nProducer: Arun Kumar A\nMusic: S. Pradeep Varma\nStarcast: Adithya Karegowda, Ankita Jayaram, Neha Patil, Bala Rajwadi\n\nSynopsis: Fictional Love story ,where letter plays a prominent role in the story because lack of mobile and technology.And conveys the message that Any Religion on Earth should and must retain the source of humanity and living of human standards.\n\nDisclaimer: We are only the right holders of this content. Any opinions expressed in this Film may purely be of the director or the original producers but are not our personal opinions and we do not assume any responsibility or liability for the same.\n\nJoin Us:\n► YouTube: http://bit.ly/RKDMultiplex\n► Facebook: https://www.facebook.com/RKDStudios\n► Twitter: https://twitter.com/RKDStudios",
-    "metadata": {
-      "year": 2024,
-      "genre": [],
-      "durationSeconds": 8448
-    },
-    "statistics": {
-      "views": 422502,
-      "likes": 4955
-    },
-    "publishedAt": "2026-11-14T11:30:09Z",
-    "verification": {
-      "status": "verified",
-      "method": "official-channel-whitelist"
-    },
-    "algorithm": {
-      "trendingScore": 65.49,
-      "recommendationScore": 61.97
-    }
-  },
-  {
-    "id": "Z7lovP_nb0Q",
-    "title": "C.D: Criminal or Devil | Adah Sharma | Viswant Duddumpudi | Latest South Thriller Hindi Dubbed Movie",
-    "slug": "c-d-criminal-or-devil-adah-sharma-viswant-duddumpudi-latest-south-thriller-hindi-dubbed-movie",
-    "youtubeVideoId": "Z7lovP_nb0Q",
-    "youtubeUrl": "https://www.youtube.com/watch?v=Z7lovP_nb0Q",
-    "thumbnail": "https://i.ytimg.com/vi/Z7lovP_nb0Q/maxresdefault.jpg",
-    "language": "South Indian",
-    "audioLanguage": "Hindi",
-    "dubbed": true,
-    "creator": {
-      "name": "RKD Studios",
-      "channelId": "UCjBwQ6M9QyCgO5Pp-TQRFUA",
-      "channelUrl": "https://www.youtube.com/channel/UCjBwQ6M9QyCgO5Pp-TQRFUA"
-    },
-    "description": "Get ready for a gripping psychological suspense thriller with C.D: CRIMINAL OR DEVIL, starring Adah Sharma, Viswant Duddumpudi, Mahesh Vitta, and Bharani Shankar. What happens when a mysterious girl enters your life, leaving you questioning whether she is a criminal or something far more terrifying? Get ready for a suspense-filled story packed with mystery, fear, shocking revelations, and unexpected twists!\n\nMovie: C.D: Criminal or Devil (2024)\nStar Cast: Adah Sharma, Viswant Duddumpudi, Mahesh Vitta, Bharani Shankar\nMusic: RR Dhruvan\nProducer: Giridhar\nDirector: Krishna Annam\n\n#CDCriminalOrDevil #AdahSharma #HindiDubbedMovie #SouthThriller #SuspenseThriller #PsychologicalThriller #SouthIndianMovie #RKDStudios\n\nSidhu crosses paths with Raksha, a mysterious girl whose unpredictable behaviour leaves him terrified and confused. Sometimes she appears to be a criminal, while at other times she seems like the devil herself. As Sidhu tries to uncover her true identity, a disturbing chain of events unfolds. Who is Raksha really? What is the truth behind her frightening actions?\n\nDisclaimer:- We are only the right holders of this content. Any opinions expressed in this Film may purely be of the director or the original producers but are not our personal opinions and we do not assume any responsibility or liability for the same.\n\nKindly subscribe to the channel and Press the BELL ICON to get Instant Notifications from @rkddigital \n\nSubscribe To Our Channel:- https://www.youtube.com/channel/UCjBwQ6M9QyCgO5Pp-TQRFUA?sub_confirmation=1\n\nFollow Us On:\nFacebook: https://www.facebook.com/RKDStudiosOfficial/\nInstagram: https://www.instagram.com/rkdstudios",
-    "metadata": {
-      "year": 2024,
-      "genre": [],
-      "durationSeconds": 5463
-    },
-    "statistics": {
-      "views": 988849,
-      "likes": 7136
-    },
-    "publishedAt": "2026-11-14T11:30:06Z",
-    "verification": {
-      "status": "verified",
-      "method": "official-channel-whitelist"
-    },
-    "algorithm": {
-      "trendingScore": 65.38,
-      "recommendationScore": 62.84
+      "trendingScore": 65.68,
+      "recommendationScore": 66.8
     }
   },
   {
@@ -511,8 +406,8 @@
       "durationSeconds": 8259
     },
     "statistics": {
-      "views": 160143,
-      "likes": 1182
+      "views": 326257,
+      "likes": 1727
     },
     "publishedAt": "2026-11-22T11:30:07Z",
     "verification": {
@@ -520,8 +415,113 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 65.29,
-      "recommendationScore": 59.78
+      "trendingScore": 65.65,
+      "recommendationScore": 60.93
+    }
+  },
+  {
+    "id": "tAD0VYWEWZk",
+    "title": "Bheeshma (2026) New Released Hindi Dubbed Movie | #Nithin #RashmikaMandanna  | #Diwali Special",
+    "slug": "bheeshma-2026-new-released-hindi-dubbed-movie-nithin-rashmikamandanna-diwali-special",
+    "youtubeVideoId": "tAD0VYWEWZk",
+    "youtubeUrl": "https://www.youtube.com/watch?v=tAD0VYWEWZk",
+    "thumbnail": "https://i.ytimg.com/vi/tAD0VYWEWZk/maxresdefault.jpg",
+    "language": "South Indian",
+    "audioLanguage": "Hindi",
+    "dubbed": true,
+    "creator": {
+      "name": "Goldmines",
+      "channelId": "UCyoXW-Dse7fURq30EWl_CUA",
+      "channelUrl": "https://www.youtube.com/channel/UCyoXW-Dse7fURq30EWl_CUA"
+    },
+    "description": "Bheeshma, an aimless bachelor, falls in love with Chaitra, a woman working at an organic farming company. When he gets an unexpected opportunity to lead the company, he faces a powerful rival who threatens its future. Can Bheeshma overcome the challenges and win both love and success?\n\nMovie: Bheeshma\nStarcast: Nithin, Rashmika Mandanna, Anant Nag, Jisshu Sengupta, Vennela Kishore, Sampath Raj, Raghu Babu, Hebah Patel\nDirected by: Venky Kudumula\nMusic by: Mahati Swara Sagar\nCreative Producer: Manish Shah\n\n#Nithin #RashmikaMandanna #Bheeshma #Goldmines #SouthMovie\n\n-------------------------------------\n\nFor More Movies\nSubscribe:@https://www.youtube.com/GoldminesTelefilms\n\nFollow Us On\nFacebook:@https://www.facebook.com/OfficialGoldminesTeleFilms\n\nInstagram:\nhttps://www.instagram.com/officialgoldminestelefilms\n\nX:\nhttps://x.com/GTelefilms",
+    "metadata": {
+      "year": 2026,
+      "genre": [],
+      "durationSeconds": 7149
+    },
+    "statistics": {
+      "views": 18018444,
+      "likes": 95967
+    },
+    "publishedAt": "2026-11-04T06:30:08Z",
+    "verification": {
+      "status": "verified",
+      "method": "official-channel-whitelist"
+    },
+    "algorithm": {
+      "trendingScore": 65.63,
+      "recommendationScore": 67.58
+    }
+  },
+  {
+    "id": "uJkWdz5FhHE",
+    "title": "Kaagada (2024) | Adithya, Ankita Jayaram, Neha Patil, Bala Rajwadi | South Action Hindi Dubbed Movie",
+    "slug": "kaagada-2024-adithya-ankita-jayaram-neha-patil-bala-rajwadi-south-action-hindi-dubbed-movie",
+    "youtubeVideoId": "uJkWdz5FhHE",
+    "youtubeUrl": "https://www.youtube.com/watch?v=uJkWdz5FhHE",
+    "thumbnail": "https://i.ytimg.com/vi/uJkWdz5FhHE/maxresdefault.jpg",
+    "language": "Kannada",
+    "audioLanguage": "Hindi",
+    "dubbed": true,
+    "creator": {
+      "name": "RKD Multiplex",
+      "channelId": "UCL0f2RzwTMJc02Lg9DdcgNw",
+      "channelUrl": "https://www.youtube.com/channel/UCL0f2RzwTMJc02Lg9DdcgNw"
+    },
+    "description": "Watch Superhit Kannada South Action Romantic Hindi Dubbed movie \"Kaagada (2024),\" starring Adithya Karegowda, Ankita Jayaram, Neha Patil, Bala Rajwadi, Neenasam Ashwath, Raj Goutham & others. Directed by Ranjith Kumar Gowda.\n\n#kaagadamovie #adithyakaregowda #ankitajayaram #nehapatil #Balarajwadi #kannadacinema #KannadaMovies #HindiDubbedMovies #SouthIndianMovies #actionfantasy #romantic #indiancinema \n\nCredits:\nMovie: Kaagada (2024)\nDirector: Ranjith Kumar Gowda\nProducer: Arun Kumar A\nMusic: S. Pradeep Varma\nStarcast: Adithya Karegowda, Ankita Jayaram, Neha Patil, Bala Rajwadi\n\nSynopsis: Fictional Love story ,where letter plays a prominent role in the story because lack of mobile and technology.And conveys the message that Any Religion on Earth should and must retain the source of humanity and living of human standards.\n\nDisclaimer: We are only the right holders of this content. Any opinions expressed in this Film may purely be of the director or the original producers but are not our personal opinions and we do not assume any responsibility or liability for the same.\n\nJoin Us:\n► YouTube: http://bit.ly/RKDMultiplex\n► Facebook: https://www.facebook.com/RKDStudios\n► Twitter: https://twitter.com/RKDStudios",
+    "metadata": {
+      "year": 2024,
+      "genre": [],
+      "durationSeconds": 8448
+    },
+    "statistics": {
+      "views": 429729,
+      "likes": 5030
+    },
+    "publishedAt": "2026-11-14T11:30:09Z",
+    "verification": {
+      "status": "verified",
+      "method": "official-channel-whitelist"
+    },
+    "algorithm": {
+      "trendingScore": 65.36,
+      "recommendationScore": 61.93
+    }
+  },
+  {
+    "id": "Z7lovP_nb0Q",
+    "title": "C.D: Criminal or Devil | Adah Sharma | Viswant Duddumpudi | Latest South Thriller Hindi Dubbed Movie",
+    "slug": "c-d-criminal-or-devil-adah-sharma-viswant-duddumpudi-latest-south-thriller-hindi-dubbed-movie",
+    "youtubeVideoId": "Z7lovP_nb0Q",
+    "youtubeUrl": "https://www.youtube.com/watch?v=Z7lovP_nb0Q",
+    "thumbnail": "https://i.ytimg.com/vi/Z7lovP_nb0Q/maxresdefault.jpg",
+    "language": "South Indian",
+    "audioLanguage": "Hindi",
+    "dubbed": true,
+    "creator": {
+      "name": "RKD Studios",
+      "channelId": "UCjBwQ6M9QyCgO5Pp-TQRFUA",
+      "channelUrl": "https://www.youtube.com/channel/UCjBwQ6M9QyCgO5Pp-TQRFUA"
+    },
+    "description": "Get ready for a gripping psychological suspense thriller with C.D: CRIMINAL OR DEVIL, starring Adah Sharma, Viswant Duddumpudi, Mahesh Vitta, and Bharani Shankar. What happens when a mysterious girl enters your life, leaving you questioning whether she is a criminal or something far more terrifying? Get ready for a suspense-filled story packed with mystery, fear, shocking revelations, and unexpected twists!\n\nMovie: C.D: Criminal or Devil (2024)\nStar Cast: Adah Sharma, Viswant Duddumpudi, Mahesh Vitta, Bharani Shankar\nMusic: RR Dhruvan\nProducer: Giridhar\nDirector: Krishna Annam\n\n#CDCriminalOrDevil #AdahSharma #HindiDubbedMovie #SouthThriller #SuspenseThriller #PsychologicalThriller #SouthIndianMovie #RKDStudios\n\nSidhu crosses paths with Raksha, a mysterious girl whose unpredictable behaviour leaves him terrified and confused. Sometimes she appears to be a criminal, while at other times she seems like the devil herself. As Sidhu tries to uncover her true identity, a disturbing chain of events unfolds. Who is Raksha really? What is the truth behind her frightening actions?\n\nDisclaimer:- We are only the right holders of this content. Any opinions expressed in this Film may purely be of the director or the original producers but are not our personal opinions and we do not assume any responsibility or liability for the same.\n\nKindly subscribe to the channel and Press the BELL ICON to get Instant Notifications from @rkddigital \n\nSubscribe To Our Channel:- https://www.youtube.com/channel/UCjBwQ6M9QyCgO5Pp-TQRFUA?sub_confirmation=1\n\nFollow Us On:\nFacebook: https://www.facebook.com/RKDStudiosOfficial/\nInstagram: https://www.instagram.com/rkdstudios",
+    "metadata": {
+      "year": 2024,
+      "genre": [],
+      "durationSeconds": 5463
+    },
+    "statistics": {
+      "views": 999110,
+      "likes": 7183
+    },
+    "publishedAt": "2026-11-14T11:30:06Z",
+    "verification": {
+      "status": "verified",
+      "method": "official-channel-whitelist"
+    },
+    "algorithm": {
+      "trendingScore": 65.24,
+      "recommendationScore": 62.78
     }
   },
   {
@@ -546,8 +546,8 @@
       "durationSeconds": 8664
     },
     "statistics": {
-      "views": 5048432,
-      "likes": 28635
+      "views": 5081349,
+      "likes": 28717
     },
     "publishedAt": "2026-11-07T13:37:31Z",
     "verification": {
@@ -555,8 +555,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 65.11,
-      "recommendationScore": 65.23
+      "trendingScore": 64.97,
+      "recommendationScore": 65.17
     }
   },
   {
@@ -581,8 +581,8 @@
       "durationSeconds": 7681
     },
     "statistics": {
-      "views": 2442062,
-      "likes": 11890
+      "views": 2453126,
+      "likes": 11922
     },
     "publishedAt": "2026-11-11T14:30:14Z",
     "verification": {
@@ -590,8 +590,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 65.09,
-      "recommendationScore": 63.93
+      "trendingScore": 64.95,
+      "recommendationScore": 63.86
     }
   },
   {
@@ -616,8 +616,8 @@
       "durationSeconds": 7228
     },
     "statistics": {
-      "views": 742353,
-      "likes": 4138
+      "views": 748399,
+      "likes": 4163
     },
     "publishedAt": "2026-11-15T11:30:09Z",
     "verification": {
@@ -625,78 +625,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 64.86,
-      "recommendationScore": 61.91
-    }
-  },
-  {
-    "id": "e-fdKDV9jPI",
-    "title": "Lucky Man (2023) | Yogi Babu, Veera, Raichal Rabecca | Latest South Comedy Drama Hindi Dubbed Movie",
-    "slug": "lucky-man-2023-yogi-babu-veera-raichal-rabecca-latest-south-comedy-drama-hindi-dubbed-movie",
-    "youtubeVideoId": "e-fdKDV9jPI",
-    "youtubeUrl": "https://www.youtube.com/watch?v=e-fdKDV9jPI",
-    "thumbnail": "https://i.ytimg.com/vi/e-fdKDV9jPI/maxresdefault.jpg",
-    "language": "Tamil",
-    "audioLanguage": "Hindi",
-    "dubbed": true,
-    "creator": {
-      "name": "RKD Multiplex",
-      "channelId": "UCL0f2RzwTMJc02Lg9DdcgNw",
-      "channelUrl": "https://www.youtube.com/channel/UCL0f2RzwTMJc02Lg9DdcgNw"
-    },
-    "description": "Watch Superhit Tamil Comedy Drama Hindi Dubbed Movie \"Lucky Man (2023),\" starring Yogi Babu, Veera Bahu, Raichal Rabecca Philip, Abdool Lee, Suhasini Kumaran, Amit Bhargav, R. S. Shivaji, Jayakumar, Pa. Ramanan, V. Ravi Chandravel, Rajesh N, K. Pazhanivel, Arandhai Rajagopal, Sathvick, Sugunathan, J. Yuvaraj. Directed by Balaji Venugopal.\n\n#luckyman #luckymanmovie  #yogibabu #raichalrabecca  #amitbhargav #southmovie #hindidubbed #actionmovies #TamilMovie #tamilcinema  #SouthIndianMovie #comedymovie  #familydrama  #indiancinema \n\nCredits:\nMovie: Lucky Man (2023)\nDirector: Balaji Venugopal\nProducers: T. Kishore, Venkataswaroop Siddavarapu Reddy, Shilpa Gaddam Reddy\nMusic: Sean Roldan\nStarcast: Yogi Babu, Veera Bahu, Raichal Rabecca Philip, Abdool Lee, Suhasini Kumaran, Amit Bhargav, R. S. Shivaji, Jayakumar, Pa. Ramanan, V. Ravi Chandravel, Rajesh N, K. Pazhanivel, Arandhai Rajagopal, Sathvick, Sugunathan, J. Yuvaraj\n\nSynopsis: Murugan believes that bad luck has followed him throughout his life. His fortunes appear to change when he wins a car in a contest. However, when unexpected trouble strikes and his precious car goes missing, Murugan finds himself caught in a series of comic and emotional situations. Can Murugan overcome his problems and discover what it really means to be lucky?\n\nDisclaimer: We are only the right holders of this content. Any opinions expressed in this Film may purely be of the director or the original producers but are not our personal opinions and we do not assume any responsibility or liability for the same.\n\nJoin Us:\n► YouTube: http://bit.ly/RKDMultiplex\n► Facebook: https://www.facebook.com/RKDStudios\n► Twitter: https://twitter.com/RKDStudios",
-    "metadata": {
-      "year": 2023,
-      "genre": [],
-      "durationSeconds": 7228
-    },
-    "statistics": {
-      "views": 1526543,
-      "likes": 12930
-    },
-    "publishedAt": "2026-11-09T11:40:05Z",
-    "verification": {
-      "status": "verified",
-      "method": "official-channel-whitelist"
-    },
-    "algorithm": {
-      "trendingScore": 64.84,
-      "recommendationScore": 63.41
-    }
-  },
-  {
-    "id": "qlbezNqqNfE",
-    "title": "BANARAS - Hindi Dubbed Full Movie | Zaid Khan, Sonal Monteiro | South Romantic Love Story Movie",
-    "slug": "banaras-hindi-dubbed-full-movie-zaid-khan-sonal-monteiro-south-romantic-love-story-movie",
-    "youtubeVideoId": "qlbezNqqNfE",
-    "youtubeUrl": "https://www.youtube.com/watch?v=qlbezNqqNfE",
-    "thumbnail": "https://i.ytimg.com/vi/qlbezNqqNfE/maxresdefault.jpg",
-    "language": "South Indian",
-    "audioLanguage": "Hindi",
-    "dubbed": true,
-    "creator": {
-      "name": "AD-WISE MEDIA ACTION MOVIEPLEX",
-      "channelId": "UCSx_w4q5PkAOg9i45uMFHmA",
-      "channelUrl": "https://www.youtube.com/channel/UCSx_w4q5PkAOg9i45uMFHmA"
-    },
-    "description": "Presenting Superhit Hindi Dubbed Full Movie \"BANARAS\". Exclusively on @ADMDMOVIES    \n\nSubscribe सब्सक्राइब Us For More South Indian Blockbusters in Hindi for FREE - http://bit.ly/ADMDMovies\n\nMovie Credits:\nDirected by Jayatheertha\nWritten by Jayatheertha\nProduced by Tilakraj Ballal, Muzammil Ahmed Khan\nStarring Zaid Khan, Sonal Monteiro, Sujay Shastry, Devaraj, Achyuth Kumar, Arun Sagar, Barkath Ali, Bhargav Polara, Debobrato Mukherjee, Takur R. Baragi & Sapna Raj\nCinematography by Advaitha Gurumurthy\nEdited by K. M. Prakash\nMusic by B. Ajaneesh Loknath\n\nSynopsis:\nAn astronaut from an indefinite future fall in love with a girl in present time each other. When his i love is threatened by an existential element, responsibility falls on him to save her, using his future knowledge as an edge ahead.\n\nJoin Us\n► Subscribe our channel: http://bit.ly/ADMDMovies\n► Visit our website: https://www.admdmovies.com\n► Like us on Facebook: https://www.facebook.com/adwisemediadigital\n► Follow us on Twitter: https://www.twitter.com/AdwiseMediaD\n\n#Banaras #SouthIndianMovie #HindiDubbedMovies #hindimovie",
-    "metadata": {
-      "year": null,
-      "genre": [],
-      "durationSeconds": 8176
-    },
-    "statistics": {
-      "views": 235137,
-      "likes": 2025
-    },
-    "publishedAt": "2026-11-17T14:30:02Z",
-    "verification": {
-      "status": "verified",
-      "method": "official-channel-whitelist"
-    },
-    "algorithm": {
-      "trendingScore": 64.82,
-      "recommendationScore": 60.31
+      "trendingScore": 64.72,
+      "recommendationScore": 61.85
     }
   },
   {
@@ -721,8 +651,8 @@
       "durationSeconds": 6832
     },
     "statistics": {
-      "views": 2449470,
-      "likes": 12208
+      "views": 2508816,
+      "likes": 12345
     },
     "publishedAt": "2026-11-10T13:30:05Z",
     "verification": {
@@ -730,8 +660,78 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 64.82,
-      "recommendationScore": 63.81
+      "trendingScore": 64.7,
+      "recommendationScore": 63.77
+    }
+  },
+  {
+    "id": "e-fdKDV9jPI",
+    "title": "Lucky Man (2023) | Yogi Babu, Veera, Raichal Rabecca | Latest South Comedy Drama Hindi Dubbed Movie",
+    "slug": "lucky-man-2023-yogi-babu-veera-raichal-rabecca-latest-south-comedy-drama-hindi-dubbed-movie",
+    "youtubeVideoId": "e-fdKDV9jPI",
+    "youtubeUrl": "https://www.youtube.com/watch?v=e-fdKDV9jPI",
+    "thumbnail": "https://i.ytimg.com/vi/e-fdKDV9jPI/maxresdefault.jpg",
+    "language": "Tamil",
+    "audioLanguage": "Hindi",
+    "dubbed": true,
+    "creator": {
+      "name": "RKD Multiplex",
+      "channelId": "UCL0f2RzwTMJc02Lg9DdcgNw",
+      "channelUrl": "https://www.youtube.com/channel/UCL0f2RzwTMJc02Lg9DdcgNw"
+    },
+    "description": "Watch Superhit Tamil Comedy Drama Hindi Dubbed Movie \"Lucky Man (2023),\" starring Yogi Babu, Veera Bahu, Raichal Rabecca Philip, Abdool Lee, Suhasini Kumaran, Amit Bhargav, R. S. Shivaji, Jayakumar, Pa. Ramanan, V. Ravi Chandravel, Rajesh N, K. Pazhanivel, Arandhai Rajagopal, Sathvick, Sugunathan, J. Yuvaraj. Directed by Balaji Venugopal.\n\n#luckyman #luckymanmovie  #yogibabu #raichalrabecca  #amitbhargav #southmovie #hindidubbed #actionmovies #TamilMovie #tamilcinema  #SouthIndianMovie #comedymovie  #familydrama  #indiancinema \n\nCredits:\nMovie: Lucky Man (2023)\nDirector: Balaji Venugopal\nProducers: T. Kishore, Venkataswaroop Siddavarapu Reddy, Shilpa Gaddam Reddy\nMusic: Sean Roldan\nStarcast: Yogi Babu, Veera Bahu, Raichal Rabecca Philip, Abdool Lee, Suhasini Kumaran, Amit Bhargav, R. S. Shivaji, Jayakumar, Pa. Ramanan, V. Ravi Chandravel, Rajesh N, K. Pazhanivel, Arandhai Rajagopal, Sathvick, Sugunathan, J. Yuvaraj\n\nSynopsis: Murugan believes that bad luck has followed him throughout his life. His fortunes appear to change when he wins a car in a contest. However, when unexpected trouble strikes and his precious car goes missing, Murugan finds himself caught in a series of comic and emotional situations. Can Murugan overcome his problems and discover what it really means to be lucky?\n\nDisclaimer: We are only the right holders of this content. Any opinions expressed in this Film may purely be of the director or the original producers but are not our personal opinions and we do not assume any responsibility or liability for the same.\n\nJoin Us:\n► YouTube: http://bit.ly/RKDMultiplex\n► Facebook: https://www.facebook.com/RKDStudios\n► Twitter: https://twitter.com/RKDStudios",
+    "metadata": {
+      "year": 2023,
+      "genre": [],
+      "durationSeconds": 7228
+    },
+    "statistics": {
+      "views": 1537430,
+      "likes": 12961
+    },
+    "publishedAt": "2026-11-09T11:40:05Z",
+    "verification": {
+      "status": "verified",
+      "method": "official-channel-whitelist"
+    },
+    "algorithm": {
+      "trendingScore": 64.7,
+      "recommendationScore": 63.34
+    }
+  },
+  {
+    "id": "qlbezNqqNfE",
+    "title": "BANARAS - Hindi Dubbed Full Movie | Zaid Khan, Sonal Monteiro | South Romantic Love Story Movie",
+    "slug": "banaras-hindi-dubbed-full-movie-zaid-khan-sonal-monteiro-south-romantic-love-story-movie",
+    "youtubeVideoId": "qlbezNqqNfE",
+    "youtubeUrl": "https://www.youtube.com/watch?v=qlbezNqqNfE",
+    "thumbnail": "https://i.ytimg.com/vi/qlbezNqqNfE/maxresdefault.jpg",
+    "language": "South Indian",
+    "audioLanguage": "Hindi",
+    "dubbed": true,
+    "creator": {
+      "name": "AD-WISE MEDIA ACTION MOVIEPLEX",
+      "channelId": "UCSx_w4q5PkAOg9i45uMFHmA",
+      "channelUrl": "https://www.youtube.com/channel/UCSx_w4q5PkAOg9i45uMFHmA"
+    },
+    "description": "Presenting Superhit Hindi Dubbed Full Movie \"BANARAS\". Exclusively on @ADMDMOVIES    \n\nSubscribe सब्सक्राइब Us For More South Indian Blockbusters in Hindi for FREE - http://bit.ly/ADMDMovies\n\nMovie Credits:\nDirected by Jayatheertha\nWritten by Jayatheertha\nProduced by Tilakraj Ballal, Muzammil Ahmed Khan\nStarring Zaid Khan, Sonal Monteiro, Sujay Shastry, Devaraj, Achyuth Kumar, Arun Sagar, Barkath Ali, Bhargav Polara, Debobrato Mukherjee, Takur R. Baragi & Sapna Raj\nCinematography by Advaitha Gurumurthy\nEdited by K. M. Prakash\nMusic by B. Ajaneesh Loknath\n\nSynopsis:\nAn astronaut from an indefinite future fall in love with a girl in present time each other. When his i love is threatened by an existential element, responsibility falls on him to save her, using his future knowledge as an edge ahead.\n\nJoin Us\n► Subscribe our channel: http://bit.ly/ADMDMovies\n► Visit our website: https://www.admdmovies.com\n► Like us on Facebook: https://www.facebook.com/adwisemediadigital\n► Follow us on Twitter: https://www.twitter.com/AdwiseMediaD\n\n#Banaras #SouthIndianMovie #HindiDubbedMovies #hindimovie",
+    "metadata": {
+      "year": null,
+      "genre": [],
+      "durationSeconds": 8176
+    },
+    "statistics": {
+      "views": 239085,
+      "likes": 2042
+    },
+    "publishedAt": "2026-11-17T14:30:02Z",
+    "verification": {
+      "status": "verified",
+      "method": "official-channel-whitelist"
+    },
+    "algorithm": {
+      "trendingScore": 64.68,
+      "recommendationScore": 60.25
     }
   },
   {
@@ -756,8 +756,8 @@
       "durationSeconds": 6998
     },
     "statistics": {
-      "views": 531195,
-      "likes": 2814
+      "views": 539505,
+      "likes": 2848
     },
     "publishedAt": "2026-11-16T14:30:04Z",
     "verification": {
@@ -765,8 +765,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 64.69,
-      "recommendationScore": 61.23
+      "trendingScore": 64.55,
+      "recommendationScore": 61.18
     }
   },
   {
@@ -791,8 +791,8 @@
       "durationSeconds": 7587
     },
     "statistics": {
-      "views": 1293622,
-      "likes": 4606
+      "views": 1318916,
+      "likes": 4640
     },
     "publishedAt": "2026-11-14T05:30:07Z",
     "verification": {
@@ -800,8 +800,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 64.67,
-      "recommendationScore": 62.51
+      "trendingScore": 64.54,
+      "recommendationScore": 62.47
     }
   },
   {
@@ -826,8 +826,8 @@
       "durationSeconds": 6897
     },
     "statistics": {
-      "views": 527257,
-      "likes": 3528
+      "views": 531411,
+      "likes": 3535
     },
     "publishedAt": "2026-11-15T06:30:10Z",
     "verification": {
@@ -835,8 +835,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 64.66,
-      "recommendationScore": 61.35
+      "trendingScore": 64.51,
+      "recommendationScore": 61.28
     }
   },
   {
@@ -861,8 +861,8 @@
       "durationSeconds": 8302
     },
     "statistics": {
-      "views": 963728,
-      "likes": 5122
+      "views": 967480,
+      "likes": 5134
     },
     "publishedAt": "2026-11-13T11:30:13Z",
     "verification": {
@@ -870,43 +870,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 64.54,
-      "recommendationScore": 62.14
-    }
-  },
-  {
-    "id": "5YMguVdHfVc",
-    "title": "Yaman | Vijay Antony, Miya George, Shilpa Manjunath | South Action Thriller Hindi Dubbed Movie",
-    "slug": "yaman-vijay-antony-miya-george-shilpa-manjunath-south-action-thriller-hindi-dubbed-movie",
-    "youtubeVideoId": "5YMguVdHfVc",
-    "youtubeUrl": "https://www.youtube.com/watch?v=5YMguVdHfVc",
-    "thumbnail": "https://i.ytimg.com/vi/5YMguVdHfVc/maxresdefault.jpg",
-    "language": "South Indian",
-    "audioLanguage": "Hindi",
-    "dubbed": true,
-    "creator": {
-      "name": "RKD Multiplex",
-      "channelId": "UCL0f2RzwTMJc02Lg9DdcgNw",
-      "channelUrl": "https://www.youtube.com/channel/UCL0f2RzwTMJc02Lg9DdcgNw"
-    },
-    "description": "Enjoy Superhit South Action Political Thriller Hindi Dubbed movie \"Yaman (2017),\" starring Vijay Antony, Miya George, Shilpa Manjunath, Thiagarajan, G. Marimuthu, Jayakumar, Aroul D. Shankar, Vettai Muthukumar, Charle, Swaminathan, Sangili Murugan, Arjai, Sreeja Ravi, D. R. K. Kiran, Gajaraj, Ashok Pandian & Others. Directed by Jeeva Shankar.\n\n#yaman #vijayantony #miyageorge #hindidubbedmovie #southaction #latestsouthmovie #southfilm #HindiDubbed #HindiDubbedMovie #HindiActionMovie#ActionThriller#PoliticalThriller#southindiancinema  \n\nMovie: Yaman (2017)\nDirector: Jeeva Shankar\nProduction: Vijay Antony Film Corporation\nMusic: Vijay Antony\nStarcast: Vijay Antony, Miya George, Shilpa Manjunath, Thiagarajan, G. Marimuthu, Jayakumar\n\nDisclaimer: We are only the right holders of this content. Any opinions expressed in this Film may purely be of the director or the original producers but are not our personal opinions and we do not assume any responsibility or liability for the same.\n\nJoin Us:\n► YouTube: http://bit.ly/RKDMultiplex\n► Facebook: https://www.facebook.com/RKDStudios\n► Twitter: https://twitter.com/RKDStudios",
-    "metadata": {
-      "year": 2017,
-      "genre": [],
-      "durationSeconds": 7807
-    },
-    "statistics": {
-      "views": 3677384,
-      "likes": 19470
-    },
-    "publishedAt": "2026-11-06T15:05:15Z",
-    "verification": {
-      "status": "verified",
-      "method": "official-channel-whitelist"
-    },
-    "algorithm": {
-      "trendingScore": 64.33,
-      "recommendationScore": 64.25
+      "trendingScore": 64.4,
+      "recommendationScore": 62.08
     }
   },
   {
@@ -931,8 +896,8 @@
       "durationSeconds": 8751
     },
     "statistics": {
-      "views": 34921,
-      "likes": 383
+      "views": 59525,
+      "likes": 483
     },
     "publishedAt": "2026-11-22T13:30:32Z",
     "verification": {
@@ -940,8 +905,43 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 64.28,
-      "recommendationScore": 57.11
+      "trendingScore": 64.2,
+      "recommendationScore": 57.65
+    }
+  },
+  {
+    "id": "5YMguVdHfVc",
+    "title": "Yaman | Vijay Antony, Miya George, Shilpa Manjunath | South Action Thriller Hindi Dubbed Movie",
+    "slug": "yaman-vijay-antony-miya-george-shilpa-manjunath-south-action-thriller-hindi-dubbed-movie",
+    "youtubeVideoId": "5YMguVdHfVc",
+    "youtubeUrl": "https://www.youtube.com/watch?v=5YMguVdHfVc",
+    "thumbnail": "https://i.ytimg.com/vi/5YMguVdHfVc/maxresdefault.jpg",
+    "language": "South Indian",
+    "audioLanguage": "Hindi",
+    "dubbed": true,
+    "creator": {
+      "name": "RKD Multiplex",
+      "channelId": "UCL0f2RzwTMJc02Lg9DdcgNw",
+      "channelUrl": "https://www.youtube.com/channel/UCL0f2RzwTMJc02Lg9DdcgNw"
+    },
+    "description": "Enjoy Superhit South Action Political Thriller Hindi Dubbed movie \"Yaman (2017),\" starring Vijay Antony, Miya George, Shilpa Manjunath, Thiagarajan, G. Marimuthu, Jayakumar, Aroul D. Shankar, Vettai Muthukumar, Charle, Swaminathan, Sangili Murugan, Arjai, Sreeja Ravi, D. R. K. Kiran, Gajaraj, Ashok Pandian & Others. Directed by Jeeva Shankar.\n\n#yaman #vijayantony #miyageorge #hindidubbedmovie #southaction #latestsouthmovie #southfilm #HindiDubbed #HindiDubbedMovie #HindiActionMovie#ActionThriller#PoliticalThriller#southindiancinema  \n\nMovie: Yaman (2017)\nDirector: Jeeva Shankar\nProduction: Vijay Antony Film Corporation\nMusic: Vijay Antony\nStarcast: Vijay Antony, Miya George, Shilpa Manjunath, Thiagarajan, G. Marimuthu, Jayakumar\n\nDisclaimer: We are only the right holders of this content. Any opinions expressed in this Film may purely be of the director or the original producers but are not our personal opinions and we do not assume any responsibility or liability for the same.\n\nJoin Us:\n► YouTube: http://bit.ly/RKDMultiplex\n► Facebook: https://www.facebook.com/RKDStudios\n► Twitter: https://twitter.com/RKDStudios",
+    "metadata": {
+      "year": 2017,
+      "genre": [],
+      "durationSeconds": 7807
+    },
+    "statistics": {
+      "views": 3706250,
+      "likes": 19538
+    },
+    "publishedAt": "2026-11-06T15:05:15Z",
+    "verification": {
+      "status": "verified",
+      "method": "official-channel-whitelist"
+    },
+    "algorithm": {
+      "trendingScore": 64.2,
+      "recommendationScore": 64.19
     }
   },
   {
@@ -966,8 +966,8 @@
       "durationSeconds": 9015
     },
     "statistics": {
-      "views": 1604071,
-      "likes": 6101
+      "views": 1608114,
+      "likes": 6113
     },
     "publishedAt": "2026-11-11T11:30:19Z",
     "verification": {
@@ -975,8 +975,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 64.22,
-      "recommendationScore": 62.66
+      "trendingScore": 64.08,
+      "recommendationScore": 62.59
     }
   },
   {
@@ -1001,8 +1001,8 @@
       "durationSeconds": 8205
     },
     "statistics": {
-      "views": 779895,
-      "likes": 2739
+      "views": 786242,
+      "likes": 2750
     },
     "publishedAt": "2026-11-14T06:30:30Z",
     "verification": {
@@ -1010,8 +1010,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 64.01,
-      "recommendationScore": 61.32
+      "trendingScore": 63.87,
+      "recommendationScore": 61.26
     }
   },
   {
@@ -1036,8 +1036,8 @@
       "durationSeconds": 8272
     },
     "statistics": {
-      "views": 1944819,
-      "likes": 14080
+      "views": 1952936,
+      "likes": 14115
     },
     "publishedAt": "2026-11-06T07:52:10Z",
     "verification": {
@@ -1045,8 +1045,8 @@
       "method": "official-channel-whitelist"
     },
     "algorithm": {
-      "trendingScore": 63.94,
-      "recommendationScore": 63.2
+      "trendingScore": 63.81,
+      "recommendationScore": 63.14
     }
   }
 ]
