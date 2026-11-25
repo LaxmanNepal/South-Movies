@@ -6,10 +6,10 @@
   "videosScanned": 8906,
   "rejections": {
     "not_public_or_embeddable": 303,
-    "bad_content": 2477,
-    "too_short": 2296,
-    "not_hindi_dubbed": 732,
-    "not_movie": 495,
+    "bad_content": 2474,
+    "too_short": 2298,
+    "not_hindi_dubbed": 734,
+    "not_movie": 494,
     "unknown": 0
   },
   "byLanguage": {
@@ -20,8 +20,8 @@
     "South Indian": 1309
   },
   "byYear": {
-    "2026": 348,
     "2024": 251,
+    "2026": 348,
     "2015": 25,
     "2025": 423,
     "2023": 50,
@@ -49,8 +49,8 @@
     "2007": 4,
     "1970": 1,
     "1982": 3,
-    "2000": 1,
     "1989": 1,
+    "2000": 1,
     "2002": 3,
     "1988": 4,
     "1969": 1,
@@ -68,7 +68,7 @@
   "probableSources": 0,
   "unknownSources": 0,
   "brokenSources": 0,
-  "latestUpdate": "2026-11-24T22:25:42.202368+00:00",
+  "latestUpdate": "2026-11-25T08:30:22.257553+00:00",
   "catalogGrowth": 2449,
   "languageScope": "South Indian cinema",
   "audioScope": "Hindi dubbed only",
